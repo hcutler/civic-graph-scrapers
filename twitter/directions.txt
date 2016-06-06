@@ -1,0 +1,28 @@
+'ve attached two different text files. One searches tweets (currently set up to search hashtags) (can go back about 30 days), while the other one streams tweets in real time (also currently set up to search hashtags) (you can't get past tweets, but you do get more tweets than you would when using the search method; as an example the search method only scrapes 1% of all Twitter data at once, while the stream method gives you everything). In addition, the search tweet script also writes the files to an SQL database, while the stream tweet script writes them to a CSV. However, I can modify the stream script to write to an SQL file, I just have not gotten the chance yet. The search tweet script was modified by me, while the streaming script was modified by Oliver and shared at the iConference session. For now, let's focus on getting you set up so you can run my modified script. Then we can use the other script to help us create a streaming version of my modified script (since it has more functionality). 
+
+Maybe for next time if everyone downloads and creates these accounts, I can help with any issues you might have setting them up. 
+
+What you will need to run my modified script (search-tweets):
+
+1. A text editor, such as Notepad ++ for Windows or TextWrangler for Mac. You will use these to open the text files I sent you, modify the code, and re-save as a Python (.py) file. 
+2. Python. Here's a link to download Anaconda, which is Python 2.7: http://continuum.io/downloads
+3. You'll need to create a Twitter account and then visit the Developer page and create an app. You need to fill in the required fields. Here's the link (click on My Applications to create): https://dev.twitter.com/
+After this, you'll be given an API key, API secret, Access Token Key, and Access Token Secret. To create, go to the App Keys page, click "Create my access token," and you'll get these keys. 
+4. Necessary python libraries, which are included in the following links:
+https://pypi.python.org/pypi/simplejson
+http://sqlite.org/
+http://www.sqlalchemy.org/
+https://twython.readthedocs.org/en/latest/index.html
+To install these libraries, you'll need to go to Terminal on Mac (in the Utilities folder) or the CMD file on Windows (in the Start menu, type CMD). Once you're there, type the following, not including the quotes "sudo pip install" and then the name of each library (e.g., "sudo pip install twython"). You'll be prompted for a password if you require password access to your computer; it will be this password that you enter ("sudo" indicates that you are the administrator of the computer). 
+5. Download the SQL Lite database browser. This is where our data will be stored. In the last step, we installed the Python library that will enter the data into the database, but now we need to be able to create the database and view it: http://sqlitebrowser.sourceforge.net/
+Once you've downloaded the files, run the .exe or .dmg file (depending on whether you are using a Windows or Mac computer, respectively) and open SQL Lite. Create a new database with the extension ".sqlite". Remember this name as we will use it in the Python code. Also create a table in your database. This can be named whatever you want.
+6. Modify the python code. Open up the txt file in your text editor and change the following lines:
+Line 32, enter your search term
+Lines 35-8, enter your Twitter App Key info
+Line 141, specify your search method. You can search "popular," "recent," or "mixed" (a combination of both) tweets.
+Line 339, enter the name of your database. Include an absolute path to the database unless your Python file is saved in the same location as your database, which in this case you can just include the database name.
+Save the file with a .py extension when done.
+7. Run the python file in CMD (Windows) or Terminal (Mac). To do so, first determine where the Python file is located in relation to your Home directory. What I've found is easiest is to save my Python file in a folder on my Desktop (for this example let's call that folder "Code", then type (within the quotes) "cd Desktop" then "cd Code". This will tell the Terminal to navigate from your Home directory first to the Desktop, then into your Code folder. Then, once you're in the folder containing your Python code, type the following (within the quotes) "python stream-tweets.py". This will run your script. The Terminal or CMD window will let you know your progress (and if there are duplicates, which the script will automatically skip over). Once the script is done running, open up your SQL Lite database to see what you've collected, then do it again.
+
+Robyn, with this last point, I'd love to know how to loop the script so it continually runs. I'm sure I can just install a library like chronjob and add it to the script, so can pursue that idea unless you know offhand what to do.
+
