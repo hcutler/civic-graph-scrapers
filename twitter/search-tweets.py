@@ -64,7 +64,7 @@ Base = declarative_base()
 
 def get_data(kid, max_id=None):
     try:
-        d = t.search(q=kid, count = '200', result_type = 'recent', lang = 'en', max_id = max_id) #result types may be mixed, recent, or popular
+        d = t.search(q=kid, count = '300', result_type = 'recent', lang = 'en', max_id = max_id) #result types may be mixed, recent, or popular
         #to limit search to tweets sent until a certain date add 'until='YYYY-MM-DD'
 
     except Exception, e:
@@ -87,7 +87,7 @@ def write_data(self, d):
 
         content = entry['text']
         #content = content.replace('\n','')
-        # from_user_screen_name = entry['user']['screen_name']
+        from_user_screen_name = entry['user']['screen_name']
         # from_user_id = entry['user']['id']
         # from_user_description = entry['user']['description']
         # from_user_location = entry['user']['location']
@@ -102,7 +102,7 @@ def write_data(self, d):
         self.session.commit()
 
 
-
+username_list = []
 class Scrape:
     def __init__(self):
         engine = sqlalchemy.create_engine("sqlite:///db-test", echo=False)  #ENTER NAME OF YOUR DATABASE WHERE DIRECTED
@@ -111,6 +111,7 @@ class Scrape:
         Base.metadata.create_all(engine)
 
     def main(self):
+        i = 0
         for n, kid in enumerate(ids):
             #print "\rprocessing id %s/%s" % (n+1, len(ids)),
             sys.stdout.flush()
@@ -120,15 +121,20 @@ class Scrape:
             if not d:
                 continue
 
-            for x in d['statuses']:
-                #print x['text']
-                print str(u''.join((x['text'])).encode('utf-8').strip())
-
+        username_list = []
+        for x in d['statuses']:
+            print x['user']['screen_name'],':', str(u''.join((x['text'])).encode('utf-8').strip())
+            if x['user']['screen_name'] not in username_list:
+                username_list.append(x['user']['screen_name'])
+            i += 1
             self.session.commit()
 
 
         self.session.close()
 
+        print '\n', 'number of tweets: ', str(i) , '\n'
+
+        print username_list
 
 
 if __name__ == "__main__":
