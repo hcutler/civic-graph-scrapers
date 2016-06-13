@@ -122,7 +122,7 @@ class Scrape:
 
             for x in d['statuses']:
                 #print x['text']
-                print str(u' '.join((x['text'])).encode('utf-8').strip())
+                print str(u''.join((x['text'])).encode('utf-8').strip())
 
             self.session.commit()
 
