@@ -39,23 +39,23 @@ Base = declarative_base()
 
 class Messages(Base):
     __tablename__ = 'hashtags'
-    
-    id = Column(Integer, primary_key=True)  
+
+    id = Column(Integer, primary_key=True)
     query = Column(String)
-    tweet_id = Column(String) 
+    tweet_id = Column(String)
 
     content = Column(Text)
     from_user_screen_name = Column(String)
-    from_user_id = Column(String)   
+    from_user_id = Column(String)
 
 
-    def __init__(self, query, tweet_id, content, from_user_screen_name, from_user_id): 
+    def __init__(self, query, tweet_id, content, from_user_screen_name, from_user_id):
 
         self.query = query
         self.tweet_id = tweet_id
         self.content = content
         self.from_user_screen_name = from_user_screen_name
-        self.from_user_id = from_user_id       
+        self.from_user_id = from_user_id
 
 
     def __repr__(self):
@@ -65,19 +65,19 @@ def get_data(kid, max_id=None):
     try:
         # d = t.search(q=kid, count = '200', result_type = 'mixed', lang = 'en', max_id = max_id) #RESULT TYPE CAN BE MIXED, RECENT, OR POPULAR
         d = t.search(q=kid, count = '200', result_type = 'recent', lang = 'en', max_id = max_id) #RESULT TYPE CAN BE MIXED, RECENT, OR POPULAR
-        
+
     except Exception, e:
         print "Error reading id %s, exception: %s" % (kid, e)
         return None
-    print "d.keys(): ", d.keys()   
+    print "d.keys(): ", d.keys()
     print "######## # OF STATUSES IN THIS GRAB: ", len(d['statuses'])
     #print "max_id VALUE USED FOR THIS GRAB-->", max_id
     return d
-    
-def write_data(self, d):   
+
+def write_data(self, d):
 
     query = d['search_metadata']['query']
-    
+
     number_on_page = len(d['statuses'])
     ids = []
     for entry in d['statuses']:
@@ -85,32 +85,32 @@ def write_data(self, d):
         tweet_id = entry['id']
 
         content = entry['text']
-        content = content.replace('\n','')      
+        content = content.replace('\n','')
         from_user_screen_name = entry['user']['screen_name']
-        from_user_id = entry['user']['id'] 
-        from_user_description = entry['user']['description'] 
-        from_user_location = entry['user']['location'] 
-  
+        from_user_id = entry['user']['id']
+        from_user_description = entry['user']['description']
+        from_user_location = entry['user']['location']
 
-        source = entry['source']          
-      
-        print "urls...?....", 
-        print "user_mentions...?....", 
-        print "hashtags...?....", 
-        
-      
+
+        source = entry['source']
+
+        print "urls...?....",
+        print "user_mentions...?....",
+        print "hashtags...?....",
+
+
         updates = self.session.query(Messages).filter_by(query=query, from_user_screen_name=from_user_screen_name,
-                content=content).all() 
-        
+                content=content).all()
+
         self.session.commit()
-        
-      
+
+
 
 class Scrape:
-    def __init__(self):    
+    def __init__(self):
         engine = sqlalchemy.create_engine("sqlite:///db-test", echo=False)  #ENTER NAME OF YOUR DATABASE WHERE DIRECTED
         Session = sessionmaker(bind=engine)
-        self.session = Session()  
+        self.session = Session()
         Base.metadata.create_all(engine)
 
     def main(self):
@@ -121,7 +121,7 @@ class Scrape:
 
             d = get_data(kid)
             if not d:
-                continue	 
+                continue
 
             print d['statuses'][0]
 
@@ -135,4 +135,3 @@ class Scrape:
 if __name__ == "__main__":
     s = Scrape()
     s.main()
-

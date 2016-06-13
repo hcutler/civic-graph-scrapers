@@ -8,7 +8,7 @@
 
 #### SET YOUR SEARCH TERMS AND PARAMETERS HERE ####
 
-search_term = ["#datascience"]
+search_term = ["#civictech"]
 #search_term = ["yesallwomen", "yesallwhitewomen", "cisgaze", "notallmen"]
 
 maximum_number_of_tweets = 2        # set the maximum number of tweets
@@ -55,7 +55,7 @@ def authenticate():
         sys.exit()
     auth = OAuthHandler(ckey, csecret)
     auth.set_access_token(atoken, asecret)
-    return auth        
+    return auth
 
 # a class inherited from the StreamListner class in the Twitter API
 # This class will print out a tweet in the on_status function
@@ -67,12 +67,12 @@ class view_and_save_stream(StreamListener):
         self.current_number_of_tweets = 0
 
         # open the file where we're going to save the data
-        self.file = open('data'+time.strftime("%m%d%H%M")+".csv", 'w') # name the file data + the current date and time, to eliminate overwriting         
+        self.file = open('data'+time.strftime("%m%d%H%M")+".csv", 'w') # name the file data + the current date and time, to eliminate overwriting
         self.writer = csv.writer(self.file)
         # write the header row
-        self.writer.writerow(('user', 'location', 'coordinates', 'text', 'time', 'hashtags', 'user mentions'))   
+        self.writer.writerow(('user', 'location', 'coordinates', 'text', 'time', 'hashtags', 'user mentions'))
 
-    # when a new tweet is posted, this function is automatically called    
+    # when a new tweet is posted, this function is automatically called
     def on_status(self, status):
 
         # format the text fields as unicode
@@ -86,7 +86,7 @@ class view_and_save_stream(StreamListener):
         # find hashtags and user mentions in tweets
         hashtags = getHashtags(clean_tweet)
         user_mentions = getUserMentions(clean_tweet)
-        
+
         # determine if the tweet is geotagged. If it is, collect the coordinates
         if isinstance(status.coordinates, dict):
             coord = status.coordinates["coordinates"]
@@ -109,7 +109,7 @@ class view_and_save_stream(StreamListener):
             return False
 
 
-# a function to view tweets containing the search term, and save them to a csv file    
+# a function to view tweets containing the search term, and save them to a csv file
 def view_and_save_tweets(search_term):
     auth = authenticate()
     print '......getting tweets'
@@ -140,10 +140,3 @@ def getUserMentions(tweet):
 ######################################################
 # run the code using the search term(s) provided above
 view_and_save_tweets(search_term)
-
-    
-
-
-
-
-

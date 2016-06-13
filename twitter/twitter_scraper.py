@@ -15,7 +15,7 @@ t = Twython(app_key= 'U7BuPNF1Pop5IJEwF0AeHHCX6', #REPLACE 'APP_KEY' WITH YOUR A
     oauth_token_secret='ebXw39R7AfSeWmqfF1hM4d8Ph7javEGwZA0ciMKzlp1RV')
 
 
-users = t.lookup_user(screen_name = 'hannahrcutler')
+users = t.lookup_user(screen_name = 'johnpaulfarmer')
 
 # initialize output file
 
@@ -24,7 +24,7 @@ outfn = "twitter_user_data_%i.%i.%i.txt" % (now.month, now.day, now.year)
 # set variables
 # fields = "id screen_name name created_at url followers_count friends_count statuses_count \
 #     favourites_count listed_count \
-#     contributors_enabled description protected location lang expanded_url".split() 
+#     contributors_enabled description protected location lang expanded_url".split()
 
 fields = "id screen_name name created_at url followers_count friends_count statuses_count description location lang expanded_url".split()
 
@@ -34,7 +34,7 @@ outfp = open(outfn, "w")
 for entry in users:
     # screen_name = str(entry['screen_name'])
     # print type(screen_name)
-    
+
     timeline = t.get_home_timeline()
     # print timeline
     # print t.get_user_timeline(screen_name)
@@ -67,7 +67,7 @@ for entry in users:
     # r['protected'] = entry['protected']
     r['location'] = entry['location']
     r['lang'] = entry['lang']
-    
+
     #NOT EVERY ID WILL HAVE A 'URL' KEY, SO CHECK FOR ITS EXISTENCE WITH IF CLAUSE
     if 'url' in entry['entities']:
         r['expanded_url'] = entry['entities']['url']['urls'][0]['expanded_url']
@@ -81,5 +81,5 @@ for entry in users:
         lst.append(unicode(r[f]).replace("\/", "/"))
     #WRITE ROW WITH DATA IN LIST
     #outfp.write(str.join(lst, "\t").encode("utf-8") + "\n")
- 
-outfp.close()    
+
+outfp.close()

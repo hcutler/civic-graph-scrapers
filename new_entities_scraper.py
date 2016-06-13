@@ -7,7 +7,14 @@ import requests as rq
 import re
 
 
-#get contents of Tandon School of Engineering NYU page
-base_url = "http://engineering.nyu.edu/people?"
+
+#find people tweeting about civic tech
+#('civictech' '#civictech' 'civic tech' 'civictechnology' 'civic technology')
+#use keyword scraper
+
+#grab twitter handle
+#if 
+
+base_url = ""
 r = rq.get(base_url)
 soup = bsoup(r.text, "lxml")
