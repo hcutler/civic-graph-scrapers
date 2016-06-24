@@ -1,0 +1,529 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-12-27T07:23:53-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-09-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>ROBERTSON EATON &amp; OWEN PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>121 NORTH MAIN STREET</AddressLine1>
+        <City>ADRIAN</City>
+        <State>MI</State>
+        <ZIPCode>49221</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-10-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>383123960</EIN>
+      <Name>
+        <BusinessNameLine1>WILLIAM G THOMPSON FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>THOM</NameControl>
+      <Phone>5174231700</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 248</AddressLine1>
+        <City>TECUMSEH</City>
+        <State>MI</State>
+        <ZIPCode>49286</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>DAVID S HICKMAN</Name>
+      <Title>SECRETARY- TREASURER</Title>
+      <Phone>5174231700</Phone>
+      <DateSigned>2010-12-20</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>GARY E OWEN</Name>
+      <Phone>5172656154</Phone>
+      <DatePrepared>2010-12-27</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="12">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>2954873</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>3660</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>21444</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>21444</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>21444</InterestOnSavingsAdjNetIncm>
+        <DividendsRevAndExpnss>23259</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>23259</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>23259</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="RetDoc3">31480</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>3045636</GrossSalesPrice>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc11">8190</OtherIncomeRevAndExpnss>
+        <OtherIncomeAdjNetIncm>8190</OtherIncomeAdjNetIncm>
+        <TotalRevenueAndExpenses>88033</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>44703</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>52893</TotalAdjustedNetIncome>
+        <OthEmplSlrsWgsRevAndExpnss>51794</OthEmplSlrsWgsRevAndExpnss>
+        <OthEmplSlrsWgsAdjNetIncm>51794</OthEmplSlrsWgsAdjNetIncm>
+        <OthEmplSlrsWgsDsbrsChrtblPrps>51794</OthEmplSlrsWgsDsbrsChrtblPrps>
+        <PensionEmplBnftRevAndExpnss>4075</PensionEmplBnftRevAndExpnss>
+        <PensionEmplBnftAdjNetIncm>4075</PensionEmplBnftAdjNetIncm>
+        <PensionEmplBnftDsbrsChrtblPrps>4075</PensionEmplBnftDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">3250</AccountingFeesRevAndExpnss>
+        <AccountingFeesAdjNetIncm>3250</AccountingFeesAdjNetIncm>
+        <AccountingFeesDsbrsChrtblPrps>3250</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc12">796</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>771</TaxesNetInvstIncm>
+        <TaxesAdjNetIncm>25</TaxesAdjNetIncm>
+        <TaxesDsbrsChrtblPrps>25</TaxesDsbrsChrtblPrps>
+        <OccupancyRevAndExpnss>8996</OccupancyRevAndExpnss>
+        <OccupancyAdjNetIncm>8996</OccupancyAdjNetIncm>
+        <OccupancyDsbrsChrtblPrps>8996</OccupancyDsbrsChrtblPrps>
+        <PrintingAndPubRevAndExpnss>975</PrintingAndPubRevAndExpnss>
+        <PrintingAndPubAdjNetIncm>975</PrintingAndPubAdjNetIncm>
+        <PrintingAndPubDsbrsChrtblPrps>975</PrintingAndPubDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc9">38845</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>14227</OtherExpensesNetInvstIncm>
+        <OtherExpensesAdjNetIncm>24618</OtherExpensesAdjNetIncm>
+        <OtherExpensesDsbrsChrtblPrps>24618</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>108731</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>14998</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>93733</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>93733</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>2000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>2000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>110731</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>14998</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>93733</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>95733</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-22698</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>29705</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>131866</CashBOY>
+        <CashEOY>48086</CashEOY>
+        <CashEOYFMV>48086</CashEOYFMV>
+        <InvestmentsGovtObligBOY>80289</InvestmentsGovtObligBOY>
+        <InvestmentsGovtObligEOY referenceDocumentId="RetDoc6">110235</InvestmentsGovtObligEOY>
+        <InvestmentsGovtObligEOYFMV>110235</InvestmentsGovtObligEOYFMV>
+        <InvestmentsCorpStockBOY>999999</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc5">1081571</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>1081571</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>357449</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="RetDoc4">399169</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>399169</InvestmentsCorpBondsEOYFMV>
+        <InvestmentsLandEtcBasis>259000</InvestmentsLandEtcBasis>
+        <InvestmentsLandEtcBOY>259000</InvestmentsLandEtcBOY>
+        <InvestmentsLandEtcEOY referenceDocumentId="RetDoc7">259000</InvestmentsLandEtcEOY>
+        <InvestmentsLandEtcEOYFMV>259000</InvestmentsLandEtcEOYFMV>
+        <OtherAssetsBOY referenceDocumentId="RetDoc8">1056812</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId="RetDoc8">1056812</OtherAssetsEOY>
+        <OtherAssetsEOYFMV referenceDocumentId="RetDoc8">1056812</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>2885415</TotalAssetsBOY>
+        <TotalAssetsEOY>2954873</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>2954873</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>2885415</UnrestrictedBOY>
+        <UnrestrictedEOY>2954873</UnrestrictedEOY>
+        <TotalNetAssetsBOY>2885415</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>2954873</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>2885415</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>2954873</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>2885415</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-22698</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="RetDoc10">92156</OtherIncreases>
+        <Subtotal>2954873</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>2954873</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>101081</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>1602459</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.063079</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>95682</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>1870827</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.051144</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>84765</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>2034702</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.041660</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>90646</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>1892183</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.047906</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>64886</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>1747423</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.037132</DistributionRatioYear5>
+        <TotalDistributionRatio>0.240921</TotalDistributionRatio>
+        <AverageDistributionRatio>0.048184</AverageDistributionRatio>
+        <NetNoncharitableAssets>1580134</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>76137</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>297</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>76434</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>95733</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>297</InvestmentIncomeExciseTax>
+        <Subtotal>297</Subtotal>
+        <TaxBasedOnInvestmentIncome>297</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>388</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>388</TotalCreditsAndPayments>
+        <Overpayment>91</Overpayment>
+        <AmountCreditedToNextYear>91</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>MI</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>DAVID S HICKMAN</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>5174238373</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>PO BOX 248</AddressLine1>
+          <City>TECUMSEH</City>
+          <State>MI</State>
+          <ZIPCode>49286</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CLAUDE ROWLEY</PersonName>
+          <USAddress>
+            <AddressLine1>15561 CADMUS RD</AddressLine1>
+            <City>HUDSON</City>
+            <State>MI</State>
+            <ZIPCode>49247</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DAVID HICKMAN</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 248</AddressLine1>
+            <City>TECUMSEH</City>
+            <State>MI</State>
+            <ZIPCode>49286</ZIPCode>
+          </USAddress>
+          <Title>SEC-TREAS</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>PAT ROWLEY</PersonName>
+          <USAddress>
+            <AddressLine1>15561 CADMUS RD</AddressLine1>
+            <City>TECUMSEH</City>
+            <State>MI</State>
+            <ZIPCode>49247</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>KATHY HEPKER</PersonName>
+          <USAddress>
+            <AddressLine1>322 S WOOD ST</AddressLine1>
+            <City>HUDSON</City>
+            <State>MI</State>
+            <ZIPCode>49247</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>KATHY MALNAR</PersonName>
+          <USAddress>
+            <AddressLine1>16201 LOWE RD</AddressLine1>
+            <City>HUDSON</City>
+            <State>MI</State>
+            <ZIPCode>49247</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>1514356</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>89841</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>1604197</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>1604197</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>24063</CashDeemedCharitable>
+        <NetNoncharitableAssets>1580134</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>79007</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>79007</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>297</TaxBasedOnInvestmentIncome>
+        <TotalTax>297</TotalTax>
+        <DistributableAmountBeforeAdj>78710</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>78710</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>78710</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>95733</ExpensesAndContributions>
+        <QualifyingDistributions>95733</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>297</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>95436</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>78710</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>22471</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear2>2870</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>21642</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>46983</TotalExcessDistriCarryover>
+        <QualifyingDistributions>95733</QualifyingDistributions>
+        <AppliedToCurrentYear>78710</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>17023</RemainingDistriFromCorpus>
+        <TotalCorpus>64006</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>22471</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>41535</ExcessDistriCyovToNextYear>
+        <ExcessFromYear2>2870</ExcessFromYear2>
+        <ExcessFromYear1>21642</ExcessFromYear1>
+        <ExcessFromCurrentYear>17023</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HOSPICE OF LENAWEE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>415 MILL RD</AddressLine1>
+            <City>ADRIAN</City>
+            <State>MI</State>
+            <ZIPCode>49221</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GENERAL OPERATING</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>2000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>21444</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>23259</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>31480</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <OtherRevenueDescribed>
+          <Description>TOURS</Description>
+          <RelatedOrExemptFunctionIncome>7777</RelatedOrExemptFunctionIncome>
+        </OtherRevenueDescribed>
+        <OtherRevenueDescribed>
+          <Description>OTHER</Description>
+          <RelatedOrExemptFunctionIncome>413</RelatedOrExemptFunctionIncome>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>44703</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>39670</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>84373</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>INDIRECT ACCOUNTING FEES</Category>
+        <Amount>3250</Amount>
+        <AdjustedNetIncome>3250</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>3250</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc3">
+      <GainLossSaleOtherAsset>
+        <Name>VARIOUS</Name>
+        <DateAcquired>2009-01</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-06</DateSold>
+        <GrossSalesPrice>3045636</GrossSalesPrice>
+        <Basis>3014156</Basis>
+        <TotalNet>31480</TotalNet>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc4">
+      <InvestmentsCorpBonds>
+        <NameOfBond>CORPORATE BONDS</NameOfBond>
+        <EOYBookValue>399169</EOYBookValue>
+        <EOYFMV>399169</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc5">
+      <InvestmentsCorpStock>
+        <NameOfStock>EQUITY SECURITIES</NameOfStock>
+        <EOYBookValue>1081571</EOYBookValue>
+        <EOYFMV>1081571</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="RetDoc6">
+      <USGovtSecuritiesEOYBookValue>110235</USGovtSecuritiesEOYBookValue>
+      <USGovtSecuritiesEOYFMV>110235</USGovtSecuritiesEOYFMV>
+    </InvestmentsGovtObligationsSch>
+    <InvestmentsLandSchedule2 documentId="RetDoc7">
+      <InvestmentLand>
+        <CategoryOrItem>LAND &amp; BUILDING</CategoryOrItem>
+        <CostOrOtherBasis>259000</CostOrOtherBasis>
+        <BookValue>259000</BookValue>
+        <EOYFMV>259000</EOYFMV>
+      </InvestmentLand>
+    </InvestmentsLandSchedule2>
+    <OtherAssetsSchedule documentId="RetDoc8">
+      <OtherAssets>
+        <Description>COLLECTIONS</Description>
+        <BOYBookValue>1056812</BOYBookValue>
+        <EOYBookValue>1056812</EOYBookValue>
+        <EOYFMV>1056812</EOYFMV>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="RetDoc9">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>INSURANCE</Description>
+        <RevenueAndExpensesPerBooks>10173</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>10173</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>10173</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>WORKERS COMPENSATION INS</Description>
+        <RevenueAndExpensesPerBooks>905</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>905</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>905</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>ADVERTISING</Description>
+        <RevenueAndExpensesPerBooks>1372</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>1372</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>1372</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>INVESTMENT MANAGEMENT FEES</Description>
+        <RevenueAndExpensesPerBooks>14227</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>14227</NetInvestmentIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MISCELLANEOUS</Description>
+        <RevenueAndExpensesPerBooks>735</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>735</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>735</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>REPAIRS &amp; MAINTENANCE</Description>
+        <RevenueAndExpensesPerBooks>9415</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>9415</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>9415</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>SUPPLIES</Description>
+        <RevenueAndExpensesPerBooks>2018</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>2018</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>2018</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc11">
+      <OtherIncome>
+        <Description>TOURS</Description>
+        <RevenueAndExpensesPerBooks>7777</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>7777</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>OTHER</Description>
+        <RevenueAndExpensesPerBooks>413</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>413</AdjustedNetIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="RetDoc10">
+      <OtherIncreases>
+        <Description>UNREALIZED GAINS ON INVESTMENTS</Description>
+        <Amount>92156</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <TaxesSchedule documentId="RetDoc12">
+      <Taxes>
+        <Category>FOREIGN TAXES PAID</Category>
+        <Amount>771</Amount>
+        <NetInvestmentIncome>771</NetInvestmentIncome>
+      </Taxes>
+      <Taxes>
+        <Category>TAXES- OTHER</Category>
+        <Amount>25</Amount>
+        <AdjustedNetIncome>25</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>25</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

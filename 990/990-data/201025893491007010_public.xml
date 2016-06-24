@@ -1,0 +1,840 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return returnVersion="2009v1.2" xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-09-15T11:20:32-04:00</Timestamp>
+    <TaxPeriodEndDate>2010-05-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>HR Block Tax Group Inc</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>1720 Marsh Rd Ste A</AddressLine1>
+        <City>Wilmington</City>
+        <State>DE</State>
+        <ZIPCode>19810</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-06-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>510411557</EIN>
+      <Name>
+        <BusinessNameLine1>No Plain Jane Foundation</BusinessNameLine1>
+      </Name>
+      <NameControl>NOPL</NameControl>
+      <Phone>4107637663</Phone>
+      <USAddress>
+        <AddressLine1>1006 S Washington St</AddressLine1>
+        <City>Easton</City>
+        <State>MD</State>
+        <ZIPCode>21601</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Diane Bradley</Name>
+      <Title>President</Title>
+      <Phone>4107637663</Phone>
+      <DateSigned>2010-09-08</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Patricia Braun</Name>
+      <Phone>3024783687</Phone>
+      <DatePrepared>2010-09-15</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="11">
+    <IRS990PF documentId="11">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>3322494</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>10000</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>133305</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>133305</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>133305</InterestOnSavingsAdjNetIncm>
+        <DividendsRevAndExpnss>1049</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>1049</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>1049</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss>13855</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>315630</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>13855</CapitalGainNetIncmNetInvstIncm>
+        <OtherIncomeRevAndExpnss>6</OtherIncomeRevAndExpnss>
+        <TotalRevenueAndExpenses>158215</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>148209</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>134354</TotalAdjustedNetIncome>
+        <LegalFeesRevAndExpnss>4776</LegalFeesRevAndExpnss>
+        <LegalFeesNetInvstIncm>4776</LegalFeesNetInvstIncm>
+        <LegalFeesAdjNetIncm>4776</LegalFeesAdjNetIncm>
+        <LegalFeesDsbrsChrtblPrps>4776</LegalFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss>2050</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>2050</OtherProfFeesNetInvstIncm>
+        <OtherProfFeesAdjNetIncm>2050</OtherProfFeesAdjNetIncm>
+        <OtherProfFeesDsbrsChrtblPrps>2050</OtherProfFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss>4402</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>4402</TaxesNetInvstIncm>
+        <TaxesAdjNetIncm>4402</TaxesAdjNetIncm>
+        <TaxesDsbrsChrtblPrps>4402</TaxesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss>545</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>545</OtherExpensesNetInvstIncm>
+        <OtherExpensesAdjNetIncm>545</OtherExpensesAdjNetIncm>
+        <OtherExpensesDsbrsChrtblPrps>545</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>11773</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>11773</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>11773</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>11773</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>175000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>175000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>186773</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>11773</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>11773</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>186773</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-28558</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>136436</NetInvestmentIncome>
+        <AdjustedNetIncome>122581</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>636813</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>181124</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>181124</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsGovtObligBOY>148090</InvestmentsGovtObligBOY>
+        <InvestmentsGovtObligEOY>124786</InvestmentsGovtObligEOY>
+        <InvestmentsGovtObligEOYFMV>130856</InvestmentsGovtObligEOYFMV>
+        <InvestmentsCorpBondsBOY>2091611</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY>1938209</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>2012140</InvestmentsCorpBondsEOYFMV>
+        <InvestmentsOtherBOY>113250</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY>713393</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>998374</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>2989764</TotalAssetsBOY>
+        <TotalAssetsEOY>2957512</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>3322494</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>2989764</RetainedEarningsBOY>
+        <RetainedEarningsEOY>2957512</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>2989764</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>2957512</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>2989764</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>2957512</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>2989764</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-28558</ExcessOfRevenueOverExpenses>
+        <Subtotal>2961206</Subtotal>
+        <OtherDecreases>3694</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>2957512</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Bellsouth Corp</DescriptionOfAsset>
+          <DateAcquired>2004-12-30</DateAcquired>
+          <DateSold>2010-04-09</DateSold>
+          <GrossSalesPrice>107930</GrossSalesPrice>
+          <CostOrOtherBasis>101020</CostOrOtherBasis>
+          <GainOrLoss>6910</GainOrLoss>
+          <GainsMinusExcessOrLosses>6910</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Carolina Pwr</DescriptionOfAsset>
+          <DateAcquired>2004-12-03</DateAcquired>
+          <DateSold>2010-04-08</DateSold>
+          <GrossSalesPrice>107700</GrossSalesPrice>
+          <CostOrOtherBasis>100815</CostOrOtherBasis>
+          <GainOrLoss>6885</GainOrLoss>
+          <GainsMinusExcessOrLosses>6885</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Duke Cap Corp</DescriptionOfAsset>
+          <DateAcquired>2004-10-28</DateAcquired>
+          <DateSold>2009-10-01</DateSold>
+          <GrossSalesPrice>50000</GrossSalesPrice>
+          <CostOrOtherBasis>49940</CostOrOtherBasis>
+          <GainOrLoss>60</GainOrLoss>
+          <GainsMinusExcessOrLosses>60</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>NM Caterpillar Fncl Cld</DescriptionOfAsset>
+          <DateAcquired>2004-10-28</DateAcquired>
+          <DateSold>2009-10-15</DateSold>
+          <GrossSalesPrice>50000</GrossSalesPrice>
+          <CostOrOtherBasis>50000</CostOrOtherBasis>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>13855</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>161014</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>3024592</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.053235</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>315733</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>3287485</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.096041</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>1670668</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>4000048</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.417662</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>121396</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>4382273</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.027702</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>113832</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>4225779</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.026938</DistributionRatioYear5>
+        <TotalDistributionRatio>0.621578</TotalDistributionRatio>
+        <AverageDistributionRatio>0.124316</AverageDistributionRatio>
+        <NetNoncharitableAssets>3721683</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>462665</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>1364</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>464029</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>186773</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>2729</InvestmentIncomeExciseTax>
+        <Subtotal>2729</Subtotal>
+        <TaxBasedOnInvestmentIncome>2729</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>3000</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>3000</TotalCreditsAndPayments>
+        <Overpayment>271</Overpayment>
+        <AmountToBeRefunded>271</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>false</RequirementsOfSect508e>
+        <AtLeast5000InAssets>false</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>false</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>Charles T Capute LLC</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>4107637663</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>1006 S Washington St</AddressLine1>
+          <City>Easton</City>
+          <State>MD</State>
+          <ZIPCode>21601</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Diane Bradley</PersonName>
+          <USAddress>
+            <AddressLine1>2 West Butler Avenue</AddressLine1>
+            <City>Doylestown</City>
+            <State>PA</State>
+            <ZIPCode>18901</ZIPCode>
+          </USAddress>
+          <Title>President/Secretary/</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JoRhea N Wright</PersonName>
+          <USAddress>
+            <AddressLine1>1006 S Washington St</AddressLine1>
+            <City>Easton</City>
+            <State>MD</State>
+            <ZIPCode>21601</ZIPCode>
+          </USAddress>
+          <Title>Vice-Pres/Treasurer</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>2323365</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>456619</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>998374</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>3778358</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>3778358</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>56675</CashDeemedCharitable>
+        <NetNoncharitableAssets>3721683</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>186084</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>186084</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>2729</TaxBasedOnInvestmentIncome>
+        <TotalTax>2729</TotalTax>
+        <DistributableAmountBeforeAdj>183355</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>183355</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>183355</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>186773</ExpensesAndContributions>
+        <QualifyingDistributions>186773</QualifyingDistributions>
+        <AdjQualifyingDistributions>186773</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>183355</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear3>1399016</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>152741</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>12540</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>1564297</TotalExcessDistriCarryover>
+        <QualifyingDistributions>186773</QualifyingDistributions>
+        <AppliedToCurrentYear>183355</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>3418</RemainingDistriFromCorpus>
+        <TotalCorpus>1567715</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>1567715</ExcessDistriCyovToNextYear>
+        <ExcessFromYear3>1399016</ExcessFromYear3>
+        <ExcessFromYear2>152741</ExcessFromYear2>
+        <ExcessFromYear1>12540</ExcessFromYear1>
+        <ExcessFromCurrentYear>3418</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Campus Crusade for Christ</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>100 Lake Hart Drive</AddressLine1>
+            <City>Orlando</City>
+            <State>FL</State>
+            <ZIPCode>32832</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Campus Ministry at University of Miami, Oxford, Ohio</PurposeOfGrantOrContribution>
+          <Amount>36500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Young Life Mid Shore</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 1727</AddressLine1>
+            <City>Easton</City>
+            <State>MD</State>
+            <ZIPCode>21601</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Needs &amp; Young-Life Camp Ministry for High Schoolers</PurposeOfGrantOrContribution>
+          <Amount>6000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Grove City College</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>100 Campus Drive</AddressLine1>
+            <City>Grove City</City>
+            <State>PA</State>
+            <ZIPCode>16127</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Scholarship</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Joyce Meyer Ministry</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 655</AddressLine1>
+            <City>Fenton</City>
+            <State>MO</State>
+            <ZIPCode>63026</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Haiti</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Lighthouse Network</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>800 W State Street</AddressLine1>
+            <AddressLine2>Suite 302</AddressLine2>
+            <City>Doylestown</City>
+            <State>PA</State>
+            <ZIPCode>18901</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Business Development &amp; Communication Network</PurposeOfGrantOrContribution>
+          <Amount>52500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Educational Services</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>8 East Court Street</AddressLine1>
+            <City>Doylestown</City>
+            <State>PA</State>
+            <ZIPCode>18901</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Educational Program</PurposeOfGrantOrContribution>
+          <Amount>35000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>175000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>133305</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>1049</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>13855</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <OtherRevenueDescribed>
+          <Description>IRS interest</Description>
+          <UnrelatedBusinessIncomeAmount>6</UnrelatedBusinessIncomeAmount>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>6</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>148209</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>148215</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="10">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>Diane Bradley</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>2 West Butler Avenue</AddressLine1>
+          <City>Doylestown</City>
+          <State>PA</State>
+          <ZIPCode>18901</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>10000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <InvestmentsCorpBondsSchedule documentId="7">
+      <InvestmentsCorpBonds>
+        <NameOfBond>Alcan Inc GLB</NameOfBond>
+        <EOYBookValue>100000</EOYBookValue>
+        <EOYFMV>105866</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>Arcelormittal GLB</NameOfBond>
+        <EOYBookValue>88000</EOYBookValue>
+        <EOYFMV>101462</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>Buckeye Partners</NameOfBond>
+        <EOYBookValue>151549</EOYBookValue>
+        <EOYFMV>160400</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>Boeing Co GLB</NameOfBond>
+        <EOYBookValue>100959</EOYBookValue>
+        <EOYFMV>108818</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>Hospitality Properties</NameOfBond>
+        <EOYBookValue>62696</EOYBookValue>
+        <EOYFMV>73379</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>Duke Capital LLC</NameOfBond>
+        <EOYBookValue>152240</EOYBookValue>
+        <EOYFMV>160077</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>Dominion Resources Inc</NameOfBond>
+        <EOYBookValue>100671</EOYBookValue>
+        <EOYFMV>107961</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>Dominion Resources Inc</NameOfBond>
+        <EOYBookValue>82110</EOYBookValue>
+        <EOYFMV>91767</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>Kraft Foods Inc</NameOfBond>
+        <EOYBookValue>101116</EOYBookValue>
+        <EOYFMV>109840</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>Kraft Foods Inc</NameOfBond>
+        <EOYBookValue>50558</EOYBookValue>
+        <EOYFMV>54920</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>Norfolk Southern Corp</NameOfBond>
+        <EOYBookValue>100833</EOYBookValue>
+        <EOYFMV>109031</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>NM Ford Motor Cdt Co BE Ser Cobr</NameOfBond>
+        <EOYBookValue>50000</EOYBookValue>
+        <EOYFMV>49645</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>AT&amp;T Inc Senior Notes</NameOfBond>
+        <EOYBookValue>6930</EOYBookValue>
+        <EOYFMV>7860</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>AT&amp;T Inc</NameOfBond>
+        <EOYBookValue>46240</EOYBookValue>
+        <EOYFMV>52400</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>AT&amp;T Inc</NameOfBond>
+        <EOYBookValue>18504</EOYBookValue>
+        <EOYFMV>20960</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>AT&amp;T Inc</NameOfBond>
+        <EOYBookValue>27768</EOYBookValue>
+        <EOYFMV>31440</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>BAC Capital Trust II Pfd Stk Cum</NameOfBond>
+        <EOYBookValue>25090</EOYBookValue>
+        <EOYFMV>22250</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>BAC Capital Trust II</NameOfBond>
+        <EOYBookValue>23328</EOYBookValue>
+        <EOYFMV>20025</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>BAC Capital Trust II</NameOfBond>
+        <EOYBookValue>2648</EOYBookValue>
+        <EOYFMV>2225</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>FPC Capital I Cum Pfd Stk</NameOfBond>
+        <EOYBookValue>24920</EOYBookValue>
+        <EOYFMV>25120</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>FPC Capital I</NameOfBond>
+        <EOYBookValue>12711</EOYBookValue>
+        <EOYFMV>12560</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>FPC Capital I</NameOfBond>
+        <EOYBookValue>63605</EOYBookValue>
+        <EOYFMV>62800</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>FPL Group Capital Inc Srs A Enhanced Jr Sub Nt</NameOfBond>
+        <EOYBookValue>51684</EOYBookValue>
+        <EOYFMV>51100</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>General Electric Capital Public Income Notes</NameOfBond>
+        <EOYBookValue>2293</EOYBookValue>
+        <EOYFMV>2464</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>General Electric Capital</NameOfBond>
+        <EOYBookValue>96390</EOYBookValue>
+        <EOYFMV>103488</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>Georgia Power Company Pfd Stk</NameOfBond>
+        <EOYBookValue>25000</EOYBookValue>
+        <EOYFMV>25250</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>Georgia Power Company</NameOfBond>
+        <EOYBookValue>27962</EOYBookValue>
+        <EOYFMV>27775</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>Georgia Power Company</NameOfBond>
+        <EOYBookValue>10172</EOYBookValue>
+        <EOYFMV>10100</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>Georgia Power Company</NameOfBond>
+        <EOYBookValue>33046</EOYBookValue>
+        <EOYFMV>32825</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>Georgia Power Company</NameOfBond>
+        <EOYBookValue>5082</EOYBookValue>
+        <EOYFMV>5050</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>Telephone &amp; Data Systems Notes Ser A</NameOfBond>
+        <EOYBookValue>25225</EOYBookValue>
+        <EOYFMV>24760</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>Telephone &amp; Data Systems</NameOfBond>
+        <EOYBookValue>68653</EOYBookValue>
+        <EOYFMV>64376</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>Telephone &amp; Data Systems</NameOfBond>
+        <EOYBookValue>5279</EOYBookValue>
+        <EOYFMV>4952</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>Fleet Capital Trust VIII</NameOfBond>
+        <EOYBookValue>25000</EOYBookValue>
+        <EOYFMV>22450</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>Citigroup Cap Trust IX</NameOfBond>
+        <EOYBookValue>25110</EOYBookValue>
+        <EOYFMV>18200</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>Morgan Stanley Cap Tr IV Def Int Tr Pfd Secs</NameOfBond>
+        <EOYBookValue>25000</EOYBookValue>
+        <EOYFMV>20960</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>Morgan Stanley Cap Tr IV</NameOfBond>
+        <EOYBookValue>67945</EOYBookValue>
+        <EOYFMV>56592</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>Morgan Stanley Cap Tr IV</NameOfBond>
+        <EOYBookValue>5033</EOYBookValue>
+        <EOYFMV>4192</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>Lincoln National Cap VI</NameOfBond>
+        <EOYBookValue>46859</EOYBookValue>
+        <EOYFMV>46800</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsGovtObligationsSch documentId="6">
+      <USGovtSecuritiesEOYBookValue>124786</USGovtSecuritiesEOYBookValue>
+      <USGovtSecuritiesEOYFMV>130856</USGovtSecuritiesEOYFMV>
+    </InvestmentsGovtObligationsSch>
+    <InvestmentsOtherSchedule2 documentId="8">
+      <InvestmentsOther>
+        <CategoryOrItem>Invesco International Small Company Fund Cl C</CategoryOrItem>
+        <BookValue>43517</BookValue>
+        <EOYFMV>39604</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>Seligman Communications and Information FD Cl C</CategoryOrItem>
+        <BookValue>42576</BookValue>
+        <EOYFMV>40487</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>Blackrock HL SC Opp C</CategoryOrItem>
+        <BookValue>43334</BookValue>
+        <EOYFMV>40738</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>Touchstone Mid Cap Growth Fund Cl C</CategoryOrItem>
+        <BookValue>42358</BookValue>
+        <EOYFMV>40439</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>Prudential Jennison Natural Resources Inc C</CategoryOrItem>
+        <BookValue>43746</BookValue>
+        <EOYFMV>39827</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>Sentinel Small Company Fund Cl C</CategoryOrItem>
+        <BookValue>41828</BookValue>
+        <EOYFMV>41998</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>ING Value Choice Fd Cl C</CategoryOrItem>
+        <BookValue>42944</BookValue>
+        <EOYFMV>41878</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>Alliance Bernstein Utility Income Fd Cl C</CategoryOrItem>
+        <BookValue>43856</BookValue>
+        <EOYFMV>41934</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>Blackrock Equity Dividend Fd C</CategoryOrItem>
+        <BookValue>42953</BookValue>
+        <EOYFMV>40338</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>Blackrock Global Allocation Fd Inc C</CategoryOrItem>
+        <BookValue>43594</BookValue>
+        <EOYFMV>41549</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>Franklin Small Cap Value Fd Class C</CategoryOrItem>
+        <BookValue>41022</BookValue>
+        <EOYFMV>40834</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>Franklin Mutual Global Discovery Fd Cl C</CategoryOrItem>
+        <BookValue>42917</BookValue>
+        <EOYFMV>40981</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>Thornburg International Value Fd C</CategoryOrItem>
+        <BookValue>43484</BookValue>
+        <EOYFMV>40195</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>CGM Advisor targeted Equity Fd Cl C</CategoryOrItem>
+        <BookValue>42014</BookValue>
+        <EOYFMV>39672</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>Gold</CategoryOrItem>
+        <BookValue>113250</BookValue>
+        <EOYFMV>242600</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>Silver</CategoryOrItem>
+        <EOYFMV>185300</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <LegalFeesSchedule documentId="2">
+      <LegalFees>
+        <Category>Charles T Capute LLC</Category>
+        <Amount>4776</Amount>
+        <NetInvestmentIncome>4776</NetInvestmentIncome>
+        <AdjustedNetIncome>4776</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>4776</DisbursementsCharitablePrps>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherDecreasesSchedule documentId="9">
+      <OtherDecreases>
+        <Description>Adjustments to cost basis</Description>
+        <Amount>3694</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="5">
+      <OtherExpenses>
+        <Description>Delaware Corporate Agency</Description>
+        <RevenueAndExpensesPerBooks>250</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>250</NetInvestmentIncome>
+        <AdjustedNetIncome>250</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>250</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Delaware Secretary of State</Description>
+        <RevenueAndExpensesPerBooks>194</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>194</NetInvestmentIncome>
+        <AdjustedNetIncome>194</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>194</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>State of Delaware</Description>
+        <RevenueAndExpensesPerBooks>25</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>25</NetInvestmentIncome>
+        <AdjustedNetIncome>25</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>25</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Messenger, copy and postage</Description>
+        <RevenueAndExpensesPerBooks>44</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>44</NetInvestmentIncome>
+        <AdjustedNetIncome>44</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>44</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Bank fee and checks</Description>
+        <RevenueAndExpensesPerBooks>32</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>32</NetInvestmentIncome>
+        <AdjustedNetIncome>32</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>32</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="1">
+      <OtherIncome>
+        <Description>IRS interest</Description>
+        <RevenueAndExpensesPerBooks>6</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="3">
+      <OtherProfessionalFees>
+        <Category>H&amp;R Block</Category>
+        <Amount>1700</Amount>
+        <NetInvestmentIncome>1700</NetInvestmentIncome>
+        <AdjustedNetIncome>1700</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>1700</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+      <OtherProfessionalFees>
+        <Category>Robert &amp; Company consultion</Category>
+        <Amount>200</Amount>
+        <NetInvestmentIncome>200</NetInvestmentIncome>
+        <AdjustedNetIncome>200</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>200</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+      <OtherProfessionalFees>
+        <Category>Merrill Lynch EMA annual fee</Category>
+        <Amount>150</Amount>
+        <NetInvestmentIncome>150</NetInvestmentIncome>
+        <AdjustedNetIncome>150</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>150</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="4">
+      <Taxes>
+        <Category>Federal Estimated Excise Tax on Investment Income</Category>
+        <Amount>3000</Amount>
+        <NetInvestmentIncome>3000</NetInvestmentIncome>
+        <AdjustedNetIncome>3000</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>3000</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>Federal Excise Tax on Investment Income</Category>
+        <Amount>1402</Amount>
+        <NetInvestmentIncome>1402</NetInvestmentIncome>
+        <AdjustedNetIncome>1402</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>1402</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

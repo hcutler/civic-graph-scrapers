@@ -1,0 +1,609 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-01-03T07:35:33-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-09-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>GROSS PUCKEY GRUEL &amp; ROOF PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>4196 W MAPLE AVENUE</AddressLine1>
+        <City>ADRIAN</City>
+        <State>MI</State>
+        <ZIPCode>49221</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-10-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>382241755</EIN>
+      <Name>
+        <BusinessNameLine1>THE ROBIDEAU FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>ROBI</NameControl>
+      <Phone>7344535432</Phone>
+      <USAddress>
+        <AddressLine1>46830 BETTY HILL LANE</AddressLine1>
+        <City>PLYMOUTH</City>
+        <State>MI</State>
+        <ZIPCode>48170</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>MARGARET JEFFERY</Name>
+      <Title>TREAS/SECRETARY</Title>
+      <Phone>7344535432</Phone>
+      <DateSigned>2010-12-15</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>DAVID JONES</Name>
+      <Phone>5172635788</Phone>
+      <DatePrepared>2010-12-23</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>565632</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>66</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>66</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>10491</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>10491</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>-2000</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>5362</GrossSalesPrice>
+        <TotalRevenueAndExpenses>8557</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>10557</TotalNetInvestmentIncome>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc5">3100</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>3100</OtherProfFeesNetInvstIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc3">120</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>100</OtherExpensesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>3220</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>3200</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>188100</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>188100</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>191320</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>3200</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>188100</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-182763</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>7357</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>24870</CashBOY>
+        <CashEOY>1709</CashEOY>
+        <CashEOYFMV>1709</CashEOYFMV>
+        <InvestmentsCorpStockBOY>687712</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2">563923</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>563923</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>712582</TotalAssetsBOY>
+        <TotalAssetsEOY>565632</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>565632</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>712582</RetainedEarningsBOY>
+        <RetainedEarningsEOY>565632</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>712582</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>565632</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>712582</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>565632</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>712582</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-182763</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="RetDoc4">35813</OtherIncreases>
+        <Subtotal>565632</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>565632</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CITIGROUP ACCOUNT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-09-30</DateAcquired>
+          <DateSold>2010-09-30</DateSold>
+          <GrossSalesPrice>5362</GrossSalesPrice>
+          <GainOrLoss>5362</GainOrLoss>
+          <GainsMinusExcessOrLosses>5362</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>RAYMOND JAMES ACCOUNT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-09-30</DateAcquired>
+          <DateSold>2010-09-30</DateSold>
+          <CostOrOtherBasis>7362</CostOrOtherBasis>
+          <GainOrLoss>-7362</GainOrLoss>
+          <GainsMinusExcessOrLosses>-7362</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>-2000</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>144638</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>746791</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.193679</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>179934</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>1160241</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.155083</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>156900</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>1348084</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.116387</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>162200</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>1383546</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.117235</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>586697</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>1634834</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.358873</DistributionRatioYear5>
+        <TotalDistributionRatio>0.941257</TotalDistributionRatio>
+        <AverageDistributionRatio>0.188251</AverageDistributionRatio>
+        <NetNoncharitableAssets>675912</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>127241</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>74</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>127315</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>188100</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>74</InvestmentIncomeExciseTax>
+        <Subtotal>74</Subtotal>
+        <TaxBasedOnInvestmentIncome>74</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>488</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>488</TotalCreditsAndPayments>
+        <Overpayment>414</Overpayment>
+        <AmountCreditedToNextYear>414</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>MI</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>MARGARET JEFFERY</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>7344535432</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>46830 BETTY HILL LANE</AddressLine1>
+          <City>PLYMOUTH</City>
+          <State>MI</State>
+          <ZIPCode>48170</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>GLADYS ROBIDEAU</PersonName>
+          <USAddress>
+            <AddressLine1>812 RED MILL DR</AddressLine1>
+            <City>TECUMSEH</City>
+            <State>MI</State>
+            <ZIPCode>49286</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>4.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JAMES A ROBIDEAU</PersonName>
+          <USAddress>
+            <AddressLine1>1217 WILLOW RIDGE LANE</AddressLine1>
+            <City>VAN WERT</City>
+            <State>OH</State>
+            <ZIPCode>45891</ZIPCode>
+          </USAddress>
+          <Title>VICE PRES</Title>
+          <AvgHoursPerWkDevotedToPosition>4.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARGARET JEFFERY</PersonName>
+          <USAddress>
+            <AddressLine1>46830 BETTY HILL</AddressLine1>
+            <City>PLYMOUTH</City>
+            <State>MI</State>
+            <ZIPCode>48170</ZIPCode>
+          </USAddress>
+          <Title>TREAS/SECR</Title>
+          <AvgHoursPerWkDevotedToPosition>4.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JEFFREY T ROBIDEAU</PersonName>
+          <USAddress>
+            <AddressLine1>707 S EVANS ST</AddressLine1>
+            <City>TECUMSEH</City>
+            <State>MI</State>
+            <ZIPCode>49286</ZIPCode>
+          </USAddress>
+          <Title>VICE PRES</Title>
+          <AvgHoursPerWkDevotedToPosition>4.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>676378</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>9827</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>686205</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>686205</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>10293</CashDeemedCharitable>
+        <NetNoncharitableAssets>675912</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>33796</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>33796</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>74</TaxBasedOnInvestmentIncome>
+        <TotalTax>74</TotalTax>
+        <DistributableAmountBeforeAdj>33722</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>33722</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>33722</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>188100</ExpensesAndContributions>
+        <QualifyingDistributions>188100</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>74</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>188026</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>33722</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>506709</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>95044</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>90566</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>123054</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>107522</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>922895</TotalExcessDistriCarryover>
+        <QualifyingDistributions>188100</QualifyingDistributions>
+        <AppliedToCurrentYear>33722</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>154378</RemainingDistriFromCorpus>
+        <TotalCorpus>1077273</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>506709</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>570564</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>95044</ExcessFromYear4>
+        <ExcessFromYear3>90566</ExcessFromYear3>
+        <ExcessFromYear2>123054</ExcessFromYear2>
+        <ExcessFromYear1>107522</ExcessFromYear1>
+        <ExcessFromCurrentYear>154378</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BOYS &amp; GIRLS CLUB</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>A</AddressLine1>
+            <City>ADRIAN</City>
+            <State>MI</State>
+            <ZIPCode>49221</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BIXBY COMM HLTH FDN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>A</AddressLine1>
+            <City>ADRIAN</City>
+            <State>MI</State>
+            <ZIPCode>49221</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>400</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>COMMUNITIES IN SCHOOLS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>A</AddressLine1>
+            <City>TECUMSEH</City>
+            <State>MI</State>
+            <ZIPCode>49286</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HERRICK MEMORIAL FD</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>A</AddressLine1>
+            <City>TECUMSEH</City>
+            <State>MI</State>
+            <ZIPCode>49286</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>108600</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HOSPICE OF LENAWEE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>A</AddressLine1>
+            <City>ADRIAN</City>
+            <State>MI</State>
+            <ZIPCode>49221</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KALAMAZOO COLLEGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>A</AddressLine1>
+            <City>KALAMAZOO</City>
+            <State>MI</State>
+            <ZIPCode>49008</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>11000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LENAWEE CHRISTIAN SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>A</AddressLine1>
+            <City>ADRIAN</City>
+            <State>MI</State>
+            <ZIPCode>49221</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>27000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LEUKEMIA SOCIETY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>A</AddressLine1>
+            <City>ADRIAN</City>
+            <State>MI</State>
+            <ZIPCode>49221</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>OUR LADY OF GOOD COUNSEL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>A</AddressLine1>
+            <City>TECUMSEH</City>
+            <State>MI</State>
+            <ZIPCode>49286</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ST ELIZABETH CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>A</AddressLine1>
+            <City>TECUMSEH</City>
+            <State>MI</State>
+            <ZIPCode>49286</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>9000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ST MARYS ON THE LAKE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>A</AddressLine1>
+            <City>MANITOU BEACH</City>
+            <State>MI</State>
+            <ZIPCode>49253</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TECUMSEH CENTER FOR THE A</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>A</AddressLine1>
+            <City>TECUMSEH</City>
+            <State>MI</State>
+            <ZIPCode>49286</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>5750</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNIV OF MICHIGAN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>A</AddressLine1>
+            <City>ANN ARBOR</City>
+            <State>MI</State>
+            <ZIPCode>48104</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>4250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>VAN WERT YMCA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>A</AddressLine1>
+            <City>VAN WERT</City>
+            <State>OH</State>
+            <ZIPCode>45891</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>YUMA YOUTH CHOIR</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>A</AddressLine1>
+            <City>YUMA</City>
+            <State>AZ</State>
+            <ZIPCode>85366</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>3500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>188100</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>66</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>10491</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>-2000</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>10557</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>-2000</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>8557</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2">
+      <InvestmentsCorpStock>
+        <NameOfStock>TECUMSEH CORRUGATED BOX CO</NameOfStock>
+        <EOYBookValue>251704</EOYBookValue>
+        <EOYFMV>251704</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CITIGROUP INVESTMENT A/C</NameOfStock>
+        <EOYBookValue>52719</EOYBookValue>
+        <EOYFMV>52719</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>RAYMOND JAMES INVESTMENT A/C</NameOfStock>
+        <EOYBookValue>259500</EOYBookValue>
+        <EOYFMV>259500</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="RetDoc3">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>FRANCHISE FEE</Description>
+        <RevenueAndExpensesPerBooks>20</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK CHARGES</Description>
+        <RevenueAndExpensesPerBooks>100</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>100</NetInvestmentIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="RetDoc4">
+      <OtherIncreases>
+        <Description>NET UNREALIZED GAINS</Description>
+        <Amount>35813</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc5">
+      <OtherProfessionalFees>
+        <Category>INVESTMENT FEES</Category>
+        <Amount>2350</Amount>
+        <NetInvestmentIncome>2350</NetInvestmentIncome>
+      </OtherProfessionalFees>
+      <OtherProfessionalFees>
+        <Category>ACCOUNTING EXPENSE</Category>
+        <Amount>750</Amount>
+        <NetInvestmentIncome>750</NetInvestmentIncome>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+  </ReturnData>
+</Return>

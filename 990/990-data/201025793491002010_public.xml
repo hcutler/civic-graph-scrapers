@@ -1,0 +1,738 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-09-14T12:55:36-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>John S Trussalo CPA PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>315 North Main Street Suite 200</AddressLine1>
+        <City>Jamestown</City>
+        <State>NY</State>
+        <ZIPCode>14701</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>160907729</EIN>
+      <Name>
+        <BusinessNameLine1>HULTQUIST FOUNDATION INC</BusinessNameLine1>
+      </Name>
+      <NameControl>HULT</NameControl>
+      <Phone>7166645210</Phone>
+      <USAddress>
+        <AddressLine1>C/O T FLOWERS PO BOX 1219</AddressLine1>
+        <City>JAMESTOWN</City>
+        <State>NY</State>
+        <ZIPCode>147011219</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>THOMAS I FLOWERS</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>7166645210</Phone>
+      <DateSigned>2010-09-14</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>John S Trussalo CPA</Name>
+      <Phone>7164872910</Phone>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="10">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>13175579</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>131979</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>131979</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>227094</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>227094</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>213100</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>6850735</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>213100</CapitalGainNetIncmNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc2001500001">17432</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>5922</OtherIncomeNetInvstIncm>
+        <TotalRevenueAndExpenses>589605</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>578095</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>6000</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>3000</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>3000</CompOfcrDirTrstDsbrsChrtblPrps>
+        <LegalFeesRevAndExpnss referenceDocumentId="RetDoc2002100001">7800</LegalFeesRevAndExpnss>
+        <LegalFeesNetInvstIncm>3900</LegalFeesNetInvstIncm>
+        <LegalFeesDsbrsChrtblPrps>3900</LegalFeesDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">4200</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>2100</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>2100</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">345</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>345</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>0</TaxesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">70733</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>69983</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>750</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>89078</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>79328</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>9750</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>525821</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>525821</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>614899</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>79328</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>535571</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-25294</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>498767</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>343717</CashBOY>
+        <CashEOY>239729</CashEOY>
+        <CashEOYFMV>241769</CashEOYFMV>
+        <InvestmentsGovtObligBOY>616637</InvestmentsGovtObligBOY>
+        <InvestmentsGovtObligEOY referenceDocumentId="RetDoc2210400001">631652</InvestmentsGovtObligEOY>
+        <InvestmentsGovtObligEOYFMV>676265</InvestmentsGovtObligEOYFMV>
+        <InvestmentsCorpStockBOY>4892090</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2018900001">5024452</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>5054029</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>901126</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="RetDoc2044400001">801127</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>823423</InvestmentsCorpBondsEOYFMV>
+        <InvestmentsOtherBOY>6453197</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc2018100001">6484513</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>6380093</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>13206767</TotalAssetsBOY>
+        <TotalAssetsEOY>13181473</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>13175579</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>13206767</UnrestrictedBOY>
+        <UnrestrictedEOY>13181473</UnrestrictedEOY>
+        <TotalNetAssetsBOY>13206767</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>13181473</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>13206767</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>13181473</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>13206767</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-25294</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>13181473</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>13181473</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>PUBLICLY TRADED SECURITIES</DescriptionOfAsset>
+          <DateAcquired>2005-01-01</DateAcquired>
+          <DateSold>2010-06-30</DateSold>
+          <GrossSalesPrice>6850735</GrossSalesPrice>
+          <CostOrOtherBasis>6637635</CostOrOtherBasis>
+          <GainOrLoss>213100</GainOrLoss>
+          <GainsMinusExcessOrLosses>213100</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>213100</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>671150</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>13078451</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.051317</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>661153</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>16582218</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.039871</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>565392</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>16227365</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.034842</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>884742</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>15472101</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.057183</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>688710</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>14807585</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.046511</DistributionRatioYear5>
+        <TotalDistributionRatio>0.229724</TotalDistributionRatio>
+        <AverageDistributionRatio>0.045945</AverageDistributionRatio>
+        <NetNoncharitableAssets>13699791</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>629437</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>4988</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>634425</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>535571</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>9975</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>9975</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>9975</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>7000</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>7000</TotalCreditsAndPayments>
+        <TaxDue>2975</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>NY</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>THOMAS I FLOWERS</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>7166645210</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>400 KEY BANK BLDG BOX 1219</AddressLine1>
+          <City>JAMESTOWN</City>
+          <State>NY</State>
+          <ZIPCode>147011219</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>1</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>0</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>THOMAS I FLOWERS</PersonName>
+          <USAddress>
+            <AddressLine1>220 WEMBLEY DR</AddressLine1>
+            <City>JAMESTOWN</City>
+            <State>NY</State>
+            <ZIPCode>14701</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>1200</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CHARLES H PRICE</PersonName>
+          <USAddress>
+            <AddressLine1>57 GORDON ST</AddressLine1>
+            <City>JAMESTOWN</City>
+            <State>NY</State>
+            <ZIPCode>14701</ZIPCode>
+          </USAddress>
+          <Title>VICE PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>1200</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>WILLIAM L WRIGHT</PersonName>
+          <USAddress>
+            <AddressLine1>55 CANTERBURY</AddressLine1>
+            <City>JAMESTOWN</City>
+            <State>NY</State>
+            <ZIPCode>14701</ZIPCode>
+          </USAddress>
+          <Title>VICE PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>1200</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ROBERT F ROHM JR</PersonName>
+          <USAddress>
+            <AddressLine1>SHERMAN ROAD</AddressLine1>
+            <City>STEDMAN</City>
+            <State>NY</State>
+            <ZIPCode>14722</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY/TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>1200</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOHN K PLUMB</PersonName>
+          <USAddress>
+            <AddressLine1>19 CROWLEY</AddressLine1>
+            <City>RANDOLPH</City>
+            <State>NY</State>
+            <ZIPCode>14772</ZIPCode>
+          </USAddress>
+          <Title>VICE PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>1200</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>CONTRIBUTION OF $250,000 TO JAMESTOWN COMMUNITY COLLEGE FOR CAPITAL IMPROVEMENTS.</Description1>
+        <Expenses1>250000</Expenses1>
+        <Description2>CONTRIBUTION OF $62,500 TO CHAUTAUQUA INSTITUTION FOR CAPITAL IMPROVEMENTS.</Description2>
+        <Expenses2>62500</Expenses2>
+        <Description3>CONTRIBUTION OF $50,000 TO JAMES PRENDERGAST LIBRARY FOR CAPITAL IMPROVEMENTS.</Description3>
+        <Expenses3>50000</Expenses3>
+        <Description4>CONTRIBUTION OF $40,000 TO UNITED WAY OF SOUTHERN CHAUTAUQUA COUNTY FOR ANNUAL FUND.</Description4>
+        <Expenses4>40000</Expenses4>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>13143859</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>764558</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>13908417</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>13908417</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>208626</CashDeemedCharitable>
+        <NetNoncharitableAssets>13699791</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>684990</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>684990</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>9975</TaxBasedOnInvestmentIncome>
+        <TotalTax>9975</TotalTax>
+        <DistributableAmountBeforeAdj>675015</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>675015</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>675015</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>535571</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>535571</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>535571</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>675015</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>282974</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <TotalExcessDistriCarryover>0</TotalExcessDistriCarryover>
+        <QualifyingDistributions>535571</QualifyingDistributions>
+        <AppliedToYear1>282974</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>252597</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>0</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>422418</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>0</ExcessDistriCyovToNextYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>PRICE FLOWERS MALIN WESTERBERG</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>400 KEY BANK BLDG BOX 1219</AddressLine1>
+            <City>JAMESTOWN</City>
+            <State>NY</State>
+            <ZIPCode>147011219</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>7166645210</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>DESCRIPTION OF THE PROGRAM, PROJECT OR CAPITAL IMPROVEMENT/REPLACEMENT INCLUDING ESTIMATED COST. DESCRIPTION MUST BE IN WRITING.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>APPROXIMATELY JUNE AND DECEMBER.</SubmissionDeadlines>
+          <RestrictionsOnAwards>EMPHASIS ON RELIGIOUS, CHARITABLE AND EDUCATION ORGANIZATIONS IN CHAUTAUQUA COUNTY WHICH THE HULTQUIST FAMILY SUPPORTED DURING THEIR LIVES.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JAMESTOWN COMMUNITY COLLEGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>525 FALCONER STREET</AddressLine1>
+            <City>JAMESTOWN</City>
+            <State>NY</State>
+            <ZIPCode>14701</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CAPITAL IMPROVEMENTS</PurposeOfGrantOrContribution>
+          <Amount>250000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHAUTAUQUA INSTITUTION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 28</AddressLine1>
+            <City>CHAUTAUQUA</City>
+            <State>NY</State>
+            <ZIPCode>14722</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CAPITAL IMPROVEMENTS</PurposeOfGrantOrContribution>
+          <Amount>62500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JAMES PRENDERGAST LIBRARY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>519 WASHINGTON STREET</AddressLine1>
+            <City>JAMESTOWN</City>
+            <State>NY</State>
+            <ZIPCode>14701</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CAPITAL IMPROVEMENTS</PurposeOfGrantOrContribution>
+          <Amount>50000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNITED WAY OF SOUTHERN CHAUTAUQUA COUNTY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>413 NORTH MAIN STREET</AddressLine1>
+            <City>JAMESTOWN</City>
+            <State>NY</State>
+            <ZIPCode>14701</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>ANNUAL FUND</PurposeOfGrantOrContribution>
+          <Amount>40000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHAUTAUQUA INSTITUTION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 28</AddressLine1>
+            <City>CHAUTAUQUA</City>
+            <State>NY</State>
+            <ZIPCode>14722</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>SCHOLARSHIPS</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>YOUNG MEN'S CHRISTIAN ASSOCIATION OF JAMESTOWN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>101 EAST FOURTH STREET</AddressLine1>
+            <City>JAMESTOWN</City>
+            <State>NY</State>
+            <ZIPCode>14701</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>OPERATING</PurposeOfGrantOrContribution>
+          <Amount>17500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ALLEGHENY HIGHLANDS COUNCIL INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>50 HOUGH HILL ROAD</AddressLine1>
+            <City>FALCONER</City>
+            <State>NY</State>
+            <ZIPCode>14733</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CAPITAL IMPROVEMENTS</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JAMESTOWN AUDUBON SOCIETY INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>RIVERSIDE ROAD</AddressLine1>
+            <City>FREWSBURG</City>
+            <State>NY</State>
+            <ZIPCode>14738</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>OPERATING</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>YOUNG MEN'S CHRISTIAN ASSOCIATION OF JAMESTOWN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>101 EAST FOURTH STREET</AddressLine1>
+            <City>JAMESTOWN</City>
+            <State>NY</State>
+            <ZIPCode>14701</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>SCHOLARSHIPS</PurposeOfGrantOrContribution>
+          <Amount>13800</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>YOUNG MEN'S CHRISTIAN ASSOCIATION OF JAMESTOWN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>101 EAST FOURTH STREET</AddressLine1>
+            <City>JAMESTOWN</City>
+            <State>NY</State>
+            <ZIPCode>14701</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CAPITAL IMPROVEMENTS</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>YOUNG WOMENT'S CHRISTIAN ASSOCIATION OF JAMESTOWN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>401 NORTH MAIN STREET</AddressLine1>
+            <City>JAMESTOWN</City>
+            <State>NY</State>
+            <ZIPCode>14701</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>OPERATING</PurposeOfGrantOrContribution>
+          <Amount>9771</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ALLEGHENY HIGHLANDS COUNCIL INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>50 HOUGH HILL ROAD</AddressLine1>
+            <City>FALCONER</City>
+            <State>NY</State>
+            <ZIPCode>14733</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CAPITAL IMPROVEMENTS</PurposeOfGrantOrContribution>
+          <Amount>6250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNITED ARTS APPEAL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>715 FALCONER</AddressLine1>
+            <City>JAMESTOWN</City>
+            <State>NY</State>
+            <ZIPCode>14701</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>OPERATING</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHAUTAUQUA COUNTY HUMANE SOCIETY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>STRUNK ROAD</AddressLine1>
+            <City>JAMESTOWN</City>
+            <State>NY</State>
+            <ZIPCode>14701</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>OPERATING</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>YOUNG MEN'S CHRISTIAN ASSOCIATION OF JAMESTOWN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>FOURTH STREET</AddressLine1>
+            <City>JAMESTOWN</City>
+            <State>NY</State>
+            <ZIPCode>14701</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>SCHOLARSHIPS</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>525821</TotGrantOrContriPaidDuringYear>
+        <GrantOrContriApprovedForFuture>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JAMESTOWN COMMUNITY COLLEGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>525 FALCONER STREET</AddressLine1>
+            <City>JAMESTOWN</City>
+            <State>NY</State>
+            <ZIPCode>14701</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CAPITAL IMPROVEMENTS</PurposeOfGrantOrContribution>
+          <Amount>500000</Amount>
+        </GrantOrContriApprovedForFuture>
+        <GrantOrContriApprovedForFuture>
+          <RecipientBusinessName>
+            <BusinessNameLine1>COMMUNITY HELPING HANDS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>WATER STREET</AddressLine1>
+            <City>JAMESTOWN</City>
+            <State>NY</State>
+            <ZIPCode>14701</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>OPERATING</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriApprovedForFuture>
+        <TotGrantOrContriApprovedFuture>505000</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>131979</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>227094</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <OtherInvestmentIncomePartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>5922</ExclusionAmount>
+        </OtherInvestmentIncomePartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>213100</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <OtherRevenueDescribed>
+          <Description>FEDERAL EXCISE TAX REFUND</Description>
+          <RelatedOrExemptFunctionIncome>11510</RelatedOrExemptFunctionIncome>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>578095</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>11510</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>589605</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>147</LineNumber>
+          <RelationshipStatement>FEDERAL EXCISE TAX REFUND NOT INCLUDED IN CALCULATIONS</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>BUFFAMANTE WHIPPLE BUTTAFARO</Category>
+        <Amount>4200</Amount>
+        <NetInvestmentIncome>2100</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>2100</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc2044400001">
+      <InvestmentsCorpBonds>
+        <NameOfBond>CORPORATE BONDS</NameOfBond>
+        <EOYBookValue>801127</EOYBookValue>
+        <EOYFMV>823423</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorpStock>
+        <NameOfStock>CORPORATE STOCK</NameOfStock>
+        <EOYBookValue>5024452</EOYBookValue>
+        <EOYFMV>5054029</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="RetDoc2210400001">
+      <USGovtSecuritiesEOYBookValue>631652</USGovtSecuritiesEOYBookValue>
+      <USGovtSecuritiesEOYFMV>676265</USGovtSecuritiesEOYFMV>
+      <StateLocalSecuritiesEOYBookVal>0</StateLocalSecuritiesEOYBookVal>
+      <StateLocalSecuritiesEOYFMV>0</StateLocalSecuritiesEOYFMV>
+    </InvestmentsGovtObligationsSch>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOther>
+        <CategoryOrItem>MUTUAL FUNDS</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>6484513</BookValue>
+        <EOYFMV>6380093</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <LegalFeesSchedule documentId="RetDoc2002100001">
+      <LegalFees>
+        <Category>PRICE FLOWERS MALIN WESTERBERG</Category>
+        <Amount>7800</Amount>
+        <NetInvestmentIncome>3900</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>3900</DisbursementsCharitablePrps>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>MANAGEMENT FEES</Description>
+        <RevenueAndExpensesPerBooks>69709</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>69709</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MISCELLANEOUS</Description>
+        <RevenueAndExpensesPerBooks>274</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>274</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>NYS FILING FEE</Description>
+        <RevenueAndExpensesPerBooks>750</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>750</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc2001500001">
+      <OtherIncome>
+        <Description>CLASS ACTION SUITS</Description>
+        <RevenueAndExpensesPerBooks>5922</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>5922</NetInvestmentIncome>
+        <AdjustedNetIncome>5922</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>FEDERAL EXCISE TAX REFUND</Description>
+        <RevenueAndExpensesPerBooks>11510</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>11510</AdjustedNetIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>FOREIGN TAX</Category>
+        <Amount>345</Amount>
+        <NetInvestmentIncome>345</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

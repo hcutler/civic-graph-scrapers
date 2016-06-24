@@ -1,0 +1,883 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-08-25T17:34:15-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>ROGERS &amp; COMPANY CPA PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>738 H ST STE 200</AddressLine1>
+        <City>ANCHORAGE</City>
+        <State>AK</State>
+        <ZIPCode>995011954</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>920158717</EIN>
+      <Name>
+        <BusinessNameLine1>TIGARA EDUCATIONAL FOUNDATION INC</BusinessNameLine1>
+      </Name>
+      <NameControl>TIGA</NameControl>
+      <Phone>9073682235</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 9</AddressLine1>
+        <City>POINT HOPE</City>
+        <State>AK</State>
+        <ZIPCode>99766</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>MARTIN OKTOLLIK SR</Name>
+      <Title>MEMBER</Title>
+      <Phone>9073682235</Phone>
+      <DateSigned>2010-08-16</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>PHAEDRA CONNELL CPA</Name>
+      <Phone>9072725104</Phone>
+      <DatePrepared>2010-08-25</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="4">
+    <IRS990PF documentId="RetDoc2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>13142</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>2346</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>9</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>9</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>9</InterestOnSavingsAdjNetIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc4">28282</OtherIncomeRevAndExpnss>
+        <OtherIncomeAdjNetIncm>28282</OtherIncomeAdjNetIncm>
+        <TotalRevenueAndExpenses>30637</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>9</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>28291</TotalAdjustedNetIncome>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc3">14568</OtherExpensesRevAndExpnss>
+        <OtherExpensesAdjNetIncm>321</OtherExpensesAdjNetIncm>
+        <OtherExpensesDsbrsChrtblPrps>14244</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>14568</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>321</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>14244</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>17500</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>17500</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>32068</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>321</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>31744</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-1431</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>9</NetInvestmentIncome>
+        <AdjustedNetIncome>27970</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>14573</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>13142</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>13142</SavingsAndTempCashInvstEOYFMV>
+        <TotalAssetsBOY>14573</TotalAssetsBOY>
+        <TotalAssetsEOY>13142</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>13142</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>14573</UnrestrictedBOY>
+        <UnrestrictedEOY>13142</UnrestrictedEOY>
+        <TotalNetAssetsBOY>14573</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>13142</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>14573</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>13142</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>14573</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-1431</ExcessOfRevenueOverExpenses>
+        <Subtotal>13142</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>13142</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>12000</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>14087</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.851849</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>13000</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>2540</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>5.118110</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>18000</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>3844</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>4.682622</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>17800</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>3511</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>5.069781</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>64000</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>7249</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>8.828804</DistributionRatioYear5>
+        <TotalDistributionRatio>24.551166</TotalDistributionRatio>
+        <AverageDistributionRatio>4.910233</AverageDistributionRatio>
+        <NetNoncharitableAssets>17105</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>83990</AdjustedNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>83990</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>31744</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>AK</StatesFiledWith>
+        <PrivateOperatingFoundation>true</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>TIKIGAQ CORPORATION</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>9073656119</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>2121 ABBOTT ROAD</AddressLine1>
+          <City>ANCHORAGE</City>
+          <State>AK</State>
+          <ZIPCode>99507</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>true</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>true</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JACK SCHAEFER</PersonName>
+          <USAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </USAddress>
+          <Title>MEMBER</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BESSIE KOWUNNA</PersonName>
+          <USAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </USAddress>
+          <Title>MEMBER</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ELIJAH ATTUNGANA</PersonName>
+          <USAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </USAddress>
+          <Title>MEMBER</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARTIN OKTOLLIK SR</PersonName>
+          <USAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </USAddress>
+          <Title>MEMBER</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>PROVIDED 36 SHOLARSHIPS TO STUDENTS TO OBTAIN HIGHER EDUCATION.</Description1>
+        <Expenses1>17500</Expenses1>
+        <Description2>DONATED PROCEEDS FROM THE GOLF TOURNAMENT TO THE TIKIGAQ HIGH SCHOOL BOOSTER CLUB.</Description2>
+        <Expenses2>14244</Expenses2>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>17365</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>17365</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>17365</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>260</CashDeemedCharitable>
+        <NetNoncharitableAssets>17105</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>855</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <Sect4942j3j5FndtnAndFrgnOrg>X</Sect4942j3j5FndtnAndFrgnOrg>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>31744</ExpensesAndContributions>
+        <QualifyingDistributions>31744</QualifyingDistributions>
+        <AdjQualifyingDistributions>31744</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <PrivateOperatingFoundations>
+        <Section4942j3>X</Section4942j3>
+        <LessorAdjNetIncmMinInvstReturn>
+          <CurrentYear>855</CurrentYear>
+          <Year1>704</Year1>
+          <Year2>7</Year2>
+          <Year3>192</Year3>
+          <Total>1758</Total>
+        </LessorAdjNetIncmMinInvstReturn>
+        <Percent85OfLessor>
+          <CurrentYear>727</CurrentYear>
+          <Year1>598</Year1>
+          <Year2>6</Year2>
+          <Year3>163</Year3>
+          <Total>1494</Total>
+        </Percent85OfLessor>
+        <QualifyingDistributions>
+          <CurrentYear>31744</CurrentYear>
+          <Year1>12000</Year1>
+          <Year2>13000</Year2>
+          <Year3>18000</Year3>
+          <Total>74744</Total>
+        </QualifyingDistributions>
+        <QlfyDistriMadeDirectly>
+          <CurrentYear>31744</CurrentYear>
+          <Year1>12000</Year1>
+          <Year2>13000</Year2>
+          <Year3>18000</Year3>
+          <Total>74744</Total>
+        </QlfyDistriMadeDirectly>
+        <TwoThirdsMinInvstReturn>
+          <CurrentYear>570</CurrentYear>
+          <Year1>469</Year1>
+          <Year2>5</Year2>
+          <Year3>128</Year3>
+          <Total>1172</Total>
+        </TwoThirdsMinInvstReturn>
+      </PrivateOperatingFoundations>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>TIGARA EDUCATIONAL FOUNDATION</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 9</AddressLine1>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>9073682235</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>THE WRITTEN APPLICATION MUST BE DELIVERED TO THE TIGARA EDUCATIONAL FOUNDATION WITH SUPPORTING DOCUMENTATION FOR THE PURPOSE OF THE SCHOLARSHIP. FOR EXAMPLE, COLLEGE STUDENTS MUST PROVIDE PROOF OF ENROLLMENT AND GRADE POINT AVERAGE.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>APPLICATIONS ARE ACCEPTED ON AN ONGOING BASIS.</SubmissionDeadlines>
+          <RestrictionsOnAwards>THE PURPOSE OF THE FOUNDATION IS TO PROMOTE EDUCATION AND TO PRESERVE THE INUPIAT CULTURE. SCHOLARSHIPS ARE LIMITED TO NATIVES OF THE POINT HOPE REGION AND THEIR DESCENDANTS. INDIVIDUALS APPLYING FOR AN ACADEMIC SCHOLARSHIP MUST MAINTAIN A 2.0 GRADE POINT AVERAGE AND PROVIDE PROOF OF TRANSCRIPT.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>TAVIA CASADOS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO ATTEND UAF</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JEREMY TOOYAK</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO ATTEND UAA</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>RUTH LANE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO ATTEND UAF</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>VICTOR KUBANYI</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO ATTEND UAF</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JAIME NESS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO ATTEND UNIV. OF HAWAII MANOA</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>TAMMY BURGESS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO ATTEND UAA</PurposeOfGrantOrContribution>
+          <Amount>339</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>TAMMY BURGESS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO ATTEND UAA</PurposeOfGrantOrContribution>
+          <Amount>161</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>COREY AHNANGNATOGUK</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO ATTEND STANFORD</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JOANNA DEJESUS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO ATTEND PRINCE WILLIAM SOUND CC</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SAM LANE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO ATTEND UAF</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>PRISCIA MEMEO</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO ATTEND UAA</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>RENEE HOBSON</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO ATTEND ILISAGVIK COLLEGE</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>RYAN ROCK</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO ATTEND UAA</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>TONY OKTOLLIK</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO ATTEND ILISAGVIK COLLEGE</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>BRENDA TUZROYLUKE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO ATTEND ILISAGVIK COLLEGE</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>HUBERT KOONUK</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO ATTEND ILISAGVIK COLLEGE</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>RONNIE TINGOOK</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO ATTEND UNIV OF TEXAS</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>ADELA LANE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO ATTEND ILISAGVIK COLLEGE</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CLAUDIA KOONALOAK</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO ATTEND UAA</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>NANCY OVIOK</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO ATTEND UAF</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>MESISSHA PRINE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO ATTEND UAF</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>ELIZABETH MCCLEER</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO ATTEND UAA</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>HILLARY KINNEEVEAUK</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO ATTEND UAF</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>RACHAEL KOONUK</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO ATTEND ILISAGVIK COLLEGE</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>RENEE HOBSON</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO ATTEND ILISAGVIK COLLEGE</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>MELISSHA PRINE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO ATTEND UAF</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>TAVIA CASADOS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO ATTEND UAF</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>J MICHAEL DEJESUS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO ATTEN GREEN RIVER COMMUNITY COLLE</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>KELLY MACKENZIE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO ATTEND MAT-SU COLLEGE</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>RUTH LANE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO ATTEND UAF</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JAIME NESS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO ATTEND CHARTER COLLEGE</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>MAUDE HOPSON</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO ATTEND ILISAGVIK COLLEGE</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SHAWN GLANCY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO ATTEND CHARTER COLLEGE</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>AARON MILLIGROCK</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO ATTEND ILISAGVIK COLLEGE</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SPIKE MILLIGROCK</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO ATTEND UAF</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>ALICE ROUNDTREE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>GENERAL DELIVERY</AddressLine1>
+            <AddressLine2>GENERAL DELIVERY</AddressLine2>
+            <City>POINT HOPE</City>
+            <State>AK</State>
+            <ZIPCode>99766</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO ATTEND LANA'S NAIL INSTITUTE</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>17500</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>9</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <NetIncomeLossFromSpecialEvents>
+          <ExclusionCode>1</ExclusionCode>
+          <ExclusionAmount>27961</ExclusionAmount>
+        </NetIncomeLossFromSpecialEvents>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>27970</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>27970</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>TIKIGAQ CORPORATION</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>2121 ABBOTT ROAD</AddressLine1>
+          <City>ANCHORAGE</City>
+          <State>AK</State>
+          <ZIPCode>99507</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>5661</AggregateContributions>
+        <NoncashContributionType>X</NoncashContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>2</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>ARCTIC SLOPE REGIONAL CORPORATION</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>3900 C STREET</AddressLine1>
+          <AddressLine2>SUITE 801</AddressLine2>
+          <City>ANCHORAGE</City>
+          <State>AK</State>
+          <ZIPCode>995035963</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>5000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <NoncashProperty>
+        <ContributorNumberFromPartI>1</ContributorNumberFromPartI>
+        <NoncashPropertyDescription>SUPPLIES FOR GOLF TOURNEY</NoncashPropertyDescription>
+        <FairMarketValue>5661</FairMarketValue>
+        <DateReceived>2009-10-15</DateReceived>
+      </NoncashProperty>
+    </IRS990ScheduleB>
+    <OtherExpensesSchedule documentId="RetDoc3">
+      <OtherExpenses>
+        <Description>GOLF TOURNAMENT</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>SUPPLIES</Description>
+        <RevenueAndExpensesPerBooks>321</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>321</AdjustedNetIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK FEES</Description>
+        <RevenueAndExpensesPerBooks>3</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>CHARTIABLE CONTRIBUTIONS</Description>
+        <RevenueAndExpensesPerBooks>14244</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>14244</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc4">
+      <OtherIncome>
+        <Description>GOLF TOURNAMENT</Description>
+        <RevenueAndExpensesPerBooks>28282</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>28282</AdjustedNetIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+  </ReturnData>
+</Return>

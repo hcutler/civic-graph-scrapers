@@ -1,0 +1,975 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-25T12:13:29-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>FENNER MELSTROM AND DOOLING PLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>355 S OLD WOODWARD SUITE 200</AddressLine1>
+        <City>BIRMINGHAM</City>
+        <State>MI</State>
+        <ZIPCode>48009</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>383169464</EIN>
+      <Name>
+        <BusinessNameLine1>KEMP KLEIN UMPHREY ENDELMAN &amp;AMP MAY FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>KEMP</NameControl>
+      <Phone>2485281111</Phone>
+      <USAddress>
+        <AddressLine1>201 WEST BIG BEAVER NO 600</AddressLine1>
+        <City>TROY</City>
+        <State>MI</State>
+        <ZIPCode>48084</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>RALPH A CASTELLI JR</Name>
+      <Title>PRESIDENT/TREASURER</Title>
+      <Phone>2485281111</Phone>
+      <DateSigned>2011-02-15</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>MICHAEL GOTTSHALL CPA</Name>
+      <Phone>2482588900</Phone>
+      <DatePrepared>2011-02-15</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="2">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>12246</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>11849</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>11849</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>0</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">172</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>0</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>0</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>172</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>12947</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>12947</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>13119</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>12947</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-1270</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>13516</CashBOY>
+        <CashEOY>12246</CashEOY>
+        <CashEOYFMV>12246</CashEOYFMV>
+        <TotalAssetsBOY>13516</TotalAssetsBOY>
+        <TotalAssetsEOY>12246</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>12246</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>0</CapitalStockBOY>
+        <CapitalStockEOY>0</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>13516</RetainedEarningsBOY>
+        <RetainedEarningsEOY>12246</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>13516</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>12246</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>13516</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>12246</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>13516</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-1270</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>12246</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>12246</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>11138</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>9861</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>1.129500</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>22037</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>14487</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>1.521157</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>28480</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>27437</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>1.038014</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>8495</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>28827</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.294689</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>19255</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>20607</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.934391</DistributionRatioYear5>
+        <TotalDistributionRatio>4.917751</TotalDistributionRatio>
+        <AverageDistributionRatio>0.983550</AverageDistributionRatio>
+        <NetNoncharitableAssets>12972</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>12759</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>0</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>12759</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>12947</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>0</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>0</TaxBasedOnInvestmentIncome>
+        <TotalCreditsAndPayments>0</TotalCreditsAndPayments>
+        <TaxDue>0</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>MI</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>NONE</WebsiteAddress>
+        <BooksInCareOfPersonName>PAMELA MACKLEY</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>2485281111</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>201 WEST BIG BEAVER SUITE 600</AddressLine1>
+          <City>TROY</City>
+          <State>MI</State>
+          <ZIPCode>48084</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>0</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>RALPH A CASTELLI JR</PersonName>
+          <USAddress>
+            <AddressLine1>201 WEST BIG BEAVER SUITE 600</AddressLine1>
+            <City>TROY</City>
+            <State>MI</State>
+            <ZIPCode>48084</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT/TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>0.17</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>THOMAS J O'CONNOR</PersonName>
+          <USAddress>
+            <AddressLine1>201 WEST BIG BEAVER SUITE 600</AddressLine1>
+            <City>TROY</City>
+            <State>MI</State>
+            <ZIPCode>48084</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>0.17</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>SUSAN M HALLIGAN</PersonName>
+          <USAddress>
+            <AddressLine1>201 WEST BIG BEAVER SUITE 600</AddressLine1>
+            <City>TROY</City>
+            <State>MI</State>
+            <ZIPCode>48084</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.17</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARGARET A SAGESE</PersonName>
+          <USAddress>
+            <AddressLine1>201 WEST BIG BEAVER SUITE 600</AddressLine1>
+            <City>TROY</City>
+            <State>MI</State>
+            <ZIPCode>48084</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.17</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DIANE SZALKIEWICZ</PersonName>
+          <USAddress>
+            <AddressLine1>201 WEST BIG BEAVER SUITE 600</AddressLine1>
+            <City>TROY</City>
+            <State>MI</State>
+            <ZIPCode>48084</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.17</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>GLORIA M CHON</PersonName>
+          <USAddress>
+            <AddressLine1>201 WEST BIG BEAVER SUITE 600</AddressLine1>
+            <City>TROY</City>
+            <State>MI</State>
+            <ZIPCode>48084</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.17</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CYNTHIA A FROBES</PersonName>
+          <USAddress>
+            <AddressLine1>201 WEST BIG BEAVER SUITE 600</AddressLine1>
+            <City>TROY</City>
+            <State>MI</State>
+            <ZIPCode>48084</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.17</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>FAITH M GAUDEAN</PersonName>
+          <USAddress>
+            <AddressLine1>201 WEST BIG BEAVER SUITE 600</AddressLine1>
+            <City>TROY</City>
+            <State>MI</State>
+            <ZIPCode>48084</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.17</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>THOMAS TRAINER</PersonName>
+          <USAddress>
+            <AddressLine1>201 WEST BIG BEAVER SUITE 600</AddressLine1>
+            <City>TROY</City>
+            <State>MI</State>
+            <ZIPCode>48084</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.17</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>13170</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>13170</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>13170</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>198</CashDeemedCharitable>
+        <NetNoncharitableAssets>12972</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>649</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>649</MinimumInvestmentReturn>
+        <TotalTax>0</TotalTax>
+        <DistributableAmountBeforeAdj>649</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>649</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>649</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>12947</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>12947</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>12947</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>649</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear5>18225</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>7054</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>27108</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>21313</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>10645</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>84345</TotalExcessDistriCarryover>
+        <QualifyingDistributions>12947</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>649</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>12298</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>96643</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>18225</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>78418</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>7054</ExcessFromYear4>
+        <ExcessFromYear3>27108</ExcessFromYear3>
+        <ExcessFromYear2>21313</ExcessFromYear2>
+        <ExcessFromYear1>10645</ExcessFromYear1>
+        <ExcessFromCurrentYear>12298</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>RALPH A CASTELLI JR</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>201 WEST BIG BEAVER SUITE 600</AddressLine1>
+            <City>TROY</City>
+            <State>MI</State>
+            <ZIPCode>48084</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>2485281111</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>APPLICATIONS SHOULD BE IN WRITING.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>NONE</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ACCESS TO JUSTICE FUND - ELDER LAW OF MI</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>306 TOWNSEND STREET</AddressLine1>
+            <City>LANSING</City>
+            <State>MI</State>
+            <ZIPCode>48933</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO SUPPORT LEGAL AID FOR THE POOR</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AMERICAN CANCER SOCIETY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 22718</AddressLine1>
+            <City>OKLAHOMA CITY</City>
+            <State>OK</State>
+            <ZIPCode>73123</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROMOTE CANCER RESEARCH</PurposeOfGrantOrContribution>
+          <Amount>125</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ANGELA HOSPICE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>14100 NEWBURGH ROAD</AddressLine1>
+            <City>LIVONIA</City>
+            <State>MI</State>
+            <ZIPCode>48154</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>IMPROVE THE QUALITY OF LIFE FOR SICK ADULTS AND CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>125</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BEAR HUG FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 2197</AddressLine1>
+            <City>BIRMINGHAM</City>
+            <State>MI</State>
+            <ZIPCode>48012</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO PROVIDE CHILDREN WITH OUTDOOR EDUCATIONAL/RECREATIONAL ACTIVITIES</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BOY SCOUTS OF AMERICA #139</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>225 PERSIMMON CT</AddressLine1>
+            <City>OXFORD</City>
+            <State>MI</State>
+            <ZIPCode>48371</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO PROMOTE YOUTH ACTIVITIES TO DEVELOP CHARACTER AND STRONG COMMUNITIES</PurposeOfGrantOrContribution>
+          <Amount>125</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BRENDAN FILZEK CHILDHOOD CANCER ASSISTANCE FUND</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>41350 PRODUCTION DRIVE</AddressLine1>
+            <City>HARRISON TWP</City>
+            <State>MI</State>
+            <ZIPCode>48045</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PRIVATE</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROMOTE CANCER RESEARCH AND ASSIST CHILDREN WITH CANCER</PurposeOfGrantOrContribution>
+          <Amount>125</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CAPUCHIN SOUP KITCHEN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1820 MT ELLIOTT STREET</AddressLine1>
+            <City>DETROIT</City>
+            <State>MI</State>
+            <ZIPCode>48207</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO PROVIDE SUPPORT IN FEEDING THE HUNGRY</PurposeOfGrantOrContribution>
+          <Amount>425</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CLINTON BUSH HAITI FUND</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>610 PRESIDENT CLINTON AVENUE</AddressLine1>
+            <City>LITTLE ROCK</City>
+            <State>AR</State>
+            <ZIPCode>72201</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO HELP SAVE LIVES AND HELP HAITI REBUILD</PurposeOfGrantOrContribution>
+          <Amount>400</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>COMMON GROUND SANCTUARY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1410 S TELEGRAPH ROAD</AddressLine1>
+            <City>BLOOMFIELD HILLS</City>
+            <State>MI</State>
+            <ZIPCode>48302</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ASSIST YOUTHS, ADULTS, AND FAMILIES IN CRISIS</PurposeOfGrantOrContribution>
+          <Amount>6700</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DANCE MARATHON AT THE UNIVERSITY OF MICHIGAN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>530 SOUTH STATE STREET</AddressLine1>
+            <City>ANN ARBOR</City>
+            <State>MI</State>
+            <ZIPCode>48109</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO SUPPORT VARIOUS CHARITABLE CAUSES</PurposeOfGrantOrContribution>
+          <Amount>200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DETROIT CONCERT CHOIR</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 24558</AddressLine1>
+            <City>DETROIT</City>
+            <State>MI</State>
+            <ZIPCode>48224</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO SUPPORT CHORAL MUSIC OF HIGH ARTISTIC MERIT AND CULTURAL ENRICHMENT</PurposeOfGrantOrContribution>
+          <Amount>125</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DETROIT KAPPA FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>41065 WYNDCHASE</AddressLine1>
+            <City>CANTON</City>
+            <State>MI</State>
+            <ZIPCode>48188</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PRIVATE</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO SUPPORT VARIOUS FOUNDATION WORKS</PurposeOfGrantOrContribution>
+          <Amount>90</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FURRY FRIENDS RESCUE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1034</AddressLine1>
+            <City>BRIGHTON</City>
+            <State>MI</State>
+            <ZIPCode>48116</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROMOTE ANIMAL WELFARE</PurposeOfGrantOrContribution>
+          <Amount>50</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GLEANERS FOOD BANK</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2131 BEAUFAIT</AddressLine1>
+            <City>DETROIT</City>
+            <State>MI</State>
+            <ZIPCode>48207</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO SUPPORT FIGHT AGAINST CHILDHOOD HUNGER</PurposeOfGrantOrContribution>
+          <Amount>350</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GROSSE POINTE UNITED METHODIST CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>211 MOROSS</AddressLine1>
+            <City>GROSSE POINTE FARMS</City>
+            <State>MI</State>
+            <ZIPCode>48236</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO PROMOTE COMMUNITY WELLBEING THROUGH CHRISTIAN FAITH</PurposeOfGrantOrContribution>
+          <Amount>20</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HONOR FLIGHT MICHIGAN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 237</AddressLine1>
+            <City>ROYAL OAK</City>
+            <State>MI</State>
+            <ZIPCode>48068</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO ENABLE WORLD WAR II VETERANS' TRAVEL TO THEIR MEMORIAL IN WASHINGTON D.C.</PurposeOfGrantOrContribution>
+          <Amount>125</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HUMANE SOCIETY OF MACOMB</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>11350 22 MILE ROAD</AddressLine1>
+            <City>UTICA</City>
+            <State>MI</State>
+            <ZIPCode>48317</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROMOTE ANIMAL WELFARE</PurposeOfGrantOrContribution>
+          <Amount>63</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>I MATTER FOR KIDS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>135 N OLD WOODWARD</AddressLine1>
+            <City>BIRMINGHAM</City>
+            <State>MI</State>
+            <ZIPCode>48009</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO PROMOTE CHILDHOOD WELLBEING</PurposeOfGrantOrContribution>
+          <Amount>75</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KARMANOS CANCER INSTITUTE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4100 JOHN R</AddressLine1>
+            <City>DETROIT</City>
+            <State>MI</State>
+            <ZIPCode>48201</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROMOTE CANCER RESEARCH</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LEADER DOGS FOR THE BLIND</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1039 S ROCHESTER ROAD</AddressLine1>
+            <City>ROCHESTER</City>
+            <State>MI</State>
+            <ZIPCode>48307</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ASSISTANCE FOR THE BLIND AND VISUALLY IMPAIRED</PurposeOfGrantOrContribution>
+          <Amount>450</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MACOMB LITERACY PARTNERS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>16480 HALL ROAD</AddressLine1>
+            <City>CLINTON TWP</City>
+            <State>MI</State>
+            <ZIPCode>48038</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROMOTE LITERACY</PurposeOfGrantOrContribution>
+          <Amount>63</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MARY GREGORY MEMORIAL SCHOLARSHIP FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 5004</AddressLine1>
+            <City>SOUTHFIELD</City>
+            <State>MI</State>
+            <ZIPCode>48086</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO SUPPORT EDUCATIONAL SCHOLARSHIPS AWARDED TO DESERVING YOUNG WOMEN</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MICHIGAN OUTLAWS SOFTBALL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>688 WEST OXHILL DRIVE</AddressLine1>
+            <City>WHITE LAKE</City>
+            <State>MI</State>
+            <ZIPCode>48386</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROVIDE YOUNG WOMEN WITH A CONTROLLED &amp; POSITIVE ENVIRONMENT</PurposeOfGrantOrContribution>
+          <Amount>75</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>OCBA IRAC PAC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1760 S TELEGRAPH SUITE 100</AddressLine1>
+            <City>BLOOMFIELD HILLS</City>
+            <State>MI</State>
+            <ZIPCode>48302</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROMOTE LOCAL ASSOCIATION</PurposeOfGrantOrContribution>
+          <Amount>125</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>OAKLAND LITERACY COUNCIL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2550 S TELEGRAPH RD</AddressLine1>
+            <City>BLOOMFIELD HILLS</City>
+            <State>MI</State>
+            <ZIPCode>48302</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO PROMOTE LITERACY</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>RACE FOR THE CUREKARMANOS CANCER INSTITUTE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>110 E WARREN AVENUE</AddressLine1>
+            <City>DETROIT</City>
+            <State>MI</State>
+            <ZIPCode>48202</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROMOTE CANCER RESEARCH</PurposeOfGrantOrContribution>
+          <Amount>125</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ROYAL OAK ANIMAL MISSION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1545 EAST LINCOLN</AddressLine1>
+            <City>ROYAL OAK</City>
+            <State>MI</State>
+            <ZIPCode>48067</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROMOTE ANIMAL WELFARE</PurposeOfGrantOrContribution>
+          <Amount>125</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SALEM ROCKETTES</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>926 QUEENS WAY</AddressLine1>
+            <City>CANTON</City>
+            <State>MI</State>
+            <ZIPCode>48188</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO SUPPORT YOUTH DANCE ACTIVITIES</PurposeOfGrantOrContribution>
+          <Amount>125</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ST ANASTASIA CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4571 JOHN R ROAD</AddressLine1>
+            <City>TROY</City>
+            <State>MI</State>
+            <ZIPCode>48085</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO PROMOTE COMMUNITY WELLBEING THROUGH CHRISTIAN FAITH</PurposeOfGrantOrContribution>
+          <Amount>50</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ST AUGUSTINE CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>68035 SOUTH MAIN STREET</AddressLine1>
+            <City>RICHMOND</City>
+            <State>MI</State>
+            <ZIPCode>48062</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO PROMOTE COMMUNITY WELLBEING THROUGH CHRISTIAN FAITH</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ST JUDE'S CHILDRENS RESEARCH HOSPITAL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>501 ST JUDE PLACE</AddressLine1>
+            <City>MEMPHIS</City>
+            <State>TN</State>
+            <ZIPCode>38105</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO PROMOTE MEDICAL RESEARCH AND TREATMENT FOR VARIOUS CHILDHOOD ILLNESSES</PurposeOfGrantOrContribution>
+          <Amount>50</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SALVATION ARMY - ADOPT A FAMILY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1627 WEST FORT STREET</AddressLine1>
+            <City>DETROIT</City>
+            <State>MI</State>
+            <ZIPCode>48216</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO SUPPORT FAMILIES IN NEED</PurposeOfGrantOrContribution>
+          <Amount>761</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SWITZER PTO</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>53200 SHELBY ROAD</AddressLine1>
+            <City>SHELBY TWP</City>
+            <State>MI</State>
+            <ZIPCode>48316</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO SUPPORT PARENT-TEACHER ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>125</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TEMPLE ISRAEL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5725 WALNUT LAKE ROAD</AddressLine1>
+            <City>WEST BLOOMFIELD</City>
+            <State>MI</State>
+            <ZIPCode>48323</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO PROMOTE COMMUNITY WELLBEING THROUGH JEWISH FAITH</PurposeOfGrantOrContribution>
+          <Amount>50</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE BASILICA OF ST MARY ANTIOCHIAN CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>18100 MERRIMAN ROAD</AddressLine1>
+            <City>LIVONIA</City>
+            <State>MI</State>
+            <ZIPCode>48152</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO PROMOTE COMMUNITY WELLBEING THROUGH CHRISTIAN FAITH</PurposeOfGrantOrContribution>
+          <Amount>50</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WINNING FUTURES</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5800 FOURTEEN MILE ROAD</AddressLine1>
+            <City>WARREN</City>
+            <State>MI</State>
+            <ZIPCode>48092</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ASSISTANCE FOR YOUTH EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>12947</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>0</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>0</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>BANK SERVICE CHARGES</Description>
+        <RevenueAndExpensesPerBooks>172</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

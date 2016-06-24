@@ -1,0 +1,481 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.3" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-01-14T13:46:28-08:00</Timestamp>
+    <TaxPeriodEndDate>2010-09-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Joseph Master &amp; Company CPAs</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>145 East Rich Avenue Suite A</AddressLine1>
+        <City>DeLand</City>
+        <State>FL</State>
+        <ZIPCode>32724</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-10-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>592905017</EIN>
+      <Name>
+        <BusinessNameLine1>LORNA JEAN BROOKS</BusinessNameLine1>
+        <BusinessNameLine2>FOUNDATION INC</BusinessNameLine2>
+      </Name>
+      <NameControl>LORN</NameControl>
+      <USAddress>
+        <AddressLine1>921 South Hill Avenue</AddressLine1>
+        <City>DeLand</City>
+        <State>FL</State>
+        <ZIPCode>32724</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Lorna Jean Hagstrom</Name>
+      <Title>President</Title>
+      <DateSigned>2011-01-11</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>Mary Jeanne Ludwig</Name>
+      <Phone>3867360227</Phone>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="09000047" softwareVersion="2009v1.3">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>178628</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>1481</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>4</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>4</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>4</InterestOnSavingsAdjNetIncm>
+        <DividendsRevAndExpnss>3196</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>3196</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>3196</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId=" GainLossFromSaleOtherAssetsSch">2429</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>20794</GrossSalesPrice>
+        <TotalRevenueAndExpenses>7110</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>3200</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>3200</TotalAdjustedNetIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId=" AccountingFeesSchedule">680</AccountingFeesRevAndExpnss>
+        <AccountingFeesDsbrsChrtblPrps>680</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId=" TaxesSchedule">26</TaxesRevAndExpnss>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">228</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>61</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>228</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>934</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>61</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>908</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>7115</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>7115</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>8049</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>61</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>8023</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-939</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>3139</NetInvestmentIncome>
+        <AdjustedNetIncome>3200</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>1940</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>17885</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>17885</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>119094</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId=" InvestmentsCorpStockSchedule">102209</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>160743</InvestmentsCorpStockEOYFMV>
+        <OtherAssetsEOY referenceDocumentId=" OtherAssetsSchedule">1</OtherAssetsEOY>
+        <TotalAssetsBOY>121034</TotalAssetsBOY>
+        <TotalAssetsEOY>120095</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>178628</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>500</CapitalStockBOY>
+        <CapitalStockEOY>500</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>32500</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>32500</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>88034</RetainedEarningsBOY>
+        <RetainedEarningsEOY>87095</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>121034</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>120095</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>121034</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>120095</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>121034</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-939</ExcessOfRevenueOverExpenses>
+        <Subtotal>120095</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>120095</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>11107</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>161842</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.06863</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>11938</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>220802</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.05407</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>9821</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>242478</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.04050</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>7869</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>196503</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.04005</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>4426</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>158883</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.02786</DistributionRatioYear5>
+        <TotalDistributionRatio>0.23110</TotalDistributionRatio>
+        <AverageDistributionRatio>0.04622</AverageDistributionRatio>
+        <NetNoncharitableAssets>174365</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>8059</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>31</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>8090</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>8023</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>63</InvestmentIncomeExciseTax>
+        <Subtotal>63</Subtotal>
+        <TaxBasedOnInvestmentIncome>63</TaxBasedOnInvestmentIncome>
+        <TaxDue>63</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>false</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>FL</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>Lorna Jean Hagstrom</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>3867347455</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>921 South Hill Avenue</AddressLine1>
+          <City>Deland</City>
+          <State>FL</State>
+          <ZIPCode>32724</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>WILLIAM RODRIGUEZ</PersonName>
+          <USAddress>
+            <AddressLine1>1579 GRAND AVENUE</AddressLine1>
+            <City>DELAND</City>
+            <State>FL</State>
+            <ZIPCode>32720</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>KIRSTEN HAGSTROM-RODRIGUEZ</PersonName>
+          <USAddress>
+            <AddressLine1>1579 GRAND AVENUE</AddressLine1>
+            <City>DELAND</City>
+            <State>FL</State>
+            <ZIPCode>32720</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>LARS BROOKS HAGSTROM</PersonName>
+          <USAddress>
+            <AddressLine1>1579 GRAND AVENUE</AddressLine1>
+            <City>DELAND</City>
+            <State>FL</State>
+            <ZIPCode>32720</ZIPCode>
+          </USAddress>
+          <Title>VICE PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>LORNA JEAN HAGSTROM</PersonName>
+          <USAddress>
+            <AddressLine1>921 S HILL AVENUE</AddressLine1>
+            <City>DELAND</City>
+            <State>FL</State>
+            <ZIPCode>32724</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>167107</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>9913</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>177020</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>177020</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>2655</CashDeemedCharitable>
+        <NetNoncharitableAssets>174365</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>8718</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>8718</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>63</TaxBasedOnInvestmentIncome>
+        <TotalTax>63</TotalTax>
+        <DistributableAmountBeforeAdj>8655</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>8655</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>8655</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>8023</ExpensesAndContributions>
+        <QualifyingDistributions>8023</QualifyingDistributions>
+        <AdjQualifyingDistributions>8023</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>8655</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>7101</UndistributedIncomePriorYear>
+        <QualifyingDistributions>8023</QualifyingDistributions>
+        <AppliedToYear1>7101</AppliedToYear1>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>922</AppliedToCurrentYear>
+        <UndistributedIncomeCY>7733</UndistributedIncomeCY>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>LORNA JEAN HAGSTROM</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Krewe of Amalee</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>112 N Florida Ave</AddressLine1>
+            <City>Deland</City>
+            <State>FL</State>
+            <ZIPCode>32720</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>Donation to the General Operating Fund</PurposeOfGrantOrContribution>
+          <Amount>1300</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Museum of Florida Art</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>600 N Woodland Boulevard</AddressLine1>
+            <City>DeLand</City>
+            <State>FL</State>
+            <ZIPCode>32720</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>Donation to the General Operating Fund</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Florida Southern College</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>111 Lake Hollingsworth Drive</AddressLine1>
+            <City>Lakeland</City>
+            <State>FL</State>
+            <ZIPCode>33801</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>Donation to the General Operating Fund</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Alliance for International Reforest</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>421 N Woodland Blvd Unit 8301</AddressLine1>
+            <City>DeLand</City>
+            <State>FL</State>
+            <ZIPCode>32723</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>Donation to the General Operating Fund</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Florida Hospital Foundation</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>701 Plymouth Avenue</AddressLine1>
+            <City>DeLand</City>
+            <State>FL</State>
+            <ZIPCode>32720</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>Donation to the Capital Budget</PurposeOfGrantOrContribution>
+          <Amount>1015</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>The Athens Theatre</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>N Florida Avenue</AddressLine1>
+            <City>DeLand</City>
+            <State>FL</State>
+            <ZIPCode>32720</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>Donation to the General Operating Fund</PurposeOfGrantOrContribution>
+          <Amount>50</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Florida House</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>One 2nd Street SE</AddressLine1>
+            <City>Washington</City>
+            <State>DC</State>
+            <ZIPCode>20002</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>Donation to the General Operating Fund</PurposeOfGrantOrContribution>
+          <Amount>2075</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Stetson University</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>North Woodland Boulevard</AddressLine1>
+            <City>DeLand</City>
+            <State>FL</State>
+            <ZIPCode>32720</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>Donation to the General Operating Fund</PurposeOfGrantOrContribution>
+          <Amount>1050</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>St Barnabas Episcopal School</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>322 W Michigan Avenue</AddressLine1>
+            <City>DeLand</City>
+            <State>FL</State>
+            <ZIPCode>32720</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>Donation to the General Operating Fund</PurposeOfGrantOrContribution>
+          <Amount>25</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>7115</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <RelatedOrExemptFunctionIncome>4</RelatedOrExemptFunctionIncome>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <RelatedOrExemptFunctionIncome>3196</RelatedOrExemptFunctionIncome>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>2429</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>2429</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>3200</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>5629</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="09000047" softwareVersion="2009v1.3">
+      <AccountingFees>
+        <Category>Tax Preparation Fees</Category>
+        <Amount>680</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>680</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="GainLossFromSaleOtherAssetsSch" softwareId="09000047" softwareVersion="2009v1.3">
+      <GainLossSaleOtherAsset>
+        <DateAcquired>2008-01</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-09</DateSold>
+        <GrossSalesPrice>20794</GrossSalesPrice>
+        <Basis>18365</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>2429</TotalNet>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSchedule" softwareId="09000047" softwareVersion="2009v1.3">
+      <InvestmentsCorpStock>
+        <NameOfStock>Corporate Stock Holdings</NameOfStock>
+        <EOYBookValue>102209</EOYBookValue>
+        <EOYFMV>160743</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherAssetsSchedule documentId="OtherAssetsSchedule" softwareId="09000047" softwareVersion="2009v1.3">
+      <OtherAssets>
+        <Description>Rounding</Description>
+        <EOYBookValue>1</EOYBookValue>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="09000047" softwareVersion="2009v1.3">
+      <OtherExpenses>
+        <Description>Postage</Description>
+        <RevenueAndExpensesPerBooks>3</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>3</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Filing Fee</Description>
+        <RevenueAndExpensesPerBooks>61</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>61</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>61</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Corporate Annual Meeting</Description>
+        <RevenueAndExpensesPerBooks>164</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>164</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="09000047" softwareVersion="2009v1.3">
+      <Taxes>
+        <Category>2009 Federal Excise Tax</Category>
+        <Amount>26</Amount>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

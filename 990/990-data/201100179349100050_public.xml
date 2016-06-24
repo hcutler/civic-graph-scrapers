@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-01-17T09:17:41-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-08-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>SHANE YURMAN CPA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>127 ROUTE 59</AddressLine1>
+        <City>MONSEY</City>
+        <State>NY</State>
+        <ZIPCode>10952</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-09-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>137049647</EIN>
+      <Name>
+        <BusinessNameLine1>THE MORNINGSTAR FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>MORN</NameControl>
+      <USAddress>
+        <AddressLine1>C/O GEORGE MORGENSTERN TRUSTEE</AddressLine1>
+        <AddressLine2>5 SHALVAH PLACE</AddressLine2>
+        <City>MONSEY</City>
+        <State>NY</State>
+        <ZIPCode>10952</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>GEORGE MORGENSTERN</Name>
+      <Title>PRESIDENT</Title>
+      <DateSigned>2010-12-28</DateSigned>
+    </Officer>
+    <Preparer>
+      <Phone>8453566400</Phone>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990PF documentId="IRS990PF">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>20701</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>148011</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>32</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>32</InterestOnSavingsNetInvstIncm>
+        <TotalRevenueAndExpenses>148043</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>32</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSch">166</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>166</OtherExpensesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>166</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>166</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>173686</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>173686</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>173852</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>166</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>173686</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-25809</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>9899</CashBOY>
+        <CashEOY>12059</CashEOY>
+        <CashEOYFMV>12059</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>36611</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>8642</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>8642</SavingsAndTempCashInvstEOYFMV>
+        <TotalAssetsBOY>46510</TotalAssetsBOY>
+        <TotalAssetsEOY>20701</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>20701</TotalAssetsEOYFMV>
+        <AccountsPayableBOY>0</AccountsPayableBOY>
+        <AccountsPayableEOY>0</AccountsPayableEOY>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>46510</UnrestrictedBOY>
+        <UnrestrictedEOY>20701</UnrestrictedEOY>
+        <TotalNetAssetsBOY>46510</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>20701</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>46510</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>20701</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>46510</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-25809</ExcessOfRevenueOverExpenses>
+        <Subtotal>20701</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>20701</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses />
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>194224</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>79486</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>2.443499</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>205018</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>103855</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>1.974079</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>128645</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>74119</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>1.735655</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>91382</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>116109</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.787036</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>192217</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>159928</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>1.201897</DistributionRatioYear5>
+        <TotalDistributionRatio>8.142166</TotalDistributionRatio>
+        <AverageDistributionRatio>1.628433</AverageDistributionRatio>
+        <NetNoncharitableAssets>48244</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>78562</AdjustedNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>78562</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>173686</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <Subtotal>0</Subtotal>
+        <TaxBasedOnInvestmentIncome>0</TaxBasedOnInvestmentIncome>
+        <TotalCreditsAndPayments>0</TotalCreditsAndPayments>
+        <TaxDue>0</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>NY</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>GEORGE MOORGENSTERN</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>5 SHALVAH PLACE</AddressLine1>
+          <City>MONSEY</City>
+          <State>NY</State>
+          <ZIPCode>10952</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>GEORGE MORGENSTERN</PersonName>
+          <USAddress>
+            <AddressLine1>C/O GEORGE MORGENSTERN TRUSTEE</AddressLine1>
+            <City>MONSEY</City>
+            <State>NY</State>
+            <ZIPCode>10952</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>2.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy />
+      <SumOfProgramRelatedInvestments />
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>48979</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>48979</TotalFMVOfUnusedAssets>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>48979</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>735</CashDeemedCharitable>
+        <NetNoncharitableAssets>48244</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>2412</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>2412</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>0</TaxBasedOnInvestmentIncome>
+        <TotalTax>0</TotalTax>
+        <DistributableAmountBeforeAdj>2412</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>2412</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>2412</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>173686</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <AmountsPaidAcqCharitableAssets>0</AmountsPaidAcqCharitableAssets>
+        <AmountsSetAsideSuitabilityTest>0</AmountsSetAsideSuitabilityTest>
+        <AmountsSetAsideCashDistriTest>0</AmountsSetAsideCashDistriTest>
+        <QualifyingDistributions>173686</QualifyingDistributions>
+        <AdjQualifyingDistributions>173686</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>2412</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <PriorYear1>2007</PriorYear1>
+        <PriorYear2>2006</PriorYear2>
+        <PriorYear3>2005</PriorYear3>
+        <ExcessDistriCarryoverYear5>184279</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>111586</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>124939</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>199831</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>190250</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>810885</TotalExcessDistriCarryover>
+        <QualifyingDistributions>173686</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToCurrentYear>2412</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>171274</RemainingDistriFromCorpus>
+        <TotalCorpus>982159</TotalCorpus>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>184279</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>797880</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>111586</ExcessFromYear4>
+        <ExcessFromYear3>124939</ExcessFromYear3>
+        <ExcessFromYear2>199831</ExcessFromYear2>
+        <ExcessFromYear1>190250</ExcessFromYear1>
+        <ExcessFromCurrentYear>171274</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <PrivateOperatingFoundations />
+      <SupplementaryInformation>
+        <ContributingManager>GEORGE MORGENSTERN</ContributingManager>
+        <ShareholderManager>NONE</ShareholderManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>VARIOUS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5 SHALVAH PLACE</AddressLine1>
+            <City>MONSEY</City>
+            <State>NY</State>
+            <ZIPCode>10952</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>173686</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>173686</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <FeesContractsFromGovtAgencies />
+        <MembershipDuesAndAssessments />
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>32</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII />
+        <NetRentalIncmReDebtFincdProp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncmPersonalProperty />
+        <OtherInvestmentIncomePartVII />
+        <GainSalesAssetsOthThanInvntry />
+        <NetIncomeLossFromSpecialEvents />
+        <GrossProfitLossSalesOfInvntry />
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>32</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>32</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps />
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>G MORGENSTERN</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>5 SHALVAH PLACE</AddressLine1>
+          <City>MONSEY</City>
+          <State>NY</State>
+          <ZIPCode>10952</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>100700</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>2</ContributorNumber>
+        <ContributorNameIndividual>S MORGENSTERN</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>5 SHALVAH PLACE</AddressLine1>
+          <City>MONSEY</City>
+          <State>NY</State>
+          <ZIPCode>10952</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>46961</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <InvestmentsLandSchedule2 documentId="InvLandSch2" />
+    <LandEtcSchedule2 documentId="LandEtcSch2" />
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpenses>
+        <Description>BANK CHARGES</Description>
+        <RevenueAndExpensesPerBooks>166</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>166</NetInvestmentIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <Taxes>
+        <Category>NYS DEPARTMENT OF LAW</Category>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

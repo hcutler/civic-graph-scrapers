@@ -1,0 +1,715 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-01-28T12:08:47-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>LITMAN GERSON ASSOCIATES LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>600 W CUMMINGS PARK SUITE 4400</AddressLine1>
+        <City>WOBURN</City>
+        <State>MA</State>
+        <ZIPCode>01801</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>581900995</EIN>
+      <Name>
+        <BusinessNameLine1>STALLINGS MEMORIAL PARK CHARITABLE</BusinessNameLine1>
+        <BusinessNameLine2>CO ANDREW H STALLINGS TRUSTEE</BusinessNameLine2>
+      </Name>
+      <NameControl>STAL</NameControl>
+      <Phone>8582646224</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 111</AddressLine1>
+        <City>BOONE</City>
+        <State>NC</State>
+        <ZIPCode>28607</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Andrew Stallings</Name>
+      <Title>Trustee</Title>
+      <Phone>8582646224</Phone>
+      <DateSigned>2011-01-20</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>STEVEN R GALLANT</Name>
+      <Phone>7815694700</Phone>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990PF documentId="RetDoc1235000001">
+      <PFStatusTerminatedSect507b1A>X</PFStatusTerminatedSect507b1A>
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>35896</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>390</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>10</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>10</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>10</InterestOnSavingsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss>-15404</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>10000</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <NetSTCGAdjNetIncm>0</NetSTCGAdjNetIncm>
+        <TotalRevenueAndExpenses>-15004</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>10</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>10</TotalAdjustedNetIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstAdjNetIncm>0</CompOfcrDirTrstAdjNetIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <LegalFeesRevAndExpnss referenceDocumentId="RetDoc2002100001">350</LegalFeesRevAndExpnss>
+        <LegalFeesNetInvstIncm>0</LegalFeesNetInvstIncm>
+        <LegalFeesAdjNetIncm>0</LegalFeesAdjNetIncm>
+        <LegalFeesDsbrsChrtblPrps>0</LegalFeesDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">550</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>0</AccountingFeesNetInvstIncm>
+        <AccountingFeesAdjNetIncm>0</AccountingFeesAdjNetIncm>
+        <AccountingFeesDsbrsChrtblPrps>0</AccountingFeesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">69</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>0</OtherExpensesNetInvstIncm>
+        <OtherExpensesAdjNetIncm>0</OtherExpensesAdjNetIncm>
+        <OtherExpensesDsbrsChrtblPrps>0</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>969</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>0</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>0</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>969</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>0</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>0</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-15973</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>10</NetInvestmentIncome>
+        <AdjustedNetIncome>10</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>5110</CashBOY>
+        <CashEOY>8396</CashEOY>
+        <CashEOYFMV>8396</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>5000</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>5000</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>5000</SavingsAndTempCashInvstEOYFMV>
+        <OtherNotesAndLoansReceivable>5000</OtherNotesAndLoansReceivable>
+        <OtherNotesAndLoansRcvblEOY referenceDocumentId="RetDoc2958600001">5000</OtherNotesAndLoansRcvblEOY>
+        <OtherNotesAndLoansRcvblEOYFMV>5000</OtherNotesAndLoansRcvblEOYFMV>
+        <LandBuildingAndEquipmentBasis>7691</LandBuildingAndEquipmentBasis>
+        <LandBuildingAndEquipmentBOY>32950</LandBuildingAndEquipmentBOY>
+        <LandBuildingAndEquipmentEOY>7691</LandBuildingAndEquipmentEOY>
+        <LandBuildingAndEquipmentEOYFMV>17500</LandBuildingAndEquipmentEOYFMV>
+        <TotalAssetsBOY>43060</TotalAssetsBOY>
+        <TotalAssetsEOY>26087</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>35896</TotalAssetsEOYFMV>
+        <AccountsPayableBOY>1000</AccountsPayableBOY>
+        <TotalLiabilitiesBOY>1000</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>40035</CapitalStockBOY>
+        <CapitalStockEOY>40035</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>2025</RetainedEarningsBOY>
+        <RetainedEarningsEOY>-13948</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>42060</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>26087</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>43060</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>26087</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>42060</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-15973</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>26087</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>26087</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>LAND AND BUILDING</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>1989-08-12</DateAcquired>
+          <DateSold>2010-05-28</DateSold>
+          <GrossSalesPrice>10000</GrossSalesPrice>
+          <CostOrOtherBasis>25404</CostOrOtherBasis>
+          <GainOrLoss>-15404</GainOrLoss>
+          <GainsMinusExcessOrLosses>-15404</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>-15404</CapitalGainNetIncome>
+        <NetShortTermCapitalGainOrLoss>0</NetShortTermCapitalGainOrLoss>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>0</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>85124</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.0</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>633</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>86783</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.007294</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>937</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>45901</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.020413</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>1076</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>45901</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.023442</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>1231</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>47057</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.026160</DistributionRatioYear5>
+        <TotalDistributionRatio>0.077309</TotalDistributionRatio>
+        <AverageDistributionRatio>0.015462</AverageDistributionRatio>
+        <NetNoncharitableAssets>33740</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>522</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>0</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>522</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>0</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>0</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>0</TaxBasedOnInvestmentIncome>
+        <TotalCreditsAndPayments>0</TotalCreditsAndPayments>
+        <TaxDue>0</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>0</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>NC</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>ANDREW H STALLINGS TRUSTEE</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>8584549513</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>PO BOX 111</AddressLine1>
+          <City>BOONE</City>
+          <State>NC</State>
+          <ZIPCode>28607</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>HARRY W GARDNER</PersonName>
+          <USAddress>
+            <AddressLine1>PO Box 111</AddressLine1>
+            <City>Boone</City>
+            <State>NC</State>
+            <ZIPCode>28607</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>LOUISE GIBSON</PersonName>
+          <USAddress>
+            <AddressLine1>PO Box 111</AddressLine1>
+            <City>Boone</City>
+            <State>NC</State>
+            <ZIPCode>28607</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>SARAH HALE</PersonName>
+          <USAddress>
+            <AddressLine1>PO Box 111</AddressLine1>
+            <City>Boone</City>
+            <State>NC</State>
+            <ZIPCode>28607</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BETTY KING</PersonName>
+          <USAddress>
+            <AddressLine1>PO Box 111</AddressLine1>
+            <City>Boone</City>
+            <State>NC</State>
+            <ZIPCode>28607</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>SUSAN KEEVER</PersonName>
+          <USAddress>
+            <AddressLine1>PO Box 111</AddressLine1>
+            <City>Boone</City>
+            <State>NC</State>
+            <ZIPCode>28607</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JUDY LEE</PersonName>
+          <USAddress>
+            <AddressLine1>PO Box 111</AddressLine1>
+            <City>Boone</City>
+            <State>NC</State>
+            <ZIPCode>28607</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>IRIS LEIBFORTH</PersonName>
+          <USAddress>
+            <AddressLine1>PO Box 111</AddressLine1>
+            <City>Boone</City>
+            <State>NC</State>
+            <ZIPCode>28607</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>IRIS MAMLIN</PersonName>
+          <USAddress>
+            <AddressLine1>PO Box 111</AddressLine1>
+            <City>Boone</City>
+            <State>NC</State>
+            <ZIPCode>28607</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CHERRY MEDLIN</PersonName>
+          <USAddress>
+            <AddressLine1>PO Box 111</AddressLine1>
+            <City>Boone</City>
+            <State>NC</State>
+            <ZIPCode>28607</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>SARAH OWEN</PersonName>
+          <USAddress>
+            <AddressLine1>PO Box 111</AddressLine1>
+            <City>Boone</City>
+            <State>NC</State>
+            <ZIPCode>28607</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ANDREW STALLINGS</PersonName>
+          <USAddress>
+            <AddressLine1>PO Box 111</AddressLine1>
+            <City>Boone</City>
+            <State>NC</State>
+            <ZIPCode>28607</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DOUGLAS STALLINGS</PersonName>
+          <USAddress>
+            <AddressLine1>PO Box 111</AddressLine1>
+            <City>Boone</City>
+            <State>NC</State>
+            <ZIPCode>28607</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>OLIVER STALLINGS</PersonName>
+          <USAddress>
+            <AddressLine1>PO Box 111</AddressLine1>
+            <City>Boone</City>
+            <State>NC</State>
+            <ZIPCode>28607</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>WILLIAM T STALLINGS</PersonName>
+          <USAddress>
+            <AddressLine1>PO Box 111</AddressLine1>
+            <City>Boone</City>
+            <State>NC</State>
+            <ZIPCode>28607</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>NEENA TEASTER</PersonName>
+          <USAddress>
+            <AddressLine1>PO Box 111</AddressLine1>
+            <City>Boone</City>
+            <State>NC</State>
+            <ZIPCode>28607</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>SIDNEY ROBERT WHITE</PersonName>
+          <USAddress>
+            <AddressLine1>PO Box 111</AddressLine1>
+            <City>Boone</City>
+            <State>NC</State>
+            <ZIPCode>28607</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>LYNN WILLIAMS</PersonName>
+          <USAddress>
+            <AddressLine1>PO Box 111</AddressLine1>
+            <City>Boone</City>
+            <State>NC</State>
+            <ZIPCode>28607</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ROBERT E WILLIAMS</PersonName>
+          <USAddress>
+            <AddressLine1>PO Box 111</AddressLine1>
+            <City>Boone</City>
+            <State>NC</State>
+            <ZIPCode>28607</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Durwood Stallings</PersonName>
+          <USAddress>
+            <AddressLine1>PO Box 111</AddressLine1>
+            <City>Boone</City>
+            <State>NC</State>
+            <ZIPCode>28607</ZIPCode>
+          </USAddress>
+          <Title>trUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>MAINTENANCE AT PUBLIC PARK, AN ESTIMATED NUMBER OF 30 PEOPLE VISIT THE PARK PER WEEK.</Description1>
+        <Expenses1>0</Expenses1>
+        <Description2>PARK PAVILION IS USED BY COMMUNITY GROUP WEEKLY DURING THE SUMMER AND AT LEAST ONCE A MONTH DURING THE COLDEST MONTHS.</Description2>
+        <Expenses2>0</Expenses2>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>11754</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>22500</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>34254</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>34254</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>514</CashDeemedCharitable>
+        <NetNoncharitableAssets>33740</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>1687</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <Sect4942j3j5FndtnAndFrgnOrg>X</Sect4942j3j5FndtnAndFrgnOrg>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>0</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>0</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>0</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <TotalExcessDistriCarryover>0</TotalExcessDistriCarryover>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>0</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>0</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>0</ExcessDistriCyovToNextYear>
+      </UndistributedIncome>
+      <PrivateOperatingFoundations>
+        <Section4942j3>X</Section4942j3>
+        <LessorAdjNetIncmMinInvstReturn>
+          <CurrentYear>10</CurrentYear>
+          <Year1>42</Year1>
+          <Year2>148</Year2>
+          <Year3>200</Year3>
+          <Total>400</Total>
+        </LessorAdjNetIncmMinInvstReturn>
+        <Percent85OfLessor>
+          <CurrentYear>9</CurrentYear>
+          <Year1>36</Year1>
+          <Year2>126</Year2>
+          <Year3>170</Year3>
+          <Total>340</Total>
+        </Percent85OfLessor>
+        <QualifyingDistributions>
+          <CurrentYear>0</CurrentYear>
+          <Year1>0</Year1>
+          <Year2>633</Year2>
+          <Year3>937</Year3>
+          <Total>1570</Total>
+        </QualifyingDistributions>
+        <QlfyDistriNotUsedDirectly>
+          <CurrentYear>0</CurrentYear>
+          <Year1>0</Year1>
+          <Year2>0</Year2>
+          <Year3>0</Year3>
+          <Total>0</Total>
+        </QlfyDistriNotUsedDirectly>
+        <QlfyDistriMadeDirectly>
+          <CurrentYear>0</CurrentYear>
+          <Year1>0</Year1>
+          <Year2>633</Year2>
+          <Year3>937</Year3>
+          <Total>1570</Total>
+        </QlfyDistriMadeDirectly>
+        <TotalAssets>
+          <Total>0</Total>
+        </TotalAssets>
+        <TotalAssetsSect4942j3Bi>
+          <Total>0</Total>
+        </TotalAssetsSect4942j3Bi>
+        <TwoThirdsMinInvstReturn>
+          <Total>0</Total>
+        </TwoThirdsMinInvstReturn>
+        <TotalSupport>
+          <CurrentYear>390</CurrentYear>
+          <Total>390</Total>
+        </TotalSupport>
+        <PublicSupport>
+          <Total>0</Total>
+        </PublicSupport>
+        <LargestSupportFromEO>
+          <Total>0</Total>
+        </LargestSupportFromEO>
+        <GrossInvestmentIncome>
+          <Total>0</Total>
+        </GrossInvestmentIncome>
+      </PrivateOperatingFoundations>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <TotGrantOrContriPaidDuringYear>0</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>10</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>-15404</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>10</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>-15404</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>-15394</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>8</LineNumber>
+          <RelationshipStatement>SALE OF LAND HELD FOR INVESTMENT</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>550</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <LegalFeesSchedule documentId="RetDoc2002100001">
+      <LegalFees>
+        <Category>LEGAL FEES</Category>
+        <Amount>350</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>OFFICE EXPENSE</Description>
+        <RevenueAndExpensesPerBooks>27</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>POSTAGE</Description>
+        <RevenueAndExpensesPerBooks>42</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherNotesLoansRcvblLongSch documentId="RetDoc2958600001">
+      <OtherNotesLoansRcvblLong>
+        <BorrowersName>
+          <Individual>JOHN WARREN STALLINGS</Individual>
+        </BorrowersName>
+        <RelationshipToInsider>SON OF TRUSTEE</RelationshipToInsider>
+        <OriginalAmountOfLoan>5000</OriginalAmountOfLoan>
+        <BalanceDue>5000</BalanceDue>
+        <DateOfNote>2009-12</DateOfNote>
+        <MaturityDate>2010-12</MaturityDate>
+        <RepaymentTerms>BALANCE PLUS INTEREST DUE ONE YEAR FROM TRANSFER OF PROPERTY.</RepaymentTerms>
+        <InterestRate>8.000000000000</InterestRate>
+        <SecurityProvidedByBorrower>PROPERTY SOLD</SecurityProvidedByBorrower>
+        <PurposeOfLoan>PURCHASE OF PROPERTY FROM FOUNDATION</PurposeOfLoan>
+        <DescOfLenderConsideration>BUILDING AND LAND</DescOfLenderConsideration>
+        <ConsiderationFmv>10000</ConsiderationFmv>
+      </OtherNotesLoansRcvblLong>
+    </OtherNotesLoansRcvblLongSch>
+  </ReturnData>
+</Return>

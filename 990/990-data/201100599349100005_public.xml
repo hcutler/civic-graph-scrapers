@@ -1,0 +1,611 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-28T16:25:49-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>EDELSTEIN AND COMPANY LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>160 FEDERAL STREET 9TH FLOOR</AddressLine1>
+        <City>BOSTON</City>
+        <State>MA</State>
+        <ZIPCode>021101772</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>203330559</EIN>
+      <Name>
+        <BusinessNameLine1>KERN FAMILY FOUNDATION INC</BusinessNameLine1>
+      </Name>
+      <NameControl>KERN</NameControl>
+      <Phone>8144522281</Phone>
+      <USAddress>
+        <AddressLine1>C/O BRUCE KERN SR 3906 STATE STREET</AddressLine1>
+        <City>ERIE</City>
+        <State>PA</State>
+        <ZIPCode>16508</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>BRUCE KERN SR</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>8144522281</Phone>
+      <DateSigned>2011-02-17</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>ALFONSO PERILLO</Name>
+      <Phone>6172276161</Phone>
+      <DatePrepared>2011-02-17</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>2252769</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>85306</ContriReceivedRevAndExpnss>
+        <DividendsRevAndExpnss>33753</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>33753</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>-149492</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>504793</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>-30433</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>33753</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc2002300001">6650</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>1663</OtherProfFeesNetInvstIncm>
+        <OtherProfFeesDsbrsChrtblPrps>4987</OtherProfFeesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>6650</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>1663</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>4987</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>80000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>80000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>86650</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>1663</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>84987</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-117083</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>32090</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>31869</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>25805</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>25805</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>1786283</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2018900001">2082804</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>2082804</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>133643</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="RetDoc2044400001">144160</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>144160</InvestmentsCorpBondsEOYFMV>
+        <TotalAssetsBOY>1951795</TotalAssetsBOY>
+        <TotalAssetsEOY>2252769</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>2252769</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>0</CapitalStockBOY>
+        <CapitalStockEOY>0</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>1951795</RetainedEarningsBOY>
+        <RetainedEarningsEOY>2252769</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>1951795</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>2252769</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>1951795</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>2252769</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>1951795</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-117083</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="RetDoc2049700001">418057</OtherIncreases>
+        <Subtotal>2252769</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>2252769</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>SALE OF PUBLICLY TRADED SECURITIES</DescriptionOfAsset>
+          <GrossSalesPrice>490058</GrossSalesPrice>
+          <CostOrOtherBasis>654285</CostOrOtherBasis>
+          <GainOrLoss>-164227</GainOrLoss>
+          <GainsMinusExcessOrLosses>-164227</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CAPITAL GAINS DIVIDENDS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>14735</GrossSalesPrice>
+          <GainOrLoss>14735</GainOrLoss>
+          <GainsMinusExcessOrLosses>14735</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>-149492</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>108679</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>1704193</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.063772</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>113912</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>2211543</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.051508</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>97469</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>2424562</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.040201</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>4987</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>2124232</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.002348</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>5350</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>398745</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.013417</DistributionRatioYear5>
+        <TotalDistributionRatio>0.171246</TotalDistributionRatio>
+        <AverageDistributionRatio>0.034249</AverageDistributionRatio>
+        <NetNoncharitableAssets>1997483</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>68412</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>321</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>68733</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>84987</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>321</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>321</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>321</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>1688</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>1688</TotalCreditsAndPayments>
+        <Overpayment>1367</Overpayment>
+        <AmountCreditedToNextYear>1367</AmountCreditedToNextYear>
+        <AmountToBeRefunded>0</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>PA</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>FIDELITY PRIVATE FOUNDATION SERVICE</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>8003344438</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>2 SEAPORT LANE</AddressLine1>
+          <City>BOSTON</City>
+          <State>MA</State>
+          <ZIPCode>02210</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>0</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BRUCE KERN SR</PersonName>
+          <USAddress>
+            <AddressLine1>3906 STATE STREET</AddressLine1>
+            <City>ERIE</City>
+            <State>PA</State>
+            <ZIPCode>16508</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARY ALICE KERN</PersonName>
+          <USAddress>
+            <AddressLine1>3906 STATE STREET</AddressLine1>
+            <City>ERIE</City>
+            <State>PA</State>
+            <ZIPCode>16508</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.10</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>NANCY R KERN</PersonName>
+          <USAddress>
+            <AddressLine1>3906 STATE STREET</AddressLine1>
+            <City>ERIE</City>
+            <State>PA</State>
+            <ZIPCode>16508</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.10</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>B SCOTT KERN</PersonName>
+          <USAddress>
+            <AddressLine1>3906 STATE STREET</AddressLine1>
+            <City>ERIE</City>
+            <State>PA</State>
+            <ZIPCode>16508</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>0.25</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>C BRUCE KERN II</PersonName>
+          <USAddress>
+            <AddressLine1>3906 STATE STREET</AddressLine1>
+            <City>ERIE</City>
+            <State>PA</State>
+            <ZIPCode>16508</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>0.25</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BONNIE KERN</PersonName>
+          <USAddress>
+            <AddressLine1>3906 STATE STREET</AddressLine1>
+            <City>ERIE</City>
+            <State>PA</State>
+            <ZIPCode>16508</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.10</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>AMY C KERN</PersonName>
+          <USAddress>
+            <AddressLine1>3906 STATE STREET</AddressLine1>
+            <City>ERIE</City>
+            <State>PA</State>
+            <ZIPCode>16508</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.10</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>2014809</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>13093</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>2027902</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>2027902</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>30419</CashDeemedCharitable>
+        <NetNoncharitableAssets>1997483</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>99874</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>99874</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>321</TaxBasedOnInvestmentIncome>
+        <TotalTax>321</TotalTax>
+        <DistributableAmountBeforeAdj>99553</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>99553</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>99553</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>84987</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>84987</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>321</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>84666</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>99553</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>84760</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <TotalExcessDistriCarryover>0</TotalExcessDistriCarryover>
+        <QualifyingDistributions>84987</QualifyingDistributions>
+        <AppliedToYear1>84760</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>227</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>0</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>99326</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>0</ExcessDistriCyovToNextYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>BRUCE KERN SR</ContributingManager>
+        <ContributingManager>MARY ALICE KERN</ContributingManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>BRUCE KERN SR</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>3906 STATE STREET</AddressLine1>
+            <City>ERIE</City>
+            <State>PA</State>
+            <ZIPCode>16508</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>8144522281</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>GRANTEES MUST WRITE A LETTER TO THE FOUNDATION STATING THE PURPOSE OF THE GRANT, THE AMOUNT REQUESTED AND PROOF OF 501(C)(3) STATUS.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>PREFERENCE TO ERIE, PA REGION</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ERIE COUNTY AMERICAN RED CROSS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4961 PITTSBURGH AVENUE</AddressLine1>
+            <City>ERIE</City>
+            <State>PA</State>
+            <ZIPCode>16509</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(A)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>HEALTH &amp; HUMAN SERVICES</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MERCYHURST COLLEGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>501 EAST 38TH STREET</AddressLine1>
+            <City>ERIE</City>
+            <State>PA</State>
+            <ZIPCode>16546</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>COLLEGE</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>HEALTH &amp; HUMAN SERVICES</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>STAIRWAYS BEHAVIORAL HEALTH INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2185 WEST 8TH STREET</AddressLine1>
+            <City>ERIE</City>
+            <State>PA</State>
+            <ZIPCode>16505</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(A)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>HEALTH &amp; HUMAN SERVICES</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNITED WAY OF ERIE COUNTY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>420 WEST 6TH STREET SUITE 200</AddressLine1>
+            <City>ERIE</City>
+            <State>PA</State>
+            <ZIPCode>165011416</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(A)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>HEALTH &amp; HUMAN SERVICES</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SAFENET (DOMESTIC VIOLENCE SAFETY NETWORK)</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1436</AddressLine1>
+            <City>ERIE</City>
+            <State>PA</State>
+            <ZIPCode>16512</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(A)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>HEALTH &amp; HUMAN SERVICES</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE SIGHT CENTER OF NORTHWEST PENNSYLVANIA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2402 CHERRY STREET</AddressLine1>
+            <City>ERIE</City>
+            <State>PA</State>
+            <ZIPCode>16502</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(A)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>HEALTH &amp; HUMAN SERVICES</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>80000</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>33753</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>-149492</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>-115739</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>-115739</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>B SCOTT KERN</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>3906 STATE STREET</AddressLine1>
+          <City>ERIE</City>
+          <State>PA</State>
+          <ZIPCode>16508</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>10000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>2</ContributorNumber>
+        <ContributorNameIndividual>CARL BRUCE KERN II</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>3906 STATE STREET</AddressLine1>
+          <City>ERIE</City>
+          <State>PA</State>
+          <ZIPCode>16508</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>10000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>3</ContributorNumber>
+        <ContributorNameIndividual>BRUCE KERN SR</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>3906 STATE STREET</AddressLine1>
+          <City>ERIE</City>
+          <State>PA</State>
+          <ZIPCode>16508</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>10443</AggregateContributions>
+        <NoncashContributionType>X</NoncashContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>4</ContributorNumber>
+        <ContributorNameIndividual>BRUCE KERN SR</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>3906 STATE STREET</AddressLine1>
+          <City>ERIE</City>
+          <State>PA</State>
+          <ZIPCode>16508</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>54863</AggregateContributions>
+        <NoncashContributionType>X</NoncashContributionType>
+      </ContributorInfo>
+      <NoncashProperty>
+        <ContributorNumberFromPartI>3</ContributorNumberFromPartI>
+        <NoncashPropertyDescription>250 SHS OF TYCO INTERNATIONAL LTD</NoncashPropertyDescription>
+        <FairMarketValue>10443</FairMarketValue>
+        <DateReceived>2010-12-29</DateReceived>
+      </NoncashProperty>
+      <NoncashProperty>
+        <ContributorNumberFromPartI>4</ContributorNumberFromPartI>
+        <NoncashPropertyDescription>1,155 SHS OF VANGUARD EMERGING MKTS VIPERS</NoncashPropertyDescription>
+        <FairMarketValue>54863</FairMarketValue>
+        <DateReceived>2010-12-29</DateReceived>
+      </NoncashProperty>
+    </IRS990ScheduleB>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc2044400001">
+      <InvestmentsCorpBonds>
+        <NameOfBond>FIDELITY INVESTMENTS</NameOfBond>
+        <EOYBookValue>144160</EOYBookValue>
+        <EOYFMV>144160</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorpStock>
+        <NameOfStock>FIDELITY INVESTMENTS</NameOfStock>
+        <EOYBookValue>2082804</EOYBookValue>
+        <EOYFMV>2082804</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherIncreasesSchedule documentId="RetDoc2049700001">
+      <OtherIncreases>
+        <Description>UNREALIZED GAIN ON INVESTMENTS</Description>
+        <Amount>418057</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFees>
+        <Category>FPFS FEES</Category>
+        <Amount>6650</Amount>
+        <NetInvestmentIncome>1663</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>4987</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,812 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" returnVersion="2009v1.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-10T20:13:37-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-09-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>NORTHTOWN TAX &amp; ACCTG SERVICE LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>1000 N WISCONSIN ST</AddressLine1>
+        <City>PORT WASHINGTON</City>
+        <State>WI</State>
+        <ZIPCode>53074</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-10-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>396076160</EIN>
+      <Name>
+        <BusinessNameLine1>PORT WASHINGTON KIWANIS FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>PORT</NameControl>
+      <USAddress>
+        <AddressLine1>511 N WISCONSIN ST</AddressLine1>
+        <City>PORT WASHINGTON</City>
+        <State>WI</State>
+        <ZIPCode>53074</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>SALLY SCHIRK ERLICH</Name>
+      <Title>TREASURER</Title>
+      <Phone>2622842590</Phone>
+      <DateSigned>2010-02-01</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>ALISON MILLER</Name>
+      <Phone>2622843136</Phone>
+      <DatePrepared>2011-02-10</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="4">
+    <IRS990PF documentId="990PF">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>0</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>127</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>19</InterestOnSavingsRevAndExpnss>
+        <OtherIncomeRevAndExpnss referenceDocumentId="STM106">34894</OtherIncomeRevAndExpnss>
+        <TotalRevenueAndExpenses>35040</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>0</TotalNetInvestmentIncome>
+        <OtherExpensesRevAndExpnss referenceDocumentId="STM103">17567</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>17567</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>8026</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>25593</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>0</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>9447</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>12903</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>22350</SavingsAndTempCashInvstEOY>
+        <LandBuildingAndEquipmentBasis>4900</LandBuildingAndEquipmentBasis>
+        <LandBuildingAndEquipmentBOY>4900</LandBuildingAndEquipmentBOY>
+        <LandBuildingAndEquipmentEOY>4900</LandBuildingAndEquipmentEOY>
+        <TotalAssetsBOY>17803</TotalAssetsBOY>
+        <TotalAssetsEOY>27250</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>0</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>15303</UnrestrictedBOY>
+        <UnrestrictedEOY>20832</UnrestrictedEOY>
+        <TemporarilyRestrictedBOY>2500</TemporarilyRestrictedBOY>
+        <TemporarilyRestrictedEOY>6418</TemporarilyRestrictedEOY>
+        <TotalNetAssetsBOY>17803</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>27250</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>17803</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>27250</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>17803</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>9447</ExcessOfRevenueOverExpenses>
+        <Subtotal>27250</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>27250</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <TotalDistributionRatio>0.0</TotalDistributionRatio>
+        <AverageDistributionRatio>0.0</AverageDistributionRatio>
+        <AdjustedNoncharitableAssets>0</AdjustedNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>0</AdjNonchrtblAssetsAndOnePct>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>0</TaxBasedOnInvestmentIncome>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>WI</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>true</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <BooksInCareOfPersonName>SALLY SCHIRK EHRLICH</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>2622842590</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>511 N WISCONSIN ST</AddressLine1>
+          <City>PORT WASHINGTON</City>
+          <State>WI</State>
+          <ZIPCode>53074</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>true</GrantsToIndividuals>
+        <GrantsToOrganizations>true</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>PAUL QUAIL</PersonName>
+          <USAddress>
+            <AddressLine1>6112 N LYDELL AVE</AddressLine1>
+            <City>MILWAUKEE</City>
+            <State>WI</State>
+            <ZIPCode>53217</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>RALPH HESS</PersonName>
+          <USAddress>
+            <AddressLine1>1580 PARKWAY DR</AddressLine1>
+            <City>PORT WASHINGTON</City>
+            <State>WI</State>
+            <ZIPCode>53074</ZIPCode>
+          </USAddress>
+          <Title>VP</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>LINDA WELLS</PersonName>
+          <USAddress>
+            <AddressLine1>2088 LOWER RIDGE RD</AddressLine1>
+            <City>PORT WASHINGTON</City>
+            <State>WI</State>
+            <ZIPCode>53074</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>SALLY SCHIRK EHRLICH</PersonName>
+          <USAddress>
+            <AddressLine1>511 N WISCONSIN ST</AddressLine1>
+            <City>PORT WASHINGTON</City>
+            <State>WI</State>
+            <ZIPCode>53074</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>4</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>WEEK OF THE YOUNG CHILD A WEEK OF EDUCATIONAL AND FUN ACTIVITIES FOR 5070 PRESCHOOL CHILDREN</Description1>
+        <Expenses1>518</Expenses1>
+        <Description2>HONORS BANQUET A BANQUET FOR STUDENTS THAT HAVE ATTAINED HIGH HONORS ACADEMICALLY 3550 STUDENTS</Description2>
+        <Expenses2>425</Expenses2>
+        <Description3>SAFETY TOWN SET UP A SMALL TOWN THAT THE PRESCHOOLERS LEARN ABOUT THE POLICEFIRE DEPTS AND SAFETY ON STREETS AND HOUSES</Description3>
+        <Expenses3>367</Expenses3>
+        <Description4>EASTER EGG HUNTFOR FUN</Description4>
+        <Expenses4>388</Expenses4>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>0</Description1>
+        <Amount1>0</Amount1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>0</TotalFMVOfUnusedAssets>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>0</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>0</CashDeemedCharitable>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>0</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>0</ExpensesAndContributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+      </UndistributedIncome>
+      <PrivateOperatingFoundations>
+        <LessorAdjNetIncmMinInvstReturn>
+          <CurrentYear>0</CurrentYear>
+          <Total>0</Total>
+        </LessorAdjNetIncmMinInvstReturn>
+        <QualifyingDistributions>
+          <Total>0</Total>
+        </QualifyingDistributions>
+        <TwoThirdsMinInvstReturn>
+          <Total>0</Total>
+        </TwoThirdsMinInvstReturn>
+      </PrivateOperatingFoundations>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>SALLY EHRLICH</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>511 W WISCONSIN ST</AddressLine1>
+            <City>PORT WASHINGTON</City>
+            <State>WI</State>
+            <ZIPCode>53074</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>2622842590</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>FUNDING FORM ON THE KIWANIS WEBSITE WWWPORTKIWANISNET</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>GENERALLY RESTRICTED TO INDIVIDUALS AND GROUPS LOCATED NEAR THE PORT WASHINGTON WISCONSIN AREA</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>FOOD PANTRY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1800 N WISCONSIN ST</AddressLine1>
+            <City>PORT WASHINGTON</City>
+            <State>WI</State>
+            <ZIPCode>53074</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>FOOD DONATION</PurposeOfGrantOrContribution>
+          <Amount>300</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>WI-UP KIWANIS DISTRICT</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 311</AddressLine1>
+            <City>BERLIN</City>
+            <State>WI</State>
+            <ZIPCode>54923</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>FUND STATE EVENTSFOR KIWANIS</PurposeOfGrantOrContribution>
+          <Amount>185</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>KIWANIS INTERNATIONAL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>3636 WOODVIEW TRACE</AddressLine1>
+            <City>INDIANAPOLIS</City>
+            <State>IN</State>
+            <ZIPCode>46268</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>SUPPORT INTLKIWANIS PROJECT</PurposeOfGrantOrContribution>
+          <Amount>185</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>WI KIWANIS - GOVERNER PROJECT</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>N9888 HWY 13</AddressLine1>
+            <City>WISCONSIN DELLS</City>
+            <State>WI</State>
+            <ZIPCode>53965</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>EASTER SEAL CAMP</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>AMY ERLWIG</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>224 JAMES DR</AddressLine1>
+            <City>PORT WASHINGTON</City>
+            <State>WI</State>
+            <ZIPCode>53074</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP FORCOLLEGE</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>PORT WASHINGTON PRE SCHOOL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>131 N WEBSTER ST</AddressLine1>
+            <City>PORT WASHINGTON</City>
+            <State>WI</State>
+            <ZIPCode>53074</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TUITION FORNEEDY CHILD</PurposeOfGrantOrContribution>
+          <Amount>425</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>GENNA QUENTIN</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1251 SPINNAKER DR</AddressLine1>
+            <City>PORT WASHINGTON</City>
+            <State>WI</State>
+            <ZIPCode>53074</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>LINDA WELLS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>2088 LOWER RIDGE RD</AddressLine1>
+            <City>PORT WASHINGTON</City>
+            <State>WI</State>
+            <ZIPCode>53074</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>BADGER STATE GIRLS-AMER LEGION</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>435 N LAKE DR</AddressLine1>
+            <City>PORT WASHINGTON</City>
+            <State>WI</State>
+            <ZIPCode>53074</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>STUDENT EDUCATIONIN GOVERNMENT</PurposeOfGrantOrContribution>
+          <Amount>240</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>AMY GOMZO</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1455 CEDAR DR</AddressLine1>
+            <City>PORT WASHINGTON</City>
+            <State>WI</State>
+            <ZIPCode>53074</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>BADGER STATE-BOYS AMER LEGION</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>435 N LAKE DR</AddressLine1>
+            <City>PORT WASHINGTON</City>
+            <State>WI</State>
+            <ZIPCode>53074</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>STATE GOVTTRAINING FORSTUDENTS</PurposeOfGrantOrContribution>
+          <Amount>235</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>BIG BROS AND BIG SISTERS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>885 BAGER CIRCLE</AddressLine1>
+            <City>GRAFTON</City>
+            <State>WI</State>
+            <ZIPCode>53024</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>HELP CHILDRENWITHOUT A PARENT</PurposeOfGrantOrContribution>
+          <Amount>175</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>GIRL SCOUTS OF MANITOU COUNCIL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>5212 WINDWARD CT</AddressLine1>
+            <City>SHEBOYGAN</City>
+            <State>WI</State>
+            <ZIPCode>53083</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>PROMOTE SCOUTING</PurposeOfGrantOrContribution>
+          <Amount>285</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>PWHS MUSIC DEPT</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>427 W JACKSON ST</AddressLine1>
+            <City>PORT WASHINGTON</City>
+            <State>WI</State>
+            <ZIPCode>53074</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>MUSIC EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>PW FIRE DEPT</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>104 W WASHINGTON ST</AddressLine1>
+            <City>PORT WASHINGTON</City>
+            <State>WI</State>
+            <ZIPCode>53074</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>PROMOTE FIRESAFETY</PurposeOfGrantOrContribution>
+          <Amount>120</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>HENRY READ</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>9901 N RANGE LINE RD</AddressLine1>
+            <City>THIENSVILLE</City>
+            <State>WI</State>
+            <ZIPCode>53092</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>EAGLE SCOUTPROJECT</PurposeOfGrantOrContribution>
+          <Amount>200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>PORT POLICE DEP</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>365 N WISCONSIN ST</AddressLine1>
+            <City>PORT WASHINGTON</City>
+            <State>WI</State>
+            <ZIPCode>53074</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>PROMOTE SAFETY</PurposeOfGrantOrContribution>
+          <Amount>600</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CU SCOUTS DOUG SCHEFER</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>439 HILLCREST CT</AddressLine1>
+            <City>PORT WASHINGTON</City>
+            <State>WI</State>
+            <ZIPCode>53074</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>PROMOTE YOUTH</PurposeOfGrantOrContribution>
+          <Amount>120</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CAROL BOEHLE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1546 PARKNOLL LANE</AddressLine1>
+            <City>PORT WASHINGTON</City>
+            <State>WI</State>
+            <ZIPCode>53074</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>SCHOOL SUPPLIESFOR THENEEDY</PurposeOfGrantOrContribution>
+          <Amount>406</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JUVENILE DIABETES</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1625 RANDY CIRCLE</AddressLine1>
+            <City>PORT WASHINGTON</City>
+            <State>WI</State>
+            <ZIPCode>53074</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>LOOK FOR A CUREFOR DIABETICS</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>8026</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <ProgramServiceRevenuePartVII>
+          <Description>FISH DAY</Description>
+          <ExclusionCode>01</ExclusionCode>
+          <ExclusionAmount>26653</ExclusionAmount>
+        </ProgramServiceRevenuePartVII>
+        <ProgramServiceRevenuePartVII>
+          <Description>PEANUT DAY</Description>
+          <ExclusionCode>01</ExclusionCode>
+          <ExclusionAmount>1016</ExclusionAmount>
+        </ProgramServiceRevenuePartVII>
+        <ProgramServiceRevenuePartVII>
+          <Description>GUMBALL MACHINES</Description>
+          <ExclusionCode>01</ExclusionCode>
+          <ExclusionAmount>328</ExclusionAmount>
+        </ProgramServiceRevenuePartVII>
+        <ProgramServiceRevenuePartVII>
+          <Description>XMAS NUT SALES</Description>
+          <ExclusionCode>01</ExclusionCode>
+          <ExclusionAmount>713</ExclusionAmount>
+        </ProgramServiceRevenuePartVII>
+        <ProgramServiceRevenuePartVII>
+          <Description>WINE TASTING</Description>
+          <ExclusionCode>01</ExclusionCode>
+          <ExclusionAmount>418</ExclusionAmount>
+        </ProgramServiceRevenuePartVII>
+        <ProgramServiceRevenuePartVII>
+          <Description>RAFFLES</Description>
+          <ExclusionCode>01</ExclusionCode>
+          <ExclusionAmount>742</ExclusionAmount>
+        </ProgramServiceRevenuePartVII>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>01</ExclusionCode>
+          <ExclusionAmount>19</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <OtherRevenueDescribed>
+          <Description>SAFETY TOWN</Description>
+          <ExclusionCode>01</ExclusionCode>
+          <ExclusionAmount>1620</ExclusionAmount>
+        </OtherRevenueDescribed>
+        <OtherRevenueDescribed>
+          <Description>HONORS BANQUET FEES</Description>
+          <ExclusionCode>01</ExclusionCode>
+          <ExclusionAmount>900</ExclusionAmount>
+        </OtherRevenueDescribed>
+        <OtherRevenueDescribed>
+          <Description>RETURN CK 2646</Description>
+          <ExclusionCode>01</ExclusionCode>
+          <ExclusionAmount>223</ExclusionAmount>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>32632</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>32632</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>1A</LineNumber>
+          <RelationshipStatement>COMMUNITY FESTIVAL PROVIDES 23 BUDGET FOR FOUNDATION</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>1B</LineNumber>
+          <RelationshipStatement>SELLING PEANUTS- EDUCATION ABOUT KIWANIS</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>1C</LineNumber>
+          <RelationshipStatement>GUMBALL MACHINES</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>1D</LineNumber>
+          <RelationshipStatement>SELLING NUTS AT XMAS TIME- EDUCATION ABOUT PROGRAMS IN KIWAN</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>1E</LineNumber>
+          <RelationshipStatement>WINE TASTING - EDUCATION ABOUT THE KIWANIS MISSION</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>1F</LineNumber>
+          <RelationshipStatement>RAFFLE FOR DOWNTOWN STREET FESTIVAL</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>true</RelationshipsNoncharitableEOs>
+        <RelationshipSchedule>
+          <NameOfOrganization>
+            <BusinessNameLine1>KIWANIS INTERNATIONAL</BusinessNameLine1>
+          </NameOfOrganization>
+          <TypeOfOrganization>NON PROFIT</TypeOfOrganization>
+          <DescriptionOfRelationship>PROMOTING YOUTH FOR</DescriptionOfRelationship>
+        </RelationshipSchedule>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <DepreciationSchedule documentId="STM126">
+      <Depreciation>
+        <DescriptionOfProperty>TRAILER</DescriptionOfProperty>
+        <DateAcquired>2000-01-01</DateAcquired>
+        <CostOrOtherBasis>1500</CostOrOtherBasis>
+        <PriorYearsDepreciation>1500</PriorYearsDepreciation>
+        <ComputationMethod>M</ComputationMethod>
+        <Life>5</Life>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>FRYERS &amp; TABLES</DescriptionOfProperty>
+        <DateAcquired>2000-02-01</DateAcquired>
+        <CostOrOtherBasis>3400</CostOrOtherBasis>
+        <PriorYearsDepreciation>3400</PriorYearsDepreciation>
+        <ComputationMethod>M</ComputationMethod>
+        <Life>5</Life>
+      </Depreciation>
+    </DepreciationSchedule>
+    <OtherExpensesSchedule documentId="STM103">
+      <OtherExpenses>
+        <Description>NUT DAY</Description>
+        <RevenueAndExpensesPerBooks>181</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>INSURANCE</Description>
+        <RevenueAndExpensesPerBooks>100</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>WEB SITE</Description>
+        <RevenueAndExpensesPerBooks>64</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>ANNUAL REPORT</Description>
+        <RevenueAndExpensesPerBooks>10</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>RAFFLE LICENSE</Description>
+        <RevenueAndExpensesPerBooks>25</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>EASTER EGG HUNT</Description>
+        <RevenueAndExpensesPerBooks>388</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>XMAS NUT SALES</Description>
+        <RevenueAndExpensesPerBooks>1247</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>FISH DAY</Description>
+        <RevenueAndExpensesPerBooks>9701</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>TAX RETURN</Description>
+        <RevenueAndExpensesPerBooks>1050</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>WOYC</Description>
+        <RevenueAndExpensesPerBooks>518</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>HONORS BANQUET</Description>
+        <RevenueAndExpensesPerBooks>1325</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>SAFETY TOWN</Description>
+        <RevenueAndExpensesPerBooks>1987</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>RAFFLES</Description>
+        <RevenueAndExpensesPerBooks>371</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>POSSIBILITIES PLAYGROUND</Description>
+        <RevenueAndExpensesPerBooks>600</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="STM106">
+      <OtherIncome>
+        <Description>FISH DAY</Description>
+        <RevenueAndExpensesPerBooks>26653</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>PEANUT DAY</Description>
+        <RevenueAndExpensesPerBooks>1016</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>GUMBALL MACHINES</Description>
+        <RevenueAndExpensesPerBooks>328</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>XMAS NUT SALES</Description>
+        <RevenueAndExpensesPerBooks>1960</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>WINE TASTING</Description>
+        <RevenueAndExpensesPerBooks>418</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>RAFFLES</Description>
+        <RevenueAndExpensesPerBooks>742</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>POSSIBILITIES PLAYGROUND</Description>
+        <RevenueAndExpensesPerBooks>700</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>SAFETY TOWN FEES</Description>
+        <RevenueAndExpensesPerBooks>1620</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>HONORS BANQUET</Description>
+        <RevenueAndExpensesPerBooks>900</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>RETURN CK FOR SCHOOL BUS LAST</Description>
+        <RevenueAndExpensesPerBooks>223</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>RETURN CK FROM PORT PRE SCHOOL</Description>
+        <RevenueAndExpensesPerBooks>334</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+  </ReturnData>
+</Return>

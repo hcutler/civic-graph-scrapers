@@ -1,0 +1,634 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-05T11:24:31-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>CINDY L PILCH CPA LLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>41 E BURKITT ST</AddressLine1>
+        <City>SHERIDAN</City>
+        <State>WY</State>
+        <ZIPCode>828016301</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>830323151</EIN>
+      <Name>
+        <BusinessNameLine1>WALT &amp; OLGA PILCH FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>WALT</NameControl>
+      <Phone>3076747491</Phone>
+      <USAddress>
+        <AddressLine1>41 EAST BURKITT STREET</AddressLine1>
+        <City>SHERIDAN</City>
+        <State>WY</State>
+        <ZIPCode>82801</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>THOMAS J PILCH</Name>
+      <Title>BOARD CHAIRMAN</Title>
+      <Phone>3076747491</Phone>
+      <DateSigned>2011-02-02</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>CINDY L PILCH</Name>
+      <Phone>3076747491</Phone>
+      <DatePrepared>2011-02-05</DatePrepared>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="8">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>287193</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>2898</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>845</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>2898</InterestOnSavingsAdjNetIncm>
+        <DividendsRevAndExpnss>4976</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>4976</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>4976</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="RetDoc3">-4831</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>54088</GrossSalesPrice>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc7">5850</OtherIncomeRevAndExpnss>
+        <OtherIncomeAdjNetIncm>5850</OtherIncomeAdjNetIncm>
+        <TotalRevenueAndExpenses>8893</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>5821</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>13724</TotalAdjustedNetIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">1000</AccountingFeesRevAndExpnss>
+        <AccountingFeesDsbrsChrtblPrps>1000</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc8">2314</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesDsbrsChrtblPrps>2314</OtherProfFeesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc6">28</OtherExpensesRevAndExpnss>
+        <OtherExpensesDsbrsChrtblPrps>28</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>3342</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>3342</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>20000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>20000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>23342</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>23342</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-14449</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>5821</NetInvestmentIncome>
+        <AdjustedNetIncome>13724</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>5482</CashBOY>
+        <CashEOY>4679</CashEOY>
+        <CashEOYFMV>4679</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>67687</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>68470</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>68470</SavingsAndTempCashInvstEOYFMV>
+        <PrepaidExpensesEOY>540</PrepaidExpensesEOY>
+        <PrepaidExpensesEOYFMV>540</PrepaidExpensesEOYFMV>
+        <InvestmentsCorpStockBOY>223741</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc4">208686</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>213504</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>296910</TotalAssetsBOY>
+        <TotalAssetsEOY>282375</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>287193</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>296910</RetainedEarningsBOY>
+        <RetainedEarningsEOY>282375</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>296910</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>282375</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>296910</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>282375</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>296910</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-14449</ExcessOfRevenueOverExpenses>
+        <Subtotal>282461</Subtotal>
+        <OtherDecreases referenceDocumentId="RetDoc5">86</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>282375</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>19337</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>235907</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.081969</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>9700</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>357153</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.027159</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>4337</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>315450</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.013749</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>12732</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>312149</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.040788</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>24967</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>296154</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.084304</DistributionRatioYear5>
+        <TotalDistributionRatio>0.247969</TotalDistributionRatio>
+        <AverageDistributionRatio>0.049594</AverageDistributionRatio>
+        <NetNoncharitableAssets>207854</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>10308</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>58</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>10366</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>23342</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>58</InvestmentIncomeExciseTax>
+        <Subtotal>58</Subtotal>
+        <TaxBasedOnInvestmentIncome>58</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>540</EstTaxPaymentsAndOverpayment>
+        <TaxPaidWithExtension>625</TaxPaidWithExtension>
+        <TotalCreditsAndPayments>1165</TotalCreditsAndPayments>
+        <Overpayment>1107</Overpayment>
+        <AmountCreditedToNextYear>1107</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>CINDY PILCH</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>3076747491</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>41 EAST BURKITT STREET</AddressLine1>
+          <City>SHERIDAN</City>
+          <State>WY</State>
+          <ZIPCode>82801</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>THOMAS J PILCH</PersonName>
+          <USAddress>
+            <AddressLine1>3 SOLDIER CREEK ROAD</AddressLine1>
+            <City>SHERIDAN</City>
+            <State>WY</State>
+            <ZIPCode>82801</ZIPCode>
+          </USAddress>
+          <Title>PRES./TREAS.</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MICHAEL J PILCH</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 6498</AddressLine1>
+            <City>SHERIDAN</City>
+            <State>WY</State>
+            <ZIPCode>82801</ZIPCode>
+          </USAddress>
+          <Title>V. PRES./SEC</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CINDY L PILCH</PersonName>
+          <USAddress>
+            <AddressLine1>3 SOLDIER CREEK ROAD</AddressLine1>
+            <City>SHERIDAN</City>
+            <State>WY</State>
+            <ZIPCode>82801</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>10.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>205400</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>5079</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>540</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>211019</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>211019</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>3165</CashDeemedCharitable>
+        <NetNoncharitableAssets>207854</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>10393</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>10393</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>58</TaxBasedOnInvestmentIncome>
+        <TotalTax>58</TotalTax>
+        <DistributableAmountBeforeAdj>10335</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>10335</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>10335</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>23342</ExpensesAndContributions>
+        <QualifyingDistributions>23342</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>58</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>23284</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>10335</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>78</UndistributedIncomePriorYear>
+        <QualifyingDistributions>23342</QualifyingDistributions>
+        <AppliedToYear1>78</AppliedToYear1>
+        <AppliedToCurrentYear>10335</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>12929</RemainingDistriFromCorpus>
+        <TotalCorpus>12929</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>12929</ExcessDistriCyovToNextYear>
+        <ExcessFromCurrentYear>12929</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>WALT OLGA PILCH FOUNDATION</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>41 EAST BURKITT STREET</AddressLine1>
+            <City>SHERIDAN</City>
+            <State>WY</State>
+            <ZIPCode>82801</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>3076747491</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>APPLICATION, FINANCIAL DATA, TRANSCRIPTS</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>ACCEPTED ON AN ON-GOING BASIS</SubmissionDeadlines>
+          <RestrictionsOnAwards>SCHOLARSHIPS AND LOANS GRANTED MUST BE USED AT SHERIDAN COLLEGE, UNIVERSITY OF WY, OR COLORADO STATE UNIVERSITY OR AN APPROVED VOCATIONAL SCHOOL</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>VARIOUS STUDENTS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>41 EAST BURKITT STREET</AddressLine1>
+            <City>SHERIDAN</City>
+            <State>WY</State>
+            <ZIPCode>82801</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>20000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>2898</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>4976</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>-4831</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <OtherRevenueDescribed>
+          <Description>OTHER INCOME</Description>
+          <ExclusionCode>25</ExclusionCode>
+          <ExclusionAmount>5850</ExclusionAmount>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>13724</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>-4831</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>8893</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>1000</Amount>
+        <DisbursementsCharitablePrps>1000</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc3">
+      <GainLossSaleOtherAsset>
+        <Name>131.368 THORNBURG INVT TR</Name>
+        <DateAcquired>2008-11</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-08</DateSold>
+        <GrossSalesPrice>2169</GrossSalesPrice>
+        <Basis>1951</Basis>
+        <TotalNet>218</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>117.837 LOOMIS SAYLES</Name>
+        <DateAcquired>2008-03</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-08</DateSold>
+        <GrossSalesPrice>1500</GrossSalesPrice>
+        <Basis>1722</Basis>
+        <TotalNet>-222</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>13.505 MFS INTERNAL DIVERSIFI</Name>
+        <DateAcquired>2007-06</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-08</DateSold>
+        <GrossSalesPrice>147</GrossSalesPrice>
+        <Basis>231</Basis>
+        <TotalNet>-84</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>30.301 JENNISON NATURAL RES</Name>
+        <DateAcquired>2007-11</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-08</DateSold>
+        <GrossSalesPrice>1184</GrossSalesPrice>
+        <Basis>1737</Basis>
+        <TotalNet>-553</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>737.759 BLACKROCK EQUITY</Name>
+        <DateAcquired>2009-04</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-10</DateSold>
+        <GrossSalesPrice>11177</GrossSalesPrice>
+        <Basis>9129</Basis>
+        <TotalNet>2048</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>691 GOLDMAN SACHS TR</Name>
+        <DateAcquired>2009-04</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-10</DateSold>
+        <GrossSalesPrice>691</GrossSalesPrice>
+        <Basis>691</Basis>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>144.311 FRANKLIN INVS SECS TR</Name>
+        <DateAcquired>2008-11</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-12</DateSold>
+        <GrossSalesPrice>1905</GrossSalesPrice>
+        <Basis>1424</Basis>
+        <TotalNet>481</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>57.556 HARTFORD MUT FDS</Name>
+        <DateAcquired>2005-05</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-12</DateSold>
+        <GrossSalesPrice>1775</GrossSalesPrice>
+        <Basis>1852</Basis>
+        <TotalNet>-77</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>54.036 MFS INTERNAL DIVERSIFI</Name>
+        <DateAcquired>2007-06</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-12</DateSold>
+        <GrossSalesPrice>653</GrossSalesPrice>
+        <Basis>926</Basis>
+        <TotalNet>-273</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>48.504 DAVIS NEW YORK VENTURE</Name>
+        <DateAcquired>2008-03</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-12</DateSold>
+        <GrossSalesPrice>1528</GrossSalesPrice>
+        <Basis>1760</Basis>
+        <TotalNet>-232</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>119.852 VIRTUS OPPORTUNITIES RE</Name>
+        <DateAcquired>2007-06</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-12</DateSold>
+        <GrossSalesPrice>2699</GrossSalesPrice>
+        <Basis>4081</Basis>
+        <TotalNet>-1382</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>80.082 THORNBURG INVT TR</Name>
+        <DateAcquired>2008-11</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-12</DateSold>
+        <GrossSalesPrice>1440</GrossSalesPrice>
+        <Basis>1189</Basis>
+        <TotalNet>251</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>3.717 JENNISON NATURAL RES</Name>
+        <DateAcquired>2008-03</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-01</DateSold>
+        <GrossSalesPrice>179</GrossSalesPrice>
+        <Basis>234</Basis>
+        <TotalNet>-55</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>507.07 GOLDMAN SACHS TR</Name>
+        <DateAcquired>2009-04</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-01</DateSold>
+        <GrossSalesPrice>507</GrossSalesPrice>
+        <Basis>507</Basis>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>43.143 BLACKROCK EQUITY</Name>
+        <DateAcquired>2009-10</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-02</DateSold>
+        <GrossSalesPrice>670</GrossSalesPrice>
+        <Basis>657</Basis>
+        <TotalNet>13</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>17.895 MAINSTAY FUNDS</Name>
+        <DateAcquired>2009-04</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-02</DateSold>
+        <GrossSalesPrice>546</GrossSalesPrice>
+        <Basis>426</Basis>
+        <TotalNet>120</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>134.122 OLD MUT ADVISOR FDS</Name>
+        <DateAcquired>2009-04</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-02</DateSold>
+        <GrossSalesPrice>1206</GrossSalesPrice>
+        <Basis>1100</Basis>
+        <TotalNet>106</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>202.6668 VIRTUS OPPORTUNITIES RE</Name>
+        <DateAcquired>2009-04</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-02</DateSold>
+        <GrossSalesPrice>4462</GrossSalesPrice>
+        <Basis>3039</Basis>
+        <TotalNet>1423</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>45.195 VAN KAMPEN MID CAP</Name>
+        <DateAcquired>2008-11</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-02</DateSold>
+        <GrossSalesPrice>1047</GrossSalesPrice>
+        <Basis>776</Basis>
+        <TotalNet>271</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>7.97 FRANKLIN INVS SECS TR</Name>
+        <DateAcquired>2008-11</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-02</DateSold>
+        <GrossSalesPrice>105</GrossSalesPrice>
+        <Basis>79</Basis>
+        <TotalNet>26</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>21.699 GROWTH FUND OF AM</Name>
+        <DateAcquired>2008-11</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-02</DateSold>
+        <GrossSalesPrice>578</GrossSalesPrice>
+        <Basis>497</Basis>
+        <TotalNet>81</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>120.913 LOOMIS SAYLES</Name>
+        <DateAcquired>2008-03</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-02</DateSold>
+        <GrossSalesPrice>1679</GrossSalesPrice>
+        <Basis>1767</Basis>
+        <TotalNet>-88</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>45.458 MFS INTERNAL DIVERSIFI</Name>
+        <DateAcquired>2007-06</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-02</DateSold>
+        <GrossSalesPrice>520</GrossSalesPrice>
+        <Basis>779</Basis>
+        <TotalNet>-259</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>987.182 OLD MUT ADVISOR FDS</Name>
+        <DateAcquired>2008-03</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-02</DateSold>
+        <GrossSalesPrice>8875</GrossSalesPrice>
+        <Basis>12093</Basis>
+        <TotalNet>-3218</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>14.153 PRUDENTIAL JENNISON</Name>
+        <DateAcquired>2008-03</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-02</DateSold>
+        <GrossSalesPrice>626</GrossSalesPrice>
+        <Basis>890</Basis>
+        <TotalNet>-264</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>5.36 THORNBURG INVT TR</Name>
+        <DateAcquired>2008-11</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-02</DateSold>
+        <GrossSalesPrice>95</GrossSalesPrice>
+        <Basis>80</Basis>
+        <TotalNet>15</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>278.148 VIRTUS OPPORTUNITIES RE SECS</Name>
+        <DateAcquired>2007-06</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-02</DateSold>
+        <GrossSalesPrice>6125</GrossSalesPrice>
+        <Basis>9302</Basis>
+        <TotalNet>-3177</TotalNet>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpStockSchedule documentId="RetDoc4">
+      <InvestmentsCorpStock>
+        <NameOfStock>REDSTONE ADVISORS LLC</NameOfStock>
+        <EOYBookValue>208686</EOYBookValue>
+        <EOYFMV>213504</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc5">
+      <OtherDecreases>
+        <Description>DECREASE NOT AFFECTING NET INCOME</Description>
+        <Amount>86</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc6">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>ANNUAL FEE</Description>
+        <RevenueAndExpensesPerBooks>28</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>28</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc7">
+      <OtherIncome>
+        <Description>OTHER INCOME</Description>
+        <RevenueAndExpensesPerBooks>5850</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>5850</AdjustedNetIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="RetDoc8">
+      <OtherProfessionalFees>
+        <Category>ADVISORY FEES</Category>
+        <Amount>2314</Amount>
+        <DisbursementsCharitablePrps>2314</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+  </ReturnData>
+</Return>

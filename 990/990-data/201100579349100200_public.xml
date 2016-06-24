@@ -1,0 +1,459 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-26T11:53:00-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <EIN>450371951</EIN>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>VOLLER LEE SUESS</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>ASSOCIATES CPAS PC</AddressLine1>
+        <City>WILLISTON</City>
+        <State>ND</State>
+        <ZIPCode>588021387</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>450451739</EIN>
+      <Name>
+        <BusinessNameLine1>KNUTE &amp;AMP BLENDA HAGEN SCHOLARSHIP TRUST</BusinessNameLine1>
+      </Name>
+      <NameControl>HAGE</NameControl>
+      <Phone>7017748321</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 1088</AddressLine1>
+        <City>WILLISTON</City>
+        <State>ND</State>
+        <ZIPCode>58801</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>DEAN M ZADERAKA</Name>
+      <Title>TRUST OFFICER</Title>
+      <Phone>7017748321</Phone>
+      <DateSigned>2011-01-24</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>JOHN SUESS</Name>
+      <PTIN>P00152476</PTIN>
+      <Phone>7015772157</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990PF documentId="RetDoc1235000001">
+      <NECT>X</NECT>
+      <FMVAssetsEOY>143181</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>31</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>31</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>3585</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>3585</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>-8248</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>51534</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc2001500001">600</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>0</OtherIncomeNetInvstIncm>
+        <TotalRevenueAndExpenses>-4032</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>3616</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>1298</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>1298</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">622</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>622</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>0</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">71</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>71</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>0</TaxesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>1991</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>1991</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>10000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>10000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>11991</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>1991</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>10000</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-16023</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>1625</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>96</CashBOY>
+        <CashEOY>1</CashEOY>
+        <CashEOYFMV>1</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>32747</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>28003</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>28003</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsOtherBOY>124024</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc2018100001">112746</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>115177</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>156867</TotalAssetsBOY>
+        <TotalAssetsEOY>140750</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>143181</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>0</CapitalStockBOY>
+        <CapitalStockEOY>0</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>156867</RetainedEarningsBOY>
+        <RetainedEarningsEOY>140750</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>156867</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>140750</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>156867</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>140750</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>156867</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-16023</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>140844</Subtotal>
+        <OtherDecreases referenceDocumentId="RetDoc2049800001">94</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>140750</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>VANGUARD WINDSOR FUND 73</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-02-11</DateAcquired>
+          <DateSold>2010-11-04</DateSold>
+          <GrossSalesPrice>2613</GrossSalesPrice>
+          <CostOrOtherBasis>3000</CostOrOtherBasis>
+          <GainOrLoss>-387</GainOrLoss>
+          <GainsMinusExcessOrLosses>-387</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>FRANKLIN INCOME FUND CL A</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-01-04</DateSold>
+          <GrossSalesPrice>48536</GrossSalesPrice>
+          <CostOrOtherBasis>56782</CostOrOtherBasis>
+          <GainOrLoss>-8246</GainOrLoss>
+          <GainsMinusExcessOrLosses>-8246</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CAPITAL GAINS DIVIDENDS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>385</GrossSalesPrice>
+          <GainOrLoss>385</GainOrLoss>
+          <GainsMinusExcessOrLosses>385</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>-8248</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>7929</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>138266</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.057346</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>7200</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>151538</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.047513</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>7000</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>166926</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.041935</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>7000</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>161541</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.043333</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>11727</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>161528</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.072600</DistributionRatioYear5>
+        <TotalDistributionRatio>0.262727</TotalDistributionRatio>
+        <AverageDistributionRatio>0.052545</AverageDistributionRatio>
+        <NetNoncharitableAssets>142572</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>7491</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>16</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>7507</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>10000</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>16</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>16</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>16</TaxBasedOnInvestmentIncome>
+        <TotalCreditsAndPayments>0</TotalCreditsAndPayments>
+        <TaxDue>16</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>FIRST INTERNATIONAL BANK TRUST</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>7017748321</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>BOX 1088</AddressLine1>
+          <City>WILLISTON</City>
+          <State>ND</State>
+          <ZIPCode>58801</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <NECTFilingInLieuOFForm1041>X</NECTFilingInLieuOFForm1041>
+        <TaxExemptInterestReceived>0</TaxExemptInterestReceived>
+        <ForeignBank>0</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>FIRST INTERNATIONAL BANK TRUST</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 1088</AddressLine1>
+            <City>WILLISTON</City>
+            <State>ND</State>
+            <ZIPCode>58801</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>1298</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>NONE</Description1>
+        <Expenses1>0</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>NONE</Description1>
+        <Amount1>0</Amount1>
+        <AllOthProgRltdInvestmentsTotal referenceDocumentId="RetDoc2063500001">0</AllOthProgRltdInvestmentsTotal>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>114319</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>30424</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>144743</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>144743</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>2171</CashDeemedCharitable>
+        <NetNoncharitableAssets>142572</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>7129</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>7129</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>16</TaxBasedOnInvestmentIncome>
+        <TotalTax>16</TotalTax>
+        <DistributableAmountBeforeAdj>7113</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>7113</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>7113</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>10000</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>10000</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>16</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>9984</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>7113</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear5>204</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear1>1158</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>1362</TotalExcessDistriCarryover>
+        <QualifyingDistributions>10000</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>7113</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>2887</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>4249</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>204</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>4045</ExcessDistriCyovToNextYear>
+        <ExcessFromYear1>1158</ExcessFromYear1>
+        <ExcessFromCurrentYear>2887</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>FIRST INTERNATIONAL BANK TRUST</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>19 E 4TH ST</AddressLine1>
+            <City>WILLISTON</City>
+            <State>ND</State>
+            <ZIPCode>58801</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>7017748321</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>SCHOLARSHIP APPLICATIONS</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>GRADUATES FROM WATFORD CITY HIGH SCHOOL OR JOHNSON CORNERS CHRISTIAN ACADEMY</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DICKINSON STATE UNIVERSITY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>291 CAMPUS DRIVE</AddressLine1>
+            <City>DICKINSON</City>
+            <State>ND</State>
+            <ZIPCode>58601</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>COLLEGE</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIPS</PurposeOfGrantOrContribution>
+          <Amount>4000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WILLISTON STATE COLLEGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1410 UNIVERSITY AVE</AddressLine1>
+            <City>WILLISTON</City>
+            <State>ND</State>
+            <ZIPCode>58801</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>COLLEGE</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIPS</PurposeOfGrantOrContribution>
+          <Amount>6000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>10000</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>31</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>3585</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>-8248</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <OtherRevenueDescribed>
+          <Description>RETURN OF SCHOLARSHIP</Description>
+          <RelatedOrExemptFunctionIncome>600</RelatedOrExemptFunctionIncome>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>-4632</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>600</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>-4032</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>11A</LineNumber>
+          <RelationshipStatement>RETURN OF UNUSED SCHOLARSHIP THE TRUST FUND PROVIDED FUNDS FOR HIGH SCHOOL GRADUATES FROM WATFORD CITY AND JOHNSON CORNERS TO FURTHER THEIR EDUCATION.</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>ACCOUNTING</Category>
+        <Amount>622</Amount>
+        <NetInvestmentIncome>622</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <AllOthProgRltdInvestmentsSch documentId="RetDoc2063500001">
+      <AllOthProgRltdInvestments>
+        <Description>NONE</Description>
+        <Amount>0</Amount>
+      </AllOthProgRltdInvestments>
+    </AllOthProgRltdInvestmentsSch>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOther>
+        <CategoryOrItem>MUTUAL FUNDS</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>112746</BookValue>
+        <EOYFMV>115177</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherDecreasesSchedule documentId="RetDoc2049800001">
+      <OtherDecreases>
+        <Description>ADJUST PRIOR BALANCE FOR TIMING DIFF</Description>
+        <Amount>94</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc2001500001">
+      <OtherIncome>
+        <Description>RETURN OF SCHOLARSHIP</Description>
+        <RevenueAndExpensesPerBooks>600</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>600</AdjustedNetIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>FEDERAL INCOME TAX</Category>
+        <Amount>71</Amount>
+        <NetInvestmentIncome>71</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

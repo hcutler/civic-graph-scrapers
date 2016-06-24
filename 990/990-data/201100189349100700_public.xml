@@ -1,0 +1,500 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-01-18T15:11:18-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>CONNER &amp; ASSOCIATES LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>26016 DETROIT RD SUITE 3</AddressLine1>
+        <City>WESTLAKE</City>
+        <State>OH</State>
+        <ZIPCode>44145</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>943337859</EIN>
+      <Name>
+        <BusinessNameLine1>MOONE FAMILY FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>MOON</NameControl>
+      <Phone>4154215757</Phone>
+      <USAddress>
+        <AddressLine1>141 CANYON COURT</AddressLine1>
+        <City>NAPA</City>
+        <State>CA</State>
+        <ZIPCode>945581263</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>MICHAEL MOONE</Name>
+      <Title>PRESIDENT</Title>
+      <DateSigned>2010-11-01</DateSigned>
+      <AuthorizeThirdParty>true</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Phone>4406170390</Phone>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="10">
+    <IRS990PF documentId="IRS990PF">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>437800</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <InterestOnSavingsRevAndExpnss>24</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>24</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>15253</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>15253</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>173</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>173</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>173</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>15450</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>15450</TotalNetInvestmentIncome>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="OthProfFeesSch">6000</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>6000</OtherProfFeesNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId="TaxesSchedule">165</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>165</TaxesNetInvstIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSch">122</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>6287</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>6165</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>3315</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>3315</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>9602</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>6165</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>3315</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>5848</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>9285</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>33149</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>38996</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>38996</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>21092</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="InvestCorpStockSch">21092</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>31128</InvestmentsCorpStockEOYFMV>
+        <InvestmentsOtherBOY>358740</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="InvOtherSch2">358716</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>367676</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>412981</TotalAssetsBOY>
+        <TotalAssetsEOY>418804</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>437800</TotalAssetsEOYFMV>
+        <AccountsPayableBOY>0</AccountsPayableBOY>
+        <AccountsPayableEOY>0</AccountsPayableEOY>
+        <OtherLiabilitiesBOY>0</OtherLiabilitiesBOY>
+        <OtherLiabilitiesEOY>0</OtherLiabilitiesEOY>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>412981</RetainedEarningsBOY>
+        <RetainedEarningsEOY>418804</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>412981</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>418804</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>412981</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>418804</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>412981</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>5848</ExcessOfRevenueOverExpenses>
+        <Subtotal>418829</Subtotal>
+        <OtherDecreases referenceDocumentId="OtherDecreasesSch">25</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>418804</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainNetIncome>173</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>25772</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>386238</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.066726</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>27961</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>530060</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.052751</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>21650</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>522567</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.04143</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>12500</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>480337</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.026023</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>18050</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>458811</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.039341</DistributionRatioYear5>
+        <TotalDistributionRatio>0.226271</TotalDistributionRatio>
+        <AverageDistributionRatio>0.045254</AverageDistributionRatio>
+        <NetNoncharitableAssets>432008</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>19550</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>93</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>19643</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>3315</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>186</InvestmentIncomeExciseTax>
+        <Subtotal>186</Subtotal>
+        <TaxBasedOnInvestmentIncome>186</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>318</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>318</TotalCreditsAndPayments>
+        <Overpayment>132</Overpayment>
+        <AmountCreditedToNextYear>132</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>false</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>CA</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>WELLSPRING FINANCIAL ADVISORS</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>2163670680</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>5885 LANDERBROOK DRIVE SUITE 205</AddressLine1>
+          <City>MAYFIELD HEIGHTS</City>
+          <State>OH</State>
+          <ZIPCode>44124</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>E MICHAEL MOONE</PersonName>
+          <USAddress>
+            <AddressLine1>141 CANYON COURT</AddressLine1>
+            <City>NAPA</City>
+            <State>CA</State>
+            <ZIPCode>94558</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>N/A</Description1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>403086</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>35501</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>438587</TotalFMVOfUnusedAssets>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>438587</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>6579</CashDeemedCharitable>
+        <NetNoncharitableAssets>432008</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>21600</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>21600</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>186</TaxBasedOnInvestmentIncome>
+        <TotalTax>186</TotalTax>
+        <DistributableAmountBeforeAdj>21414</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>21414</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>21414</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>3315</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <AmountsPaidAcqCharitableAssets>0</AmountsPaidAcqCharitableAssets>
+        <AmountsSetAsideSuitabilityTest>0</AmountsSetAsideSuitabilityTest>
+        <AmountsSetAsideCashDistriTest>0</AmountsSetAsideCashDistriTest>
+        <QualifyingDistributions>3315</QualifyingDistributions>
+        <AdjQualifyingDistributions>3315</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>21414</DistributableAmountAsAdjusted>
+        <PriorYear1>2007</PriorYear1>
+        <PriorYear2>2006</PriorYear2>
+        <PriorYear3>2005</PriorYear3>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear2>1856</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>5174</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>7030</TotalExcessDistriCarryover>
+        <QualifyingDistributions>3315</QualifyingDistributions>
+        <AppliedToCurrentYear>3315</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>7030</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>7030</ExcessDistriCyovAppliedCY>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <TaxableAmount1>0</TaxableAmount1>
+        <UndistributedIncomeCY>11069</UndistributedIncomeCY>
+      </UndistributedIncome>
+      <PrivateOperatingFoundations />
+      <SupplementaryInformation>
+        <ContributingManager>E MICHAEL MOONE</ContributingManager>
+        <ShareholderManager>NONE</ShareholderManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AMERICAN CANCER SOCIETY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 22718</AddressLine1>
+            <City>OKLAHOMA CITY</City>
+            <State>OK</State>
+            <ZIPCode>72123</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>TAX EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>50</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NAPA COMMUNITY FRIENDS FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3299 CLAREMONT WAY 2</AddressLine1>
+            <City>NAPA</City>
+            <State>CA</State>
+            <ZIPCode>94558</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>TAX EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHILDREN'S TLC FRIENDS ASSOCIATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3101 MAIN STREET</AddressLine1>
+            <City>KANSAS CITY</City>
+            <State>MO</State>
+            <ZIPCode>64111</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>TAX EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>65</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NAPA VALLEY OPERA HOUSE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1030 MAIN ST</AddressLine1>
+            <City>NAPA</City>
+            <State>CA</State>
+            <ZIPCode>94559</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>TAX EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>1850</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>VINE VILLAGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4059 OLD SONOMA RD</AddressLine1>
+            <City>NAPA</City>
+            <State>CA</State>
+            <ZIPCode>94559</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>TAX EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARTIABLE</PurposeOfGrantOrContribution>
+          <Amount>50</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NAPA VALLEY COMMUNITY FDN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3299 CLAREMOUNT WAY</AddressLine1>
+            <AddressLine2>SUITE 2</AddressLine2>
+            <City>NAPA</City>
+            <State>CA</State>
+            <ZIPCode>94558</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>TAX EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JUSTIN SIENNA HIGH SCHOOL FDN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4026 MAHER STREET</AddressLine1>
+            <City>NAPA</City>
+            <State>CA</State>
+            <ZIPCode>94558</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>TAX EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>50</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>3315</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <FeesContractsFromGovtAgencies />
+        <MembershipDuesAndAssessments />
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>15277</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <NetRentalIncmReDebtFincdProp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncmPersonalProperty />
+        <OtherInvestmentIncomePartVII />
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>173</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <NetIncomeLossFromSpecialEvents />
+        <GrossProfitLossSalesOfInvntry />
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>15450</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>15450</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps />
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <InvestmentsCorpStockSchedule documentId="InvestCorpStockSch">
+      <InvestmentsCorpStock>
+        <NameOfStock>S&amp;P MID CAP</NameOfStock>
+        <EOYBookValue>21092</EOYBookValue>
+        <EOYFMV>31128</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsLandSchedule2 documentId="InvLandSch2" />
+    <InvestmentsOtherSchedule2 documentId="InvOtherSch2">
+      <InvestmentsOther>
+        <CategoryOrItem>LOOMIS SAYLES</CategoryOrItem>
+        <BookValue>55690</BookValue>
+        <EOYFMV>63082</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>PIMCO TOTAL RETURN</CategoryOrItem>
+        <BookValue>75669</BookValue>
+        <EOYFMV>80382</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>PIMCO ALL ASSET INST CLASS</CategoryOrItem>
+        <BookValue>45041</BookValue>
+        <EOYFMV>42607</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>THIRD AVENUE VALUE</CategoryOrItem>
+        <BookValue>41032</BookValue>
+        <EOYFMV>40875</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>TWEEDY BROWN GLOBAL</CategoryOrItem>
+        <BookValue>33454</BookValue>
+        <EOYFMV>33393</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>VANGUARD 500 INDEX FD INVESTOR</CategoryOrItem>
+        <BookValue>84382</BookValue>
+        <EOYFMV>73569</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>VANGUARD SMALL CAP STOCK INDEX</CategoryOrItem>
+        <BookValue>23448</BookValue>
+        <EOYFMV>33768</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <LandEtcSchedule2 documentId="LandEtcSch2" />
+    <OtherDecreasesSchedule documentId="OtherDecreasesSch">
+      <OtherDecreases>
+        <Description>B/T ADJ: PIMCO ALL ASSET FD</Description>
+        <Amount>24</Amount>
+      </OtherDecreases>
+      <OtherDecreases>
+        <Description>ROUNDING</Description>
+        <Amount>1</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpenses>
+        <Description>CA FTB-PRIOR YEAR INTEREST</Description>
+        <RevenueAndExpensesPerBooks>62</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>CA FTB FILING FEE</Description>
+        <RevenueAndExpensesPerBooks>10</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MISC ADMIN EXP</Description>
+        <RevenueAndExpensesPerBooks>50</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OthProfFeesSch">
+      <OtherProfessionalFees>
+        <Category>WELLSPRING FINANCIAL ADVISORS</Category>
+        <Amount>6000</Amount>
+        <NetInvestmentIncome>6000</NetInvestmentIncome>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <Taxes>
+        <Category>FOREIGN TAXES PD IN 2009</Category>
+        <Amount>165</Amount>
+        <NetInvestmentIncome>165</NetInvestmentIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

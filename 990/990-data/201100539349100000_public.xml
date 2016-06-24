@@ -1,0 +1,1122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-22T04:35:14-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>BBD LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>1835 MARKET STREET 26TH FLOOR</AddressLine1>
+        <City>PHILADELPHIA</City>
+        <State>PA</State>
+        <ZIPCode>19103</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>232418214</EIN>
+      <Name>
+        <BusinessNameLine1>DRUEDING FOUNDATION CO MRS JAMES J STOKES III</BusinessNameLine1>
+      </Name>
+      <NameControl>DRUE</NameControl>
+      <Phone>6106490203</Phone>
+      <USAddress>
+        <AddressLine1>669 DODDS LANE</AddressLine1>
+        <City>GLADWYNE</City>
+        <State>PA</State>
+        <ZIPCode>19035</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>PATRICIA D STOKES</Name>
+      <Title>TREASURER</Title>
+      <Phone>6106490203</Phone>
+      <DateSigned>2011-02-04</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Phone>2155677770</Phone>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="8">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>5211436</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>92</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>92</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>131013</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>131013</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>419</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>1224706</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>419</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>131524</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>131524</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">4300</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>2150</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>2150</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc2002300001">6048</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>6048</OtherProfFeesNetInvstIncm>
+        <OtherProfFeesDsbrsChrtblPrps>0</OtherProfFeesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">10646</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>0</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>132</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>20994</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>8198</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>2282</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>270000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>270000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>290994</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>8198</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>272282</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-159470</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>123326</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashEOY>581309</CashEOY>
+        <CashEOYFMV>581309</CashEOYFMV>
+        <InvestmentsGovtObligBOY>1222189</InvestmentsGovtObligBOY>
+        <InvestmentsGovtObligEOY referenceDocumentId="RetDoc2210400001">349456</InvestmentsGovtObligEOY>
+        <InvestmentsGovtObligEOYFMV>366817</InvestmentsGovtObligEOYFMV>
+        <InvestmentsCorpStockBOY>4060855</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2018900001">4125526</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>4254178</InvestmentsCorpStockEOYFMV>
+        <OtherAssetsBOY referenceDocumentId="RetDoc2046600001">32767</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId="RetDoc2046600001">9132</OtherAssetsEOY>
+        <OtherAssetsEOYFMV referenceDocumentId="RetDoc2046600001">9132</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>5315811</TotalAssetsBOY>
+        <TotalAssetsEOY>5065423</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>5211436</TotalAssetsEOYFMV>
+        <OtherLiabilitiesBOY referenceDocumentId="RetDoc2065700001">94338</OtherLiabilitiesBOY>
+        <OtherLiabilitiesEOY referenceDocumentId="RetDoc2065700001">3420</OtherLiabilitiesEOY>
+        <TotalLiabilitiesBOY>94338</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>3420</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>5221473</UnrestrictedBOY>
+        <UnrestrictedEOY>5062003</UnrestrictedEOY>
+        <TotalNetAssetsBOY>5221473</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>5062003</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>5315811</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>5065423</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>5221473</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-159470</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>5062003</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>5062003</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>SALES OF US TREA NOTES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>1224681</GrossSalesPrice>
+          <CostOrOtherBasis>1224270</CostOrOtherBasis>
+          <GainOrLoss>411</GainOrLoss>
+          <GainsMinusExcessOrLosses>411</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CLASS OF ACTION-ST PAUL TRAVELLER II</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>12</GrossSalesPrice>
+          <GainOrLoss>12</GainOrLoss>
+          <GainsMinusExcessOrLosses>12</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>SALES OF FRACTIONAL SHARES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>13</GrossSalesPrice>
+          <CostOrOtherBasis>17</CostOrOtherBasis>
+          <GainOrLoss>-4</GainOrLoss>
+          <GainsMinusExcessOrLosses>-4</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>419</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>359695</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>5391532</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.066715</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>348588</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>7405657</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.047071</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>344500</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>7141890</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.048237</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>349250</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>6979659</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.050038</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>315000</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>7049913</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.044681</DistributionRatioYear5>
+        <TotalDistributionRatio>0.256742</TotalDistributionRatio>
+        <AverageDistributionRatio>0.051348</AverageDistributionRatio>
+        <NetNoncharitableAssets>5577674</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>286402</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>1233</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>287635</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>272282</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>2467</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>2467</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>2467</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>2000</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>2000</TotalCreditsAndPayments>
+        <Form2220Attached referenceDocumentId="RetDoc1192000001">X</Form2220Attached>
+        <TaxDue>467</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>PA</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>n/a</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>MRS JAMES J STOKES III</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>6106490203</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>669 DODDS LANE GLADWYNE PA</AddressLine1>
+          <City>GLADWYNE</City>
+          <State>PA</State>
+          <ZIPCode>19035</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARY BETH LOPICCOLO</PersonName>
+          <USAddress>
+            <AddressLine1>C/O THE ORGANIZATION</AddressLine1>
+            <City>GLADWYNE</City>
+            <State>PA</State>
+            <ZIPCode>19035</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DIANA G VOGT</PersonName>
+          <USAddress>
+            <AddressLine1>C/O THE ORGANIZATION</AddressLine1>
+            <City>GLADWYNE</City>
+            <State>PA</State>
+            <ZIPCode>19035</ZIPCode>
+          </USAddress>
+          <Title>VICE PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JAMES DRUEDING</PersonName>
+          <USAddress>
+            <AddressLine1>C/O THE ORGANIZATION</AddressLine1>
+            <City>GLADWYNE</City>
+            <State>PA</State>
+            <ZIPCode>19035</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>PATRICIA D STOKES</PersonName>
+          <USAddress>
+            <AddressLine1>C/O THE ORGANIZATION</AddressLine1>
+            <City>GLADWYNE</City>
+            <State>PA</State>
+            <ZIPCode>19035</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ALBERT J DRUEDING JR</PersonName>
+          <USAddress>
+            <AddressLine1>C/O THE ORGANIZATION</AddressLine1>
+            <City>GLADWYNE</City>
+            <State>PA</State>
+            <ZIPCode>19035</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>LIZANNE MICHENER</PersonName>
+          <USAddress>
+            <AddressLine1>C/O THE ORGANIZATION</AddressLine1>
+            <City>GLADWYNE</City>
+            <State>PA</State>
+            <ZIPCode>19035</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DIANA D STEWART</PersonName>
+          <USAddress>
+            <AddressLine1>C/O THE ORGANIZATION</AddressLine1>
+            <City>GLADWYNE</City>
+            <State>PA</State>
+            <ZIPCode>19035</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CAROLINE M STOKES</PersonName>
+          <USAddress>
+            <AddressLine1>C/O THE ORGANIZATION</AddressLine1>
+            <City>GLADWYNE</City>
+            <State>PA</State>
+            <ZIPCode>19035</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARY GRACE SNYDER DEC'D</PersonName>
+          <USAddress>
+            <AddressLine1>c/o THE ORGANIZATION</AddressLine1>
+            <City>gLADWYNE</City>
+            <State>PA</State>
+            <ZIPCode>19035</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>5303235</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>338428</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>20950</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>5662613</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>5662613</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>84939</CashDeemedCharitable>
+        <NetNoncharitableAssets>5577674</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>278884</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>278884</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>2467</TaxBasedOnInvestmentIncome>
+        <TotalTax>2467</TotalTax>
+        <DistributableAmountBeforeAdj>276417</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>276417</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>276417</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>272282</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>272282</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>272282</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>276417</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>266332</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <TotalExcessDistriCarryover>0</TotalExcessDistriCarryover>
+        <QualifyingDistributions>272282</QualifyingDistributions>
+        <AppliedToYear1>266332</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>5950</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>0</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>270467</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>0</ExcessDistriCyovToNextYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>24 CLUB OF PRINCETON INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1225 STATE ROAD REAR</AddressLine1>
+            <City>PRINCETON</City>
+            <State>NJ</State>
+            <ZIPCode>08054</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ABINGTON MEMORIAL HEALTH CARE CORPORATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1200 Old York ROAD</AddressLine1>
+            <City>Abington</City>
+            <State>PA</State>
+            <ZIPCode>19001</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>17500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ACTION AIDS INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1216 Arch Street 6th Floor</AddressLine1>
+            <City>Philadelphia</City>
+            <State>PA</State>
+            <ZIPCode>19107</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>6500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AID FOR FRIENDS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>12271 TOWNSEND RD</AddressLine1>
+            <City>PHILADELPHIA</City>
+            <State>PA</State>
+            <ZIPCode>19154</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ALS ASSOCIATION THE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1275 K STREET NW STE 1050</AddressLine1>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20005</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ALZHEIMER'S FOUNDATIN OF AMERICA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>325 CHESTNUT STREET</AddressLine1>
+            <City>PHILADELPHIA</City>
+            <State>PA</State>
+            <ZIPCode>19106</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>12500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AMERICAN CANCER SOCIETY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1626 LOCUST STREET</AddressLine1>
+            <City>Philadelphia</City>
+            <State>PA</State>
+            <ZIPCode>19103</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ANNA JAQUES HOSPITAL - COMMUNITY HEALTH CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>25 Highland Avenue</AddressLine1>
+            <City>newburyport</City>
+            <State>MA</State>
+            <ZIPCode>01950</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>HOSPITAL</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BACK ON MY FEET</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1520 LOCUST STREET STE 804</AddressLine1>
+            <City>PHILADELPHIA</City>
+            <State>PA</State>
+            <ZIPCode>19102</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BROCKTON HOSPITAL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>680 CENTRE STREET</AddressLine1>
+            <City>BROCKTON</City>
+            <State>MA</State>
+            <ZIPCode>02302</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>HOSPITAL</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHERRY HILL FOOD AND OUTREACH COUNCIL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>P O BOX 2636</AddressLine1>
+            <City>CHERRY HILL</City>
+            <State>NJ</State>
+            <ZIPCode>08034</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHILDREN'S HOSPITAL OF PHILADELPHIA THE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>34th Street civic center blvd</AddressLine1>
+            <City>Philadelphia</City>
+            <State>PA</State>
+            <ZIPCode>19104</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Cystic Fibrosis Foundation</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>6931 Arlington Road</AddressLine1>
+            <City>Bethesda</City>
+            <State>MD</State>
+            <ZIPCode>20814</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DUFFY DENTAL HEALTH CLINIC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>105 Park Street</AddressLine1>
+            <City>Hyannis</City>
+            <State>MA</State>
+            <ZIPCode>02601</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>HOPSITAL</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DUKE UNIVERSITY MEDICAL CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2100 ERWIN ROAD</AddressLine1>
+            <City>DURHAM</City>
+            <State>NC</State>
+            <ZIPCode>27705</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>HOSPITAL</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HOLY REDEEMER HEALTH SYSTEM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1648 HUNTINGTON PIKE</AddressLine1>
+            <City>MEADOW BROOK</City>
+            <State>PA</State>
+            <ZIPCode>19046</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>DRUEDING CENTER/RAINBOW PROJECT</PurposeOfGrantOrContribution>
+          <Amount>66500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HOUSING ASSISTACNE CORPORATION ON CAPE COD</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>460 WEST MAIN STREET</AddressLine1>
+            <City>HYANNIS</City>
+            <State>MA</State>
+            <ZIPCode>02601</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>INTER-FAITH HOUSING ALLIANCE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>31 S SPRING GARDEN STREET</AddressLine1>
+            <City>AMBLER</City>
+            <State>PA</State>
+            <ZIPCode>19002</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>7000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>INTERNATIONAL DYSLEXIA ASSOCIATION THE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>40 York ROAD 4th Floor</AddressLine1>
+            <City>Baltimore</City>
+            <State>MD</State>
+            <ZIPCode>21204</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Juvenile Diabetes Research Foundation International</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>120 Wall Street</AddressLine1>
+            <City>New York</City>
+            <State>NY</State>
+            <ZIPCode>10005</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KELLY ANNE DOLAN MEMORIAL FUND</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>602 S Bethlehem Pike</AddressLine1>
+            <City>Ambler</City>
+            <State>PA</State>
+            <ZIPCode>19002</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LOMBARDI'S NINA HYDE CENTER FOR BREAST CANCER RESEARCH AT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>GEORGETOWN UNIV</AddressLine1>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20057</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MANNA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>12 SOUTH 23RD STREET</AddressLine1>
+            <City>PHILADELPHIA</City>
+            <State>PA</State>
+            <ZIPCode>19103</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>6500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Mercy Neighborhood Ministries of Phila</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1939 W Venango St</AddressLine1>
+            <City>Philadelphia</City>
+            <State>PA</State>
+            <ZIPCode>19140</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>CHURCH</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MULTIPLE MYELOMA RESEARCH FOUNDATION THE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>383 MAIN AVENUE</AddressLine1>
+            <City>NORWALK</City>
+            <State>CT</State>
+            <ZIPCode>06851</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MYSTIC LEARNING CENTER INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>530 Mystic Ave 103</AddressLine1>
+            <City>Somerville</City>
+            <State>MA</State>
+            <ZIPCode>02145</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NATIONAL DISASTER SEARCH DOG FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>501 East Ojai Avenue</AddressLine1>
+            <City>Ojai</City>
+            <State>CA</State>
+            <ZIPCode>93023</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PARALYZED VETERANS OF AMERICA (WASHINGTON HEADQUARTER)</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>801 Eighteenth Street NW</AddressLine1>
+            <City>Washington</City>
+            <State>DC</State>
+            <ZIPCode>20006</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PARTNERS HOME CARE INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>281 Winter Street Ste 240</AddressLine1>
+            <City>Waltham</City>
+            <State>MA</State>
+            <ZIPCode>02451</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PETER'S PLACE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>150 North Radnor Chester Road Ste</AddressLine1>
+            <AddressLine2>F130</AddressLine2>
+            <City>Radnor</City>
+            <State>PA</State>
+            <ZIPCode>19087</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PAN-MASSACHUSETTS CHALLENGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>77 4TH AVENUE</AddressLine1>
+            <City>NEEDHAM</City>
+            <State>MA</State>
+            <ZIPCode>02494</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>JIMMY FUND</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Silver Springs Martin Luther School</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>512 West Township Line</AddressLine1>
+            <City>Plymouth Meeting</City>
+            <State>PA</State>
+            <ZIPCode>19462</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>School</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SNACK and Frineds Inc</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>220 E 86th St</AddressLine1>
+            <City>New York</City>
+            <State>NY</State>
+            <ZIPCode>10028</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ST BONAVENTURE INDIAN MISSION AND SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>25 Navarre Blvd W</AddressLine1>
+            <City>Thoreau</City>
+            <State>NM</State>
+            <ZIPCode>87323</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>RELIGIOUS ORG.</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>STANFORD UNIVERSITY HOSPITAL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>300 PASTEUR DRIVE</AddressLine1>
+            <City>STANFORD</City>
+            <State>CA</State>
+            <ZIPCode>94305</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>HOSPITAL</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SUNSHINE FOUNDATION THE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1041 Mill Creek Drive</AddressLine1>
+            <City>Feasterville</City>
+            <State>PA</State>
+            <ZIPCode>19053</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SUSAN G KOMEN BREAST CANCER FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>125 S 9TH STREET STE 202</AddressLine1>
+            <City>Philadelphia</City>
+            <State>PA</State>
+            <ZIPCode>19107</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>7500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNIVERSITY OF WASHINGTON MEDICAL CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1959 NE PACIFIC</AddressLine1>
+            <City>Seattle</City>
+            <State>WA</State>
+            <ZIPCode>98195</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>SCHOOL</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>7500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>VMSC OF LOWER MERION AND NARBERTH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>P O BOX 269</AddressLine1>
+            <City>ARDMORE</City>
+            <State>PA</State>
+            <ZIPCode>19003</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Weave Inc</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1900 K Street</AddressLine1>
+            <City>Sacramento</City>
+            <State>CA</State>
+            <ZIPCode>95811</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>4000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Women's Bridge Resource Center</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2495 Boulevard of the Generals Bldg</AddressLine1>
+            <AddressLine2>B Ste 310</AddressLine2>
+            <City>Jeffersonville</City>
+            <State>PA</State>
+            <ZIPCode>19403</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATION</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>270000</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>92</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>131013</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>419</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>131524</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>131524</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>4300</Amount>
+        <NetInvestmentIncome>2150</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>2150</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorpStock>
+        <NameOfStock>EQUITIES</NameOfStock>
+        <EOYBookValue>777724</EOYBookValue>
+        <EOYFMV>1329456</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MUTUAL FUNDS</NameOfStock>
+        <EOYBookValue>3347802</EOYBookValue>
+        <EOYFMV>2924722</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="RetDoc2210400001">
+      <USGovtSecuritiesEOYBookValue>349456</USGovtSecuritiesEOYBookValue>
+      <USGovtSecuritiesEOYFMV>366817</USGovtSecuritiesEOYFMV>
+      <StateLocalSecuritiesEOYBookVal>0</StateLocalSecuritiesEOYBookVal>
+      <StateLocalSecuritiesEOYFMV>0</StateLocalSecuritiesEOYFMV>
+    </InvestmentsGovtObligationsSch>
+    <OtherAssetsSchedule documentId="RetDoc2046600001">
+      <OtherAssets>
+        <Description>ACCRUED INCOME RECEIVABLE</Description>
+        <BOYBookValue>18365</BOYBookValue>
+        <EOYBookValue>9132</EOYBookValue>
+        <EOYFMV>9132</EOYFMV>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>PREPAID FEDERAL EXCISE TAX</Description>
+        <BOYBookValue>9306</BOYBookValue>
+        <EOYBookValue>0</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>DEFERRED FEDERAL EXCISE TAX</Description>
+        <BOYBookValue>5096</BOYBookValue>
+        <EOYBookValue>0</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>MISC EXPENSE</Description>
+        <RevenueAndExpensesPerBooks>132</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>132</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>FEDERAL EXCISE TAX</Description>
+        <RevenueAndExpensesPerBooks>10514</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherLiabilitiesSchedule documentId="RetDoc2065700001">
+      <OtherLiabilities>
+        <Description>TEMP CASH OVERDRAFT</Description>
+        <BOYBookValue>94338</BOYBookValue>
+        <EOYBookValue>0</EOYBookValue>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>FEDERAL EXCISE TAX PAYABLE</Description>
+        <BOYBookValue>0</BOYBookValue>
+        <EOYBookValue>500</EOYBookValue>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>DEFERRED FEDERAL EXCISE TAX LIABILITY</Description>
+        <BOYBookValue>0</BOYBookValue>
+        <EOYBookValue>2920</EOYBookValue>
+      </OtherLiabilities>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFees>
+        <Category>INVESTMENT ADVISORY FEES</Category>
+        <Amount>6048</Amount>
+        <NetInvestmentIncome>6048</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+  </ReturnData>
+</Return>

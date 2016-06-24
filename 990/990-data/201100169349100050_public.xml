@@ -1,0 +1,629 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.3" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-01-16T14:31:09-08:00</Timestamp>
+    <TaxPeriodEndDate>2010-11-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>RICHARDSON &amp; ASSOCIATES INC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>21 ELIOT STREET</AddressLine1>
+        <City>NATICK</City>
+        <State>MA</State>
+        <ZIPCode>017606085</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-12-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>046826054</EIN>
+      <Name>
+        <BusinessNameLine1>HARLEY S GORDON &amp; SUSAN E GORDON CHARITABLE FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>HARL</NameControl>
+      <Phone>6174674761</Phone>
+      <USAddress>
+        <AddressLine1>541 BOYLSTON STREET</AddressLine1>
+        <City>BROOKLINE</City>
+        <State>MA</State>
+        <ZIPCode>02445</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>SUSAN E GORDON</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>6174674761</Phone>
+      <DateSigned>2011-01-12</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>MARK L RICHARDSON</Name>
+      <Phone>5086509600</Phone>
+      <DatePrepared>2011-01-16</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="10">
+    <IRS990PF documentId="00000001" referenceDocumentName="ReasonableCauseExplanation GeneralExplanationAttachment">
+      <AddressChange>X</AddressChange>
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>141771</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>3837</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>3837</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="00000004" referenceDocumentName="GainLossFromSaleOtherAssetsSchedule">1369</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>21299</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>1001</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>5206</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>4838</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="00000002" referenceDocumentName="AccountingFeesSchedule">6740</AccountingFeesRevAndExpnss>
+        <TaxesRevAndExpnss referenceDocumentId="00000010" referenceDocumentName="TaxesSchedule">0</TaxesRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="00000009" referenceDocumentName="AmortizationSchedule OtherExpensesSchedule">35</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>6775</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>13100</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>13100</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>19875</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>13100</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-14669</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>4838</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>7174</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>8884</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>8884</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>132503</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="00000005" referenceDocumentName="InvestmentsCorpStockSchedule">116779</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>132887</InvestmentsCorpStockEOYFMV>
+        <OtherAssetsBOY referenceDocumentId="00000006" referenceDocumentName="OtherAssetsSchedule">655</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId="00000007" referenceDocumentName="OtherAssetsSchedule">0</OtherAssetsEOY>
+        <OtherAssetsEOYFMV referenceDocumentId="00000008" referenceDocumentName="OtherAssetsSchedule">0</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>140332</TotalAssetsBOY>
+        <TotalAssetsEOY>125663</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>141771</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>140332</RetainedEarningsBOY>
+        <RetainedEarningsEOY>125663</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>140332</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>125663</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>140332</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>125663</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>140332</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-14669</ExcessOfRevenueOverExpenses>
+        <Subtotal>125663</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>125663</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>257.954 SHS BB&amp;T EQUITY INCOME FUND I</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-04-01</DateAcquired>
+          <DateSold>2010-06-30</DateSold>
+          <GrossSalesPrice>2978</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>3545</CostOrOtherBasis>
+          <GainOrLoss>-567</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-567</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>75.169 SHS PERMANENT PORTFOLIO</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-01-11</DateAcquired>
+          <DateSold>2010-03-16</DateSold>
+          <GrossSalesPrice>3000</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>2722</CostOrOtherBasis>
+          <GainOrLoss>278</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>278</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>869.565 SHS PIMCO TOTAL RETURN FUND INSTL CL</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-09-24</DateAcquired>
+          <DateSold>2010-11-29</DateSold>
+          <GrossSalesPrice>9975</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>9038</CostOrOtherBasis>
+          <GainOrLoss>937</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>937</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>271.493 SHS PIMCO TOTAL RETURN FUND INSTL CL</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-09-24</DateAcquired>
+          <DateSold>2010-03-17</DateSold>
+          <GrossSalesPrice>2978</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>2816</CostOrOtherBasis>
+          <GainOrLoss>162</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>162</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>50.01299 SHS PERMANENT PORTFOLIO</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-01-11</DateAcquired>
+          <DateSold>2009-12-03</DateSold>
+          <GrossSalesPrice>2000</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>1809</CostOrOtherBasis>
+          <GainOrLoss>191</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>191</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>1001</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>6650</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>139592</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.047639</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>6000</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>200087</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.029987</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>2500</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>234539</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.010659</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>18911</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>223864</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.084475</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>24733</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>232475</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.106390</DistributionRatioYear5>
+        <TotalDistributionRatio>0.279150</TotalDistributionRatio>
+        <AverageDistributionRatio>0.055830</AverageDistributionRatio>
+        <NetNoncharitableAssets>138090</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>7710</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>48</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>7758</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>13100</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>48</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>48</Subtotal>
+        <TaxBasedOnInvestmentIncome>48</TaxBasedOnInvestmentIncome>
+        <TaxPaidOriginalReturn>0</TaxPaidOriginalReturn>
+        <TaxDue>48</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>MA</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>HARLEY S SUSAN E GORDON CHARITABLE</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>6174674761</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>541 BOYLSTON STREET</AddressLine1>
+          <City>BROOKLINE</City>
+          <State>MA</State>
+          <ZIPCode>02445</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>SUSAN E GORDON</PersonName>
+          <USAddress>
+            <AddressLine1>541 BOYLSTON STREET</AddressLine1>
+            <City>BROOKLINE</City>
+            <State>MA</State>
+            <ZIPCode>02445</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>HARLEY S GORDON</PersonName>
+          <USAddress>
+            <AddressLine1>541 BOYLSTON STREET</AddressLine1>
+            <City>BROOKLINE</City>
+            <State>MA</State>
+            <ZIPCode>02445</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>SCHUYLER E COPPEDGE</PersonName>
+          <USAddress>
+            <AddressLine1>541 BOYLSTON STREET</AddressLine1>
+            <City>BROOKLINE</City>
+            <State>MA</State>
+            <ZIPCode>02445</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>138223</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>1970</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>140193</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>140193</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>2103</CashDeemedCharitable>
+        <NetNoncharitableAssets>138090</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>6905</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>6905</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>48</TaxBasedOnInvestmentIncome>
+        <TotalTax>48</TotalTax>
+        <DistributableAmountBeforeAdj>6857</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>6857</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>6857</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>13100</ExpensesAndContributions>
+        <QualifyingDistributions>13100</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>48</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>13052</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>6857</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>85</UndistributedIncomePriorYear>
+        <QualifyingDistributions>13100</QualifyingDistributions>
+        <AppliedToYear1>85</AppliedToYear1>
+        <AppliedToCurrentYear>6857</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>6158</RemainingDistriFromCorpus>
+        <TotalCorpus>6158</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>6158</ExcessDistriCyovToNextYear>
+        <ExcessFromCurrentYear>6158</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>NONE</ContributingManager>
+        <ShareholderManager>NONE</ShareholderManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>EPIPHANY SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>154 CENTRE ST</AddressLine1>
+            <City>DORCHESTER</City>
+            <State>MA</State>
+            <ZIPCode>02124</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLICCHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PRIVATE MIDDLE SCHOOL FORCONTRIBTUION TO INNER CITYDISADVANTAGED CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CARON TREATMENT CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>243 NORTH GALEN HALL ROAD</AddressLine1>
+            <City>WERNERSVILLE</City>
+            <State>PA</State>
+            <ZIPCode>19565</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLICCHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FUND FOR ADDICTIONCONTRIBTUION TO SCHOLARSHIPTREATMENT</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THERESA ALESSANDRA RUSSO FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>250 LIDO BOULEVARD</AddressLine1>
+            <City>LIDO BEACH</City>
+            <State>NY</State>
+            <ZIPCode>11561</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLICCHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ARTS ACADEMY FORCONTRIBUTION TO PERFORMINGSPECIAL NEEDS CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE CARROLL SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>25 BAKER BRIDGE ROAD</AddressLine1>
+            <City>LINCOLN</City>
+            <State>MA</State>
+            <ZIPCode>01773</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLICCHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOOL ANNUAL FUNDCONTRIBTUION TO PRIVATE</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHURCH OF THE REDEEMER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>379 HAMMOND STREET</AddressLine1>
+            <City>CHESTNUT HILL</City>
+            <State>MA</State>
+            <ZIPCode>02467</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLICCHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CAMPAIGN FOR CATHOLICCONTRIBUTION TO THE STEWARDSHIPCHURCH</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE HOME FOR LITTLE WANDERERS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>271 HUNTINGTON AVENUE</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02115</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLICCHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR DISADVANTAGEDCONTRIBUTION FOR HOMECHILDREN</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE SECOND STEP</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 600213</AddressLine1>
+            <City>NEWTONVILLE</City>
+            <State>MA</State>
+            <ZIPCode>02460</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLICCHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>VIOLENCEANNUAL APPEAL - DOMESTIC</PurposeOfGrantOrContribution>
+          <Amount>200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CITY TO SADDLE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 456</AddressLine1>
+            <City>WESTON</City>
+            <State>MA</State>
+            <ZIPCode>02493</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLICCHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROVIDING RIDING OPPORTUNITIESCONTRIBUTION TO BARNFOR UNDERPRIVELEGED CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>YEAR UP</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>93 SUMMER STREET</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02110</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLICCHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>HELP URBAN ADULTSCONTRIBUTION TO</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BOSTON FISHER HOUSE FOUNDATION INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 230</AddressLine1>
+            <City>SOUTH WALPOLE</City>
+            <State>MA</State>
+            <ZIPCode>02071</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLICCHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>VETERANS AND THEIRBUILDS HOUSING FOR INJUREDFAMILIES</PurposeOfGrantOrContribution>
+          <Amount>200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ICE HOCKEY IN HARLEM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 978 HELL GATE STATION</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10029</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLICCHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>HOCKEY FOR UNDERSERVED CHILDRENCONTRIBUTION TO SUPPORTIN HARLEM</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LET'S GET READY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>89 SOUTH STREET SUITE LL01</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02111</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLICCHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ORGANIZATION WHICH HELPS CHILDRENCONTRIBUTION IN SUPPORT OFOF ALL SOCIOECONOMIC BACKGROUNDS GET INTO COLLEGE</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AIDS WALK BOSTON</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>AIDS ACTION COMMITTEE 75 ARMORY STR</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02119</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLICCHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RESEARCHFUNDRAISING FOR AIDS</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>13100</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>3837</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>1369</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>5206</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>5206</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="00000002">
+      <AccountingFees>
+        <Category>RICHARDSON &amp; ASSOCIATES INC. ACCOUNTING &amp; ADVISORY SERVICES</Category>
+        <Amount>3130</Amount>
+      </AccountingFees>
+      <AccountingFees>
+        <Category>RICHARDSON &amp; ASSOCIATES, INC. RETURN PREPARATION SERVICES</Category>
+        <Amount>3610</Amount>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <AllOthProgRltdInvestmentsSch documentId="00000003">
+      <AllOthProgRltdInvestments>
+        <Description>N/A</Description>
+      </AllOthProgRltdInvestments>
+    </AllOthProgRltdInvestmentsSch>
+    <GainLossSaleOtherAssetsSch documentId="00000004">
+      <GainLossSaleOtherAsset>
+        <Name>PUBLICLY TRADED SECURITIES</Name>
+        <HowAcquired>Purchased</HowAcquired>
+        <PurchaserName>
+          <Individual>VARIOUS</Individual>
+        </PurchaserName>
+        <GrossSalesPrice>20931</GrossSalesPrice>
+        <Basis>19930</Basis>
+        <BasisMethod>FMV</BasisMethod>
+        <TotalNet>1001</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>CAPITAL GAIN DISTRIBUTIONS</Name>
+        <GrossSalesPrice>368</GrossSalesPrice>
+        <TotalNet>368</TotalNet>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpStockSchedule documentId="00000005">
+      <InvestmentsCorpStock>
+        <NameOfStock>INVESTMENTS - SEE STATEMENT</NameOfStock>
+        <EOYBookValue>116779</EOYBookValue>
+        <EOYFMV>132887</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherAssetsSchedule documentId="00000006">
+      <OtherAssets>
+        <Description>FEDERAL TAX REFUND RECEIVABLE</Description>
+        <BOYBookValue>655</BOYBookValue>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherAssetsSchedule documentId="00000007">
+      <OtherAssets>
+        <Description>FEDERAL TAX REFUND RECEIVABLE</Description>
+        <BOYBookValue>655</BOYBookValue>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherAssetsSchedule documentId="00000008">
+      <OtherAssets>
+        <Description>FEDERAL TAX REFUND RECEIVABLE</Description>
+        <BOYBookValue>655</BOYBookValue>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="00000009">
+      <OtherExpenses>
+        <Description>FILING FEES AND OTHER COSTS</Description>
+        <RevenueAndExpensesPerBooks>35</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="00000010">
+      <Taxes>
+        <Category>FEDERAL TAX</Category>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

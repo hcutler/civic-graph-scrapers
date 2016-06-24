@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2008v2.10">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-09-13T07:48:59-05:00</Timestamp>
+    <TaxPeriodEndDate>2008-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>ULLREY &amp; COMPANY</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>401 N SAGE STREET</AddressLine1>
+        <City>KALAMAZOO</City>
+        <State>MI</State>
+        <ZIPCode>490064040</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2008-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>383317777</EIN>
+      <Name>
+        <BusinessNameLine1>BLOOMINGDALE ATHLETIC CLUB</BusinessNameLine1>
+      </Name>
+      <NameControl>BLOO</NameControl>
+      <Phone>2695217622</Phone>
+      <USAddress>
+        <AddressLine1>38252 COUNTY ROAD 388</AddressLine1>
+        <City>BLOOMINGDALE</City>
+        <State>MI</State>
+        <ZIPCode>49026</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>GEORGE FRITZ</Name>
+      <Title>TREASURER</Title>
+      <Phone>2695217622</Phone>
+      <DateSigned>2010-08-31</DateSigned>
+      <AuthorizeThirdParty>true</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>JACK A ULLREY</Name>
+      <Phone>2693825027</Phone>
+      <DatePrepared>2010-09-02</DatePrepared>
+    </Preparer>
+    <TaxYear>2008</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="4">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>8030</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc4">9780</OtherIncomeRevAndExpnss>
+        <OtherIncomeAdjNetIncm>9780</OtherIncomeAdjNetIncm>
+        <TotalRevenueAndExpenses>9780</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>0</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>9780</TotalAdjustedNetIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">225</AccountingFeesRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc3">6142</OtherExpensesRevAndExpnss>
+        <OtherExpensesAdjNetIncm>5014</OtherExpensesAdjNetIncm>
+        <TotOprExpensesRevAndExpnss>6367</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>5014</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>0</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>6367</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>5014</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>0</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>3413</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>4766</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>3117</CashBOY>
+        <CashEOY>6930</CashEOY>
+        <CashEOYFMV>6930</CashEOYFMV>
+        <InventoriesForSaleOrUseBOY>1400</InventoriesForSaleOrUseBOY>
+        <InventoriesForSaleOrUseEOY>1000</InventoriesForSaleOrUseEOY>
+        <InventoriesForSaleOrUseEOYFMV>1000</InventoriesForSaleOrUseEOYFMV>
+        <PrepaidExpensesBOY>100</PrepaidExpensesBOY>
+        <PrepaidExpensesEOY>100</PrepaidExpensesEOY>
+        <PrepaidExpensesEOYFMV>100</PrepaidExpensesEOYFMV>
+        <TotalAssetsBOY>4617</TotalAssetsBOY>
+        <TotalAssetsEOY>8030</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>8030</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>4617</UnrestrictedBOY>
+        <UnrestrictedEOY>8030</UnrestrictedEOY>
+        <TotalNetAssetsBOY>4617</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>8030</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>4617</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>8030</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>4617</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>3413</ExcessOfRevenueOverExpenses>
+        <Subtotal>8030</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>8030</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>389</QualifyingDistributionsYear1>
+        <QualifyingDistributionsYear2>750</QualifyingDistributionsYear2>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>0</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>0</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>NONE</WebsiteAddress>
+        <BooksInCareOfPersonName>GEORGE FRITZ</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>2695217622</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>38252 CR 388</AddressLine1>
+          <City>BLOOMINGDALE</City>
+          <State>MI</State>
+          <ZIPCode>49026</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>GEORGE FRITZ</PersonName>
+          <USAddress>
+            <AddressLine1>38252 CR 388</AddressLine1>
+            <City>BLOOMINGDALE</City>
+            <State>MI</State>
+            <ZIPCode>49026</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>5</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>0</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>0</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>0</CashDeemedCharitable>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>0</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>0</ExpensesAndContributions>
+        <QualifyingDistributions>0</QualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear2>750</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>389</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>1139</TotalExcessDistriCarryover>
+        <TotalCorpus>1139</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>1139</ExcessDistriCyovToNextYear>
+        <ExcessFromYear2>750</ExcessFromYear2>
+        <ExcessFromYear1>389</ExcessFromYear1>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <ProgramServiceRevenuePartVII>
+          <Description>RENTAL</Description>
+          <ExclusionCode>16</ExclusionCode>
+          <ExclusionAmount>2000</ExclusionAmount>
+        </ProgramServiceRevenuePartVII>
+        <NetIncomeLossFromSpecialEvents>
+          <ExclusionCode>25</ExclusionCode>
+          <ExclusionAmount>2766</ExclusionAmount>
+        </NetIncomeLossFromSpecialEvents>
+        <GrossProfitLossSalesOfInvntry>
+          <ExclusionCode>25</ExclusionCode>
+        </GrossProfitLossSalesOfInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>4766</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>4766</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>INDIRECT ACCOUNTING FEES</Category>
+        <Amount>225</Amount>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc3">
+      <OtherExpenses>
+        <Description>GOLF SCRAMBLE</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>COST OF GOODS SOLD</Description>
+        <RevenueAndExpensesPerBooks>5014</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>5014</AdjustedNetIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>FUNDRAISER EVENTS</Description>
+        <RevenueAndExpensesPerBooks>1128</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc4">
+      <OtherIncome>
+        <Description>GOLF SCRAMBLE</Description>
+        <RevenueAndExpensesPerBooks>7780</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>7780</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>RENTAL</Description>
+        <RevenueAndExpensesPerBooks>2000</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>2000</AdjustedNetIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+  </ReturnData>
+</Return>

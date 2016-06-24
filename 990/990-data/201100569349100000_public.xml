@@ -1,0 +1,381 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-25T07:24:27-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-11-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>RALSTON &amp; COMPANY PA CPA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>8777 SAN JOSE BLVD BLDG E</AddressLine1>
+        <City>JACKSONVILLE</City>
+        <State>FL</State>
+        <ZIPCode>322174213</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-12-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>591731934</EIN>
+      <Name>
+        <BusinessNameLine1>WILLIAM M HALLJRFOUNDATIONINC</BusinessNameLine1>
+      </Name>
+      <NameControl>WILL</NameControl>
+      <Phone>9043899938</Phone>
+      <USAddress>
+        <AddressLine1>4214 ORTEGA FOREST DRIVE</AddressLine1>
+        <City>JACKSONVILLE</City>
+        <State>FL</State>
+        <ZIPCode>32210</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>WILLIAM M HALL</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>9043899938</Phone>
+      <DateSigned>2011-02-25</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>R BRUCE SHEALY</Name>
+      <Phone>9047300440</Phone>
+      <DatePrepared>2011-02-25</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="4">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>0</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>7</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>7</InterestOnSavingsNetInvstIncm>
+        <TotalRevenueAndExpenses>7</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>7</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">500</AccountingFeesRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc4">151</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>651</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>29574</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>29574</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>30225</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>29574</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-30218</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>7</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <InvestmentsOtherBOY>30725</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc3">507</InvestmentsOtherEOY>
+        <TotalAssetsBOY>30725</TotalAssetsBOY>
+        <TotalAssetsEOY>507</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>0</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>30725</UnrestrictedBOY>
+        <UnrestrictedEOY>507</UnrestrictedEOY>
+        <TotalNetAssetsBOY>30725</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>507</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>30725</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>507</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>30725</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-30218</ExcessOfRevenueOverExpenses>
+        <Subtotal>507</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>507</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>95287</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>30724</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>3.101387</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>62867</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>959</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>65.554745</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>105399</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>8927</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>11.806766</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>79988</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>4894</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>16.344095</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>54004</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>26101</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>2.069040</DistributionRatioYear5>
+        <TotalDistributionRatio>98.876033</TotalDistributionRatio>
+        <AverageDistributionRatio>19.775207</AverageDistributionRatio>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>0</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>29574</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>true</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>WILLIAM M HALL</PersonName>
+          <USAddress>
+            <AddressLine1>4214 ORTEGA FOREST DRIVE</AddressLine1>
+            <City>JACKSONVILLE</City>
+            <State>FL</State>
+            <ZIPCode>32210</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BERT J PITTMAN JR</PersonName>
+          <USAddress>
+            <AddressLine1>8777 SAN JOSE BOULEVARD SUITE 600</AddressLine1>
+            <City>JACKSONVILLE</City>
+            <State>FL</State>
+            <ZIPCode>32217</ZIPCode>
+          </USAddress>
+          <Title>VICE PRESIDE</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>0</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>0</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>0</CashDeemedCharitable>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>0</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>29574</ExpensesAndContributions>
+        <QualifyingDistributions>29574</QualifyingDistributions>
+        <AdjQualifyingDistributions>29574</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>37787</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>53049</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>79239</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>105401</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>95287</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>370763</TotalExcessDistriCarryover>
+        <QualifyingDistributions>29574</QualifyingDistributions>
+        <RemainingDistriFromCorpus>29574</RemainingDistriFromCorpus>
+        <TotalCorpus>400337</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>37787</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>362550</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>53049</ExcessFromYear4>
+        <ExcessFromYear3>79239</ExcessFromYear3>
+        <ExcessFromYear2>105401</ExcessFromYear2>
+        <ExcessFromYear1>95287</ExcessFromYear1>
+        <ExcessFromCurrentYear>29574</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>WILLIAM M HALL</ContributingManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>WLIIAM M HALL</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>4214 ORTEGA FOREST DRIVE</AddressLine1>
+            <City>JACKSONVILLE</City>
+            <State>FL</State>
+            <ZIPCode>32210</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>9047300440</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>WRITTEN REQUEST</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>NONE</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>EVEREST UNIVERSITY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>8226 UNIVERSITY BOULEVARD</AddressLine1>
+            <City>JACKSONVILLE</City>
+            <State>FL</State>
+            <ZIPCode>32216</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>TUITION</PurposeOfGrantOrContribution>
+          <Amount>4848</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>B DAVIS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>4214 ORTEGA FOREST DRIVE</AddressLine1>
+            <City>JACKSONVILLE</City>
+            <State>FL</State>
+            <ZIPCode>32210</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>TUITION</PurposeOfGrantOrContribution>
+          <Amount>438</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>UNIV OF NORTH FLORIDA</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>4567 ST JOHNS BLUFF ROAD</AddressLine1>
+            <City>JACKSONVILLE</City>
+            <State>FL</State>
+            <ZIPCode>32256</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>TUITION</PurposeOfGrantOrContribution>
+          <Amount>804</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>BOSTON UNIVERSITY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>881 COMMONWEALTH AVENUE</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02215</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>TUITION</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JAMES BRAY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>4214 ORTEGA FOREST DRIVE</AddressLine1>
+            <City>JACKSONVILLE</City>
+            <State>FL</State>
+            <ZIPCode>32210</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>TUITION</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>FLORIDA STATE COLLEGE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>501 WEST STATE STREET</AddressLine1>
+            <City>JACKSONVILLE</City>
+            <State>FL</State>
+            <ZIPCode>32202</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>TUITION</PurposeOfGrantOrContribution>
+          <Amount>1133</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>ST MARKS EPISCOPAL SCHOOL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>4114 OXFORD AVENUE</AddressLine1>
+            <City>JACKSONVILLE</City>
+            <State>FL</State>
+            <ZIPCode>32210</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>TUITION</PurposeOfGrantOrContribution>
+          <Amount>788</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>UNIVERSITY OF FLORIDA</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 114025</AddressLine1>
+            <City>GAINESVILLE</City>
+            <State>FL</State>
+            <ZIPCode>32611</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>TUITION</PurposeOfGrantOrContribution>
+          <Amount>10063</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>29574</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <RelatedOrExemptFunctionIncome>7</RelatedOrExemptFunctionIncome>
+        </IntOnSavingsAndTempCashInvst>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>7</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>7</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>ACCOUNTING &amp; LEGAL</Category>
+        <Amount>500</Amount>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc3">
+      <InvestmentsOther>
+        <CategoryOrItem>MERRILL LYNCH - BANKING ADVANTAGE</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>507</BookValue>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc4">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BROKERAGE FEES</Description>
+        <RevenueAndExpensesPerBooks>151</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,317 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-09-14T14:36:58-00:00</Timestamp>
+    <TaxPeriodEndDate>2010-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Capital Assets Financial Services</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>6000 Fashion Blvd 200</AddressLine1>
+        <City>Murray</City>
+        <State>UT</State>
+        <ZIPCode>84107</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>562632694</EIN>
+      <Name>
+        <BusinessNameLine1>TENMILE FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>TENM</NameControl>
+      <Phone>8015669778</Phone>
+      <USAddress>
+        <AddressLine1>6795 S 300 W</AddressLine1>
+        <City>MIDVALE</City>
+        <State>UT</State>
+        <ZIPCode>84047</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>ALAN COMBS</Name>
+      <Title>TRUSTEE</Title>
+      <DateSigned>2010-09-14</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Rob Haertel MBA CPA JD</Name>
+      <Phone>8012699988</Phone>
+      <DatePrepared>2010-09-14</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="2">
+    <IRS990PF documentId="990PF" softwareId="09000123" softwareVersion="2009.0.12">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>18822</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <InterestOnSavingsRevAndExpnss>113</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>113</InterestOnSavingsNetInvstIncm>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>113</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>113</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="990PF:107">252</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>252</AccountingFeesNetInvstIncm>
+        <AccountingFeesAdjNetIncm>252</AccountingFeesAdjNetIncm>
+        <AccountingFeesDsbrsChrtblPrps>252</AccountingFeesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>252</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>252</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>252</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>252</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>1050</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>1050</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>1302</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>252</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>252</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>1302</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-1189</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>20011</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>18822</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>18822</SavingsAndTempCashInvstEOYFMV>
+        <TotalAssetsBOY>20011</TotalAssetsBOY>
+        <TotalAssetsEOY>18822</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>18822</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>20011</RetainedEarningsBOY>
+        <RetainedEarningsEOY>18822</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>20011</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>18822</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>20011</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>18822</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>20011</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-1189</ExcessOfRevenueOverExpenses>
+        <Subtotal>18822</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>18822</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>4357</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>19798</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>000.220073</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>19349</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>9948</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>001.945014</DistributionRatioYear2>
+        <TotalDistributionRatio>002.165087</TotalDistributionRatio>
+        <AverageDistributionRatio>000.721696</AverageDistributionRatio>
+        <NetNoncharitableAssets>19125</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>13802</AdjustedNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>13802</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>1302</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>UT</StatesFiledWith>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>ALAN COMBS</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>8015669778</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>6795 S 300 W</AddressLine1>
+          <City>MIDVALE</City>
+          <State>UT</State>
+          <ZIPCode>84047</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ALAN COMBS</PersonName>
+          <USAddress>
+            <AddressLine1>6795 S 300 W</AddressLine1>
+            <City>MIDVALE</City>
+            <State>UT</State>
+            <ZIPCode>84047</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>010.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DAN JONES</PersonName>
+          <USAddress>
+            <AddressLine1>6795 S 300 W</AddressLine1>
+            <City>MIDVALE</City>
+            <State>UT</State>
+            <ZIPCode>84047</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>002.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DEBRA COMBS</PersonName>
+          <USAddress>
+            <AddressLine1>6795 S 300 W</AddressLine1>
+            <City>MIDVALE</City>
+            <State>UT</State>
+            <ZIPCode>84047</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>002.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>RYAN DICKENS</PersonName>
+          <USAddress>
+            <AddressLine1>6795 S 300 W</AddressLine1>
+            <City>MIDVALE</City>
+            <State>UT</State>
+            <ZIPCode>84047</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>002.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>HEATHER DICKENS</PersonName>
+          <USAddress>
+            <AddressLine1>6795 S 300 W</AddressLine1>
+            <City>MIDVALE</City>
+            <State>UT</State>
+            <ZIPCode>84047</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>002.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>LDS CHURCH--PUBLIC 501(C)(3) ENTITY CHARITABLE--FEEDING OF THE POOR, RELIGIOUS AND MISSIONARY PROGRAMS</Description1>
+        <Expenses1>1050</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>19416</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>19416</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>19416</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable referenceDocumentId="990PF:293">291</CashDeemedCharitable>
+        <NetNoncharitableAssets>19125</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>956</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>956</MinimumInvestmentReturn>
+        <DistributableAmountBeforeAdj>956</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>956</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>956</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions referenceDocumentId="990PF:294">1302</ExpensesAndContributions>
+        <QualifyingDistributions>1302</QualifyingDistributions>
+        <AdjQualifyingDistributions>1302</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>956</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear2>18852</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>3369</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>22221</TotalExcessDistriCarryover>
+        <QualifyingDistributions>1302</QualifyingDistributions>
+        <AppliedToCurrentYear>956</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>346</RemainingDistriFromCorpus>
+        <TotalCorpus>22567</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>22567</ExcessDistriCyovToNextYear>
+        <ExcessFromYear2>18852</ExcessFromYear2>
+        <ExcessFromYear1>3369</ExcessFromYear1>
+        <ExcessFromCurrentYear>346</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHURCH OF JESUS CHRIST</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>50 S MAIN</AddressLine1>
+            <City>SLC</City>
+            <State>UT</State>
+            <ZIPCode>84104</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>1050</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>1050</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <RelatedOrExemptFunctionIncome>113</RelatedOrExemptFunctionIncome>
+        </IntOnSavingsAndTempCashInvst>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>113</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>113</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>3</LineNumber>
+          <RelationshipStatement>CASH HELD IN BANK ACCOUNT NECESSARY FOR OPERATIONS</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="990PF:107" softwareId="09000123" softwareVersion="2009.0.12">
+      <AccountingFees>
+        <Category>ROB HAERTEL, CPA</Category>
+        <Amount>252</Amount>
+        <NetInvestmentIncome>252</NetInvestmentIncome>
+        <AdjustedNetIncome>252</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>252</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-16T06:20:45-08:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Rick C Reed &amp; Company PLLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>PO Box 867</AddressLine1>
+        <City>San Marcos</City>
+        <State>TX</State>
+        <ZIPCode>786670867</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>742369615</EIN>
+      <Name>
+        <BusinessNameLine1>JACK T &amp; BETTY A BROWN FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>JACK</NameControl>
+      <Phone>5124511333</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 1483</AddressLine1>
+        <City>AUSTIN</City>
+        <State>TX</State>
+        <ZIPCode>78767</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>GAIL BROWN-MCPHAIL</Name>
+      <Title>Treasurer</Title>
+      <DateSigned>2011-02-16</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>DAVID A CRUMBAUGH</Name>
+      <Phone>5123530200</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="1">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>2671</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <NetGainSaleAssetsRevAndExpnss>0</NetGainSaleAssetsRevAndExpnss>
+        <TotalRevenueAndExpenses>0</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>0</TotalNetInvestmentIncome>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>0</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>0</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>0</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>0</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>0</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>2671</CashBOY>
+        <CashEOY>2671</CashEOY>
+        <TotalAssetsBOY>2671</TotalAssetsBOY>
+        <TotalAssetsEOY>2671</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>2671</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>2671</RetainedEarningsBOY>
+        <RetainedEarningsEOY>2671</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>2671</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>2671</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>2671</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>2671</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>2671</TotalNetAssetsFundBalancesBOY>
+        <Subtotal>2671</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>2671</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>true</LiableFor4942Tax>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>false</RequirementsOfSect508e>
+        <AtLeast5000InAssets>false</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>false</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>GAIL MCPHAIL</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>5124511333</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>3415 NORTHLAND</AddressLine1>
+          <City>AUSTIN</City>
+          <State>TX</State>
+          <ZIPCode>78731</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARY LAUREN BROWN</PersonName>
+          <USAddress>
+            <AddressLine1>C/O ORGANIZATION</AddressLine1>
+            <City>AUSTIN</City>
+            <State>TX</State>
+            <ZIPCode>78767</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JIM DUNCAN</PersonName>
+          <USAddress>
+            <AddressLine1>C/O ORGANIZATION</AddressLine1>
+            <City>AUSTIN</City>
+            <State>TX</State>
+            <ZIPCode>78767</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JEFF BROWN</PersonName>
+          <USAddress>
+            <AddressLine1>C/O ORGANIZATION</AddressLine1>
+            <City>AUSTIN</City>
+            <State>TX</State>
+            <ZIPCode>78767</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>KEVIN BROWN</PersonName>
+          <USAddress>
+            <AddressLine1>C/O ORGANIZATION</AddressLine1>
+            <City>AUSTIN</City>
+            <State>TX</State>
+            <ZIPCode>78767</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>TERRY W BROWN</PersonName>
+          <USAddress>
+            <AddressLine1>C/O ORGANIZATION</AddressLine1>
+            <City>AUSTIN</City>
+            <State>TX</State>
+            <ZIPCode>78767</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>GAIL BROWN-MCPHAIL</PersonName>
+          <USAddress>
+            <AddressLine1>C/O ORGANIZATION</AddressLine1>
+            <City>AUSTIN</City>
+            <State>TX</State>
+            <ZIPCode>78767</ZIPCode>
+          </USAddress>
+          <Title>Treasurer</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>STEVE C BROWN</PersonName>
+          <USAddress>
+            <AddressLine1>C/O ORGANIZATION</AddressLine1>
+            <City>AUSTIN</City>
+            <State>TX</State>
+            <ZIPCode>78767</ZIPCode>
+          </USAddress>
+          <Title>Secretary</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JACK PURYEAR</PersonName>
+          <USAddress>
+            <AddressLine1>C/O ORGANIZATION</AddressLine1>
+            <City>AUSTIN</City>
+            <State>TX</State>
+            <ZIPCode>78767</ZIPCode>
+          </USAddress>
+          <Title>Vice President</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DR FLOYD BRANT</PersonName>
+          <USAddress>
+            <AddressLine1>C/O ORGANIZATION</AddressLine1>
+            <City>AUSTIN</City>
+            <State>TX</State>
+            <ZIPCode>78767</ZIPCode>
+          </USAddress>
+          <Title>President</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>2671</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>2671</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>2671</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>40</CashDeemedCharitable>
+        <NetNoncharitableAssets>2631</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>132</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <Sect4942j3j5FndtnAndFrgnOrg>X</Sect4942j3j5FndtnAndFrgnOrg>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>0</ExpensesAndContributions>
+      </QualifyingDistributions>
+      <PrivateOperatingFoundations>
+        <Section4942j3>X</Section4942j3>
+        <LessorAdjNetIncmMinInvstReturn>
+          <CurrentYear>0</CurrentYear>
+          <Total>0</Total>
+        </LessorAdjNetIncmMinInvstReturn>
+        <QualifyingDistributions>
+          <Total>0</Total>
+        </QualifyingDistributions>
+        <TotalAssets>
+          <CurrentYear>2671</CurrentYear>
+          <Year1>2717</Year1>
+          <Year2>2865</Year2>
+          <Year3>2864</Year3>
+          <Total>11117</Total>
+        </TotalAssets>
+        <TotalAssetsSect4942j3Bi>
+          <CurrentYear>2671</CurrentYear>
+          <Year1>2717</Year1>
+          <Year2>2865</Year2>
+          <Year3>2864</Year3>
+          <Total>11117</Total>
+        </TotalAssetsSect4942j3Bi>
+        <TwoThirdsMinInvstReturn>
+          <Total>0</Total>
+        </TwoThirdsMinInvstReturn>
+      </PrivateOperatingFoundations>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+  </ReturnData>
+</Return>

@@ -1,0 +1,752 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return returnVersion="2009v1.3" xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-09-14T21:23:28Z</Timestamp>
+    <TaxPeriodEndDate>2010-04-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Data Management Services</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>516 Second Ave E</AddressLine1>
+        <City>Sisseton</City>
+        <State>SD</State>
+        <ZIPCode>57262</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-05-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>460381838</EIN>
+      <Name>
+        <BusinessNameLine1>WILLIAM J HOLLAND AND ALYCE I HOLLAND</BusinessNameLine1>
+        <BusinessNameLine2>FOUNDATION</BusinessNameLine2>
+      </Name>
+      <NameControl>WILL</NameControl>
+      <Phone>6056983184</Phone>
+      <USAddress>
+        <AddressLine1>509-8TH AVE EAST</AddressLine1>
+        <City>SISSETON</City>
+        <State>SD</State>
+        <ZIPCode>57262</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>WALLACE R BRANTSEG</Name>
+      <Title>MANAGING TRUSTEE</Title>
+      <DateSigned>2010-09-14</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>Colette Hull</Name>
+      <Phone>6056983037</Phone>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="4">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="09000047" softwareVersion="2009v1.3">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>702282</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>78</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>78</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>36558</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>36558</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>0</NetGainSaleAssetsRevAndExpnss>
+        <TotalRevenueAndExpenses>36636</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>36636</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>6360</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>6360</CompOfcrDirTrstNetInvstIncm>
+        <AccountingFeesRevAndExpnss referenceDocumentId=" AccountingFeesSchedule">1288</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>1288</AccountingFeesNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId=" TaxesSchedule">375</TaxesRevAndExpnss>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">513</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>513</OtherExpensesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>8536</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>8161</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>32835</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>32835</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>41371</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>8161</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>32835</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-4735</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>28475</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>2159</CashBOY>
+        <CashEOY>2003</CashEOY>
+        <CashEOYFMV>2003</CashEOYFMV>
+        <InvestmentsCorpStockBOY>772779</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY>768200</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>700279</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>774938</TotalAssetsBOY>
+        <TotalAssetsEOY>770203</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>702282</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>482385</CapitalStockBOY>
+        <CapitalStockEOY>482385</CapitalStockEOY>
+        <RetainedEarningsBOY>292553</RetainedEarningsBOY>
+        <RetainedEarningsEOY>287818</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>774938</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>770203</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>774938</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>770203</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>774938</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-4735</ExcessOfRevenueOverExpenses>
+        <Subtotal>770203</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>770203</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>40935</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>605854</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.06757</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>42860</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>822336</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.05212</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>34410</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>755468</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.04555</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>36560</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>570116</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.06413</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>34860</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>575141</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.06061</DistributionRatioYear5>
+        <TotalDistributionRatio>0.28997</TotalDistributionRatio>
+        <AverageDistributionRatio>0.05799</AverageDistributionRatio>
+        <NetNoncharitableAssets>638090</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>37005</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>285</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>37290</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>32835</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>570</InvestmentIncomeExciseTax>
+        <Subtotal>570</Subtotal>
+        <TaxBasedOnInvestmentIncome>570</TaxBasedOnInvestmentIncome>
+        <Form2220Attached referenceDocumentId=" IRS2220">X</Form2220Attached>
+        <PenaltyForUnderpayment>11</PenaltyForUnderpayment>
+        <TaxDue>581</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>SD</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>WALLACE R BRANTSEG</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>6056983184</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>509-8TH AVE E</AddressLine1>
+          <City>SISSETON</City>
+          <State>SD</State>
+          <ZIPCode>57262</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>WILLIAM H TORNESS</PersonName>
+          <USAddress>
+            <AddressLine1>408 4TH AVE E</AddressLine1>
+            <City>SISSETON</City>
+            <State>SD</State>
+            <ZIPCode>57262</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOHN RASMUSSEN</PersonName>
+          <USAddress>
+            <AddressLine1>217 5TH AVE E</AddressLine1>
+            <City>SISSETON</City>
+            <State>SD</State>
+            <ZIPCode>57262</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>WALLACE R BRANTSEG</PersonName>
+          <USAddress>
+            <AddressLine1>509-8TH AVE E</AddressLine1>
+            <City>SISSETON</City>
+            <State>SD</State>
+            <ZIPCode>57262</ZIPCode>
+          </USAddress>
+          <Title>MANAGING TRUSTE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>6360</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>645471</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>2336</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>647807</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>647807</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>9717</CashDeemedCharitable>
+        <NetNoncharitableAssets>638090</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>31905</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>31905</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>570</TaxBasedOnInvestmentIncome>
+        <TotalTax>570</TotalTax>
+        <DistributableAmountBeforeAdj>31335</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>31335</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>31335</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>32835</ExpensesAndContributions>
+        <QualifyingDistributions>32835</QualifyingDistributions>
+        <AdjQualifyingDistributions>32835</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>31335</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>7442</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>8751</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear2>2860</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>11392</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>30445</TotalExcessDistriCarryover>
+        <QualifyingDistributions>32835</QualifyingDistributions>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>31335</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>1500</RemainingDistriFromCorpus>
+        <TotalCorpus>31945</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>7442</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>24503</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>8751</ExcessFromYear4>
+        <ExcessFromYear2>2860</ExcessFromYear2>
+        <ExcessFromYear1>11392</ExcessFromYear1>
+        <ExcessFromCurrentYear>1500</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>WALLACE R BRANTSEG</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>509-8TH AVE E</AddressLine1>
+            <City>SISSETON</City>
+            <State>SD</State>
+            <ZIPCode>57262</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>6056983184</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>APPLICATION FURNISHED BY FOUNDATION UPON REQUEST</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>ANNUALLY - USUALLY 4TH QUARTER</SubmissionDeadlines>
+          <RestrictionsOnAwards>AS INSTRUCTED IN FOUNDATION DOCUMENTS</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SISSETON TRANSIENT FUND-MINISTERIAL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>120 E CHESTNUT ST</AddressLine1>
+            <City>SISSETON</City>
+            <State>SD</State>
+            <ZIPCode>57262</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>OPERATING GRANT</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SISSETON CEMETERY ASSOCIATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>C/O J GROSS 11934 VALLEY VIEW RD</AddressLine1>
+            <City>SISSETON</City>
+            <State>SD</State>
+            <ZIPCode>57262</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>OPERATING GRANT</PurposeOfGrantOrContribution>
+          <Amount>375</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHRISTIAN MISSIONARY ALLIANCE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>SECOND AND WEST ASH</AddressLine1>
+            <City>SISSETON</City>
+            <State>SD</State>
+            <ZIPCode>57262</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>RELIGIOUS GRANT</PurposeOfGrantOrContribution>
+          <Amount>750</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHRISTIAN OUTREACH CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 270</AddressLine1>
+            <City>SISSETON</City>
+            <State>SD</State>
+            <ZIPCode>57262</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>RELIGIOUS GRANT</PurposeOfGrantOrContribution>
+          <Amount>575</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SISSETON KIWANIS CLUB</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>310 5TH AVE E</AddressLine1>
+            <City>SISSETON</City>
+            <State>SD</State>
+            <ZIPCode>57262</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>OPERATING GRANT</PurposeOfGrantOrContribution>
+          <Amount>375</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ROBERTS CO RESCUE SQUAD</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>603 EAST ASH STREET</AddressLine1>
+            <City>SISSETON</City>
+            <State>SD</State>
+            <ZIPCode>57262</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>EQUIPMENT/TRAINING</PurposeOfGrantOrContribution>
+          <Amount>750</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SISSETON SENIOR NUTRITION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>511 VETERANS AVE</AddressLine1>
+            <City>SISSETON</City>
+            <State>SD</State>
+            <ZIPCode>57262</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>OPERATING GRANT</PurposeOfGrantOrContribution>
+          <Amount>575</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SISSETON MINISTERIAL ASSN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>C/O REV NORM VOLK 120 E CHESTNUT</AddressLine1>
+            <City>SISSETON</City>
+            <State>SD</State>
+            <ZIPCode>57262</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>OPERATING GRANT</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GETHSEMANE EPISCOPAL CHUR</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1 5TH AVE E</AddressLine1>
+            <City>SISSETON</City>
+            <State>SD</State>
+            <ZIPCode>57262</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>RELIGIOUS GRANT</PurposeOfGrantOrContribution>
+          <Amount>1560</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SISSETON ARTS COUNCIL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 313</AddressLine1>
+            <City>SISSETON</City>
+            <State>SD</State>
+            <ZIPCode>57262</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>OPERATING GRANT</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SISSETON VOLUNTEER FIRE DEPT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4 EAST OAK STREET</AddressLine1>
+            <City>SISSETON</City>
+            <State>SD</State>
+            <ZIPCode>57262</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>EQUIPMENT</PurposeOfGrantOrContribution>
+          <Amount>750</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SISSETON MEMOR LIBRARY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>305 E MAPLE</AddressLine1>
+            <City>SISSETON</City>
+            <State>SD</State>
+            <ZIPCode>57262</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>OPERATING GRANT</PurposeOfGrantOrContribution>
+          <Amount>750</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ROBERTS COUNTY 4-H</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>411 2ND AVE E</AddressLine1>
+            <City>SISSETON</City>
+            <State>SD</State>
+            <ZIPCode>57262</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>OPERATING GRANT</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>COMMUNITY TRANSIT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>420 2ND AVE E</AddressLine1>
+            <City>SISSETON</City>
+            <State>SD</State>
+            <ZIPCode>57262</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>OPERATING GRANT</PurposeOfGrantOrContribution>
+          <Amount>750</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNIVERSITY OF NORTH DAKOTA LAW SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 8157</AddressLine1>
+            <City>GRAND FORKS</City>
+            <State>ND</State>
+            <ZIPCode>58202</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>SCHOLARSHIPS</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SISSETON PUBLIC SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>516 8TH AVE W</AddressLine1>
+            <City>SISSETON</City>
+            <State>SD</State>
+            <ZIPCode>57262</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>SCHOLARSHIPS</PurposeOfGrantOrContribution>
+          <Amount>4000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TEKAKWITHA NC FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>6 EAST CHESTNUT</AddressLine1>
+            <City>SISSETON</City>
+            <State>SD</State>
+            <ZIPCode>57262</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>OPERATION GRANT</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LUTHERAN SOCIAL SERVICES</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>421 3RD AVE E</AddressLine1>
+            <City>SISSETON</City>
+            <State>SD</State>
+            <ZIPCode>57262</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>OPERATING GRANT</PurposeOfGrantOrContribution>
+          <Amount>350</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ROBERTS CO RED CROSS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>412 E 3RD AVE</AddressLine1>
+            <City>SISSETON</City>
+            <State>SD</State>
+            <ZIPCode>57262</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>OPERATING GRANT</PurposeOfGrantOrContribution>
+          <Amount>350</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SISSETON SENIOR CITIZENS CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>511 VETERANS AVE</AddressLine1>
+            <City>SISSETON</City>
+            <State>SD</State>
+            <ZIPCode>57262</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>OPERATING GRANT</PurposeOfGrantOrContribution>
+          <Amount>575</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>RBTS CO SALVATION ARMY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>414 THIRD AVE E</AddressLine1>
+            <City>SISSETON</City>
+            <State>SD</State>
+            <ZIPCode>57262</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>OPERATING GRANT</PurposeOfGrantOrContribution>
+          <Amount>350</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GRACE LUTHERAN CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>421 3RD AVE E</AddressLine1>
+            <City>SISSETON</City>
+            <State>SD</State>
+            <ZIPCode>57262</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>RELIGIOUS GRANT</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>EMANUEL LUTHERAN CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>105 6TH AVE E</AddressLine1>
+            <City>SISSETON</City>
+            <State>SD</State>
+            <ZIPCode>57262</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>RELIGIOUS GRANT</PurposeOfGrantOrContribution>
+          <Amount>1125</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CATHOLIC COMMUNITY CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>120 E CHESTNUT</AddressLine1>
+            <City>SISSETON</City>
+            <State>SD</State>
+            <ZIPCode>57262</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>RELIGIOUS GRANT</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>1ST ASSEMBLY OF GOD CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>HWY 10 4TH AVE W</AddressLine1>
+            <City>SISSETON</City>
+            <State>SD</State>
+            <ZIPCode>57262</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>RELIGIOUS GRANT</PurposeOfGrantOrContribution>
+          <Amount>750</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SISSETON PARKS BOARD</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>C/O DEB WOOLEY CHAIRPERSON</AddressLine1>
+            <City>SISSETON</City>
+            <State>SD</State>
+            <ZIPCode>57262</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>PICNIC AREA IMPROVEMENTS</PurposeOfGrantOrContribution>
+          <Amount>375</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>COTEAU DES PRAIRIE HOSPITAL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>205 ORCHARD DR</AddressLine1>
+            <City>SISSETON</City>
+            <State>SD</State>
+            <ZIPCode>57262</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>EQUIPMENT</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SISSETON SWIMMING POOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>C/O ADELINE VEFLIN 11709 461 AVE</AddressLine1>
+            <City>SISSETON</City>
+            <State>SD</State>
+            <ZIPCode>57262</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>OPERATING GRANT</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>RC HERITAGE MUSEUM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 215</AddressLine1>
+            <City>SISSETON</City>
+            <State>SD</State>
+            <ZIPCode>57262</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>OPERATING GRANT</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TEKAKWITHA RAINBOW DAYCAR</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>6 EAST CHESTNUT</AddressLine1>
+            <City>SISSETON</City>
+            <State>SD</State>
+            <ZIPCode>57262</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>EQUIPMENT</PurposeOfGrantOrContribution>
+          <Amount>375</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>1ST PRESBYTERIAN CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>200 E MAPLE</AddressLine1>
+            <City>SISSETON</City>
+            <State>SD</State>
+            <ZIPCode>57262</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>RELIGIOUS GRANT</PurposeOfGrantOrContribution>
+          <Amount>1125</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>32835</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <RelatedOrExemptFunctionIncome>78</RelatedOrExemptFunctionIncome>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <RelatedOrExemptFunctionIncome>36558</RelatedOrExemptFunctionIncome>
+        </DividendsAndIntFromSecPartVII>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>36636</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>36636</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="09000047" softwareVersion="2009v1.3">
+      <AccountingFees>
+        <Category>ACCOUNTING &amp; TAX WORK</Category>
+        <Amount>1288</Amount>
+        <NetInvestmentIncome>1288</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="09000047" softwareVersion="2009v1.3">
+      <OtherExpenses>
+        <Description>FEES, POSTAGE &amp; ADVERTISING</Description>
+        <RevenueAndExpensesPerBooks>358</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>358</NetInvestmentIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BROKERAGE ACCT FEES</Description>
+        <RevenueAndExpensesPerBooks>155</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>155</NetInvestmentIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="09000047" softwareVersion="2009v1.3">
+      <Taxes>
+        <Category>2008 FED EXCISE TAX ON FORM 990-PF</Category>
+        <Amount>375</Amount>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

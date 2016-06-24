@@ -1,0 +1,895 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-11T08:12:26-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-09-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>REA &amp; ASSOCIATES INC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>7325 PRODUCTION DR SUITE C</AddressLine1>
+        <City>MENTOR</City>
+        <State>OH</State>
+        <ZIPCode>44060</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-10-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>346881707</EIN>
+      <Name>
+        <BusinessNameLine1>GAF FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>GAFF</NameControl>
+      <Phone>4804510087</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 1604</AddressLine1>
+        <City>PAINESVILLE</City>
+        <State>OH</State>
+        <ZIPCode>44077</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>MARC FILES</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>4804510087</Phone>
+      <DateSigned>2011-02-02</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Wendy Shick CPA</Name>
+      <Phone>4402660077</Phone>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="8">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>546421</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>3771</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>3771</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>3771</InterestOnSavingsAdjNetIncm>
+        <DividendsRevAndExpnss>9801</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>9801</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>9801</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss>14215</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>80243</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>14215</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>27787</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>27787</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>13572</TotalAdjustedNetIncome>
+        <CompOfcrDirTrstRevAndExpnss>1200</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstAdjNetIncm>0</CompOfcrDirTrstAdjNetIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>600</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">1100</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>0</AccountingFeesNetInvstIncm>
+        <AccountingFeesAdjNetIncm>0</AccountingFeesAdjNetIncm>
+        <AccountingFeesDsbrsChrtblPrps>1100</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">640</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>0</TaxesNetInvstIncm>
+        <TaxesAdjNetIncm>0</TaxesAdjNetIncm>
+        <TaxesDsbrsChrtblPrps>200</TaxesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">108</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>108</OtherExpensesNetInvstIncm>
+        <OtherExpensesAdjNetIncm>0</OtherExpensesAdjNetIncm>
+        <OtherExpensesDsbrsChrtblPrps>0</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>3048</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>108</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>0</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>1900</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>42000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>42000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>45048</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>108</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>0</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>43900</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-17261</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>27679</NetInvestmentIncome>
+        <AdjustedNetIncome>13572</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>174998</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>83044</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>83044</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsGovtObligBOY>100007</InvestmentsGovtObligBOY>
+        <InvestmentsGovtObligEOY referenceDocumentId="RetDoc2210400001">50000</InvestmentsGovtObligEOY>
+        <InvestmentsGovtObligEOYFMV>51815</InvestmentsGovtObligEOYFMV>
+        <InvestmentsCorpStockBOY>189560</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2018900001">267525</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>315872</InvestmentsCorpStockEOYFMV>
+        <InvestmentsOtherBOY>34974</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc2018100001">82534</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>81065</InvestmentsOtherEOYFMV>
+        <OtherAssetsBOY referenceDocumentId="RetDoc2046600001">14810</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId="RetDoc2046600001">14625</OtherAssetsEOY>
+        <OtherAssetsEOYFMV referenceDocumentId="RetDoc2046600001">14625</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>514349</TotalAssetsBOY>
+        <TotalAssetsEOY>497728</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>546421</TotalAssetsEOYFMV>
+        <AccountsPayableBOY>652</AccountsPayableBOY>
+        <AccountsPayableEOY>1292</AccountsPayableEOY>
+        <TotalLiabilitiesBOY>652</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>1292</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>513697</CapitalStockBOY>
+        <CapitalStockEOY>496436</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>0</RetainedEarningsBOY>
+        <RetainedEarningsEOY>0</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>513697</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>496436</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>514349</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>497728</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>513697</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-17261</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>496436</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>496436</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>UST INFLATION NOTE 4.25% JAN. 15, 2010</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2004-01-13</DateAcquired>
+          <DateSold>2010-01-15</DateSold>
+          <GrossSalesPrice>64265</GrossSalesPrice>
+          <CostOrOtherBasis>50007</CostOrOtherBasis>
+          <GainOrLoss>14258</GainOrLoss>
+          <GainsMinusExcessOrLosses>14258</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>SBC/AT&amp;T</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-01-14</DateAcquired>
+          <DateSold>2010-01-21</DateSold>
+          <GrossSalesPrice>15978</GrossSalesPrice>
+          <CostOrOtherBasis>16021</CostOrOtherBasis>
+          <GainOrLoss>-43</GainOrLoss>
+          <GainsMinusExcessOrLosses>-43</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>14215</CapitalGainNetIncome>
+        <NetShortTermCapitalGainOrLoss>-43</NetShortTermCapitalGainOrLoss>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>31538</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>507265</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.062173</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>33211</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>561591</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.059137</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>35912</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>571532</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.062835</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>26850</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>560868</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.047872</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>35875</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>582408</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.061598</DistributionRatioYear5>
+        <TotalDistributionRatio>0.293615</TotalDistributionRatio>
+        <AverageDistributionRatio>0.058723</AverageDistributionRatio>
+        <NetNoncharitableAssets>517271</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>30376</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>277</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>30653</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>43900</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>277</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>277</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>277</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>293</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>293</TotalCreditsAndPayments>
+        <Overpayment>16</Overpayment>
+        <AmountCreditedToNextYear>16</AmountCreditedToNextYear>
+        <AmountToBeRefunded>0</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>0</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>OH</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>MARC FILES</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>4804510087</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>10155 E CARON ST</AddressLine1>
+          <City>SCOTTSDALE</City>
+          <State>AZ</State>
+          <ZIPCode>852585790</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>0</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Robert A Files</PersonName>
+          <USAddress>
+            <AddressLine1>2043 Penna Ave</AddressLine1>
+            <City>Harbor Springs</City>
+            <State>MI</State>
+            <ZIPCode>49470</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Marc A Files</PersonName>
+          <USAddress>
+            <AddressLine1>10155 E Caron St</AddressLine1>
+            <City>Scottsdale</City>
+            <State>AZ</State>
+            <ZIPCode>85258</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>1200</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>397297</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>127851</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>525148</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>525148</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>7877</CashDeemedCharitable>
+        <NetNoncharitableAssets>517271</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>25864</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>25864</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>277</TaxBasedOnInvestmentIncome>
+        <TotalTax>277</TotalTax>
+        <DistributableAmountBeforeAdj>25587</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>25587</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>25587</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>43900</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>43900</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>277</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>43623</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>25587</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear5>7155</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear3>7761</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>6009</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>6469</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>27394</TotalExcessDistriCarryover>
+        <QualifyingDistributions>43900</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>25587</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>18313</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>45707</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>7155</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>38552</ExcessDistriCyovToNextYear>
+        <ExcessFromYear3>7761</ExcessFromYear3>
+        <ExcessFromYear2>6009</ExcessFromYear2>
+        <ExcessFromYear1>6469</ExcessFromYear1>
+        <ExcessFromCurrentYear>18313</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>Robert A Files</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Doctors without Borders</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 5022</AddressLine1>
+            <City>Hagerstown</City>
+            <State>MD</State>
+            <ZIPCode>21740</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>Public Purpose</PurposeOfGrantOrContribution>
+          <Amount>4000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FRANCISCAN RENEWAL CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5802 E LINCOLN DRIVE</AddressLine1>
+            <City>SCOTTSDALE</City>
+            <State>AZ</State>
+            <ZIPCode>85253</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>Public Purpose</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FREEDOM WORKS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>601 PENNSYLVANIA AVE NW N BUILDING</AddressLine1>
+            <AddressLine2>STE 700</AddressLine2>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20004</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>Public Purpose</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GEORGE MASON UNIVERSITY FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4400 UNIVERSITY DRIVE MS 1A3</AddressLine1>
+            <City>FAIRFAX</City>
+            <State>VA</State>
+            <ZIPCode>220304444</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>Educational</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HAWKEN SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>12465 COUNTY LINE ROAD PO BOX 8002</AddressLine1>
+            <City>GATES MILLS</City>
+            <State>OH</State>
+            <ZIPCode>440408002</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>Educational</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>In and Out Burger</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4199 Campus Dr Suite 900</AddressLine1>
+            <City>Irvine</City>
+            <State>CA</State>
+            <ZIPCode>92612</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>Public Purpose</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>INTERNATIONAL RESCUE COMMISSION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>122 EAST 42ND STREET</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10168</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>Public Purpose</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Milton &amp; Rose D Friedman Foundation</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>One American Square</AddressLine1>
+            <City>Indianapolis</City>
+            <State>IN</State>
+            <ZIPCode>46282</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>Public Purpose</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Miracle Distribution Center</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1141 E Ash Ave</AddressLine1>
+            <City>Fullerton</City>
+            <State>CA</State>
+            <ZIPCode>92831</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>Public Purpose</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>OXFAM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>226 CAUSEWAY ST 5TH FLOOR</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>021142206</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>Public Purpose</PurposeOfGrantOrContribution>
+          <Amount>4000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE HERITAGE FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>214 MASSACHUSETTS AVE NE</AddressLine1>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>200024999</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>Public Purpose</PurposeOfGrantOrContribution>
+          <Amount>4500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE SMILE TRAIN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>41 MADISON AVE 28TH FLOOR</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10010</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>Public Purpose</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Yosemite Church</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2230 E Yosemite Ave</AddressLine1>
+            <City>Merced</City>
+            <State>CA</State>
+            <ZIPCode>95340</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>Public Purpose</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>YOUNG AMERICAS FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>110 ELDEN ST</AddressLine1>
+            <City>HERNDON</City>
+            <State>VA</State>
+            <ZIPCode>20170</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>Public Purpose</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNITED NEGRO COLLEGE FUND</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>8260 WILLOW OAKS CORPORATE DRIVE PO</AddressLine1>
+            <AddressLine2>BOX 10444</AddressLine2>
+            <City>FAIRFAX</City>
+            <State>VA</State>
+            <ZIPCode>220318044</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>Educational</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DISABLED AMERICAN VETERANS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3725 ALEXANDRIA PIKE</AddressLine1>
+            <City>COLD SPRING</City>
+            <State>KY</State>
+            <ZIPCode>41076</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>Public Purpose</PurposeOfGrantOrContribution>
+          <Amount>350</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>OVER THE RAINBOW ASSOCIATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2040 BROWN AVENUE</AddressLine1>
+            <City>EVANSTON</City>
+            <State>IL</State>
+            <ZIPCode>60201</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>Public Purpose</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MICHAEL J FOX FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 780</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>100080780</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>Public Purpose</PurposeOfGrantOrContribution>
+          <Amount>150</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CATHOLIC RELIEF SERVICES</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>228 W LEXINGTON ST</AddressLine1>
+            <City>BALTIMORE</City>
+            <State>MD</State>
+            <ZIPCode>212013413</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>Public Purpose</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>N MICHIGAN REGIONAL HOSPITAL FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>416 CONNABLE AVENUE</AddressLine1>
+            <City>PETOSKEY</City>
+            <State>MI</State>
+            <ZIPCode>49770</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>Public Purpose</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE FUND FOR AMERICAN STUDIES</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1706 NEW HAMPSHIRE AVENUE NW</AddressLine1>
+            <City>WASHINGTON DC</City>
+            <State>DC</State>
+            <ZIPCode>20009</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>Public Purpose</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LEADERSHIP INSTITUTE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1101 NORTH HIGLAND ST</AddressLine1>
+            <City>ARLINGTON</City>
+            <State>VA</State>
+            <ZIPCode>22201</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>Educational</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NEW DIRECTIONS INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>11303 WILSHIRE BLVD BLDG 116</AddressLine1>
+            <City>LOS ANGELES</City>
+            <State>CA</State>
+            <ZIPCode>900731003</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>Public Purpose</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MSKCC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1275 NEW YORK AVENUE</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10065</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>Public Purpose</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MAYO CLINIC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>200 FIRST STREET SW</AddressLine1>
+            <City>ROCHESTER</City>
+            <State>MN</State>
+            <ZIPCode>55905</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>Public Purpose</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GOLDWATER INSTITUTE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>500 EAST CORONADO ROAD</AddressLine1>
+            <City>PHOENIX</City>
+            <State>AZ</State>
+            <ZIPCode>85004</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>Public Purpose</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HARBOR SPRINGS LIBRARY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>206 SOUTH SPRING STREET</AddressLine1>
+            <City>HARBOR SPRINGS</City>
+            <State>MI</State>
+            <ZIPCode>497401500</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>Educational</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>RISING HOPE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 906</AddressLine1>
+            <City>CROTON FALLS</City>
+            <State>NY</State>
+            <ZIPCode>10519</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>Public Purpose</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HARBOR HALL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>704 EMMET STREET</AddressLine1>
+            <City>PETOSKEY</City>
+            <State>MI</State>
+            <ZIPCode>49770</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>Public Purpose</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>42000</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>3771</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>9801</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>14215</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>27787</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>27787</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>ACCOUNTING</Category>
+        <Amount>1100</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>1100</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorpStock>
+        <NameOfStock>1000 SHS SBC Communications INC</NameOfStock>
+        <EOYBookValue>25166</EOYBookValue>
+        <EOYFMV>28600</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1000 SHS E I Dupont Nemours</NameOfStock>
+        <EOYBookValue>35105</EOYBookValue>
+        <EOYFMV>44620</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>195 SHS Lucent technologies Inc</NameOfStock>
+        <EOYBookValue>2425</EOYBookValue>
+        <EOYFMV>659</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1850 SHS Sector SPDR Utilities</NameOfStock>
+        <EOYBookValue>50696</EOYBookValue>
+        <EOYFMV>58053</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>688 SHS The St. Paul Companies</NameOfStock>
+        <EOYBookValue>30911</EOYBookValue>
+        <EOYFMV>35845</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1000 SHS GENERAL ELECTRIC</NameOfStock>
+        <EOYBookValue>18145</EOYBookValue>
+        <EOYFMV>16250</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>600 SHS LUFKIN INDS INC.</NameOfStock>
+        <EOYBookValue>14458</EOYBookValue>
+        <EOYFMV>26340</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>2000 SHS STANDARD &amp; POORS DEP RCPT</NameOfStock>
+        <EOYBookValue>43665</EOYBookValue>
+        <EOYFMV>57065</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1000 SHS ANNALY CAP</NameOfStock>
+        <EOYBookValue>17545</EOYBookValue>
+        <EOYFMV>17600</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>500 SHS MOLSON COOR</NameOfStock>
+        <EOYBookValue>21674</EOYBookValue>
+        <EOYFMV>23610</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>500 SHS REDWOOD</NameOfStock>
+        <EOYBookValue>7735</EOYBookValue>
+        <EOYFMV>7230</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="RetDoc2210400001">
+      <USGovtSecuritiesEOYBookValue>50000</USGovtSecuritiesEOYBookValue>
+      <USGovtSecuritiesEOYFMV>51815</USGovtSecuritiesEOYFMV>
+      <StateLocalSecuritiesEOYBookVal>0</StateLocalSecuritiesEOYBookVal>
+      <StateLocalSecuritiesEOYFMV>0</StateLocalSecuritiesEOYFMV>
+    </InvestmentsGovtObligationsSch>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOther>
+        <CategoryOrItem>1035 SHS American cap inc bldr fd</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>50174</BookValue>
+        <EOYFMV>50608</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>2441.66 SHS AMER BOND FUND OF AMER</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>32360</BookValue>
+        <EOYFMV>30457</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherAssetsSchedule documentId="RetDoc2046600001">
+      <OtherAssets>
+        <Description>Unamortized Bond Premium</Description>
+        <BOYBookValue>14810</BOYBookValue>
+        <EOYBookValue>14625</EOYBookValue>
+        <EOYFMV>14625</EOYFMV>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>Check Fees</Description>
+        <RevenueAndExpensesPerBooks>96</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>96</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>POSTAGE &amp; DELIVERY</Description>
+        <RevenueAndExpensesPerBooks>12</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>12</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>FEDERAL TAXES</Category>
+        <Amount>440</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>STATE TAXES</Category>
+        <Amount>200</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>200</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

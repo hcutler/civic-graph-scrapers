@@ -1,0 +1,512 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-28T10:27:04-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>DOLINKA VANNOORD &amp;AMP COMPANY PLLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>360 EAST BELTLINE NE STE 200</AddressLine1>
+        <City>GRAND RAPIDS</City>
+        <State>MI</State>
+        <ZIPCode>495061208</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>383507986</EIN>
+      <Name>
+        <BusinessNameLine1>MORTON M FINKELSTEIN FAMILY CHARITABLE FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>MORT</NameControl>
+      <Phone>6168471330</Phone>
+      <USAddress>
+        <AddressLine1>18053 N FRUITPORT</AddressLine1>
+        <City>SPRING LAKE</City>
+        <State>MI</State>
+        <ZIPCode>49456</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>MORT M FINKLESTEIN</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>6168471330</Phone>
+      <DateSigned>2011-02-17</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>LARRY E ROSLUND</Name>
+      <Phone>6164592233</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>238922</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>14543</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>43</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>43</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>3561</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>3561</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>0</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>79000</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>18147</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>3604</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">234</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>234</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>0</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>234</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>234</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>11600</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>11600</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>11834</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>234</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>11600</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>6313</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>3370</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>28626</CashBOY>
+        <CashEOY>3</CashEOY>
+        <CashEOYFMV>3</CashEOYFMV>
+        <SavingsAndTempCashInvstEOY>63032</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>63032</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>125434</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2018900001">176443</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>175887</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>79562</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="RetDoc2044400001">0</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>0</InvestmentsCorpBondsEOYFMV>
+        <TotalAssetsBOY>233622</TotalAssetsBOY>
+        <TotalAssetsEOY>239478</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>238922</TotalAssetsEOYFMV>
+        <AccountsPayableBOY>454</AccountsPayableBOY>
+        <TotalLiabilitiesBOY>454</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>233168</UnrestrictedBOY>
+        <UnrestrictedEOY>239478</UnrestrictedEOY>
+        <TotalNetAssetsBOY>233168</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>239478</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>233622</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>239478</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>233168</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>6313</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>239481</Subtotal>
+        <OtherDecreases referenceDocumentId="RetDoc2049800001">3</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>239478</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>45M FED NATL MTG ASSN BONDS</DescriptionOfAsset>
+          <DateAcquired>2009-10-19</DateAcquired>
+          <DateSold>2010-10-15</DateSold>
+          <GrossSalesPrice>45000</GrossSalesPrice>
+          <CostOrOtherBasis>45000</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>34M GEN ELEC CAPITAL CORP BONDS</DescriptionOfAsset>
+          <DateAcquired>2009-03-19</DateAcquired>
+          <DateSold>2010-12-01</DateSold>
+          <GrossSalesPrice>34000</GrossSalesPrice>
+          <CostOrOtherBasis>34000</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>0</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>34449</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>190685</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.180659</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>12118</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>224399</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.054002</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>12100</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>244059</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.049578</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>12000</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>187614</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.063961</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>8000</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>161703</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.049473</DistributionRatioYear5>
+        <TotalDistributionRatio>0.397673</TotalDistributionRatio>
+        <AverageDistributionRatio>0.079535</AverageDistributionRatio>
+        <NetNoncharitableAssets>218024</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>17341</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>34</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>17375</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>11600</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>67</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>67</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>67</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>149</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>149</TotalCreditsAndPayments>
+        <Overpayment>82</Overpayment>
+        <AmountCreditedToNextYear>82</AmountCreditedToNextYear>
+        <AmountToBeRefunded>0</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>MI</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>LARRY E ROSLUND</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>6164592233</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>360 EAST BELTLINE NE SUITE 200</AddressLine1>
+          <City>GRAND RAPIDS</City>
+          <State>MI</State>
+          <ZIPCode>49506</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>0</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MORTON M FINKLESTEIN</PersonName>
+          <USAddress>
+            <AddressLine1>17079 DARLINGTON COURT</AddressLine1>
+            <City>BOCA RATON</City>
+            <State>FL</State>
+            <ZIPCode>33496</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARGARET T FINKLESTEIN</PersonName>
+          <USAddress>
+            <AddressLine1>17079 DARLINGTON COURT</AddressLine1>
+            <City>BOCA RATON</City>
+            <State>FL</State>
+            <ZIPCode>33496</ZIPCode>
+          </USAddress>
+          <Title>VICE PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MEGAN FINKLESTEIN</PersonName>
+          <USAddress>
+            <AddressLine1>17079 DARLINGTON COURT</AddressLine1>
+            <City>BOCA RATON</City>
+            <State>FL</State>
+            <ZIPCode>33496</ZIPCode>
+          </USAddress>
+          <Title>ASST. VICE PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DEBRA A WIEGAND</PersonName>
+          <USAddress>
+            <AddressLine1>7243 KILMER DRIVE SE</AddressLine1>
+            <City>GRAND RAPIDS</City>
+            <State>MI</State>
+            <ZIPCode>49508</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DAVID A FINKLESTEIN</PersonName>
+          <USAddress>
+            <AddressLine1>6755 BURGER SE</AddressLine1>
+            <City>GRAND RAPIDS</City>
+            <State>MI</State>
+            <ZIPCode>49546</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MICHAEL J TAYLOR</PersonName>
+          <USAddress>
+            <AddressLine1>250 MONROE NW SUITE 800</AddressLine1>
+            <City>GRAND RAPIDS</City>
+            <State>MI</State>
+            <ZIPCode>49301</ZIPCode>
+          </USAddress>
+          <Title>INCORPORATOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>190592</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>30341</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>411</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>221344</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>221344</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>3320</CashDeemedCharitable>
+        <NetNoncharitableAssets>218024</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>10901</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>10901</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>67</TaxBasedOnInvestmentIncome>
+        <TotalTax>67</TotalTax>
+        <DistributableAmountBeforeAdj>10834</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>10834</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>10834</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>11600</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>11600</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>11600</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>10834</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear5>374</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>2829</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>215</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>1062</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>25017</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>29497</TotalExcessDistriCarryover>
+        <QualifyingDistributions>11600</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>10834</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>766</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>30263</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>374</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>29889</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>2829</ExcessFromYear4>
+        <ExcessFromYear3>215</ExcessFromYear3>
+        <ExcessFromYear2>1062</ExcessFromYear2>
+        <ExcessFromYear1>25017</ExcessFromYear1>
+        <ExcessFromCurrentYear>766</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>MORTON M FINKLESTEIN</ContributingManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>MORTON M FINKLESTEIN</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>18053 N FRUITPORT</AddressLine1>
+            <City>SPRING LAKE</City>
+            <State>MI</State>
+            <ZIPCode>49456</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>6164592233</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>APPLICATIONS MUST BE IN WRITING PREFERABLY STATING AMOUNT REQUESTED AND STATING PURPOSE FOR WHICH FUNDS WILL BE SPENT.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>NONE</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MSU - JEWISH STUDIES PROGRAM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>301 LINTON HALL</AddressLine1>
+            <City>EAST LANSING</City>
+            <State>MI</State>
+            <ZIPCode>48824</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>SCHOOL</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATIONAL</PurposeOfGrantOrContribution>
+          <Amount>8600</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNION FOR REFORM JUDAISM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>633 THIRD AVENUE</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10017</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C) (3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RELIGIOUS</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>11600</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>43</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>3561</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>3604</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>3604</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>MORTON FINKELSTEIN</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>18053 N FRUITPORT RD</AddressLine1>
+          <City>SPRING LAKE</City>
+          <State>MI</State>
+          <ZIPCode>494561573</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>14543</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc2044400001">
+      <InvestmentsCorpBonds>
+        <NameOfBond>FEDERAL NATL MTG ASSN BONDS</NameOfBond>
+        <EOYBookValue>0</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>NM GENERAL ELECTRIC CAP CORP</NameOfBond>
+        <EOYBookValue>0</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorpStock>
+        <NameOfStock>BLACK GLOBAL</NameOfStock>
+        <EOYBookValue>176443</EOYBookValue>
+        <EOYFMV>175887</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc2049800001">
+      <OtherDecreases>
+        <Description>ROUNDING</Description>
+        <Amount>3</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>BROKERAGE FEES</Description>
+        <RevenueAndExpensesPerBooks>125</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>125</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>AMORITZATION EXPENSE</Description>
+        <RevenueAndExpensesPerBooks>109</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>109</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

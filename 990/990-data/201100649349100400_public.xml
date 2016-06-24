@@ -1,0 +1,441 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-03-05T10:47:22-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-11-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>THOMAS AND RIDGE CPAS INC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>314 W HARDIN STREET</AddressLine1>
+        <City>FINDLAY</City>
+        <State>OH</State>
+        <ZIPCode>45840</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-12-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>341648111</EIN>
+      <Name>
+        <BusinessNameLine1>TLB FOUNDATION INC</BusinessNameLine1>
+      </Name>
+      <NameControl>TLBF</NameControl>
+      <Phone>4194233688</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 991</AddressLine1>
+        <City>FINDLAY</City>
+        <State>OH</State>
+        <ZIPCode>458390991</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>JACK RIDGE</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>4194233688</Phone>
+      <DateSigned>2011-02-09</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>ROBIN L RIDGE CPA</Name>
+      <Phone>4194241835</Phone>
+      <DatePrepared>2011-02-09</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990PF documentId="RetDoc2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>5523</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>45000</ContriReceivedRevAndExpnss>
+        <TotalRevenueAndExpenses>45000</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>0</TotalNetInvestmentIncome>
+        <OthEmplSlrsWgsRevAndExpnss>320</OthEmplSlrsWgsRevAndExpnss>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc3">1120</AccountingFeesRevAndExpnss>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc7">138</TaxesRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc6">224</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>1802</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>46020</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>46020</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>47822</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>46020</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-2822</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>8341</CashBOY>
+        <CashEOY>5523</CashEOY>
+        <CashEOYFMV>5523</CashEOYFMV>
+        <OtherAssetsBOY referenceDocumentId="RetDoc5">10</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId="RetDoc5">10</OtherAssetsEOY>
+        <TotalAssetsBOY>8351</TotalAssetsBOY>
+        <TotalAssetsEOY>5533</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>5523</TotalAssetsEOYFMV>
+        <AccountsPayableBOY>171</AccountsPayableBOY>
+        <AccountsPayableEOY>175</AccountsPayableEOY>
+        <TotalLiabilitiesBOY>171</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>175</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>8180</UnrestrictedBOY>
+        <UnrestrictedEOY>5358</UnrestrictedEOY>
+        <TotalNetAssetsBOY>8180</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>5358</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>8351</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>5533</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>8180</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-2822</ExcessOfRevenueOverExpenses>
+        <Subtotal>5358</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>5358</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>51174</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>4736</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>10.805321</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>172521</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>2467</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>69.931496</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>228080</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>3760</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>60.659574</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>262790</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>3806</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>69.046243</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>117619</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>13574</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>8.665021</DistributionRatioYear5>
+        <TotalDistributionRatio>219.10765</TotalDistributionRatio>
+        <AverageDistributionRatio>43.821531</AverageDistributionRatio>
+        <NetNoncharitableAssets>6826</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>299126</AdjustedNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>299126</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>46020</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>OH</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>JACK RIDGE</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>4194200419</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>7060 SHADOW RIDGE RD</AddressLine1>
+          <City>FINDLAY</City>
+          <State>OH</State>
+          <ZIPCode>45840</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>true</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JACK RIDGE</PersonName>
+          <USAddress>
+            <AddressLine1>7060 SHADOW RIDGE RD</AddressLine1>
+            <City>FINDLAY</City>
+            <State>OH</State>
+            <ZIPCode>45840</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>VERNON STRONG</PersonName>
+          <USAddress>
+            <AddressLine1>5261 SR 12 W</AddressLine1>
+            <City>FINDLAY</City>
+            <State>OH</State>
+            <ZIPCode>45840</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>GARY HARPST</PersonName>
+          <USAddress>
+            <AddressLine1>5201 SR 12 W</AddressLine1>
+            <City>FINDLAY</City>
+            <State>OH</State>
+            <ZIPCode>45840</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>6930</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>6930</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>6930</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>104</CashDeemedCharitable>
+        <NetNoncharitableAssets>6826</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>341</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>341</MinimumInvestmentReturn>
+        <DistributableAmountBeforeAdj>341</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>341</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>341</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>46020</ExpensesAndContributions>
+        <QualifyingDistributions>46020</QualifyingDistributions>
+        <AdjQualifyingDistributions>46020</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>341</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>116940</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>262600</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>227892</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>172398</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>50937</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>830767</TotalExcessDistriCarryover>
+        <QualifyingDistributions>46020</QualifyingDistributions>
+        <AppliedToCurrentYear>341</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>45679</RemainingDistriFromCorpus>
+        <TotalCorpus>876446</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>116940</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>759506</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>262600</ExcessFromYear4>
+        <ExcessFromYear3>227892</ExcessFromYear3>
+        <ExcessFromYear2>172398</ExcessFromYear2>
+        <ExcessFromYear1>50937</ExcessFromYear1>
+        <ExcessFromCurrentYear>45679</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>JACK RIDGE</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>7060 SHADOW RIDGE RD</AddressLine1>
+            <City>FINDLAY</City>
+            <State>OH</State>
+            <ZIPCode>45840</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>4194200419</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>SEE ATTACHED COPY</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>AWARDS RESTRICTED TO INDIVIDUALS AND ORGANIZATIONS AGREEING WITH THE ATTACHED STATEMENT OF FAITH, WHO ARE NOT RELATED TO THE TRUSTEES.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CAID</BusinessNameLine1>
+            <BusinessNameLine2>CAID</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 10395</AddressLine1>
+            <AddressLine2>PO BOX 10395</AddressLine2>
+            <City>SILVER SPRING</City>
+            <State>MD</State>
+            <ZIPCode>209140395</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>HAITI RELIEF</PurposeOfGrantOrContribution>
+          <Amount>300</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LAKESIDE BAPTIST CHURCH</BusinessNameLine1>
+            <BusinessNameLine2>LAKESIDE BAPTIST CHURCH</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1>BILBRA DRIVE</AddressLine1>
+            <AddressLine2>CORNER FARRINGTON RD</AddressLine2>
+            <ProvinceOrState>NORTH LAKE, WESTERN</ProvinceOrState>
+            <Country>AS</Country>
+          </RecipientForeignAddress>
+          <PurposeOfGrantOrContribution>GENERAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ADVANCING NATIVE MISSIONS</BusinessNameLine1>
+            <BusinessNameLine2>ADVANCING NATIVE MISSIONS</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 5303</AddressLine1>
+            <AddressLine2>PO BOX 5303</AddressLine2>
+            <City>CHARLOTTESVILLE</City>
+            <State>VA</State>
+            <ZIPCode>22905</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>TED &amp; DOROTHY VANDERENDE/KCU CONF. C</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BESOR RAVINE MINISTRIES</BusinessNameLine1>
+            <BusinessNameLine2>BESOR RAVINE MINISTRIES INC</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1219 W MAIN CROSS--220</AddressLine1>
+            <AddressLine2>1219 W MAIN CROSS--220</AddressLine2>
+            <City>FINDLAY</City>
+            <State>OH</State>
+            <ZIPCode>45840</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GENERAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CENTRA COMM COMMUNICATION</BusinessNameLine1>
+            <BusinessNameLine2>CENTRACOMM COMMUNICATIONS</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>323 S MAIN STREET</AddressLine1>
+            <AddressLine2>323 S MAIN STREET</AddressLine2>
+            <City>FINDLAY</City>
+            <State>OH</State>
+            <ZIPCode>45840</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>SOLOMON WEBSITE</PurposeOfGrantOrContribution>
+          <Amount>720</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>46020</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>GARY HARPST</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>5201 SR 12 W</AddressLine1>
+          <City>FINDLAY</City>
+          <State>OH</State>
+          <ZIPCode>45840</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>15000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>2</ContributorNumber>
+        <ContributorNameIndividual>JACK W RIDGE</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>7060 SHADOW RIDGE</AddressLine1>
+          <City>FINDLAY</City>
+          <State>OH</State>
+          <ZIPCode>45840</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>30000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc3">
+      <AccountingFees>
+        <Amount>1120</Amount>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="RetDoc4">
+      <Depreciation>
+        <DescriptionOfProperty>COMPUTER</DescriptionOfProperty>
+        <DateAcquired>2000-11-20</DateAcquired>
+        <CostOrOtherBasis>2025</CostOrOtherBasis>
+        <PriorYearsDepreciation>2025</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>5.0000</Life>
+      </Depreciation>
+    </DepreciationSchedule>
+    <OtherAssetsSchedule documentId="RetDoc5">
+      <OtherAssets>
+        <Description>WORKERS COMP DEPOSIT</Description>
+        <BOYBookValue>10</BOYBookValue>
+        <EOYBookValue>10</EOYBookValue>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="RetDoc6">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>UTILITIES</Description>
+        <RevenueAndExpensesPerBooks>68</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>POSTAGE AND DELIVERY</Description>
+        <RevenueAndExpensesPerBooks>105</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK SERVICE CHARGES</Description>
+        <RevenueAndExpensesPerBooks>51</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="RetDoc7">
+      <Taxes>
+        <Category>INDIRECT TAXES/LICENSES</Category>
+        <Amount>138</Amount>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-12T10:45:47-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>BUECHLEIN &amp; ASSOCIATES PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>PO BOX 519</AddressLine1>
+        <City>JASPER</City>
+        <State>IN</State>
+        <ZIPCode>475470519</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>310984764</EIN>
+      <Name>
+        <BusinessNameLine1>INWOOD OFFICE FURNITURE FOUNDATION</BusinessNameLine1>
+        <BusinessNameLine2>INC</BusinessNameLine2>
+      </Name>
+      <NameControl>INWO</NameControl>
+      <Phone>8124826121</Phone>
+      <USAddress>
+        <AddressLine1>1108 EAST 15TH STREET</AddressLine1>
+        <City>JASPER</City>
+        <State>IN</State>
+        <ZIPCode>47546</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>GLEN STURM</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>8124826121</Phone>
+      <DateSigned>2011-01-19</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>MARK W BUECHLEIN</Name>
+      <Phone>8124823535</Phone>
+      <DatePrepared>2011-02-12</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="2">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>286889</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>6143</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>6143</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>6143</DividendsAdjNetIncm>
+        <TotalRevenueAndExpenses>6143</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>6143</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>6143</TotalAdjustedNetIncome>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2">431</TaxesRevAndExpnss>
+        <TaxesDsbrsChrtblPrps>226</TaxesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>431</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>226</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>11465</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>11465</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>11896</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>11691</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-5753</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>6143</NetInvestmentIncome>
+        <AdjustedNetIncome>6143</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>5396</CashBOY>
+        <CashEOY>2889</CashEOY>
+        <CashEOYFMV>2889</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>287246</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>284000</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>284000</SavingsAndTempCashInvstEOYFMV>
+        <TotalAssetsBOY>292642</TotalAssetsBOY>
+        <TotalAssetsEOY>286889</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>286889</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>292642</RetainedEarningsBOY>
+        <RetainedEarningsEOY>286889</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>292642</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>286889</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>292642</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>286889</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>292642</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-5753</ExcessOfRevenueOverExpenses>
+        <Subtotal>286889</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>286889</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>12134</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>286287</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.042384</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>14512</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>287955</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.050397</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>13033</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>259413</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.050240</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>11446</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>276852</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.041343</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>9479</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>251972</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.037619</DistributionRatioYear5>
+        <TotalDistributionRatio>0.221983</TotalDistributionRatio>
+        <AverageDistributionRatio>0.044397</AverageDistributionRatio>
+        <NetNoncharitableAssets>285535</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>12677</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>61</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>12738</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>11691</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>123</InvestmentIncomeExciseTax>
+        <Subtotal>123</Subtotal>
+        <TaxBasedOnInvestmentIncome>123</TaxBasedOnInvestmentIncome>
+        <TaxPaidWithExtension>200</TaxPaidWithExtension>
+        <TotalCreditsAndPayments>200</TotalCreditsAndPayments>
+        <Overpayment>77</Overpayment>
+        <AmountCreditedToNextYear>77</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>IN</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>INWOOD OFFICE FURNITURE</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>8124826121</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>1108 E 15TH STREET</AddressLine1>
+          <City>JASPER</City>
+          <State>IN</State>
+          <ZIPCode>47546</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>true</UndistributedIncomePriorYears>
+        <UndistributedIncomePriorYear1>2008</UndistributedIncomePriorYear1>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>true</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>true</TrFailToQualifyAsExceptions>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>GREG STURM</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 0393</AddressLine1>
+            <City>VINCENNES</City>
+            <State>IN</State>
+            <ZIPCode>47591</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>GLEN STURM</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 0646</AddressLine1>
+            <City>JASPER</City>
+            <State>IN</State>
+            <ZIPCode>47546</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>THOMAS KRODEL</PersonName>
+          <USAddress>
+            <AddressLine1>611 E 190 N</AddressLine1>
+            <City>JASPER</City>
+            <State>IN</State>
+            <ZIPCode>47546</ZIPCode>
+          </USAddress>
+          <Title>VICE PRES.</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>RON STEFFE</PersonName>
+          <USAddress>
+            <AddressLine1>566 E ABELL ROAD</AddressLine1>
+            <City>JASPER</City>
+            <State>IN</State>
+            <ZIPCode>47546</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>283176</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>6707</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>289883</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>289883</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>4348</CashDeemedCharitable>
+        <NetNoncharitableAssets>285535</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>14277</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>14277</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>123</TaxBasedOnInvestmentIncome>
+        <TotalTax>123</TotalTax>
+        <DistributableAmountBeforeAdj>14154</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>14154</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>14154</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>11691</ExpensesAndContributions>
+        <QualifyingDistributions>11691</QualifyingDistributions>
+        <AdjQualifyingDistributions>11691</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>14154</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>13984</UndistributedIncomePriorYear>
+        <QualifyingDistributions>11691</QualifyingDistributions>
+        <AppliedToYear1>11691</AppliedToYear1>
+        <TaxableAmount2>2293</TaxableAmount2>
+        <UndistributedIncomeCY>14154</UndistributedIncomeCY>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>GLEN STURM</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>C/O INWOOD OFFICE FURNITURE INC</AddressLine1>
+            <AddressLine2>1108 E 15TH STREET</AddressLine2>
+            <City>JASPER</City>
+            <State>IN</State>
+            <ZIPCode>47546</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>8124826121</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>PURPOSE OF ORGANIZATION AND TAX EXEMPT STATUS</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>LIMITED TO CHARITABLE, EDUCATIONAL, SCIENTIFIC, AND RELIGIOUS ORGANIZATIONS.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SEE ATTACHMENT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE ATTACHMENT</AddressLine1>
+            <City>SEE ATTACHMENT</City>
+            <State>IN</State>
+            <ZIPCode>47546</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>SEE ATTACHMENT</RecipientRelationship>
+          <RecipientFoundationStatus>SEE ATTACHME</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SEE ATTACHMENT</PurposeOfGrantOrContribution>
+          <Amount>11465</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>11465</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>6143</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>6143</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>6143</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>true</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <TransferSchedule>
+          <LineNumber>1a(1)</LineNumber>
+          <AmountInvolved>2250</AmountInvolved>
+          <NameOfNoncharitableEO>
+            <BusinessNameLine1>UNIVERSITIES</BusinessNameLine1>
+          </NameOfNoncharitableEO>
+          <DescriptionOfTransfersEtc>SCHOLARSHIP FOR EMPLOYEE DEPENDENT</DescriptionOfTransfersEtc>
+        </TransferSchedule>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <TaxesSchedule documentId="RetDoc2">
+      <Taxes>
+        <Category>IRS TAXES</Category>
+        <Amount>431</Amount>
+        <DisbursementsCharitablePrps>226</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

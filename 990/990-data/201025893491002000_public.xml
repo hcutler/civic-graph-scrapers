@@ -1,0 +1,777 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return returnVersion="2009v1.3" xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-09-15T13:59:21Z</Timestamp>
+    <TaxPeriodEndDate>2010-04-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>HORNER WIBLE &amp; TEREK PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>500 RUGH STREET</AddressLine1>
+        <City>GREENSBURG</City>
+        <State>PA</State>
+        <ZIPCode>15601</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-05-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>250967471</EIN>
+      <Name>
+        <BusinessNameLine1>COMMUNITY NURSING SERVICES IN GREENSBURG INC (DBA CNS HEALTH &amp; EDUCATION FO</BusinessNameLine1>
+      </Name>
+      <NameControl>COMM</NameControl>
+      <Phone>7248372319</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 98</AddressLine1>
+        <City>GREENSBURG</City>
+        <State>PA</State>
+        <ZIPCode>15601</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>EDWARD BENSON</Name>
+      <Title>TREASURER</Title>
+      <Phone>7248372319</Phone>
+      <DateSigned>2010-09-02</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>BARBARA A TEREK CPA</Name>
+      <Phone>7248377141</Phone>
+      <DatePrepared>2010-09-15</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="12">
+    <IRS990PF documentId="00000001" referenceDocumentName="ReasonableCauseExplanation GeneralExplanationAttachment">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>1597939</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>41843</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>26786</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>26786</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>39686</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>39686</DividendsNetInvstIncm>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="00000011" referenceDocumentName="OtherIncomeSchedule2">180</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>180</OtherIncomeNetInvstIncm>
+        <TotalRevenueAndExpenses>108495</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>66652</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>4800</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>2400</CompOfcrDirTrstNetInvstIncm>
+        <AccountingFeesRevAndExpnss referenceDocumentId="00000003" referenceDocumentName="AccountingFeesSchedule">3085</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>1542</AccountingFeesNetInvstIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="00000010" referenceDocumentName="AmortizationSchedule OtherExpensesSchedule">6150</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>14035</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>3942</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>47750</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>61785</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>3942</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>0</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>46710</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>62710</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>926</CashBOY>
+        <CashEOY>2276</CashEOY>
+        <CashEOYFMV>2276</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>55471</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>66323</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>66323</SavingsAndTempCashInvstEOYFMV>
+        <AccountsReceivableBOY>757</AccountsReceivableBOY>
+        <PrepaidExpensesBOY>2516</PrepaidExpensesBOY>
+        <PrepaidExpensesEOY>1299</PrepaidExpensesEOY>
+        <PrepaidExpensesEOYFMV>1299</PrepaidExpensesEOYFMV>
+        <InvestmentsGovtObligBOY>39563</InvestmentsGovtObligBOY>
+        <InvestmentsGovtObligEOY referenceDocumentId="00000007" referenceDocumentName="InvestmentsGovtObligationsSchedule">37983</InvestmentsGovtObligEOY>
+        <InvestmentsGovtObligEOYFMV>37983</InvestmentsGovtObligEOYFMV>
+        <InvestmentsCorpStockBOY>592563</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="00000006" referenceDocumentName="InvestmentsCorpStockSchedule">683140</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>683140</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>7412</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="00000005" referenceDocumentName="InvestmentsCorpBondsSchedule">24996</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>24996</InvestmentsCorpBondsEOYFMV>
+        <InvestmentsMortgageLoansBOY>40084</InvestmentsMortgageLoansBOY>
+        <InvestmentsMortgageLoansEOY>24116</InvestmentsMortgageLoansEOY>
+        <InvestmentsMortgageLoansEOYFMV>24116</InvestmentsMortgageLoansEOYFMV>
+        <InvestmentsOtherBOY>503488</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="00000008" referenceDocumentName="InvestmentsOtherSchedule2">757806</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>757806</InvestmentsOtherEOYFMV>
+        <LandBuildingAndEquipmentBasis>3557</LandBuildingAndEquipmentBasis>
+        <AccumDeprecLandBldgAndEquip>3557</AccumDeprecLandBldgAndEquip>
+        <LandBuildingAndEquipmentEOY referenceDocumentId="00000009" referenceDocumentName="LandEtcSchedule2">0</LandBuildingAndEquipmentEOY>
+        <TotalAssetsBOY>1242780</TotalAssetsBOY>
+        <TotalAssetsEOY>1597939</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>1597939</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>1242780</UnrestrictedBOY>
+        <UnrestrictedEOY>1597939</UnrestrictedEOY>
+        <TotalNetAssetsBOY>1242780</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>1597939</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>1242780</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>1597939</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>1242780</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>46710</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="00000012" referenceDocumentName="OtherIncreasesSchedule">308449</OtherIncreases>
+        <Subtotal>1597939</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>1597939</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>AMERICAN BALANCED A</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2003-10-23</DateAcquired>
+          <DateSold>2009-07-30</DateSold>
+          <GrossSalesPrice>84016</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>96686</CostOrOtherBasis>
+          <GainOrLoss>-12670</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-12670</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>AMERICAN WASHINGTON MUTUAL A</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2000-12-26</DateAcquired>
+          <DateSold>2009-07-30</DateSold>
+          <GrossSalesPrice>25510</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>34640</CostOrOtherBasis>
+          <GainOrLoss>-9130</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-9130</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>MUNDER INTERNET A</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2000-01-26</DateAcquired>
+          <DateSold>2009-07-30</DateSold>
+          <GrossSalesPrice>7179</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>31186</CostOrOtherBasis>
+          <GainOrLoss>-24007</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-24007</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>SPX BUFFERED PLUS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-03-24</DateAcquired>
+          <DateSold>2009-12-04</DateSold>
+          <GrossSalesPrice>33267</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>26000</CostOrOtherBasis>
+          <GainOrLoss>7267</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>7267</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CITADEL BROADCASTING CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>1998-05-06</DateAcquired>
+          <DateSold>2009-12-04</DateSold>
+          <GrossSalesPrice>2</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>293</CostOrOtherBasis>
+          <GainOrLoss>-291</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-291</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>FAIRPOINT COMMUNICATIONS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>1996-02-28</DateAcquired>
+          <DateSold>2009-12-04</DateSold>
+          <GrossSalesPrice>1</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>76</CostOrOtherBasis>
+          <GainOrLoss>-75</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-75</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>IDEARC INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2005-02-15</DateAcquired>
+          <DateSold>2009-12-04</DateSold>
+          <GrossSalesPrice>0</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>685</CostOrOtherBasis>
+          <GainOrLoss>-685</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-685</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>LEHMAN CAP TR IV</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2003-10-10</DateAcquired>
+          <DateSold>2009-12-04</DateSold>
+          <GrossSalesPrice>88</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>10000</CostOrOtherBasis>
+          <GainOrLoss>-9912</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-9912</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>LEHMAN CAP TR IV</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2004-04-05</DateAcquired>
+          <DateSold>2009-12-04</DateSold>
+          <GrossSalesPrice>114</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>15000</CostOrOtherBasis>
+          <GainOrLoss>-14886</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-14886</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>SPX BUFFERED PLUS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-03-24</DateAcquired>
+          <DateSold>2009-12-04</DateSold>
+          <GrossSalesPrice>34305</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>26000</CostOrOtherBasis>
+          <GainOrLoss>8305</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>8305</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>UNIT VK MS 30 FOR 2013</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-07-30</DateAcquired>
+          <DateSold>2009-12-28</DateSold>
+          <GrossSalesPrice>237</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>237</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>UNIT FT STRAT INCOME PLUS CE15</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-10-08</DateAcquired>
+          <DateSold>2010-01-25</DateSold>
+          <GrossSalesPrice>2</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>2</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>UNIT FT STRAT INCOME PLUS CE16</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-12-04</DateAcquired>
+          <DateSold>2010-01-25</DateSold>
+          <GrossSalesPrice>3</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>3</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>FHR 2738 CT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2004-01-27</DateAcquired>
+          <DateSold>2010-02-15</DateSold>
+          <GrossSalesPrice>798</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>810</CostOrOtherBasis>
+          <GainOrLoss>-12</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-12</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>AMERICAN FUNDAMENTAL INV A</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2006-02-01</DateAcquired>
+          <DateSold>2010-03-12</DateSold>
+          <GrossSalesPrice>58347</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>66825</CostOrOtherBasis>
+          <GainOrLoss>-8478</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-8478</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>BOAMS 2003</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2003-03-02</DateAcquired>
+          <DateSold>2010-03-12</DateSold>
+          <GrossSalesPrice>16267</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>17976</CostOrOtherBasis>
+          <GainOrLoss>-1709</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-1709</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>FHR 2738 CT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2004-01-27</DateAcquired>
+          <DateSold>2010-03-15</DateSold>
+          <GrossSalesPrice>622</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>631</CostOrOtherBasis>
+          <GainOrLoss>-9</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-9</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>UNIT FT SR LOAN SELECT CE 12</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-10-08</DateAcquired>
+          <DateSold>2010-03-25</DateSold>
+          <GrossSalesPrice>132</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>132</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>FHR 2738 CT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2004-01-27</DateAcquired>
+          <DateSold>2010-04-15</DateSold>
+          <GrossSalesPrice>630</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>639</CostOrOtherBasis>
+          <GainOrLoss>-9</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-9</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>ACCRUED INTEREST</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-03-25</DateAcquired>
+          <DateSold>2010-03-25</DateSold>
+          <GrossSalesPrice>39</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>0</CostOrOtherBasis>
+          <GainOrLoss>39</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>39</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>-66262</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>54319</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>1355546</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.040072</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>45500</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>1717921</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.026486</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>49500</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>1578245</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.031364</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>45250</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>1432867</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.031580</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>56436</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>1330021</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.042432</DistributionRatioYear5>
+        <TotalDistributionRatio>0.171934</TotalDistributionRatio>
+        <AverageDistributionRatio>0.034387</AverageDistributionRatio>
+        <NetNoncharitableAssets>1460182</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>50211</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>627</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>50838</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>47750</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>1254</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>1254</Subtotal>
+        <TaxBasedOnInvestmentIncome>1254</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>1396</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>1396</TotalCreditsAndPayments>
+        <OriginalReturnOverpayment>-1396</OriginalReturnOverpayment>
+        <Overpayment>142</Overpayment>
+        <AmountCreditedToNextYear>142</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>PA</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>true</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>MARK ZAGAR</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>7248372319</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>PO BOX 98</AddressLine1>
+          <City>GREENSBURG</City>
+          <State>PA</State>
+          <ZIPCode>15601</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>EDWARD BENSON</PersonName>
+          <USAddress>
+            <AddressLine1>815 MACE STREET</AddressLine1>
+            <City>GREENSBURG</City>
+            <State>PA</State>
+            <ZIPCode>15601</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>RONALD SILVIS</PersonName>
+          <USAddress>
+            <AddressLine1>618 LONGVIEW DRIVE</AddressLine1>
+            <City>GREENSBURG</City>
+            <State>PA</State>
+            <ZIPCode>15601</ZIPCode>
+          </USAddress>
+          <Title>VICE-PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ANITA LEONARD</PersonName>
+          <USAddress>
+            <AddressLine1>216 CRAIG DRIVE</AddressLine1>
+            <City>GREENSBURG</City>
+            <State>PA</State>
+            <ZIPCode>15601</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>2400</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARK ZAGAR</PersonName>
+          <USAddress>
+            <AddressLine1>1006 SUMMIT</AddressLine1>
+            <City>GREENSBURG</City>
+            <State>PA</State>
+            <ZIPCode>15601</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>2400</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>FINANCIAL ASSISTANCE FOR EDUCATION IN DISCIPLINES APPLICABLETO HEALTH CARE IN A COMMUNITY SETTING</Description1>
+        <Expenses1>47750</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>1478177</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>2942</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>1299</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>1482418</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>1482418</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>22236</CashDeemedCharitable>
+        <NetNoncharitableAssets>1460182</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>73009</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>73009</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>1254</TaxBasedOnInvestmentIncome>
+        <TotalTax>1254</TotalTax>
+        <DistributableAmountBeforeAdj>71755</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>71755</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>71755</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>0</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>47750</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>47750</QualifyingDistributions>
+        <AdjQualifyingDistributions>47750</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>71755</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>243</UndistributedIncomePriorYear>
+        <QualifyingDistributions>47750</QualifyingDistributions>
+        <AppliedToYear1>243</AppliedToYear1>
+        <AppliedToCurrentYear>47507</AppliedToCurrentYear>
+        <UndistributedIncomeCY>24248</UndistributedIncomeCY>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>NONE</ContributingManager>
+        <ShareholderManager>NONE</ShareholderManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>CNS HEALTH EDUCATION FOUNDATION SCH</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX</AddressLine1>
+            <City>GREENSBURG</City>
+            <State>PA</State>
+            <ZIPCode>15601</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>7248376827</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>CNS APPLICATION, DOCUMUNENTATION OF TRUE AND HONEST NEED FOR FINANCIAL AID</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>ANNUAL</SubmissionDeadlines>
+          <RestrictionsOnAwards>2 YEAR RESIDENCY - CITY OF GREENSBURG, BOROUGHS OF S GREENSBURG, SW GREENSBURG,</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <AppicationSubmissionInfo>
+          <RecipientName>BOARD OF DIRECTORS</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 98</AddressLine1>
+            <City>GREENSBURG</City>
+            <State>PA</State>
+            <ZIPCode>15601</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>7248372319</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>AND INTEREST IN PROGRAM OF STUDIES AIMED AT COMMUNITY HEALTH CARE PROFESSIONS.</FormAndInfoAndMaterials>
+          <RestrictionsOnAwards>YOUNGWOOD &amp; W NEWTON, TWPS OF HEMPFIELD, N HUNTINGDON, SALEM, SEWICKLEY, &amp; UNITY</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>VARIOUS COLLEGE STUDENTS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>N/A</AddressLine1>
+            <City>NA</City>
+            <State>PA</State>
+            <ZIPCode>15601</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>None</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Financial Assistance for Education inDisciplines applicable to Healthcare</PurposeOfGrantOrContribution>
+          <Amount>47750</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>47750</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>26786</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>39686</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>66472</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>66472</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="00000002">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>WILLIAM A COULTER TRUST</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>MELLON BANK TRUST DEPARTMENT</AddressLine1>
+          <City>GREENSBURG</City>
+          <State>PA</State>
+          <ZIPCode>15601</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>41843</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="00000003">
+      <AccountingFees>
+        <Category>Horner,Wible,Terek,PC Accounting</Category>
+        <Amount>3085</Amount>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <AllOthProgRltdInvestmentsSch documentId="00000004">
+      <AllOthProgRltdInvestments>
+        <Description>FINANCIAL ASSISTANCE FOR EDUCATION IN DISCIPLINES APPLICABLETO HEALTH CARE IN A COMMUNITY SETTING</Description>
+        <Amount>47750</Amount>
+      </AllOthProgRltdInvestments>
+    </AllOthProgRltdInvestmentsSch>
+    <InvestmentsCorpBondsSchedule documentId="00000005">
+      <InvestmentsCorpBonds>
+        <NameOfBond>CORPORATE BONDS AND NOTES</NameOfBond>
+        <EOYBookValue>24996</EOYBookValue>
+        <EOYFMV>24996</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="00000006">
+      <InvestmentsCorpStock>
+        <NameOfStock>COMMON STOCK</NameOfStock>
+        <EOYBookValue>592580</EOYBookValue>
+        <EOYFMV>592580</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>PREFFERED STOCK</NameOfStock>
+        <EOYBookValue>90560</EOYBookValue>
+        <EOYFMV>90560</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="00000007">
+      <USGovtSecuritiesEOYBookValue>37983</USGovtSecuritiesEOYBookValue>
+      <USGovtSecuritiesEOYFMV>37983</USGovtSecuritiesEOYFMV>
+    </InvestmentsGovtObligationsSch>
+    <InvestmentsOtherSchedule2 documentId="00000008">
+      <InvestmentsOther>
+        <CategoryOrItem>FIXED RATE CAPITAL SECURITIES</CategoryOrItem>
+        <BookValue>282427</BookValue>
+        <EOYFMV>282427</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>MUTUAL FUNDS</CategoryOrItem>
+        <BookValue>216274</BookValue>
+        <EOYFMV>216274</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>EQUITY TRUSTS</CategoryOrItem>
+        <BookValue>259105</BookValue>
+        <EOYFMV>259105</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <LandEtcSchedule2 documentId="00000009">
+      <LandEtc>
+        <CategoryOrItem>EQUIPMENT</CategoryOrItem>
+        <CostOrOtherBasis>3557</CostOrOtherBasis>
+        <AccumulatedDepreciation>3557</AccumulatedDepreciation>
+      </LandEtc>
+    </LandEtcSchedule2>
+    <OtherExpensesSchedule documentId="00000010">
+      <OtherExpenses>
+        <Description>INSURANCE</Description>
+        <RevenueAndExpensesPerBooks>1916</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MISCELLANOUS</Description>
+        <RevenueAndExpensesPerBooks>197</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>TRAVEL</Description>
+        <RevenueAndExpensesPerBooks>2090</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>RENT</Description>
+        <RevenueAndExpensesPerBooks>693</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>TAXES</Description>
+        <RevenueAndExpensesPerBooks>1254</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="00000011">
+      <OtherIncome>
+        <Description>MISCELLANEOUS</Description>
+        <RevenueAndExpensesPerBooks>180</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>180</NetInvestmentIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="00000012">
+      <OtherIncreases>
+        <Description>LOSS ON SALE OF INVESTMENTS</Description>
+        <Amount>-66262</Amount>
+      </OtherIncreases>
+      <OtherIncreases>
+        <Description>UNREALIZED GAIN ON INVESTMENTS</Description>
+        <Amount>374711</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,474 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-03-03T13:11:28-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>KEITH ALTIZER AND COMPANY PA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>431 E HORATIO AVE STE 300</AddressLine1>
+        <City>MAITLAND</City>
+        <State>FL</State>
+        <ZIPCode>32751</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>592825965</EIN>
+      <Name>
+        <BusinessNameLine1>JOY FOUNDATION INC</BusinessNameLine1>
+      </Name>
+      <NameControl>JOYF</NameControl>
+      <Phone>3523434000</Phone>
+      <USAddress>
+        <AddressLine1>POST OFFICE BOX 895007</AddressLine1>
+        <City>LEESBURG</City>
+        <State>FL</State>
+        <ZIPCode>347895007</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>JOHN MCLEOD</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>3523434000</Phone>
+      <DateSigned>2011-01-20</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>KEITH ALTIZER</Name>
+      <Phone>4075391188</Phone>
+      <DatePrepared>2011-03-03</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990PF documentId="RetDoc2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>102414</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>57000</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>105</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>105</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>32</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>32</DividendsNetInvstIncm>
+        <TotalRevenueAndExpenses>57137</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>137</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc3">985</AccountingFeesRevAndExpnss>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc7">3</TaxesRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc6">153</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>1141</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>20000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>20000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>21141</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>20000</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>35996</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>137</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>42838</CashBOY>
+        <CashEOY>78896</CashEOY>
+        <CashEOYFMV>78895</CashEOYFMV>
+        <InvestmentsCorpStockBOY>55607</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc5">55607</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>23519</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>98445</TotalAssetsBOY>
+        <TotalAssetsEOY>134503</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>102414</TotalAssetsEOYFMV>
+        <AccountsPayableBOY>2</AccountsPayableBOY>
+        <AccountsPayableEOY>64</AccountsPayableEOY>
+        <TotalLiabilitiesBOY>2</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>64</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>98443</RetainedEarningsBOY>
+        <RetainedEarningsEOY>134439</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>98443</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>134439</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>98445</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>134503</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>98443</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>35996</ExcessOfRevenueOverExpenses>
+        <Subtotal>134439</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>134439</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>29998</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>52398</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.572503</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>66719</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>90252</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.739252</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>268600</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>243080</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>1.104986</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>27000</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>341460</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.079072</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>20000</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>282403</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.070821</DistributionRatioYear5>
+        <TotalDistributionRatio>2.566634</TotalDistributionRatio>
+        <AverageDistributionRatio>0.513327</AverageDistributionRatio>
+        <NetNoncharitableAssets>57054</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>29287</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>1</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>29288</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>20000</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>3</InvestmentIncomeExciseTax>
+        <Subtotal>3</Subtotal>
+        <TaxBasedOnInvestmentIncome>3</TaxBasedOnInvestmentIncome>
+        <TaxDue>3</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>FL</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>JOHN D MCLEOD</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>3523434000</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>PO BOX 895007</AddressLine1>
+          <City>LEESBURG</City>
+          <State>FL</State>
+          <ZIPCode>34789</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">JOHN D MCLEOD</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 895007</AddressLine1>
+            <City>LEESBURG</City>
+            <State>FL</State>
+            <ZIPCode>34789</ZIPCode>
+          </USAddress>
+          <Title>PRES/DIR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">SHERRY S MCLEOD</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 895007</AddressLine1>
+            <City>LEESBURG</City>
+            <State>FL</State>
+            <ZIPCode>34789</ZIPCode>
+          </USAddress>
+          <Title>PRES/DIR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">J PATRICK TAYLOR</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 895007</AddressLine1>
+            <City>LEESBURG</City>
+            <State>FL</State>
+            <ZIPCode>34789</ZIPCode>
+          </USAddress>
+          <Title>PRES/DIR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>NONE</Description1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>19845</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>38078</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>57923</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>57923</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>869</CashDeemedCharitable>
+        <NetNoncharitableAssets>57054</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>2853</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>2853</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>3</TaxBasedOnInvestmentIncome>
+        <TotalTax>3</TotalTax>
+        <DistributableAmountBeforeAdj>2850</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>2850</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>2850</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>20000</ExpensesAndContributions>
+        <QualifyingDistributions>20000</QualifyingDistributions>
+        <AdjQualifyingDistributions>20000</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>2850</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>6029</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>10208</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>256567</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>62276</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>27382</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>362462</TotalExcessDistriCarryover>
+        <QualifyingDistributions>20000</QualifyingDistributions>
+        <AppliedToCurrentYear>2850</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>17150</RemainingDistriFromCorpus>
+        <TotalCorpus>379612</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>6029</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>373583</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>10208</ExcessFromYear4>
+        <ExcessFromYear3>256567</ExcessFromYear3>
+        <ExcessFromYear2>62276</ExcessFromYear2>
+        <ExcessFromYear1>27382</ExcessFromYear1>
+        <ExcessFromCurrentYear>17150</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>JOHN D AND SHERRY MCLEOD</ContributingManager>
+        <ShareholderManager>NONE</ShareholderManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <AppicationSubmissionInfo>
+          <FormAndInfoAndMaterials>N/A</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>N/A</SubmissionDeadlines>
+          <RestrictionsOnAwards>N/A</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FRIENDSHIP CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>805 SUMMERALL AVENUE</AddressLine1>
+            <City>TAVARES</City>
+            <State>FL</State>
+            <ZIPCode>32778</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GIFT, FINANCIAL ASSISTANCE</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FIRST BAPTIST CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>220 N 13TH STREET</AddressLine1>
+            <City>LEESBURG</City>
+            <State>FL</State>
+            <ZIPCode>34748</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GIFT, FINANCIAL ASSISTANCE</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>DAVID ATEN</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>5229 CTY RD 169</AddressLine1>
+            <City>WILDWOOD</City>
+            <State>FL</State>
+            <ZIPCode>34785</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GIFT, FINANCIAL ASSISTANCE</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CARRIE JOYCE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>417 HIGHLAND AVENUE</AddressLine1>
+            <City>DUNEDIN</City>
+            <State>FL</State>
+            <ZIPCode>34698</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GIFT, FINANCIAL ASSISTANCE</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>DORIS MORRIS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1575 DAVID WALKER DR 8</AddressLine1>
+            <City>TAVARES</City>
+            <State>FL</State>
+            <ZIPCode>32778</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GIFT, FINANCIAL ASSISTANCE</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>MICHAEL WATKINS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1844</AddressLine1>
+            <City>TAVARES</City>
+            <State>FL</State>
+            <ZIPCode>32778</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GIFT, FINANCIAL ASSISTANCE</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>KELLY SECOR</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 739</AddressLine1>
+            <City>DILLON</City>
+            <State>CO</State>
+            <ZIPCode>80435</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GIFT, FINANCIAL ASSISTANCE</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>WILLIAM E JOHNSON</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>33817 CRESTWOOD AVE</AddressLine1>
+            <City>TAVARES</City>
+            <State>FL</State>
+            <ZIPCode>34788</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GIFT, FINANCIAL ASSISTANCE</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>20000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <RelatedOrExemptFunctionIncome>105</RelatedOrExemptFunctionIncome>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <RelatedOrExemptFunctionIncome>32</RelatedOrExemptFunctionIncome>
+        </DividendsAndIntFromSecPartVII>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>137</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>137</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>3</LineNumber>
+          <RelationshipStatement>MAINTAIN CASH RESERVE FOR QUALIFIED RECIPIENTS OF</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>JOHN D AND SHERRY MCLEOD</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>P O BOX 895007</AddressLine1>
+          <City>LEESBURG</City>
+          <State>FL</State>
+          <ZIPCode>347895007</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>57000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc3">
+      <AccountingFees>
+        <Category>KEITH ALTIZER AND CO</Category>
+        <Amount>985</Amount>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <CompensationExplanation documentId="RetDoc4">
+      <Compensation>
+        <PersonName>JOHN D MCLEOD</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>SHERRY S MCLEOD</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>J PATRICK TAYLOR</PersonName>
+      </Compensation>
+    </CompensationExplanation>
+    <InvestmentsCorpStockSchedule documentId="RetDoc5">
+      <InvestmentsCorpStock>
+        <NameOfStock>797 SH SUNTRUST BANKS COMMON STOCK</NameOfStock>
+        <EOYBookValue>55607</EOYBookValue>
+        <EOYFMV>23519</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="RetDoc6">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>ANNUAL REPORT FEE</Description>
+        <RevenueAndExpensesPerBooks>61</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>LEGAL AD</Description>
+        <RevenueAndExpensesPerBooks>13</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OFFICE SUPPLIES</Description>
+        <RevenueAndExpensesPerBooks>79</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="RetDoc7">
+      <Taxes>
+        <Category>FEDERAL EXCISE TAX</Category>
+        <Amount>3</Amount>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,519 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-01-24T06:08:38-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-09-30</TaxPeriodEndDate>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-10-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>316103148</EIN>
+      <Name>
+        <BusinessNameLine1>FRANCIS &amp; LOUISE WOLLS SCHOLARSHIP FUND</BusinessNameLine1>
+      </Name>
+      <NameControl>WOLL</NameControl>
+      <Phone>2162577414</Phone>
+      <USAddress>
+        <AddressLine1>P O BOX 94651</AddressLine1>
+        <City>CLEVELAND</City>
+        <State>OH</State>
+        <ZIPCode>44101</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>MATTHEW L STUMP CTFA</Name>
+      <Title>TAX MANAGER</Title>
+      <Phone>2162577414</Phone>
+      <DateSigned>2011-01-19</DateSigned>
+    </Officer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="IRS990PF">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>296762</FMVAssetsEOY>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>5884</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>5884</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>11832</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>148009</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>11832</CapitalGainNetIncmNetInvstIncm>
+        <NetSTCGAdjNetIncm>0</NetSTCGAdjNetIncm>
+        <TotalRevenueAndExpenses>17716</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>17716</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>3749</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>1875</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>1875</CompOfcrDirTrstDsbrsChrtblPrps>
+        <OthEmplSlrsWgsNetInvstIncm>0</OthEmplSlrsWgsNetInvstIncm>
+        <OthEmplSlrsWgsAdjNetIncm>0</OthEmplSlrsWgsAdjNetIncm>
+        <OthEmplSlrsWgsDsbrsChrtblPrps>0</OthEmplSlrsWgsDsbrsChrtblPrps>
+        <PensionEmplBnftNetInvstIncm>0</PensionEmplBnftNetInvstIncm>
+        <PensionEmplBnftAdjNetIncm>0</PensionEmplBnftAdjNetIncm>
+        <LegalFeesDsbrsChrtblPrps>0</LegalFeesDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="AccountingFeesSchedule">700</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>0</AccountingFeesNetInvstIncm>
+        <AccountingFeesAdjNetIncm>0</AccountingFeesAdjNetIncm>
+        <AccountingFeesDsbrsChrtblPrps>700</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesDsbrsChrtblPrps>0</OtherProfFeesDsbrsChrtblPrps>
+        <InterestDsbrsChrtblPrps>0</InterestDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="TaxesSchedule">619</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>58</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>0</TaxesDsbrsChrtblPrps>
+        <DeprecAndDepletionRevAndExpnss>0</DeprecAndDepletionRevAndExpnss>
+        <DeprecAndDepletionNetInvstIncm>0</DeprecAndDepletionNetInvstIncm>
+        <TravConfMeetingNetInvstIncm>0</TravConfMeetingNetInvstIncm>
+        <TravConfMeetingAdjNetIncm>0</TravConfMeetingAdjNetIncm>
+        <PrintingAndPubNetInvstIncm>0</PrintingAndPubNetInvstIncm>
+        <PrintingAndPubAdjNetIncm>0</PrintingAndPubAdjNetIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule">100</OtherExpensesRevAndExpnss>
+        <OtherExpensesDsbrsChrtblPrps>100</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>5168</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>1933</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>0</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>2675</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>4380</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>4380</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>9548</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>1933</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>0</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>7055</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>8168</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>15783</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>9773</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>5922</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>5922</SavingsAndTempCashInvstEOYFMV>
+        <AccountsReceivableEOY>0</AccountsReceivableEOY>
+        <AccountsReceivableEOYFMV>0</AccountsReceivableEOYFMV>
+        <AllwncForDbtflAcctOtherRcvbl>0</AllwncForDbtflAcctOtherRcvbl>
+        <InvestmentsCorpStockBOY>149067</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY>153599</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>178658</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>87490</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY>95319</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>104715</InvestmentsCorpBondsEOYFMV>
+        <InvestmentsOtherBOY>8000</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY>8000</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>7467</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>254330</TotalAssetsBOY>
+        <TotalAssetsEOY>262840</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>296762</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>254330</CapitalStockBOY>
+        <CapitalStockEOY>262840</CapitalStockEOY>
+        <TotalNetAssetsBOY>254330</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>262840</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>254330</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>262840</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>254330</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>8168</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="OtherIncreasesSchedule">472</OtherIncreases>
+        <Subtotal>262970</Subtotal>
+        <OtherDecreases referenceDocumentId="OtherDecreasesSchedule">130</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>262840</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>162. ISHARES TR S&amp;P 500 INDEX FD</DescriptionOfAsset>
+          <DateAcquired>2008-11-12</DateAcquired>
+          <DateSold>2009-10-07</DateSold>
+          <GrossSalesPrice>17149</GrossSalesPrice>
+          <CostOrOtherBasis>14215</CostOrOtherBasis>
+          <GainOrLoss>2934</GainOrLoss>
+          <GainsMinusExcessOrLosses>2934</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2. ISHARES IBOXX $ INVESTOP INVESTMENT GRADE CORP BD FD</DescriptionOfAsset>
+          <DateAcquired>2008-11-12</DateAcquired>
+          <DateSold>2009-10-07</DateSold>
+          <GrossSalesPrice>210</GrossSalesPrice>
+          <CostOrOtherBasis>181</CostOrOtherBasis>
+          <GainOrLoss>29</GainOrLoss>
+          <GainsMinusExcessOrLosses>29</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>112. ISHARES TR RUSSELL MIDCAP INDEX FD</DescriptionOfAsset>
+          <DateAcquired>2009-07-28</DateAcquired>
+          <DateSold>2009-10-07</DateSold>
+          <GrossSalesPrice>8690</GrossSalesPrice>
+          <CostOrOtherBasis>7864</CostOrOtherBasis>
+          <GainOrLoss>826</GainOrLoss>
+          <GainsMinusExcessOrLosses>826</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>71. VANGUARD EMERGING MARKETS ETF</DescriptionOfAsset>
+          <DateAcquired>2008-11-12</DateAcquired>
+          <DateSold>2009-10-07</DateSold>
+          <GrossSalesPrice>2766</GrossSalesPrice>
+          <CostOrOtherBasis>1591</CostOrOtherBasis>
+          <GainOrLoss>1175</GainOrLoss>
+          <GainsMinusExcessOrLosses>1175</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>386.644 ASTON TAMRO SMALL CAP FUND CL I</DescriptionOfAsset>
+          <DateAcquired>2008-08-29</DateAcquired>
+          <DateSold>2009-10-09</DateSold>
+          <GrossSalesPrice>6333</GrossSalesPrice>
+          <CostOrOtherBasis>6940</CostOrOtherBasis>
+          <GainOrLoss>-607</GainOrLoss>
+          <GainsMinusExcessOrLosses>-607</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>342.142 HARBOR FUNDS INTL GROWTH FD</DescriptionOfAsset>
+          <DateAcquired>2008-11-12</DateAcquired>
+          <DateSold>2009-10-09</DateSold>
+          <GrossSalesPrice>3815</GrossSalesPrice>
+          <CostOrOtherBasis>2528</CostOrOtherBasis>
+          <GainOrLoss>1287</GainOrLoss>
+          <GainsMinusExcessOrLosses>1287</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>4.279 T ROWE PRICE EMERGING MARKETS STOCK FUND</DescriptionOfAsset>
+          <DateAcquired>2009-01-15</DateAcquired>
+          <DateSold>2009-10-09</DateSold>
+          <GrossSalesPrice>124</GrossSalesPrice>
+          <CostOrOtherBasis>64</CostOrOtherBasis>
+          <GainOrLoss>60</GainOrLoss>
+          <GainsMinusExcessOrLosses>60</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>130.478 T ROWE PRICE EMERGING MARKETS STOCK FUND</DescriptionOfAsset>
+          <DateAcquired>2008-08-29</DateAcquired>
+          <DateSold>2009-10-09</DateSold>
+          <GrossSalesPrice>3785</GrossSalesPrice>
+          <CostOrOtherBasis>4148</CostOrOtherBasis>
+          <GainOrLoss>-363</GainOrLoss>
+          <GainsMinusExcessOrLosses>-363</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>622.984 ROYCE FD TOTAL RETURN</DescriptionOfAsset>
+          <DateAcquired>2008-08-29</DateAcquired>
+          <DateSold>2009-10-09</DateSold>
+          <GrossSalesPrice>6591</GrossSalesPrice>
+          <CostOrOtherBasis>7713</CostOrOtherBasis>
+          <GainOrLoss>-1122</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1122</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2013.159 VANGUARD FIXED INCOME SECS FD SHORT TERM BD PORTFOLIO</DescriptionOfAsset>
+          <DateAcquired>2008-11-12</DateAcquired>
+          <DateSold>2009-10-09</DateSold>
+          <GrossSalesPrice>21239</GrossSalesPrice>
+          <CostOrOtherBasis>19608</CostOrOtherBasis>
+          <GainOrLoss>1631</GainOrLoss>
+          <GainsMinusExcessOrLosses>1631</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>178.19 VANGUARD FIXED INCOME SECS FD LONG TERM U S TREASURY PORT</DescriptionOfAsset>
+          <DateAcquired>2008-11-12</DateAcquired>
+          <DateSold>2009-10-09</DateSold>
+          <GrossSalesPrice>2044</GrossSalesPrice>
+          <CostOrOtherBasis>2055</CostOrOtherBasis>
+          <GainOrLoss>-11</GainOrLoss>
+          <GainsMinusExcessOrLosses>-11</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>951.733 T ROWE PRICE GROWTH STOCK FUND</DescriptionOfAsset>
+          <DateSold>2009-12-15</DateSold>
+          <GrossSalesPrice>25602</GrossSalesPrice>
+          <CostOrOtherBasis>30990</CostOrOtherBasis>
+          <GainOrLoss>-5388</GainOrLoss>
+          <GainsMinusExcessOrLosses>-5388</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2122.284 VANGUARD/WINDSOR FD INC VANGUARD/WINDSOR II PORTFOLIO</DescriptionOfAsset>
+          <DateSold>2010-02-01</DateSold>
+          <GrossSalesPrice>49661</GrossSalesPrice>
+          <CostOrOtherBasis>38280</CostOrOtherBasis>
+          <GainOrLoss>11381</GainOrLoss>
+          <GainsMinusExcessOrLosses>11381</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>11832</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>5780</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>243524</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.023735</DistributionRatioYear1>
+        <TotalDistributionRatio>0.023735</TotalDistributionRatio>
+        <AverageDistributionRatio>0.011867</AverageDistributionRatio>
+        <NetNoncharitableAssets>282701</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>3355</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>158</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>3513</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>7055</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>158</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>158</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>158</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>450</EstTaxPaymentsAndOverpayment>
+        <TaxPaidWithExtension>0</TaxPaidWithExtension>
+        <TotalCreditsAndPayments>450</TotalCreditsAndPayments>
+        <PenaltyForUnderpayment>0</PenaltyForUnderpayment>
+        <Overpayment>292</Overpayment>
+        <AmountCreditedToNextYear>292</AmountCreditedToNextYear>
+        <AmountToBeRefunded>0</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>OH</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <BooksInCareOfPersonName>PNC BANK NA</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>2162577414</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>P O BOX 94651</AddressLine1>
+          <City>CLEVELAND</City>
+          <State>OH</State>
+          <ZIPCode>441014651</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>true</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>true</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>PNC BANK NA</PersonName>
+          <USAddress>
+            <AddressLine1>P O BOX 94651</AddressLine1>
+            <City>CLEVELAND</City>
+            <State>OH</State>
+            <ZIPCode>441014651</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>2</AvgHoursPerWkDevotedToPosition>
+          <Compensation>3749</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy />
+      <SumOfProgramRelatedInvestments />
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>287006</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>287006</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>287006</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>4305</CashDeemedCharitable>
+        <NetNoncharitableAssets>282701</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>14135</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>14135</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>158</TaxBasedOnInvestmentIncome>
+        <TotalTax>158</TotalTax>
+        <DistributableAmountBeforeAdj>13977</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>13977</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>13977</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>7055</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <AmountsPaidAcqCharitableAssets>0</AmountsPaidAcqCharitableAssets>
+        <AmountsSetAsideSuitabilityTest>0</AmountsSetAsideSuitabilityTest>
+        <AmountsSetAsideCashDistriTest>0</AmountsSetAsideCashDistriTest>
+        <QualifyingDistributions>7055</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>158</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>6897</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>13977</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>6285</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear5>0</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>0</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>0</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>0</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>0</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>0</TotalExcessDistriCarryover>
+        <QualifyingDistributions>7055</QualifyingDistributions>
+        <AppliedToYear1>6285</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>770</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>0</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>13207</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>0</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>0</ExcessFromYear4>
+        <ExcessFromYear3>0</ExcessFromYear3>
+        <ExcessFromYear2>0</ExcessFromYear2>
+        <ExcessFromYear1>0</ExcessFromYear1>
+        <ExcessFromCurrentYear>0</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>OTTERBEIN COLLEGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>76 W MAIN ST</AddressLine1>
+            <City>WESTERVILLE</City>
+            <State>OH</State>
+            <ZIPCode>43081</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>4380</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>4380</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <FeesContractsFromGovtAgencies />
+        <MembershipDuesAndAssessments />
+        <IntOnSavingsAndTempCashInvst />
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>5884</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <NetRentalIncmReDebtFincdProp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncmPersonalProperty />
+        <OtherInvestmentIncomePartVII />
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>11832</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <NetIncomeLossFromSpecialEvents />
+        <GrossProfitLossSalesOfInvntry />
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>17716</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>17716</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps />
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule">
+      <AccountingFees>
+        <Category>PNC BANK, NA</Category>
+        <Amount>700</Amount>
+        <DisbursementsCharitablePrps>700</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <OtherDecreasesSchedule documentId="OtherDecreasesSchedule">
+      <OtherDecreases>
+        <Description>POSTED SUBSEQ YR TAXED CURR YR</Description>
+        <Amount>129</Amount>
+      </OtherDecreases>
+      <OtherDecreases>
+        <Description>ROUNDING ADJUSTMENT</Description>
+        <Amount>1</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule">
+      <OtherExpenses>
+        <Description>STATE FILING FEE</Description>
+        <RevenueAndExpensesPerBooks>100</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>100</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="OtherIncreasesSchedule">
+      <OtherIncreases>
+        <Description>POSTED CURR YR TAXED PRIOR YR</Description>
+        <Amount>144</Amount>
+      </OtherIncreases>
+      <OtherIncreases>
+        <Description>FEE ADJUSTMENT</Description>
+        <Amount>328</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <Taxes>
+        <Category>FEDERAL TAX PAYMENT - PRIOR YE</Category>
+        <Amount>111</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>FEDERAL ESTIMATES - INCOME</Category>
+        <Amount>450</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>FOREIGN TAXES ON QUALIFIED FOR</Category>
+        <Amount>46</Amount>
+        <NetInvestmentIncome>46</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>FOREIGN TAXES ON NONQUALIFIED</Category>
+        <Amount>12</Amount>
+        <NetInvestmentIncome>12</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

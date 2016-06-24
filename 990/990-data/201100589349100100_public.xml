@@ -1,0 +1,649 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-27T12:45:13-08:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>GERARD M MURPHY</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>152 CARTERET STREET</AddressLine1>
+        <City>STATEN ISLAND</City>
+        <State>NY</State>
+        <ZIPCode>10307</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>134222286</EIN>
+      <Name>
+        <BusinessNameLine1>BARBARA DORSCH FOUNDATION INC</BusinessNameLine1>
+      </Name>
+      <NameControl>BARB</NameControl>
+      <Phone>2129726161</Phone>
+      <USAddress>
+        <AddressLine1>711 THIRD AVENUE</AddressLine1>
+        <City>NEW YORK</City>
+        <State>NY</State>
+        <ZIPCode>100174031</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>JOSEPH M CASSIN</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>2129726161</Phone>
+      <DateSigned>2011-02-27</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>GERARD M MURPHY</Name>
+      <DatePrepared>2011-02-27</DatePrepared>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="00000001" referenceDocumentName="ReasonableCauseExplanation GeneralExplanationAttachment">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>1140693</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>85</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>85</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>85</InterestOnSavingsAdjNetIncm>
+        <DividendsRevAndExpnss>21661</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>21661</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>21661</DividendsAdjNetIncm>
+        <CapitalGainNetIncmNetInvstIncm>38596</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>21746</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>60342</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>21746</TotalAdjustedNetIncome>
+        <CompOfcrDirTrstRevAndExpnss>3981</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>3981</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstAdjNetIncm>3981</CompOfcrDirTrstAdjNetIncm>
+        <LegalFeesRevAndExpnss referenceDocumentId="00000005" referenceDocumentName="LegalFeesSchedule">7000</LegalFeesRevAndExpnss>
+        <LegalFeesNetInvstIncm>7000</LegalFeesNetInvstIncm>
+        <LegalFeesAdjNetIncm>7000</LegalFeesAdjNetIncm>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="00000007" referenceDocumentName="OtherProfessionalFeesSchedule">11286</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>11286</OtherProfFeesNetInvstIncm>
+        <OtherProfFeesAdjNetIncm>11286</OtherProfFeesAdjNetIncm>
+        <TotOprExpensesRevAndExpnss>22267</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>22267</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>22267</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>55000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>55000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>77267</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>22267</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>22267</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>55000</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-55521</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>38075</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>111408</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>134114</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>134114</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsGovtObligEOY referenceDocumentId="00000004" referenceDocumentName="InvestmentsGovtObligationsSchedule">199937</InvestmentsGovtObligEOY>
+        <InvestmentsGovtObligEOYFMV>199984</InvestmentsGovtObligEOYFMV>
+        <InvestmentsCorpStockBOY>852488</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="00000003" referenceDocumentName="InvestmentsCorpStockSchedule">612920</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>806595</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>963896</TotalAssetsBOY>
+        <TotalAssetsEOY>946971</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>1140693</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>963896</CapitalStockBOY>
+        <CapitalStockEOY>946971</CapitalStockEOY>
+        <TotalNetAssetsBOY>963896</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>946971</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>963896</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>946971</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>963896</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-55521</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="00000006" referenceDocumentName="OtherIncreasesSchedule">38596</OtherIncreases>
+        <Subtotal>946971</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>946971</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>800M USA Treasury Bills</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-01-01</DateAcquired>
+          <DateSold>2010-12-31</DateSold>
+          <GrossSalesPrice>799774</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>799774</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>HSBC Holdings</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-01-01</DateAcquired>
+          <DateSold>2010-12-31</DateSold>
+          <GrossSalesPrice>111</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>128</CostOrOtherBasis>
+          <GainOrLoss>-17</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-17</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Frontier Communications</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-08-04</DateAcquired>
+          <DateSold>2010-11-08</DateSold>
+          <GrossSalesPrice>1459</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>1583</CostOrOtherBasis>
+          <GainOrLoss>-124</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-124</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Transocean Ltd</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-12-22</DateAcquired>
+          <DateSold>2010-04-29</DateSold>
+          <GrossSalesPrice>44389</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>44874</CostOrOtherBasis>
+          <GainOrLoss>-485</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-485</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Burlington Northern</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2004-06-11</DateAcquired>
+          <DateSold>2010-02-16</DateSold>
+          <GrossSalesPrice>60000</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>20778</CostOrOtherBasis>
+          <GainOrLoss>39222</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>39222</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>38596</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>55000</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>1038309</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.052971</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>69844</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>1031943</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.067682</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>65742</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>1325838</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.049585</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>63900</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>1268056</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.050392</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>65822</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>1268438</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.051892</DistributionRatioYear5>
+        <TotalDistributionRatio>0.272522</TotalDistributionRatio>
+        <AverageDistributionRatio>0.054504</AverageDistributionRatio>
+        <NetNoncharitableAssets>1097534</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>59820</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>381</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>60201</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>55000</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>762</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>762</Subtotal>
+        <TaxBasedOnInvestmentIncome>762</TaxBasedOnInvestmentIncome>
+        <TaxPaidOriginalReturn>0</TaxPaidOriginalReturn>
+        <Form2220Attached referenceDocumentId="00000002" referenceDocumentName="IRS2220">X</Form2220Attached>
+        <PenaltyForUnderpayment>19</PenaltyForUnderpayment>
+        <TaxDue>781</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>false</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>NY</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>true</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>false</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>CASSIN CASSIN LLP</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>2129726161</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>711 THIRD AVE</AddressLine1>
+          <City>NY</City>
+          <State>NY</State>
+          <ZIPCode>100174031</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOSEPH M CASSIN</PersonName>
+          <USAddress>
+            <AddressLine1>711 THIRD AVE</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10017</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>1327</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>HENRY W GRADY</PersonName>
+          <USAddress>
+            <AddressLine1>10 MITCHELL</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10022</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>1327</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BARBARA DORSCH</PersonName>
+          <USAddress>
+            <AddressLine1>33 THE HEMLOCKS</AddressLine1>
+            <City>ROSLYN</City>
+            <State>NY</State>
+            <ZIPCode>11576</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>1327</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>991487</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>122761</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>1114248</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>1114248</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>16714</CashDeemedCharitable>
+        <NetNoncharitableAssets>1097534</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>54877</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>54877</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>762</TaxBasedOnInvestmentIncome>
+        <TotalTax>762</TotalTax>
+        <DistributableAmountBeforeAdj>54115</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>54115</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>54115</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>55000</ExpensesAndContributions>
+        <QualifyingDistributions>55000</QualifyingDistributions>
+        <AdjQualifyingDistributions>55000</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>54115</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>33783</UndistributedIncomePriorYear>
+        <QualifyingDistributions>55000</QualifyingDistributions>
+        <AppliedToYear1>33783</AppliedToYear1>
+        <AppliedToCurrentYear>21217</AppliedToCurrentYear>
+        <UndistributedIncomeCY>32898</UndistributedIncomeCY>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>BARBARA DORSCH</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE SALVATION ARMY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>440 WEST NYACK RD</AddressLine1>
+            <City>WEST NYACK</City>
+            <State>NY</State>
+            <ZIPCode>109941739</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>NA</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Purposes</PurposeOfGrantOrContribution>
+          <Amount>6000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE SIERRA CLUB</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>85 SECOND ST</AddressLine1>
+            <City>SAN FRANCISCO</City>
+            <State>CA</State>
+            <ZIPCode>94105</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>NA</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Purposes</PurposeOfGrantOrContribution>
+          <Amount>7000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GAYLORD HOSPITAL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 400</AddressLine1>
+            <City>WALLINGFORD</City>
+            <State>CT</State>
+            <ZIPCode>06492</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>NA</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Purposes</PurposeOfGrantOrContribution>
+          <Amount>6000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MEMORIAL SLOANE KETTERING</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>633 THIRD AVE - 28TH FL</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10017</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>NA</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Purposes</PurposeOfGrantOrContribution>
+          <Amount>6000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HUMANE SOCIETY OF USA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2100 L STREET NW</AddressLine1>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20037</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>NA</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Purposes</PurposeOfGrantOrContribution>
+          <Amount>6000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NATURE CONSERVANCY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4245 N FAIRFAX DR</AddressLine1>
+            <City>ARLINGTON</City>
+            <State>VA</State>
+            <ZIPCode>222031606</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>NA</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Purposes</PurposeOfGrantOrContribution>
+          <Amount>6000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ASPCA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>424 E 92ND ST</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10128</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>NA</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Purposes</PurposeOfGrantOrContribution>
+          <Amount>6000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ST JOSEPH SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1946 BATHGATE AVE</AddressLine1>
+            <City>BRONX</City>
+            <State>NY</State>
+            <ZIPCode>104574405</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>NA</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Purposes</PurposeOfGrantOrContribution>
+          <Amount>6000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NATIONAL PARKINSON FDN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1501 NW 9 AVE</AddressLine1>
+            <City>MIAMA</City>
+            <State>FL</State>
+            <ZIPCode>331361494</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>NANA</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Purposes</PurposeOfGrantOrContribution>
+          <Amount>6000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>55000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>85</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>21661</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>21746</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>21746</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <InvestmentsCorpStockSchedule documentId="00000003">
+      <InvestmentsCorpStock>
+        <NameOfStock>2325 AT&amp;T Corp</NameOfStock>
+        <EOYBookValue>50269</EOYBookValue>
+        <EOYFMV>68309</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>400 Bank of America Corp</NameOfStock>
+        <EOYBookValue>14901</EOYBookValue>
+        <EOYFMV>5336</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>500 Bunge Ltd</NameOfStock>
+        <EOYBookValue>26939</EOYBookValue>
+        <EOYFMV>32760</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1,000 Canadian Nat'l Railway</NameOfStock>
+        <EOYBookValue>21393</EOYBookValue>
+        <EOYFMV>66470</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1,000 Caterpillar Inc</NameOfStock>
+        <EOYBookValue>38499</EOYBookValue>
+        <EOYFMV>93660</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1000 Emerson Electric Co</NameOfStock>
+        <EOYBookValue>45220</EOYBookValue>
+        <EOYFMV>57170</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>400 ExxonMobil Corp</NameOfStock>
+        <EOYBookValue>14256</EOYBookValue>
+        <EOYFMV>29248</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1000 General Electric Co</NameOfStock>
+        <EOYBookValue>32677</EOYBookValue>
+        <EOYFMV>18290</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>437 HSBC Holdings PLC</NameOfStock>
+        <EOYBookValue>26047</EOYBookValue>
+        <EOYFMV>22304</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1000 Intel Corp</NameOfStock>
+        <EOYBookValue>19768</EOYBookValue>
+        <EOYFMV>21030</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>300 Int'l Business Machines Corp</NameOfStock>
+        <EOYBookValue>26429</EOYBookValue>
+        <EOYFMV>44028</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>500 Johnson &amp; Johnson</NameOfStock>
+        <EOYBookValue>28524</EOYBookValue>
+        <EOYFMV>30925</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1000 Kraft Foods Inc</NameOfStock>
+        <EOYBookValue>27758</EOYBookValue>
+        <EOYFMV>31510</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1000 Pfizer Inc</NameOfStock>
+        <EOYBookValue>30415</EOYBookValue>
+        <EOYFMV>17510</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>887 Procter &amp; Gamble Co</NameOfStock>
+        <EOYBookValue>33842</EOYBookValue>
+        <EOYFMV>57061</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>600 Southern Co</NameOfStock>
+        <EOYBookValue>17887</EOYBookValue>
+        <EOYFMV>22938</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1000 Texas Instruments Inc</NameOfStock>
+        <EOYBookValue>20104</EOYBookValue>
+        <EOYFMV>32500</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>600 3M Co</NameOfStock>
+        <EOYBookValue>46638</EOYBookValue>
+        <EOYFMV>51780</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>700 Verizon Communications</NameOfStock>
+        <EOYBookValue>23501</EOYBookValue>
+        <EOYFMV>25046</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1000 United Technologies</NameOfStock>
+        <EOYBookValue>67853</EOYBookValue>
+        <EOYFMV>78720</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="00000004">
+      <USGovtSecuritiesEOYBookValue>199937</USGovtSecuritiesEOYBookValue>
+      <USGovtSecuritiesEOYFMV>199984</USGovtSecuritiesEOYFMV>
+    </InvestmentsGovtObligationsSch>
+    <LegalFeesSchedule documentId="00000005">
+      <LegalFees>
+        <Category>Cassin &amp; Cassin LLP Legal Advice</Category>
+        <Amount>7000</Amount>
+        <NetInvestmentIncome>7000</NetInvestmentIncome>
+        <AdjustedNetIncome>7000</AdjustedNetIncome>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherIncreasesSchedule documentId="00000006">
+      <OtherIncreases>
+        <Description>Realized Gains</Description>
+        <Amount>38596</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="00000007">
+      <OtherProfessionalFees>
+        <Category>Carol H. Baldi Investment Management</Category>
+        <Amount>7661</Amount>
+        <NetInvestmentIncome>7661</NetInvestmentIncome>
+        <AdjustedNetIncome>7661</AdjustedNetIncome>
+      </OtherProfessionalFees>
+      <OtherProfessionalFees>
+        <Category>US Trust/BA Custodian Fees</Category>
+        <Amount>3625</Amount>
+        <NetInvestmentIncome>3625</NetInvestmentIncome>
+        <AdjustedNetIncome>3625</AdjustedNetIncome>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+  </ReturnData>
+</Return>

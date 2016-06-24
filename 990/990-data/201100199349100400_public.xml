@@ -1,0 +1,531 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-01-18T12:25:15-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-11-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>LEFKOWITZ GARFINKEL ET AL PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>10 WEYBOSSET STREET STE 700</AddressLine1>
+        <City>PROVIDENCE</City>
+        <State>RI</State>
+        <ZIPCode>02903</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-12-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>592753315</EIN>
+      <Name>
+        <BusinessNameLine1>THE HOFF FOUNDATION INC</BusinessNameLine1>
+      </Name>
+      <NameControl>HOFF</NameControl>
+      <Phone>2395935748</Phone>
+      <USAddress>
+        <AddressLine1>12120 TOSCANA WAY UNIT 201</AddressLine1>
+        <City>BONITA SPRINGS</City>
+        <State>FL</State>
+        <ZIPCode>34135</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>CHARLES HOFF</Name>
+      <Title>DIRECTOR</Title>
+      <Phone>2395935748</Phone>
+      <DateSigned>2011-01-19</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Jerrold Dorfman</Name>
+      <Phone>4014214800</Phone>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>1516993</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>0</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>17794</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>17794</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>4202</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>1783510</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>4202</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>21996</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>21996</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <InterestRevAndExpnss>222</InterestRevAndExpnss>
+        <InterestNetInvstIncm>222</InterestNetInvstIncm>
+        <InterestDsbrsChrtblPrps>0</InterestDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">180</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>180</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>0</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>402</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>402</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>81000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>81000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>81402</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>402</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>81000</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-59406</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>21594</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>1768</CashBOY>
+        <InvestmentsCorpStockBOY>914280</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2018900001">813821</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>804868</InvestmentsCorpStockEOYFMV>
+        <InvestmentsOtherBOY>50000</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc2018100001">50000</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>50000</InvestmentsOtherEOYFMV>
+        <OtherAssetsBOY referenceDocumentId="RetDoc2046600001">758979</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId="RetDoc2046600001">843279</OtherAssetsEOY>
+        <OtherAssetsEOYFMV referenceDocumentId="RetDoc2046600001">662125</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>1725027</TotalAssetsBOY>
+        <TotalAssetsEOY>1707100</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>1516993</TotalAssetsEOYFMV>
+        <OtherLiabilitiesBOY referenceDocumentId="RetDoc2065700001">0</OtherLiabilitiesBOY>
+        <OtherLiabilitiesEOY referenceDocumentId="RetDoc2065700001">41479</OtherLiabilitiesEOY>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>41479</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>2058286</CapitalStockBOY>
+        <CapitalStockEOY>2058286</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>-333259</RetainedEarningsBOY>
+        <RetainedEarningsEOY>-392665</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>1725027</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>1665621</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>1725027</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>1707100</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>1725027</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-59406</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>1665621</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>1665621</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>SEE ATTACHED STATEMENT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-02-05</DateAcquired>
+          <DateSold>2010-10-15</DateSold>
+          <GrossSalesPrice>1358492</GrossSalesPrice>
+          <CostOrOtherBasis>1289319</CostOrOtherBasis>
+          <GainOrLoss>69173</GainOrLoss>
+          <GainsMinusExcessOrLosses>69173</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>SEE ATTACHED STATEMENT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-10-02</DateAcquired>
+          <DateSold>2010-10-04</DateSold>
+          <GrossSalesPrice>425018</GrossSalesPrice>
+          <CostOrOtherBasis>489989</CostOrOtherBasis>
+          <GainOrLoss>-64971</GainOrLoss>
+          <GainsMinusExcessOrLosses>-64971</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>4202</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>90578</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>1453769</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.062306</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>150920</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>1858398</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.081210</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>130000</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>2015611</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.064497</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>142808</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>1797418</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.079452</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>66500</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>2376489</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.027982</DistributionRatioYear5>
+        <TotalDistributionRatio>0.315447</TotalDistributionRatio>
+        <AverageDistributionRatio>0.063089</AverageDistributionRatio>
+        <NetNoncharitableAssets>1549554</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>97760</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>216</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>97976</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>81000</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>432</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>432</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>432</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>2747</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>2747</TotalCreditsAndPayments>
+        <Overpayment>2315</Overpayment>
+        <AmountCreditedToNextYear>2315</AmountCreditedToNextYear>
+        <AmountToBeRefunded>0</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>FL</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>CHARLES J HOFF</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>2395935748</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>12120 TOSCANA WAY UNIT 201</AddressLine1>
+          <City>BONITA SPRINGS</City>
+          <State>FL</State>
+          <ZIPCode>34135</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>HOFF CHARLES J</PersonName>
+          <USAddress>
+            <AddressLine1>12120 TOSCANA WAY UNIT 201</AddressLine1>
+            <City>BONITA SPRINGS</City>
+            <State>FL</State>
+            <ZIPCode>34135</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>5.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>HOFF JOSEPHINE A</PersonName>
+          <USAddress>
+            <AddressLine1>12120 TOSCANA WAY UNIT 201</AddressLine1>
+            <City>BONITA SPRINGS</City>
+            <State>FL</State>
+            <ZIPCode>34135</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>HOFF DAVID</PersonName>
+          <USAddress>
+            <AddressLine1>180 JOHN REZZA DRIVE</AddressLine1>
+            <City>NORTH ATTLEBORO</City>
+            <State>MA</State>
+            <ZIPCode>02763</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DIORIO DENISE HOFF</PersonName>
+          <USAddress>
+            <AddressLine1>88 SCHOOLHOUSE LANE</AddressLine1>
+            <City>BOXBOROUGH</City>
+            <State>MA</State>
+            <ZIPCode>01719</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CASEY DEBORAH HOFF</PersonName>
+          <USAddress>
+            <AddressLine1>34 PLEASANT LANE</AddressLine1>
+            <City>BOYLSTON</City>
+            <State>MA</State>
+            <ZIPCode>01505</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CASEY THOMAS</PersonName>
+          <USAddress>
+            <AddressLine1>34 PLEASANT LANE</AddressLine1>
+            <City>BOYLSTON</City>
+            <State>MA</State>
+            <ZIPCode>01505</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DIORIO JONATHAN</PersonName>
+          <USAddress>
+            <AddressLine1>88 SCHOOLHOUSE LANE</AddressLine1>
+            <City>BOXBOROUGH</City>
+            <State>MA</State>
+            <ZIPCode>01719</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>860143</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>883</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>712125</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>1573151</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>1573151</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>23597</CashDeemedCharitable>
+        <NetNoncharitableAssets>1549554</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>77478</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>77478</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>432</TaxBasedOnInvestmentIncome>
+        <TotalTax>432</TotalTax>
+        <DistributableAmountBeforeAdj>77046</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>77046</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>77046</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>81000</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>81000</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>81000</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>77046</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear4>61997</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>30555</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>58160</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>18234</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>168946</TotalExcessDistriCarryover>
+        <QualifyingDistributions>81000</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>77046</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>3954</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>172900</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>172900</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>61997</ExcessFromYear4>
+        <ExcessFromYear3>30555</ExcessFromYear3>
+        <ExcessFromYear2>58160</ExcessFromYear2>
+        <ExcessFromYear1>18234</ExcessFromYear1>
+        <ExcessFromCurrentYear>3954</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>HOFF CHARLES J</ContributingManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>CHARLES J HOFF</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>12120 TOSCANA WAY UNIT 201</AddressLine1>
+            <City>BONITA SPRINGS</City>
+            <State>FL</State>
+            <ZIPCode>34135</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>2395935748</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>APPLICATIONS MUST BE WRITTEN</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>NONE</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNIVERSITY OF SOUTHERN MAINE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>118 PAYSON SMITH HALL</AddressLine1>
+            <City>PORTLAND</City>
+            <State>ME</State>
+            <ZIPCode>04104</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIPS</PurposeOfGrantOrContribution>
+          <Amount>31000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNIVERSITY OF MASSACHUSETTS FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>225 FRANKLIN ST 33RD FLOOR</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02110</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIPS</PurposeOfGrantOrContribution>
+          <Amount>50000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>81000</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <RelatedOrExemptFunctionIncome>17794</RelatedOrExemptFunctionIncome>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>4202</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>0</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>21996</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>21996</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>12</LineNumber>
+          <RelationshipStatement>THE SOLE PURPOSE OF THE INVESTMENT INCOME IS TO PROVIDE FUNDS TO ACCOMPLISH THE EXEMPT FOUNDATION'S PURPOSE.</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorpStock>
+        <NameOfStock>SCHWAB 4402-4364 MISC STOCK</NameOfStock>
+        <EOYBookValue>813821</EOYBookValue>
+        <EOYFMV>804868</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOther>
+        <CategoryOrItem>INVESTMENT IN MAINE REAL ESTATE</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>50000</BookValue>
+        <EOYFMV>50000</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherAssetsSchedule documentId="RetDoc2046600001">
+      <OtherAssets>
+        <Description>JOHN HANCOCK</Description>
+        <BOYBookValue>253092</BOYBookValue>
+        <EOYBookValue>281256</EOYBookValue>
+        <EOYFMV>235636</EOYFMV>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>LINCOLN</Description>
+        <BOYBookValue>252798</BOYBookValue>
+        <EOYBookValue>280866</EOYBookValue>
+        <EOYFMV>190600</EOYFMV>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>TRAVELERS</Description>
+        <BOYBookValue>253089</BOYBookValue>
+        <EOYBookValue>281157</EOYBookValue>
+        <EOYFMV>235889</EOYFMV>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>FEES</Description>
+        <RevenueAndExpensesPerBooks>180</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>180</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherLiabilitiesSchedule documentId="RetDoc2065700001">
+      <OtherLiabilities>
+        <Description>MARGIN LOAN</Description>
+        <BOYBookValue>0</BOYBookValue>
+        <EOYBookValue>41479</EOYBookValue>
+      </OtherLiabilities>
+    </OtherLiabilitiesSchedule>
+  </ReturnData>
+</Return>

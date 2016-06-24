@@ -1,0 +1,482 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-01-25T16:51:01-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-10-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>PATRICK E LOWERY &amp; ASSOCIATES CPA'S</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>207 S RAILROAD AVE</AddressLine1>
+        <City>BROOKHAVEN</City>
+        <State>MS</State>
+        <ZIPCode>396013331</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-11-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>640658895</EIN>
+      <Name>
+        <BusinessNameLine1>TEACHERS APPRECIATION GRANT INC</BusinessNameLine1>
+      </Name>
+      <NameControl>TEAC</NameControl>
+      <Phone>6018336661</Phone>
+      <USAddress>
+        <AddressLine1>P O BOX 540</AddressLine1>
+        <City>BROOKHAVEN</City>
+        <State>MS</State>
+        <ZIPCode>39602</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>DAN BROWN</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>6018336661</Phone>
+      <DateSigned>2011-01-18</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>PATRICK E LOWERY CPA</Name>
+      <Phone>6018331456</Phone>
+      <DatePrepared>2011-01-19</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>249017</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>1398</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>1398</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>1398</InterestOnSavingsAdjNetIncm>
+        <DividendsRevAndExpnss>8307</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>8307</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>8307</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="RetDoc2">15000</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>15000</GrossSalesPrice>
+        <TotalRevenueAndExpenses>24705</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>9705</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>9705</TotalAdjustedNetIncome>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc6">213</TaxesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>213</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>6727</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>6727</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>6940</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>6727</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>17765</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>9705</NetInvestmentIncome>
+        <AdjustedNetIncome>9705</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>2820</CashBOY>
+        <CashEOY>1880</CashEOY>
+        <CashEOYFMV>1880</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>83649</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>102355</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>102354</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>108082</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc4">131711</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>131711</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>25459</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="RetDoc3">13072</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>13072</InvestmentsCorpBondsEOYFMV>
+        <TotalAssetsBOY>220010</TotalAssetsBOY>
+        <TotalAssetsEOY>249018</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>249017</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>220010</UnrestrictedBOY>
+        <UnrestrictedEOY>249018</UnrestrictedEOY>
+        <TotalNetAssetsBOY>220010</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>249018</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>220010</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>249018</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>220010</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>17765</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="RetDoc5">11243</OtherIncreases>
+        <Subtotal>249018</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>249018</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>9050</QualifyingDistributionsYear1>
+        <QualifyingDistributionsYear2>8873</QualifyingDistributionsYear2>
+        <NetNoncharitableAssets>93922</NetNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>97</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>97</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>6727</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>97</InvestmentIncomeExciseTax>
+        <Subtotal>97</Subtotal>
+        <TaxBasedOnInvestmentIncome>97</TaxBasedOnInvestmentIncome>
+        <TaxDue>97</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>SUSAN QUIN</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>6018336661</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>P O BOX 540</AddressLine1>
+          <City>BROOKHAVEN</City>
+          <State>MS</State>
+          <ZIPCode>39602</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CARL AYCOCK</PersonName>
+          <USAddress>
+            <AddressLine1>123 SOUTH RAILROAD AVENUE</AddressLine1>
+            <City>BROOKHAVEN</City>
+            <State>MS</State>
+            <ZIPCode>39601</ZIPCode>
+          </USAddress>
+          <Title>VICE PRES</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>KAREN BRADEN</PersonName>
+          <USAddress>
+            <AddressLine1>544 S JACKSON</AddressLine1>
+            <City>BROOKHAVEN</City>
+            <State>MS</State>
+            <ZIPCode>39601</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DAN BROWN</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 251</AddressLine1>
+            <City>BROOKHAVEN</City>
+            <State>MS</State>
+            <ZIPCode>39601</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>WILLIE HARRISON</PersonName>
+          <USAddress>
+            <AddressLine1>528 N 3RD ST</AddressLine1>
+            <City>BROOKHAVEN</City>
+            <State>MS</State>
+            <ZIPCode>39601</ZIPCode>
+          </USAddress>
+          <Title>MEMBER</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DOUGLAS S PATRICK</PersonName>
+          <USAddress>
+            <AddressLine1>974 HIGHWAY51 S E</AddressLine1>
+            <City>BOGUE CHITTO</City>
+            <State>MS</State>
+            <ZIPCode>39629</ZIPCode>
+          </USAddress>
+          <Title>MEMBER</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>93002</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>2350</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>95352</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>95352</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>1430</CashDeemedCharitable>
+        <NetNoncharitableAssets>93922</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>4696</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>4696</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>97</TaxBasedOnInvestmentIncome>
+        <TotalTax>97</TotalTax>
+        <DistributableAmountBeforeAdj>4599</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>4599</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>4599</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>6727</ExpensesAndContributions>
+        <QualifyingDistributions>6727</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>97</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>6630</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>4599</DistributableAmountAsAdjusted>
+        <QualifyingDistributions>6727</QualifyingDistributions>
+        <AppliedToCurrentYear>4599</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>2128</RemainingDistriFromCorpus>
+        <TotalCorpus>2128</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>2128</ExcessDistriCyovToNextYear>
+        <ExcessFromCurrentYear>2128</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>DONNA KING</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>51 REYNOLDS ROAD SE</AddressLine1>
+            <City>BUDE</City>
+            <State>MS</State>
+            <ZIPCode>39630</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NA</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TEACHER EDUCATION GRANT</PurposeOfGrantOrContribution>
+          <Amount>409</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JENNIFER HUTSON</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>311 BECKER ST</AddressLine1>
+            <City>BROOKHAVEN</City>
+            <State>MS</State>
+            <ZIPCode>39601</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NA</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TEACHER EDUCATION GRANT</PurposeOfGrantOrContribution>
+          <Amount>409</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SYLVIA BALENTINE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>2915 JAMES DRIVE NW</AddressLine1>
+            <City>WESSON</City>
+            <State>MS</State>
+            <ZIPCode>39191</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NA</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TEACHER EDUCATION GRANT</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>KELBY BOWMAN</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 3642</AddressLine1>
+            <City>BROOKHAVEN</City>
+            <State>MS</State>
+            <ZIPCode>39601</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NA</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TEACHER EDUCATION GRANT</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>KARITTA SMITH</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>621 E CHEROKEE ST</AddressLine1>
+            <City>BROOKHAVEN</City>
+            <State>MS</State>
+            <ZIPCode>39601</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NA</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TEACHER EDUCATION GRANT</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>BERTHA WILLIAMS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>641 GATSON TRAIL NE</AddressLine1>
+            <City>BROOKHAVEN</City>
+            <State>MS</State>
+            <ZIPCode>39601</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NA</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TEACHER EDUCATION GRANT</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>ELISSA BARNES</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>227 INGRAM ST</AddressLine1>
+            <City>BROOKHAVEN</City>
+            <State>MS</State>
+            <ZIPCode>39601</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NA</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TEACHER EDUCATION GRANT</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>ZIDIA BRIDGES</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>358 LAKE DOCKERY DR</AddressLine1>
+            <City>BYRAM</City>
+            <State>MS</State>
+            <ZIPCode>39272</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NA</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TEACHER EDUCATION GRANT</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>RACHEL JENKINS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1131 MILLSAPS RD</AddressLine1>
+            <City>CRYSTAL SPRINGS</City>
+            <State>MS</State>
+            <ZIPCode>39059</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NA</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TEACHER EDUCATION GRANT</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>MISTY SIAS WALL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>518 PORTMAN TRAIL</AddressLine1>
+            <City>BROOKHAVEN</City>
+            <State>MS</State>
+            <ZIPCode>39601</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NA</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TEACHER EDUCATION GRANT</PurposeOfGrantOrContribution>
+          <Amount>409</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>6727</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <RelatedOrExemptFunctionIncome>1398</RelatedOrExemptFunctionIncome>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <RelatedOrExemptFunctionIncome>8307</RelatedOrExemptFunctionIncome>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>15000</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>24705</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>24705</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>3</LineNumber>
+          <RelationshipStatement>TO PROVIDE TEACHERS WITH FUNDS TO FURTHER THEIR EDUCATION</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>4</LineNumber>
+          <RelationshipStatement>TO PROVIDE TEACHERS WITH FUNDS TO FURTHER THEIR EDUCATION</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc2">
+      <GainLossSaleOtherAsset>
+        <Name>FHLMC MEDIUM TERM NOTE</Name>
+        <DateAcquired>2003-07</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-05</DateSold>
+        <GrossSalesPrice>15000</GrossSalesPrice>
+        <TotalNet>15000</TotalNet>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc3">
+      <InvestmentsCorpBonds>
+        <NameOfBond>HELD WITH EDWARD D JONES</NameOfBond>
+        <EOYBookValue>13072</EOYBookValue>
+        <EOYFMV>13072</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc4">
+      <InvestmentsCorpStock>
+        <NameOfStock>VARIOUS HELD WITH EDWARD D JONES</NameOfStock>
+        <EOYBookValue>131711</EOYBookValue>
+        <EOYFMV>131711</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherIncreasesSchedule documentId="RetDoc5">
+      <OtherIncreases>
+        <Description>UNREALIZED GAINS ON INVESTMENTS</Description>
+        <Amount>11243</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <TaxesSchedule documentId="RetDoc6">
+      <Taxes>
+        <Category>INDIRECT TAXES/LICENSES</Category>
+        <Amount>213</Amount>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

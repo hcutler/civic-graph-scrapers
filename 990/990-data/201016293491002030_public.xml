@@ -1,0 +1,819 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-06-11T14:49:43-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-01-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>BroussardPocheLewis &amp; Breaux LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>PO Box 61400</AddressLine1>
+        <City>Lafayette</City>
+        <State>LA</State>
+        <ZIPCode>70596</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-02-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>208115212</EIN>
+      <Name>
+        <BusinessNameLine1>The Leo S &amp; Emogene Burton Case Foundation</BusinessNameLine1>
+      </Name>
+      <NameControl>LEOS</NameControl>
+      <Phone>8504967777</Phone>
+      <USAddress>
+        <AddressLine1>32 Country Club Drive East</AddressLine1>
+        <City>Destin</City>
+        <State>FL</State>
+        <ZIPCode>32541</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Robert B Case</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>8504967777</Phone>
+      <DateSigned>2010-05-31</DateSigned>
+      <AuthorizeThirdParty>0</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Frank A Stagno</Name>
+      <Phone>3379884930</Phone>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="8">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>4264918</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>212215</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>212215</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>-50730</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>872717</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>161485</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>212215</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <LegalFeesRevAndExpnss referenceDocumentId="RetDoc2002100001">984</LegalFeesRevAndExpnss>
+        <LegalFeesNetInvstIncm>984</LegalFeesNetInvstIncm>
+        <LegalFeesDsbrsChrtblPrps>0</LegalFeesDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">2600</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>2600</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>0</AccountingFeesDsbrsChrtblPrps>
+        <TravConfMeetingRevAndExpnss>3610</TravConfMeetingRevAndExpnss>
+        <TravConfMeetingNetInvstIncm>3610</TravConfMeetingNetInvstIncm>
+        <TravConfMeetingDsbrsChrtblPrps>0</TravConfMeetingDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>7194</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>7194</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>204000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>204000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>211194</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>7194</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>204000</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-49709</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>205021</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>32080</CashBOY>
+        <CashEOY>849</CashEOY>
+        <CashEOYFMV>849</CashEOYFMV>
+        <PrepaidExpensesBOY>1355</PrepaidExpensesBOY>
+        <PrepaidExpensesEOY>2200</PrepaidExpensesEOY>
+        <PrepaidExpensesEOYFMV>2200</PrepaidExpensesEOYFMV>
+        <InvestmentsCorpStockBOY>2888543</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2018900001">2545096</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>2260586</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>0</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="RetDoc2044400001">389024</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>411350</InvestmentsCorpBondsEOYFMV>
+        <InvestmentsOtherBOY>1644000</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc2018100001">1548650</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>1589933</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>4565978</TotalAssetsBOY>
+        <TotalAssetsEOY>4485819</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>4264918</TotalAssetsEOYFMV>
+        <AccountsPayableBOY>2006</AccountsPayableBOY>
+        <AccountsPayableEOY>2006</AccountsPayableEOY>
+        <TotalLiabilitiesBOY>2006</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>2006</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>0</CapitalStockBOY>
+        <CapitalStockEOY>0</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>4563972</RetainedEarningsBOY>
+        <RetainedEarningsEOY>4483813</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>4563972</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>4483813</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>4565978</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>4485819</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>4563972</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-49709</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="RetDoc2049700001">1</OtherIncreases>
+        <Subtotal>4514264</Subtotal>
+        <OtherDecreases referenceDocumentId="RetDoc2049800001">30451</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>4483813</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CD FIRSTBANK OF PUERTO RICO</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-09-10</DateAcquired>
+          <DateSold>2009-03-19</DateSold>
+          <GrossSalesPrice>96000</GrossSalesPrice>
+          <CostOrOtherBasis>96000</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CD SHOREBANK</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-03-06</DateAcquired>
+          <DateSold>2009-03-24</DateSold>
+          <GrossSalesPrice>100000</GrossSalesPrice>
+          <CostOrOtherBasis>100000</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CD BANK HAPOALIM</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-03-17</DateAcquired>
+          <DateSold>2009-04-03</DateSold>
+          <GrossSalesPrice>96000</GrossSalesPrice>
+          <CostOrOtherBasis>96000</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CD LEHMAN BROS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-04-04</DateAcquired>
+          <DateSold>2009-04-17</DateSold>
+          <GrossSalesPrice>96000</GrossSalesPrice>
+          <CostOrOtherBasis>96000</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CD WACHOVIA BANK</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-05-15</DateAcquired>
+          <DateSold>2009-05-15</DateSold>
+          <GrossSalesPrice>96000</GrossSalesPrice>
+          <CostOrOtherBasis>96000</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>EXXON MOBIL 1,342 SH</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-02-11</DateAcquired>
+          <DateSold>2009-06-08</DateSold>
+          <GrossSalesPrice>96083</GrossSalesPrice>
+          <CostOrOtherBasis>111681</CostOrOtherBasis>
+          <GainOrLoss>-15598</GainOrLoss>
+          <GainsMinusExcessOrLosses>-15598</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CD MIDFIRST BANK</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-05-28</DateAcquired>
+          <DateSold>2009-06-08</DateSold>
+          <GrossSalesPrice>96000</GrossSalesPrice>
+          <CostOrOtherBasis>96000</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>eXXON MOBIL 1,400 SH</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-02-11</DateAcquired>
+          <DateSold>2009-06-22</DateSold>
+          <GrossSalesPrice>96397</GrossSalesPrice>
+          <CostOrOtherBasis>116506</CostOrOtherBasis>
+          <GainOrLoss>-20109</GainOrLoss>
+          <GainsMinusExcessOrLosses>-20109</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>eXXON MOBIL 1,385 SH</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-02-11</DateAcquired>
+          <DateSold>2009-11-11</DateSold>
+          <GrossSalesPrice>100237</GrossSalesPrice>
+          <CostOrOtherBasis>115260</CostOrOtherBasis>
+          <GainOrLoss>-15023</GainOrLoss>
+          <GainsMinusExcessOrLosses>-15023</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>-50730</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>150000</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>4347475</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.034503</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>199252</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>3531376</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.056423</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>200000</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>3551750</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.056310</DistributionRatioYear3>
+        <TotalDistributionRatio>0.147236</TotalDistributionRatio>
+        <AverageDistributionRatio>0.049079</AverageDistributionRatio>
+        <NetNoncharitableAssets>4126728</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>202536</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>2050</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>204586</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>204000</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>4100</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>4100</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>4100</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>2200</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>2200</TotalCreditsAndPayments>
+        <PenaltyForUnderpayment>62</PenaltyForUnderpayment>
+        <TaxDue>1962</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>LA</StatesFiledWith>
+        <StatesFiledWith>FL</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>ROBERT B CASE</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>8504967777</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>32 COUNTRY CLUB DRIVE EAST</AddressLine1>
+          <City>DESTIN</City>
+          <State>FL</State>
+          <ZIPCode>32541</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Robert B Case</PersonName>
+          <USAddress>
+            <AddressLine1>32 Country Club Drive East</AddressLine1>
+            <City>Destin</City>
+            <State>FL</State>
+            <ZIPCode>32541</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Samuel L Case</PersonName>
+          <USAddress>
+            <AddressLine1>2943 VZ CR 3208</AddressLine1>
+            <City>Wills Pt</City>
+            <State>TX</State>
+            <ZIPCode>75169</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Pamela Jean Case</PersonName>
+          <USAddress>
+            <AddressLine1>201 Ball Drive</AddressLine1>
+            <City>Kerrville</City>
+            <State>TX</State>
+            <ZIPCode>78208</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>4090866</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>98706</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>4189572</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>4189572</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>62844</CashDeemedCharitable>
+        <NetNoncharitableAssets>4126728</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>206336</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>206336</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>4100</TaxBasedOnInvestmentIncome>
+        <TotalTax>4100</TotalTax>
+        <DistributableAmountBeforeAdj>202236</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>202236</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>202236</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>204000</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>204000</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>204000</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>202236</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear2>25076</ExcessDistriCarryoverYear2>
+        <TotalExcessDistriCarryover>25076</TotalExcessDistriCarryover>
+        <QualifyingDistributions>204000</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>202236</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>1764</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>26840</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>26840</ExcessDistriCyovToNextYear>
+        <ExcessFromYear2>25076</ExcessFromYear2>
+        <ExcessFromCurrentYear>1764</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BIBLE STUDY FELLOWSHIP</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>19001 HUEBNER ROAD</AddressLine1>
+            <City>SAN ANTONIO</City>
+            <State>TX</State>
+            <ZIPCode>78258</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <RecipientFoundationStatus>public charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUPPORT FOR CHRISTIAN ORGANIZATION WITH BIBLE STUDY</PurposeOfGrantOrContribution>
+          <Amount>8000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BLUEBONNET EQUINE HUMANE SOCIETY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>P O BOX 15</AddressLine1>
+            <City>ROSHARON</City>
+            <State>TX</State>
+            <ZIPCode>77583</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RESCUE HORSES</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHILDREN'S MIRACLE NETWORK</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>205 W 700 SOUTH</AddressLine1>
+            <City>SALT LAKE CITY</City>
+            <State>UT</State>
+            <ZIPCode>84101</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FUNDS FOR CHILDREN'S HOSPITALS</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHRISTIAN ASSISTANCE MINISTRY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>624 CLAY STREET</AddressLine1>
+            <City>KERRVILLE</City>
+            <State>TX</State>
+            <ZIPCode>78028</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>HELPING NEIGHBORS IN NEED</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DIETERT SENIOR CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>451 GUADALUPE STREET STE 101</AddressLine1>
+            <City>KERRVILLE</City>
+            <State>TX</State>
+            <ZIPCode>78028</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROVIDE SERVICES TO SENIOR CITIZENS</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FRIENDSHIP BAPTIST CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3536 COUNTRY ROAD 474</AddressLine1>
+            <City>KINSTON</City>
+            <State>AL</State>
+            <ZIPCode>36453</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RELIGIOUS PURPOSES</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HABITAT FOR HORSES</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>P O BOX 213</AddressLine1>
+            <City>HITCHCOCK</City>
+            <State>TX</State>
+            <ZIPCode>77563</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>HORSE RESCUE AND PUBLIC EDUCATION FOR HORSE ABUSE AN</PurposeOfGrantOrContribution>
+          <Amount>6000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HOSPICE FOUNDATION OF ACADIANA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2600 JOHNSTON STREET</AddressLine1>
+            <City>LAFAYETTE</City>
+            <State>LA</State>
+            <ZIPCode>70503</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUPPORT PROGRAMS OF HOSPICE FOR TERMINALLY ILL</PurposeOfGrantOrContribution>
+          <Amount>6000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HUMANE SOCIETY OF KERRVILLE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>P O BOX 2190</AddressLine1>
+            <City>KERRVILLE</City>
+            <State>TX</State>
+            <ZIPCode>78029</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CARE AND BOARDING OF ABUSED AND ABANDONED ANIMALS</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HUMANE SOCIETY OF LINCOLN COUNTY (RUIDOSO ANIMAL SHELTER)</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>P O BOX 20382</AddressLine1>
+            <City>RUIDOSO</City>
+            <State>NM</State>
+            <ZIPCode>88355</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CARE AND BOARDING OF ABUSED AND ABANDONED ANIMALS</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JEWEL PARKERSON LOWE FOUNDATION INC (STERLING FOUNDATION MILK FUND)</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>P O BOX 52763</AddressLine1>
+            <City>LAFAYETTE</City>
+            <State>LA</State>
+            <ZIPCode>70505</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ASSIST NEEDY INDIVIDUALS AND ORGANIZATIONS</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MERCY SHIPS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>P O BOX 36</AddressLine1>
+            <City>GARDEN VALLEY</City>
+            <State>TX</State>
+            <ZIPCode>797712020</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROVIDE MEDICAL CARE AND AID TO NEEDY COUNTRIES</PurposeOfGrantOrContribution>
+          <Amount>18000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>RUIDOSO HOME CARE &amp; HOSPICE FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>P O BOX 2019</AddressLine1>
+            <City>RUIDOSO</City>
+            <State>NM</State>
+            <ZIPCode>88355</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>Public charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>HELP UNDERWRITE PROGRAMS AND SERVICES OF HOSPICE</PurposeOfGrantOrContribution>
+          <Amount>6000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SAMARITAN'S PURSE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>P O BOX 3000</AddressLine1>
+            <City>BOONE</City>
+            <State>NC</State>
+            <ZIPCode>28607</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GIVES SPIRITUAL AND PHYSICAL AID TO VICTIMS OF WAR P</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SHRINER'S HOSPITALS FOR CHILDREN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2900 ROCKY POINT DRIVE</AddressLine1>
+            <City>TAMPA</City>
+            <State>FL</State>
+            <ZIPCode>33607</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROVIDE PEDIATRIC SPECIALTY CARE TO CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SOUTH OKALOOSAWALTON FOSTER ADOPTIVE PARENT ASSOCIATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>322 CEDAR STREET</AddressLine1>
+            <City>DESTIN</City>
+            <State>FL</State>
+            <ZIPCode>32541</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>HELP FOR CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SPIRIT HORSE THERAPEUTIC RIDING CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1960 POST OAK DRIVE</AddressLine1>
+            <City>CORINTH</City>
+            <State>TX</State>
+            <ZIPCode>76210</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROVIDES THERAPEUTIC HORSEBACK RIDING LESSONS TO ABUSED CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ST JUDE RESEARCH HOSPITAL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>501 ST JUDE PLACE</AddressLine1>
+            <City>MEMPHIS</City>
+            <State>TN</State>
+            <ZIPCode>38105</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FUND RESEARCH FOR CURES OF CATASTROPHIC DISEASES IN</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE SMILE TRAIN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>P O BOX 96231</AddressLine1>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>200906231</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROVIDING FREE CLEFT PALATE SURGERY FOR CHILDREN IN</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TRINITY BAPTIST CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>800 JACKSON ROAD</AddressLine1>
+            <City>KERRVILLE</City>
+            <State>TX</State>
+            <ZIPCode>78028</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONe</RecipientRelationship>
+          <RecipientFoundationStatus>Public charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RELIGIOUS PURPOSES</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WESTWOOD MINISTRIES</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>P O BOX 291446</AddressLine1>
+            <City>KERRVILLE</City>
+            <State>TX</State>
+            <ZIPCode>78029</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RELIGIOUS PURPOSES</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>204000</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>212215</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>-50730</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>161485</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>161485</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>ACCOUNTING</Category>
+        <Amount>2600</Amount>
+        <NetInvestmentIncome>2600</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc2044400001">
+      <InvestmentsCorpBonds>
+        <NameOfBond>CORPORATE BONDS</NameOfBond>
+        <EOYBookValue>389024</EOYBookValue>
+        <EOYFMV>411350</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorpStock>
+        <NameOfStock>STOCKS</NameOfStock>
+        <EOYBookValue>2545096</EOYBookValue>
+        <EOYFMV>2260586</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOther>
+        <CategoryOrItem>CERTIFICATES OF DEPOSIT</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>1448000</BookValue>
+        <EOYFMV>1496383</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>WESTERN ASSET FD</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>100650</BookValue>
+        <EOYFMV>93550</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <LegalFeesSchedule documentId="RetDoc2002100001">
+      <LegalFees>
+        <Category>LEGAL</Category>
+        <Amount>984</Amount>
+        <NetInvestmentIncome>984</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc2049800001">
+      <OtherDecreases>
+        <Description>EXCISE TAX PRIOR YEAR</Description>
+        <Amount>30449</Amount>
+      </OtherDecreases>
+      <OtherDecreases>
+        <Description>PENALTIES</Description>
+        <Amount>2</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherIncreasesSchedule documentId="RetDoc2049700001">
+      <OtherIncreases>
+        <Description>ROUNDING</Description>
+        <Amount>1</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+  </ReturnData>
+</Return>

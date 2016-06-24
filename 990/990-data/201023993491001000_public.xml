@@ -1,0 +1,583 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-08-27T08:35:11-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-04-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>DIEHL BANWART BOLTON CPAs PA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>PO BOX 469</AddressLine1>
+        <City>FORT SCOTT</City>
+        <State>KS</State>
+        <ZIPCode>66701</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-05-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>237025822</EIN>
+      <Name>
+        <BusinessNameLine1>TB BAKER FOUNDATION OF KANSAS</BusinessNameLine1>
+        <BusinessNameLine2>co MIDWEST TRUST COMPANY</BusinessNameLine2>
+      </Name>
+      <NameControl>TBBA</NameControl>
+      <Phone>9133190300</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 12768</AddressLine1>
+        <City>OVERLAND PARK</City>
+        <State>KS</State>
+        <ZIPCode>662822768</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>MIDWEST TRUST COMPANY</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>9133190300</Phone>
+      <DateSigned>2010-08-27</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>CAROL J HILL</Name>
+      <Phone>6202234300</Phone>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="9">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>263673</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>5100</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>5100</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>2947</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>2947</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>7871</NetGainSaleAssetsRevAndExpnss>
+        <CapitalGainNetIncmNetInvstIncm>7871</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>15918</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>15918</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <LegalFeesRevAndExpnss referenceDocumentId="RetDoc2002100001">628</LegalFeesRevAndExpnss>
+        <LegalFeesNetInvstIncm>628</LegalFeesNetInvstIncm>
+        <LegalFeesDsbrsChrtblPrps>0</LegalFeesDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">535</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>535</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>0</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc2002300001">1792</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>1792</OtherProfFeesNetInvstIncm>
+        <OtherProfFeesDsbrsChrtblPrps>0</OtherProfFeesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>2955</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>2955</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>14850</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>14850</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>17805</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>2955</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>14850</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-1887</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>12963</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>12758</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>31514</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>31513</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>83037</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2018900001">90839</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>111019</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>23445</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="RetDoc2044400001">23445</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>26141</InvestmentsCorpBondsEOYFMV>
+        <InvestmentsOtherBOY>120000</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc2018100001">95000</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>95000</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>239240</TotalAssetsBOY>
+        <TotalAssetsEOY>240798</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>263673</TotalAssetsEOYFMV>
+        <OtherLiabilitiesBOY referenceDocumentId="RetDoc2065700001">10890</OtherLiabilitiesBOY>
+        <OtherLiabilitiesEOY referenceDocumentId="RetDoc2065700001">14850</OtherLiabilitiesEOY>
+        <TotalLiabilitiesBOY>10890</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>14850</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>228350</CapitalStockBOY>
+        <CapitalStockEOY>225948</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>0</RetainedEarningsBOY>
+        <RetainedEarningsEOY>0</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>228350</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>225948</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>239240</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>240798</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>228350</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-1887</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>226463</Subtotal>
+        <OtherDecreases referenceDocumentId="RetDoc2049800001">515</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>225948</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CORE VALUE YIELD FOCUS FUND</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GainOrLoss>1926</GainOrLoss>
+          <GainsMinusExcessOrLosses>1926</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CORE VALUE YIELD FOCUS FUND</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GainOrLoss>202</GainOrLoss>
+          <GainsMinusExcessOrLosses>202</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CORE VALUE STOCK FUND</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GainOrLoss>4301</GainOrLoss>
+          <GainsMinusExcessOrLosses>4301</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CORE VALUE STOCK FUND</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GainOrLoss>1442</GainOrLoss>
+          <GainsMinusExcessOrLosses>1442</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>7871</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>10890</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>266872</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.040806</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>15897</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>282829</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.056207</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>14796</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>298690</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.049536</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>15509</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>292466</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.053028</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>22346</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>291464</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.076668</DistributionRatioYear5>
+        <TotalDistributionRatio>0.276245</TotalDistributionRatio>
+        <AverageDistributionRatio>0.055249</AverageDistributionRatio>
+        <NetNoncharitableAssets>247474</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>13673</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>130</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>13803</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>14850</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>130</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>130</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>130</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>180</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>180</TotalCreditsAndPayments>
+        <Overpayment>50</Overpayment>
+        <AmountCreditedToNextYear>50</AmountCreditedToNextYear>
+        <AmountToBeRefunded>0</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>KS</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>MIDWEST TRUST COMPANY</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>9133190300</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>5901 COLLEGE BLVD 100</AddressLine1>
+          <City>OVERLAND PARK</City>
+          <State>KS</State>
+          <ZIPCode>66211</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MAYOR CITY OF FORT SCOTT KANSAS</PersonName>
+          <USAddress>
+            <AddressLine1>1 EAST THIRD</AddressLine1>
+            <City>FORT SCOTT</City>
+            <State>KS</State>
+            <ZIPCode>66701</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JUDGE BOURBON COUNTY DISTRICT COURT</PersonName>
+          <USAddress>
+            <AddressLine1>210 SOUTH NATIONAL</AddressLine1>
+            <City>FORT SCOTT</City>
+            <State>KS</State>
+            <ZIPCode>66701</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DISTRICT MAGISTRATE JUDGE</PersonName>
+          <USAddress>
+            <AddressLine1>210 SOUTH NATIONAL</AddressLine1>
+            <City>FORT SCOTT</City>
+            <State>KS</State>
+            <ZIPCode>66701</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MIDWEST TRUST COMPANY</PersonName>
+          <USAddress>
+            <AddressLine1>5901 COLLEGE BLVD 100</AddressLine1>
+            <City>OVERLAND PARK</City>
+            <State>KS</State>
+            <ZIPCode>66211</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>240485</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>10758</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>251243</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>251243</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>3769</CashDeemedCharitable>
+        <NetNoncharitableAssets>247474</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>12374</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>12374</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>130</TaxBasedOnInvestmentIncome>
+        <TotalTax>130</TotalTax>
+        <DistributableAmountBeforeAdj>12244</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>12244</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>12244</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>14850</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>14850</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>130</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>14720</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>12244</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>5161</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <TotalExcessDistriCarryover>0</TotalExcessDistriCarryover>
+        <QualifyingDistributions>14850</QualifyingDistributions>
+        <AppliedToYear1>5161</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>9689</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>0</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>2555</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>0</ExcessDistriCyovToNextYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>MIDWEST TRUST COMPANY</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>5901 COLLEGE BLVD SUITE 100</AddressLine1>
+            <City>OVERLAND PARK</City>
+            <State>KS</State>
+            <ZIPCode>662111503</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>9133190300</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>BY LETTER INCLUDING PURPOSE OF REQUEST</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>ANNUALLY BY FEBRUARY 28</SubmissionDeadlines>
+          <RestrictionsOnAwards>FORT SCOTT, KANSAS AREA &amp; SAN ANTONIO, TEXAS AREA TO FURTHER THE CAUSES OF CHARITY, EDUCATION &amp; RELIGION</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AMERICAN RED CROSS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>11 NORTH BROADWAY</AddressLine1>
+            <City>FORT SCOTT</City>
+            <State>KS</State>
+            <ZIPCode>66701</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>2475</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BIG BROTHERS BIG SISTERS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>101 S JUDSON</AddressLine1>
+            <City>FORT SCOTT</City>
+            <State>KS</State>
+            <ZIPCode>66701</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>2475</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BIRTHLINE OF FORT SCOTT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1101 SCOTT AVE</AddressLine1>
+            <City>FORT SCOTT</City>
+            <State>KS</State>
+            <ZIPCode>66701</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>2475</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BOURBON COUNTY CASA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>303 EAST WALL</AddressLine1>
+            <City>FORT SCOTT</City>
+            <State>KS</State>
+            <ZIPCode>66701</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>3950</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BOURBON COUNTY COALITION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 652</AddressLine1>
+            <City>FORT SCOTT</City>
+            <State>KS</State>
+            <ZIPCode>66701</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>2475</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CARE OF BOURBON COUNTY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX</AddressLine1>
+            <City>FORT SCOTT</City>
+            <State>KS</State>
+            <ZIPCode>66701</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>14850</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <RelatedOrExemptFunctionIncome>5100</RelatedOrExemptFunctionIncome>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <RelatedOrExemptFunctionIncome>2947</RelatedOrExemptFunctionIncome>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>7871</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>0</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>15918</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>15918</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>3</LineNumber>
+          <RelationshipStatement>INVESTMENT INCOME INCLUDING INTEREST, DIVIDENDS, AND CAPITAL GAINS</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>4&amp;8</LineNumber>
+          <RelationshipStatement>ARE EXCLUDED UNDER CODE SECTION 103</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>535</Amount>
+        <NetInvestmentIncome>535</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc2044400001">
+      <InvestmentsCorpBonds>
+        <NameOfBond>GE CAP CORP MTN</NameOfBond>
+        <EOYBookValue>23445</EOYBookValue>
+        <EOYFMV>26141</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorpStock>
+        <NameOfStock>CORE VALUE STOCK FUND</NameOfStock>
+        <EOYBookValue>56276</EOYBookValue>
+        <EOYFMV>68287</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CORE VALUE YIELD FOCUS FUND</NameOfStock>
+        <EOYBookValue>34563</EOYBookValue>
+        <EOYFMV>42732</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOther>
+        <CategoryOrItem>VALLEY VIEW BANK CD</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>20000</BookValue>
+        <EOYFMV>20000</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>BLUE RIDGE BANK CD</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>50000</BookValue>
+        <EOYFMV>50000</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>SECURITY BANK CD</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>25000</BookValue>
+        <EOYFMV>25000</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <LegalFeesSchedule documentId="RetDoc2002100001">
+      <LegalFees>
+        <Category>LEGAL FEES</Category>
+        <Amount>628</Amount>
+        <NetInvestmentIncome>628</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc2049800001">
+      <OtherDecreases>
+        <Description>FEDERAL TAXES</Description>
+        <Amount>515</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherLiabilitiesSchedule documentId="RetDoc2065700001">
+      <OtherLiabilities>
+        <Description>DISTRIBUTIONS</Description>
+        <BOYBookValue>10890</BOYBookValue>
+        <EOYBookValue>14850</EOYBookValue>
+      </OtherLiabilities>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFees>
+        <Category>TRUSTEE FEES</Category>
+        <Amount>1792</Amount>
+        <NetInvestmentIncome>1792</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+  </ReturnData>
+</Return>

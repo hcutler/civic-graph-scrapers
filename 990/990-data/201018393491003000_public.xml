@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-07-02T09:38:11-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>MOREHOUSE GROUP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>507 S THORNTON AVE</AddressLine1>
+        <City>DALTON</City>
+        <State>GA</State>
+        <ZIPCode>307208284</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>582126311</EIN>
+      <Name>
+        <BusinessNameLine1>MURRAY COUNTY FAMILY CIRCLE INC</BusinessNameLine1>
+      </Name>
+      <NameControl>MURR</NameControl>
+      <Phone>7064832684</Phone>
+      <USAddress>
+        <AddressLine1>P O BOX 1648</AddressLine1>
+        <City>CHATSWORTH</City>
+        <State>GA</State>
+        <ZIPCode>30705</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>PENNY H CARPENTER</Name>
+      <Title>TREASURER</Title>
+      <Phone>7064832684</Phone>
+      <DateSigned>2010-07-01</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>PENNY CARPENTER</Name>
+      <Phone>7062782713</Phone>
+      <DatePrepared>2010-07-01</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="3">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>14850</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>41482</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <TotalRevenueAndExpenses>41482</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>0</TotalNetInvestmentIncome>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc3">36995</OtherExpensesRevAndExpnss>
+        <OtherExpensesDsbrsChrtblPrps>36995</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>36995</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>36995</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>0</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>36995</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>36995</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>4487</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>10365</CashBOY>
+        <CashEOY>14850</CashEOY>
+        <CashEOYFMV>14850</CashEOYFMV>
+        <TotalAssetsBOY>10365</TotalAssetsBOY>
+        <TotalAssetsEOY>14850</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>14850</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>10365</RetainedEarningsBOY>
+        <RetainedEarningsEOY>14850</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>10365</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>14850</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>10365</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>14850</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>10365</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>4487</ExcessOfRevenueOverExpenses>
+        <Subtotal>14852</Subtotal>
+        <OtherDecreases referenceDocumentId="RetDoc2">2</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>14850</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>57097</QualifyingDistributionsYear1>
+        <QualifyingDistributionsYear2>63481</QualifyingDistributionsYear2>
+        <QualifyingDistributionsYear3>43662</QualifyingDistributionsYear3>
+        <QualifyingDistributionsYear4>51066</QualifyingDistributionsYear4>
+        <QualifyingDistributionsYear5>30661</QualifyingDistributionsYear5>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>0</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>36995</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>GA</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>PENNY H CARPENTER</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>7062782713</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>507 S THORNTON AVE</AddressLine1>
+          <City>DALTON</City>
+          <State>GA</State>
+          <ZIPCode>30720</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ROGER VEST</PersonName>
+          <USAddress>
+            <AddressLine1>111 W CHEROKEE STREET</AddressLine1>
+            <City>CHATSWORTH</City>
+            <State>GA</State>
+            <ZIPCode>30705</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>10.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CLAY POWELL</PersonName>
+          <USAddress>
+            <AddressLine1>664 HIGHWAY 52</AddressLine1>
+            <City>CHATSWORTH</City>
+            <State>GA</State>
+            <ZIPCode>30705</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>PENNY CARPENTER</PersonName>
+          <USAddress>
+            <AddressLine1>507 S THORNTON AVENUE</AddressLine1>
+            <City>DALTON</City>
+            <State>GA</State>
+            <ZIPCode>30720</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>WORK AS A COLLABORATIVE WITH OTHER AGENCIES FOCUSING ON CHILDREN AND FAMILY ISSUES SUCH AS CHILD CARE SERVICES, HEALTH RELATED ISSUES, SCHOOL TRUANCY TREATMENT, AND LITERACY PROGRAMS, DRUG AWARENESS PROGRAMS, ARTISTIC &amp; EDUCATIONAL SUMMER PROGRAMS. ANOTHER PROGRAM OF THE ORGANIZATION IS A COMMUNITY CHRISTMAS STORE AVAILABLE FOR LOW-INCOME PARENTS TO SHOP FOR CHRISTMAS FOR THEIR CHILDREN WHO LIVE WITH THEM.</Description1>
+        <Expenses1>36995</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>0</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>0</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>0</CashDeemedCharitable>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>0</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>36995</ExpensesAndContributions>
+        <QualifyingDistributions>36995</QualifyingDistributions>
+        <AdjQualifyingDistributions>36995</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>30661</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>51066</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>43662</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>63481</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>57097</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>245967</TotalExcessDistriCarryover>
+        <QualifyingDistributions>36995</QualifyingDistributions>
+        <RemainingDistriFromCorpus>36995</RemainingDistriFromCorpus>
+        <TotalCorpus>282962</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>30661</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>252301</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>51066</ExcessFromYear4>
+        <ExcessFromYear3>43662</ExcessFromYear3>
+        <ExcessFromYear2>63481</ExcessFromYear2>
+        <ExcessFromYear1>57097</ExcessFromYear1>
+        <ExcessFromCurrentYear>36995</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+      </SupplementaryInformation>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <OtherDecreasesSchedule documentId="RetDoc2">
+      <OtherDecreases>
+        <Description>ROUNDING</Description>
+        <Amount>2</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc3">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OFFICE SUPPLIES</Description>
+        <RevenueAndExpensesPerBooks>329</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>329</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>COMMUNITY CHRISTMAS</Description>
+        <RevenueAndExpensesPerBooks>35760</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>35760</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MEETING SUPPLIES</Description>
+        <RevenueAndExpensesPerBooks>166</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>166</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>ADVERTISING</Description>
+        <RevenueAndExpensesPerBooks>83</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>83</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>E &amp; O INSURANCE</Description>
+        <RevenueAndExpensesPerBooks>577</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>577</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK FEES</Description>
+        <RevenueAndExpensesPerBooks>1</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>1</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>POSTAGE</Description>
+        <RevenueAndExpensesPerBooks>79</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>79</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

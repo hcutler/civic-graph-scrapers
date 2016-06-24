@@ -1,0 +1,1585 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.3" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-01-06T14:10:27-08:00</Timestamp>
+    <TaxPeriodEndDate>2010-09-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Cwynar &amp; Company CPAs PLLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>12 South Broad Street Suite 3</AddressLine1>
+        <City>Norwich</City>
+        <State>NY</State>
+        <ZIPCode>13815</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-10-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>150543650</EIN>
+      <Name>
+        <BusinessNameLine1>THE CHENANGO VALLEY HOME</BusinessNameLine1>
+      </Name>
+      <NameControl>CHEN</NameControl>
+      <Phone>6073346598</Phone>
+      <USAddress>
+        <AddressLine1>24 CANASAWACTA STREET</AddressLine1>
+        <City>NORWICH</City>
+        <State>NY</State>
+        <ZIPCode>13815</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Mary E Emerson</Name>
+      <Title>President</Title>
+      <DateSigned>2011-01-06</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>Daniel J Farrow CPA</Name>
+      <Phone>6073343838</Phone>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="17">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="09000047" softwareVersion="2009v1.3">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>10553239</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>225767</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>114</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>114</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>114</InterestOnSavingsAdjNetIncm>
+        <DividendsRevAndExpnss>269341</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>269341</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>269341</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId=" GainLossFromSaleOtherAssetsSch">97669</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>1420344</GrossSalesPrice>
+        <OtherIncomeRevAndExpnss referenceDocumentId=" OtherIncomeSchedule2">893650</OtherIncomeRevAndExpnss>
+        <TotalRevenueAndExpenses>1486541</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>269455</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>269455</TotalAdjustedNetIncome>
+        <CompOfcrDirTrstRevAndExpnss>87850</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstDsbrsChrtblPrps>87850</CompOfcrDirTrstDsbrsChrtblPrps>
+        <OthEmplSlrsWgsRevAndExpnss>723423</OthEmplSlrsWgsRevAndExpnss>
+        <OthEmplSlrsWgsDsbrsChrtblPrps>723423</OthEmplSlrsWgsDsbrsChrtblPrps>
+        <PensionEmplBnftRevAndExpnss>57758</PensionEmplBnftRevAndExpnss>
+        <PensionEmplBnftDsbrsChrtblPrps>57758</PensionEmplBnftDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId=" AccountingFeesSchedule">25040</AccountingFeesRevAndExpnss>
+        <AccountingFeesDsbrsChrtblPrps>25040</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId=" OtherProfessionalFeesSchedule">38933</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>15166</OtherProfFeesNetInvstIncm>
+        <OtherProfFeesAdjNetIncm>15166</OtherProfFeesAdjNetIncm>
+        <OtherProfFeesDsbrsChrtblPrps>38933</OtherProfFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId=" TaxesSchedule">65451</TaxesRevAndExpnss>
+        <TaxesDsbrsChrtblPrps>65451</TaxesDsbrsChrtblPrps>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">77049</DeprecAndDepletionRevAndExpnss>
+        <OccupancyRevAndExpnss>140306</OccupancyRevAndExpnss>
+        <OccupancyDsbrsChrtblPrps>140306</OccupancyDsbrsChrtblPrps>
+        <TravConfMeetingRevAndExpnss>1644</TravConfMeetingRevAndExpnss>
+        <TravConfMeetingDsbrsChrtblPrps>1644</TravConfMeetingDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">338399</OtherExpensesRevAndExpnss>
+        <OtherExpensesDsbrsChrtblPrps>338399</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>1555853</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>15166</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>15166</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>1478804</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>0</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>1555853</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>15166</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>15166</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>1478804</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-69312</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>254289</NetInvestmentIncome>
+        <AdjustedNetIncome>254289</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>68443</CashBOY>
+        <CashEOY>499315</CashEOY>
+        <CashEOYFMV>499315</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>309150</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>242775</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>242775</SavingsAndTempCashInvstEOYFMV>
+        <AccountsReceivable>12235</AccountsReceivable>
+        <AccountsReceivableBOY>1540</AccountsReceivableBOY>
+        <AccountsReceivableEOY>12235</AccountsReceivableEOY>
+        <AccountsReceivableEOYFMV>12235</AccountsReceivableEOYFMV>
+        <PledgesReceivableBOY>411000</PledgesReceivableBOY>
+        <InventoriesForSaleOrUseBOY>4256</InventoriesForSaleOrUseBOY>
+        <InventoriesForSaleOrUseEOY>5892</InventoriesForSaleOrUseEOY>
+        <InventoriesForSaleOrUseEOYFMV>5892</InventoriesForSaleOrUseEOYFMV>
+        <InvestmentsGovtObligBOY>1191859</InvestmentsGovtObligBOY>
+        <InvestmentsGovtObligEOY referenceDocumentId=" InvestmentsGovtObligationsSche">791342</InvestmentsGovtObligEOY>
+        <InvestmentsGovtObligEOYFMV>849471</InvestmentsGovtObligEOYFMV>
+        <InvestmentsCorpStockBOY>4822903</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId=" InvestmentsCorpStockSchedule">5481410</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>6360114</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>502500</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId=" InvestmentsCorpBondsSchedule">250000</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>259050</InvestmentsCorpBondsEOYFMV>
+        <InvestmentsOtherBOY>50000</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId=" InvestmentsOtherSchedule2">75000</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>76167</InvestmentsOtherEOYFMV>
+        <LandBuildingAndEquipmentBasis>4425830</LandBuildingAndEquipmentBasis>
+        <AccumDeprecLandBldgAndEquip>2188110</AccumDeprecLandBldgAndEquip>
+        <LandBuildingAndEquipmentBOY>2301940</LandBuildingAndEquipmentBOY>
+        <LandBuildingAndEquipmentEOY referenceDocumentId=" LandEtcSchedule2">2237720</LandBuildingAndEquipmentEOY>
+        <LandBuildingAndEquipmentEOYFMV>2237720</LandBuildingAndEquipmentEOYFMV>
+        <OtherAssetsBOY referenceDocumentId=" OtherAssetsSchedule">17371</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId=" OtherAssetsSchedule">10500</OtherAssetsEOY>
+        <OtherAssetsEOYFMV referenceDocumentId=" OtherAssetsSchedule">10500</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>9680962</TotalAssetsBOY>
+        <TotalAssetsEOY>9606189</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>10553239</TotalAssetsEOYFMV>
+        <AccountsPayableBOY>11379</AccountsPayableBOY>
+        <AccountsPayableEOY>15150</AccountsPayableEOY>
+        <DeferredRevenueBOY>24450</DeferredRevenueBOY>
+        <DeferredRevenueEOY>27672</DeferredRevenueEOY>
+        <OtherLiabilitiesBOY referenceDocumentId=" OtherLiabilitiesSchedule">63685</OtherLiabilitiesBOY>
+        <OtherLiabilitiesEOY referenceDocumentId=" OtherLiabilitiesSchedule">51230</OtherLiabilitiesEOY>
+        <TotalLiabilitiesBOY>99514</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>94052</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>9009761</UnrestrictedBOY>
+        <UnrestrictedEOY>9373200</UnrestrictedEOY>
+        <TemporarilyRestrictedBOY>427000</TemporarilyRestrictedBOY>
+        <TemporarilyRestrictedEOY>8000</TemporarilyRestrictedEOY>
+        <PermanentlyRestrictedBOY>144687</PermanentlyRestrictedBOY>
+        <PermanentlyRestrictedEOY>130937</PermanentlyRestrictedEOY>
+        <TotalNetAssetsBOY>9581448</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>9512137</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>9680962</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>9606189</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>9581448</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-69312</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId=" OtherIncreasesSchedule">1</OtherIncreases>
+        <Subtotal>9512137</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>9512137</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <ExemptOperatingFoundations>X</ExemptOperatingFoundations>
+        <DateOfRulingLetter>1974-03-06</DateOfRulingLetter>
+        <InvestmentIncomeExciseTaxNA>N/A</InvestmentIncomeExciseTaxNA>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>true</PrivateOperatingFoundation>
+        <NewSubstantialContributors referenceDocumentId=" SubstantialContributorsSchedul">true</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>THE CHENANGO VALLEY HOME</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>6073346598</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>24 Canasawacta St</AddressLine1>
+          <City>Norwich</City>
+          <State>NY</State>
+          <ZIPCode>13815</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>William Beckwith</PersonName>
+          <USAddress>
+            <AddressLine1>24 Canasawacta Street</AddressLine1>
+            <City>Norwich</City>
+            <State>NY</State>
+            <ZIPCode>13815</ZIPCode>
+          </USAddress>
+          <Title>Executive Direc</Title>
+          <AvgHoursPerWkDevotedToPosition>40.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>84471</Compensation>
+          <ContriToEmplBenefitPlansEtc>3379</ContriToEmplBenefitPlansEtc>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Linda Lewis-Moors</PersonName>
+          <USAddress>
+            <AddressLine1>24 Canasawacta St</AddressLine1>
+            <City>Norwich</City>
+            <State>NY</State>
+            <ZIPCode>13815</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Karen Kirkby</PersonName>
+          <USAddress>
+            <AddressLine1>24 Canasawacta St</AddressLine1>
+            <City>Norwich</City>
+            <State>NY</State>
+            <ZIPCode>13815</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Rosemarie Cole</PersonName>
+          <USAddress>
+            <AddressLine1>24 Canasawacta St</AddressLine1>
+            <City>Norwich</City>
+            <State>NY</State>
+            <ZIPCode>13815</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Michael McCullough</PersonName>
+          <USAddress>
+            <AddressLine1>24 Canasawacta St</AddressLine1>
+            <City>Norwich</City>
+            <State>NY</State>
+            <ZIPCode>13815</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Linda Gregory</PersonName>
+          <USAddress>
+            <AddressLine1>24 Canasawacta St</AddressLine1>
+            <City>Norwich</City>
+            <State>NY</State>
+            <ZIPCode>13815</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Joyce Lawson</PersonName>
+          <USAddress>
+            <AddressLine1>24 Canasawacta St</AddressLine1>
+            <City>Norwich</City>
+            <State>NY</State>
+            <ZIPCode>13815</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Nancy Savitsky</PersonName>
+          <USAddress>
+            <AddressLine1>24 Canasawacta St</AddressLine1>
+            <City>Norwich</City>
+            <State>NY</State>
+            <ZIPCode>13815</ZIPCode>
+          </USAddress>
+          <Title>C. Secretary</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Byron Harrington</PersonName>
+          <USAddress>
+            <AddressLine1>24 Canasawacta St</AddressLine1>
+            <City>Norwich</City>
+            <State>NY</State>
+            <ZIPCode>13815</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Mary Davis</PersonName>
+          <USAddress>
+            <AddressLine1>24 Canasawacta St</AddressLine1>
+            <City>Norwich</City>
+            <State>NY</State>
+            <ZIPCode>13815</ZIPCode>
+          </USAddress>
+          <Title>Vice President</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Jane Clement</PersonName>
+          <USAddress>
+            <AddressLine1>24 Canasawacta St</AddressLine1>
+            <City>Norwich</City>
+            <State>NY</State>
+            <ZIPCode>13815</ZIPCode>
+          </USAddress>
+          <Title>R. Secretary</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Mary E Emmerson</PersonName>
+          <USAddress>
+            <AddressLine1>24 Canasawacta St</AddressLine1>
+            <City>Norwich</City>
+            <State>NY</State>
+            <ZIPCode>13815</ZIPCode>
+          </USAddress>
+          <Title>President</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Frederic B Miers</PersonName>
+          <USAddress>
+            <AddressLine1>24 Canasawacta St</AddressLine1>
+            <City>Norwich</City>
+            <State>NY</State>
+            <ZIPCode>13815</ZIPCode>
+          </USAddress>
+          <Title>Treasurer</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>The National Bank Trust Co</PersonName>
+          <USAddress>
+            <AddressLine1>52 So Broad St</AddressLine1>
+            <City>Norwich</City>
+            <State>NY</State>
+            <ZIPCode>13815</ZIPCode>
+          </USAddress>
+          <Title>Agent &amp; Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>All charitable activities are directly related to the aid of the elderly residents of the home. No application is denied for income reasons.</Description1>
+        <Expenses1>1478804</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>7410006</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>359842</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>7769848</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>7769848</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>116548</CashDeemedCharitable>
+        <NetNoncharitableAssets>7653300</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>382665</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <Sect4942j3j5FndtnAndFrgnOrg>X</Sect4942j3j5FndtnAndFrgnOrg>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>1478804</ExpensesAndContributions>
+        <QualifyingDistributions>1478804</QualifyingDistributions>
+        <AdjQualifyingDistributions>1478804</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <PrivateOperatingFoundations>
+        <DateOfRuling>1974-03-06</DateOfRuling>
+        <Section4942j3>X</Section4942j3>
+        <LessorAdjNetIncmMinInvstReturn>
+          <CurrentYear>254289</CurrentYear>
+          <Year1>286592</Year1>
+          <Year2>351190</Year2>
+          <Year3>341200</Year3>
+          <Total>1233271</Total>
+        </LessorAdjNetIncmMinInvstReturn>
+        <Percent85OfLessor>
+          <CurrentYear>216146</CurrentYear>
+          <Year1>243603</Year1>
+          <Year2>298512</Year2>
+          <Year3>290020</Year3>
+          <Total>1048281</Total>
+        </Percent85OfLessor>
+        <QualifyingDistributions>
+          <CurrentYear>1478804</CurrentYear>
+          <Year1>1556474</Year1>
+          <Year2>1470927</Year2>
+          <Year3>1367340</Year3>
+          <Total>5873545</Total>
+        </QualifyingDistributions>
+        <QlfyDistriMadeDirectly>
+          <CurrentYear>1478804</CurrentYear>
+          <Year1>1556474</Year1>
+          <Year2>1470927</Year2>
+          <Year3>1367340</Year3>
+          <Total>5873545</Total>
+        </QlfyDistriMadeDirectly>
+        <TwoThirdsMinInvstReturn>
+          <CurrentYear>255110</CurrentYear>
+          <Year1>250830</Year1>
+          <Year2>272978</Year2>
+          <Year3>280828</Year3>
+          <Total>1059746</Total>
+        </TwoThirdsMinInvstReturn>
+      </PrivateOperatingFoundations>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <ProgramServiceRevenuePartVII>
+          <Description>Resident Fees - Plan B</Description>
+          <RelatedOrExemptFunctionIncome>627516</RelatedOrExemptFunctionIncome>
+        </ProgramServiceRevenuePartVII>
+        <ProgramServiceRevenuePartVII>
+          <Description>Resident Fees - Plan A</Description>
+        </ProgramServiceRevenuePartVII>
+        <ProgramServiceRevenuePartVII>
+          <Description>Independent Living fees</Description>
+          <RelatedOrExemptFunctionIncome>230888</RelatedOrExemptFunctionIncome>
+        </ProgramServiceRevenuePartVII>
+        <ProgramServiceRevenuePartVII>
+          <Description>Entrance Fees</Description>
+          <RelatedOrExemptFunctionIncome>32034</RelatedOrExemptFunctionIncome>
+        </ProgramServiceRevenuePartVII>
+        <IntOnSavingsAndTempCashInvst>
+          <RelatedOrExemptFunctionIncome>114</RelatedOrExemptFunctionIncome>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <RelatedOrExemptFunctionIncome>269341</RelatedOrExemptFunctionIncome>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>97669</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <OtherRevenueDescribed>
+          <Description>Refunds</Description>
+          <RelatedOrExemptFunctionIncome>2420</RelatedOrExemptFunctionIncome>
+        </OtherRevenueDescribed>
+        <OtherRevenueDescribed>
+          <Description>Guest Meals</Description>
+          <RelatedOrExemptFunctionIncome>792</RelatedOrExemptFunctionIncome>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>1260774</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>1260774</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>All</LineNumber>
+          <RelationshipStatement>Income is used to operate and maintain residential facilities for the long term care, comfort, maintenance, or education of elderly persons.</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB" softwareId="09000047" softwareVersion="2009v1.3">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>3</ContributorNumber>
+        <ContributorNameIndividual>NYSERDA</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>17 Columbia Cir</AddressLine1>
+          <City>Albany</City>
+          <State>NY</State>
+          <ZIPCode>12203</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>5000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>2</ContributorNumber>
+        <ContributorNameIndividual>Estate of Robert Galvin</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>1497 North Road</AddressLine1>
+          <City>Tully</City>
+          <State>NY</State>
+          <ZIPCode>13519</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>411736</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>Mary Peckham Trust</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>52 South Broad Street</AddressLine1>
+          <City>Norwich</City>
+          <State>NY</State>
+          <ZIPCode>13815</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>210842</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="09000047" softwareVersion="2009v1.3">
+      <AccountingFees>
+        <Category>Accounting/Auditing</Category>
+        <Amount>25040</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>25040</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="GainLossFromSaleOtherAssetsSch" softwareId="09000047" softwareVersion="2009v1.3">
+      <GainLossSaleOtherAsset>
+        <Name>1.800 Lazard Emerging Market Portfolio</Name>
+        <DateAcquired>2010-07</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-09</DateSold>
+        <GrossSalesPrice>36</GrossSalesPrice>
+        <Basis>30</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>6</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>4.747 Dodge &amp; Cox Intl Stock Fund</Name>
+        <DateAcquired>2010-02</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-09</DateSold>
+        <GrossSalesPrice>154</GrossSalesPrice>
+        <Basis>140</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>14</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>7.240 Selected American Shares Cl D</Name>
+        <DateAcquired>2010-02</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-09</DateSold>
+        <GrossSalesPrice>269</GrossSalesPrice>
+        <Basis>255</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>14</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>27.439 Royce Penn Mutual Fund Inv</Name>
+        <DateAcquired>2008-06</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-09</DateSold>
+        <GrossSalesPrice>269</GrossSalesPrice>
+        <Basis>292</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>-23</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>16.921 American Beacon Large Cap Value Fund</Name>
+        <DateAcquired>2010-02</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-09</DateSold>
+        <GrossSalesPrice>299</GrossSalesPrice>
+        <Basis>279</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>20</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>7.772 Vanguard Morgan Growth Fund Admiral</Name>
+        <DateAcquired>2007-09</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-02</DateSold>
+        <GrossSalesPrice>345</GrossSalesPrice>
+        <Basis>195</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>150</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>22.650 Hartford Midcap Fund Cl A</Name>
+        <DateAcquired>2010-02</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-02</DateSold>
+        <GrossSalesPrice>412</GrossSalesPrice>
+        <Basis>400</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>12</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>23.594 CRM MidCap Value Fund Instl</Name>
+        <DateAcquired>2008-06</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-03</DateSold>
+        <GrossSalesPrice>600</GrossSalesPrice>
+        <Basis>675</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>-75</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>15.330 Vanguard Morgan Growth Fund Admiral</Name>
+        <DateAcquired>2008-08</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-09</DateSold>
+        <GrossSalesPrice>709</GrossSalesPrice>
+        <Basis>1180</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>-471</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>51.970 Baron Partners Fund</Name>
+        <DateAcquired>2008-06</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-02</DateSold>
+        <GrossSalesPrice>778</GrossSalesPrice>
+        <Basis>1031</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>-253</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>22.088 Selected American Shares Cl D</Name>
+        <DateAcquired>2010-02</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-07</DateSold>
+        <GrossSalesPrice>811</GrossSalesPrice>
+        <Basis>778</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>33</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>50.263 American Beacon Large Cap Value Fund</Name>
+        <DateAcquired>2010-02</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-07</DateSold>
+        <GrossSalesPrice>873</GrossSalesPrice>
+        <Basis>828</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>45</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>96.882 Royce Penn Mutual Fund Inv</Name>
+        <DateAcquired>2008-06</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-07</DateSold>
+        <GrossSalesPrice>937</GrossSalesPrice>
+        <Basis>1031</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>-94</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>24.479 Vanguard Morgan Growth Fund Admiral</Name>
+        <DateAcquired>2007-09</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-07</DateSold>
+        <GrossSalesPrice>1151</GrossSalesPrice>
+        <Basis>1575</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>-424</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>71.000 T Rowe Price Equity Income Fund</Name>
+        <DateAcquired>2008-06</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-02</DateSold>
+        <GrossSalesPrice>1418</GrossSalesPrice>
+        <Basis>2008</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>-590</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>84.938 Hartford Midcap Fund Cl A</Name>
+        <DateAcquired>2010-02</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-02</DateSold>
+        <GrossSalesPrice>1544</GrossSalesPrice>
+        <Basis>1500</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>44</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>70.783 CRM MidCap Value Fund Instl</Name>
+        <DateAcquired>2008-06</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-03</DateSold>
+        <GrossSalesPrice>1800</GrossSalesPrice>
+        <Basis>2024</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>-224</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>163.883 Baron Partners Fund</Name>
+        <DateAcquired>2008-06</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-02</DateSold>
+        <GrossSalesPrice>2453</GrossSalesPrice>
+        <Basis>3263</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>-810</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>176.947 T Rowe Price Equity Income Fund</Name>
+        <DateAcquired>2006-09</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-02</DateSold>
+        <GrossSalesPrice>3534</GrossSalesPrice>
+        <Basis>4565</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>-1031</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>47.532 Vanguard 500 Index Fund Admiral (Index Signal)</Name>
+        <DateAcquired>2007-09</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-02</DateSold>
+        <GrossSalesPrice>3827</GrossSalesPrice>
+        <Basis>5216</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>-1389</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>100.000 YUM! Brands Inc</Name>
+        <DateAcquired>2009-11</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-09</DateSold>
+        <GrossSalesPrice>4576</GrossSalesPrice>
+        <Basis>3504</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>1072</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>246.370 T Rowe Price Equity Income Fund</Name>
+        <DateAcquired>2008-06</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-02</DateSold>
+        <GrossSalesPrice>4920</GrossSalesPrice>
+        <Basis>5660</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>-740</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>237.643 CRM MidCap Value Fund Instl</Name>
+        <DateAcquired>2009-06</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-03</DateSold>
+        <GrossSalesPrice>6050</GrossSalesPrice>
+        <Basis>5000</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>1050</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>200.000 Microsoft Corp</Name>
+        <DateAcquired>2000-01</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-04</DateSold>
+        <GrossSalesPrice>6228</GrossSalesPrice>
+        <Basis>11266</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>-5038</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>50.000 Oil Service Holdrs Tr Index Fund Lg Cap</Name>
+        <DateAcquired>2009-08</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-04</DateSold>
+        <GrossSalesPrice>6407</GrossSalesPrice>
+        <Basis>5341</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>1066</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>50.000 International Business Machines</Name>
+        <DateAcquired>2007-03</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2007-03</DateSold>
+        <GrossSalesPrice>6530</GrossSalesPrice>
+        <Basis>4711</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>1819</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>454.842 Baron Partners Fund</Name>
+        <DateAcquired>2008-06</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-02</DateSold>
+        <GrossSalesPrice>6873</GrossSalesPrice>
+        <Basis>10000</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>-3127</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>250.000 BP PLC Sponsored ADR</Name>
+        <DateAcquired>2008-07</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-06</DateSold>
+        <GrossSalesPrice>7435</GrossSalesPrice>
+        <Basis>15755</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>-8320</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>250.000 Dodge &amp; Cox Intl Stock Fund</Name>
+        <DateAcquired>2008-02</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-06</DateSold>
+        <GrossSalesPrice>7618</GrossSalesPrice>
+        <Basis>10470</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>-2852</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>500.000 General Electric</Name>
+        <DateAcquired>1973-01</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2009-11</DateSold>
+        <GrossSalesPrice>7955</GrossSalesPrice>
+        <Basis>174</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>7781</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>150.000 Novartis A G Sponsord ADR</Name>
+        <DateAcquired>2006-03</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2009-12</DateSold>
+        <GrossSalesPrice>8128</GrossSalesPrice>
+        <Basis>8238</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>-110</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>250.000 Select Spector Spdr TR SBI Cons Discr</Name>
+        <DateAcquired>2007-03</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-09</DateSold>
+        <GrossSalesPrice>8157</GrossSalesPrice>
+        <Basis>9455</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>-1298</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>356.119 CRM MidCap Value Fund Instl</Name>
+        <DateAcquired>2008-02</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-03</DateSold>
+        <GrossSalesPrice>9067</GrossSalesPrice>
+        <Basis>10000</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>-933</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>250.000 Dominion Res Inc Va</Name>
+        <DateAcquired>2004-10</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2009-11</DateSold>
+        <GrossSalesPrice>9280</GrossSalesPrice>
+        <Basis>8009</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>1271</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>350.000 Wells Fargo</Name>
+        <DateAcquired>2004-10</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-01</DateSold>
+        <GrossSalesPrice>9789</GrossSalesPrice>
+        <Basis>10605</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>-816</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>50.000 Apple Computer Inc.</Name>
+        <DateAcquired>2007-01</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2009-12</DateSold>
+        <GrossSalesPrice>9819</GrossSalesPrice>
+        <Basis>4737</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>5082</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>250.000 Glaxosmithkline PLC Sponsored</Name>
+        <DateAcquired>2008-04</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-09</DateSold>
+        <GrossSalesPrice>9953</GrossSalesPrice>
+        <Basis>10688</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>-735</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>125.000 Colgate Palmolive</Name>
+        <DateAcquired>1993-04</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2009-11</DateSold>
+        <GrossSalesPrice>10320</GrossSalesPrice>
+        <Basis>1895</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>8425</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>350.000 Select Sector SPDR TR SBI Int-Utils</Name>
+        <DateAcquired>2006-03</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-06</DateSold>
+        <GrossSalesPrice>10535</GrossSalesPrice>
+        <Basis>11484</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>-949</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>139.407 Vanguard 500 Index Fund Admiral (Index Signal)</Name>
+        <DateAcquired>2007-09</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-02</DateSold>
+        <GrossSalesPrice>11224</GrossSalesPrice>
+        <Basis>15668</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>-4444</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>500.000 Select Spector Spdr TR SBI Technology</Name>
+        <DateAcquired>2007-01</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-01</DateSold>
+        <GrossSalesPrice>11305</GrossSalesPrice>
+        <Basis>11750</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>-445</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>500.000 Cisco</Name>
+        <DateAcquired>2008-01</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2009-12</DateSold>
+        <GrossSalesPrice>11950</GrossSalesPrice>
+        <Basis>12945</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>-995</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>805.877 Baron Partners Fund</Name>
+        <DateAcquired>2008-10</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-02</DateSold>
+        <GrossSalesPrice>12177</GrossSalesPrice>
+        <Basis>10000</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>2177</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>250.000 Target Corp.</Name>
+        <DateAcquired>2000-09</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-07</DateSold>
+        <GrossSalesPrice>12410</GrossSalesPrice>
+        <Basis>6244</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>6166</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>522.739 CRM MidCap Value Fund Instl</Name>
+        <DateAcquired>2008-10</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-03</DateSold>
+        <GrossSalesPrice>13309</GrossSalesPrice>
+        <Basis>10000</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>3309</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>175.000 BHP Billiton Ltd Sponsored</Name>
+        <DateAcquired>2009-03</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-01</DateSold>
+        <GrossSalesPrice>13820</GrossSalesPrice>
+        <Basis>7326</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>6494</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>400.000 Select Sector SPDR TR SBI Materials</Name>
+        <DateAcquired>2006-03</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-04</DateSold>
+        <GrossSalesPrice>13949</GrossSalesPrice>
+        <Basis>12684</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>1265</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>500.000 Wells Fargo</Name>
+        <DateAcquired>2003-10</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-01</DateSold>
+        <GrossSalesPrice>13985</GrossSalesPrice>
+        <Basis>13374</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>611</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>250.000 Caterpillar, Inc.</Name>
+        <DateAcquired>2008-08</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2009-11</DateSold>
+        <GrossSalesPrice>14316</GrossSalesPrice>
+        <Basis>17863</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>-3547</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>757.699 T Rowe Price Equity Income Fund</Name>
+        <DateAcquired>2005-11</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-02</DateSold>
+        <GrossSalesPrice>15131</GrossSalesPrice>
+        <Basis>20306</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>-5175</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>250.000 Caterpillar, Inc.</Name>
+        <DateAcquired>2008-12</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-06</DateSold>
+        <GrossSalesPrice>15195</GrossSalesPrice>
+        <Basis>11080</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>4115</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>500.000 Dodge &amp; Cox Intl Stock Fund</Name>
+        <DateAcquired>2008-06</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-06</DateSold>
+        <GrossSalesPrice>15235</GrossSalesPrice>
+        <Basis>22110</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>-6875</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>500.000 Select Spector Spdr TR SBI Cons Discr</Name>
+        <DateAcquired>2007-01</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-06</DateSold>
+        <GrossSalesPrice>15460</GrossSalesPrice>
+        <Basis>19675</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>-4215</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>250.000 Proctor &amp; Gamble Co</Name>
+        <DateAcquired>1993-04</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2009-11</DateSold>
+        <GrossSalesPrice>15690</GrossSalesPrice>
+        <Basis>2968</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>12722</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>625.521 CRM MidCap Value Fund Instl</Name>
+        <DateAcquired>2009-11</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-03</DateSold>
+        <GrossSalesPrice>15926</GrossSalesPrice>
+        <Basis>15000</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>926</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>250.000 Pepsico</Name>
+        <DateAcquired>1994-03</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-06</DateSold>
+        <GrossSalesPrice>16032</GrossSalesPrice>
+        <Basis>4385</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>11647</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>250.000 Exxon Mobil Corp</Name>
+        <DateAcquired>1999-12</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-02</DateSold>
+        <GrossSalesPrice>16202</GrossSalesPrice>
+        <Basis>2998</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>13204</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>250.000 United Technologies Corp</Name>
+        <DateAcquired>2005-05</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2009-11</DateSold>
+        <GrossSalesPrice>16583</GrossSalesPrice>
+        <Basis>12792</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>3791</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>651.890 CRM MidCap Value Fund Instl</Name>
+        <DateAcquired>2009-11</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-03</DateSold>
+        <GrossSalesPrice>16597</GrossSalesPrice>
+        <Basis>15000</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>1597</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>1,019.252 Hartford Midcap Fund Cl A</Name>
+        <DateAcquired>2010-02</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-02</DateSold>
+        <GrossSalesPrice>18530</GrossSalesPrice>
+        <Basis>18000</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>530</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>634.785 Dodge &amp; Cox Intl Stock Fund</Name>
+        <DateAcquired>2008-07</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-06</DateSold>
+        <GrossSalesPrice>19342</GrossSalesPrice>
+        <Basis>24985</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>-5643</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>1,015.342 Hartford Midcap Fund Cl I</Name>
+        <DateAcquired>2010-02</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-03</DateSold>
+        <GrossSalesPrice>19779</GrossSalesPrice>
+        <Basis>18530</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>1249</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>300.000 McDonalds Corp</Name>
+        <DateAcquired>2009-09</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-07</DateSold>
+        <GrossSalesPrice>19917</GrossSalesPrice>
+        <Basis>16818</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>3099</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>250.000 Danaher Corp</Name>
+        <DateAcquired>2008-01</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-04</DateSold>
+        <GrossSalesPrice>20067</GrossSalesPrice>
+        <Basis>20092</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>-25</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>500.000 YUM! Brands Inc</Name>
+        <DateAcquired>2009-09</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-07</DateSold>
+        <GrossSalesPrice>20529</GrossSalesPrice>
+        <Basis>17010</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>3519</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>750.000 BP Amoco PLC (see Atlantic Richfield)</Name>
+        <DateAcquired>2000-04</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-06</DateSold>
+        <GrossSalesPrice>22383</GrossSalesPrice>
+        <Basis>9987</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>12396</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>200.000 International Business Machines</Name>
+        <DateAcquired>2007-02</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-04</DateSold>
+        <GrossSalesPrice>26022</GrossSalesPrice>
+        <Basis>19774</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>6248</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>500.000 Abbott Laboratories</Name>
+        <DateAcquired>1995-03</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2009-12</DateSold>
+        <GrossSalesPrice>26412</GrossSalesPrice>
+        <Basis>8265</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>18147</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>1,044.278 CRM MidCap Value Fund Instl</Name>
+        <DateAcquired>2009-12</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-03</DateSold>
+        <GrossSalesPrice>26587</GrossSalesPrice>
+        <Basis>25000</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>1587</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>500.000 Novartis A G Sponsord ADR</Name>
+        <DateAcquired>2006-01</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2009-11</DateSold>
+        <GrossSalesPrice>26726</GrossSalesPrice>
+        <Basis>26800</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>-74</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>1,000.000 Dodge &amp; Cox Intl Stock Fund</Name>
+        <DateAcquired>2008-01</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-04</DateSold>
+        <GrossSalesPrice>32806</GrossSalesPrice>
+        <Basis>44770</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>-11964</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>1,300.000 Select Sector SPDR TR SBI Int-INDS</Name>
+        <DateAcquired>2008-06</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2009-10</DateSold>
+        <GrossSalesPrice>35173</GrossSalesPrice>
+        <Basis>50075</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>-14902</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>370.000 SPDR TR Unti Ser 1</Name>
+        <DateAcquired>2008-02</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-01</DateSold>
+        <GrossSalesPrice>40322</GrossSalesPrice>
+        <Basis>49798</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>-9476</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>50,000.000 Federal Natl Mtg Assn</Name>
+        <DateAcquired>2007-12</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2009-12</DateSold>
+        <GrossSalesPrice>50000</GrossSalesPrice>
+        <Basis>50000</Basis>
+        <BasisMethod>Cost</BasisMethod>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>50,000.000 Federal Home Loan Banks</Name>
+        <DateAcquired>2004-08</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2009-10</DateSold>
+        <GrossSalesPrice>50000</GrossSalesPrice>
+        <Basis>49806</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>194</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>1,000.000 Coca-Cola Company</Name>
+        <DateAcquired>1983-11</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2009-12</DateSold>
+        <GrossSalesPrice>57394</GrossSalesPrice>
+        <Basis>2212</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>55182</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>100,000.000 Federal Home Loan Banks</Name>
+        <DateAcquired>2008-09</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-09</DateSold>
+        <GrossSalesPrice>100000</GrossSalesPrice>
+        <Basis>99996</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>4</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>100,000.000 Federal Home Loan Banks</Name>
+        <DateAcquired>2004-04</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-08</DateSold>
+        <GrossSalesPrice>100000</GrossSalesPrice>
+        <Basis>99832</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>168</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>250,000.000 Morgan Stanley Dean Witter</Name>
+        <DateAcquired>2000-06</DateAcquired>
+        <HowAcquired>Purchase</HowAcquired>
+        <DateSold>2010-06</DateSold>
+        <GrossSalesPrice>250000</GrossSalesPrice>
+        <Basis>252500</Basis>
+        <BasisMethod>Cost</BasisMethod>
+        <TotalNet>-2500</TotalNet>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpBondsSchedule documentId="InvestmentsCorpBondsSchedule" softwareId="09000047" softwareVersion="2009v1.3">
+      <InvestmentsCorpBonds>
+        <NameOfBond>Corporate Debt Securities</NameOfBond>
+        <EOYBookValue>250000</EOYBookValue>
+        <EOYFMV>259050</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSchedule" softwareId="09000047" softwareVersion="2009v1.3">
+      <InvestmentsCorpStock>
+        <NameOfStock>Mutual Funds</NameOfStock>
+        <EOYBookValue>2977992</EOYBookValue>
+        <EOYFMV>3224375</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>Foreign Equity Securities</NameOfStock>
+        <EOYBookValue>235863</EOYBookValue>
+        <EOYFMV>338168</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>Domestic Preferred Stock</NameOfStock>
+        <EOYBookValue>645460</EOYBookValue>
+        <EOYFMV>492980</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>Common Stock</NameOfStock>
+        <EOYBookValue>1622095</EOYBookValue>
+        <EOYFMV>2304591</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="InvestmentsGovtObligationsSche" softwareId="09000047" softwareVersion="2009v1.3">
+      <USGovtSecuritiesEOYBookValue>791342</USGovtSecuritiesEOYBookValue>
+      <USGovtSecuritiesEOYFMV>849471</USGovtSecuritiesEOYFMV>
+    </InvestmentsGovtObligationsSch>
+    <InvestmentsOtherSchedule2 documentId="InvestmentsOtherSchedule2" softwareId="09000047" softwareVersion="2009v1.3">
+      <InvestmentsOther>
+        <CategoryOrItem>Certificates of Deposit</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>75000</BookValue>
+        <EOYFMV>76167</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <LandEtcSchedule2 documentId="LandEtcSchedule2" softwareId="09000047" softwareVersion="2009v1.3">
+      <LandEtc>
+        <CategoryOrItem>Land</CategoryOrItem>
+        <CostOrOtherBasis>113036</CostOrOtherBasis>
+        <BookValue>113036</BookValue>
+        <EOYFMV>113036</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Buildings</CategoryOrItem>
+        <CostOrOtherBasis>4089487</CostOrOtherBasis>
+        <AccumulatedDepreciation>1990469</AccumulatedDepreciation>
+        <BookValue>2099018</BookValue>
+        <EOYFMV>2099018</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Machinery and Equipment</CategoryOrItem>
+        <CostOrOtherBasis>96365</CostOrOtherBasis>
+        <AccumulatedDepreciation>76262</AccumulatedDepreciation>
+        <BookValue>20103</BookValue>
+        <EOYFMV>20103</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Furniture and Fixtures</CategoryOrItem>
+        <CostOrOtherBasis>126942</CostOrOtherBasis>
+        <AccumulatedDepreciation>121379</AccumulatedDepreciation>
+        <BookValue>5563</BookValue>
+        <EOYFMV>5563</EOYFMV>
+      </LandEtc>
+    </LandEtcSchedule2>
+    <OtherAssetsSchedule documentId="OtherAssetsSchedule" softwareId="09000047" softwareVersion="2009v1.3">
+      <OtherAssets>
+        <Description>Accrued Income</Description>
+        <BOYBookValue>17371</BOYBookValue>
+        <EOYBookValue>10500</EOYBookValue>
+        <EOYFMV>10500</EOYFMV>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="09000047" softwareVersion="2009v1.3">
+      <OtherExpenses>
+        <Description>Resident Recreation</Description>
+        <RevenueAndExpensesPerBooks>17581</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>17581</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Resident Care</Description>
+        <RevenueAndExpensesPerBooks>2068</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>2068</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Pension Benefits Guaranty Corp</Description>
+        <RevenueAndExpensesPerBooks>6167</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>6167</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Office Expenses</Description>
+        <RevenueAndExpensesPerBooks>5580</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>5580</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Medical Care</Description>
+        <RevenueAndExpensesPerBooks>2261</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>2261</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Liability Insurance</Description>
+        <RevenueAndExpensesPerBooks>1733</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>1733</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Employee Benefits</Description>
+        <RevenueAndExpensesPerBooks>169468</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>169468</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Dietary</Description>
+        <RevenueAndExpensesPerBooks>130187</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>130187</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Advertising</Description>
+        <RevenueAndExpensesPerBooks>3354</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>3354</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="09000047" softwareVersion="2009v1.3">
+      <OtherIncome>
+        <Description>Resident Fees - Plan B</Description>
+        <RevenueAndExpensesPerBooks>627516</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>Refunds</Description>
+        <RevenueAndExpensesPerBooks>2420</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>Independent Living fees</Description>
+        <RevenueAndExpensesPerBooks>230888</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>Guest Meals</Description>
+        <RevenueAndExpensesPerBooks>792</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>Entrance Fees</Description>
+        <RevenueAndExpensesPerBooks>32034</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="OtherIncreasesSchedule" softwareId="09000047" softwareVersion="2009v1.3">
+      <OtherIncreases>
+        <Description>Rounding</Description>
+        <Amount>1</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <OtherLiabilitiesSchedule documentId="OtherLiabilitiesSchedule" softwareId="09000047" softwareVersion="2009v1.3">
+      <OtherLiabilities>
+        <Description>Compensated Absences</Description>
+        <BOYBookValue>41687</BOYBookValue>
+        <EOYBookValue>30579</EOYBookValue>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>Accrued Payroll</Description>
+        <BOYBookValue>21998</BOYBookValue>
+        <EOYBookValue>20651</EOYBookValue>
+      </OtherLiabilities>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="09000047" softwareVersion="2009v1.3">
+      <OtherProfessionalFees>
+        <Category>Trustee</Category>
+        <Amount>21328</Amount>
+        <NetInvestmentIncome>15166</NetInvestmentIncome>
+        <AdjustedNetIncome>15166</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>21328</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+      <OtherProfessionalFees>
+        <Category>Physician/Dietician</Category>
+        <Amount>1408</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>1408</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+      <OtherProfessionalFees>
+        <Category>Miscellaneous</Category>
+        <Amount>5000</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>5000</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+      <OtherProfessionalFees>
+        <Category>Actuary</Category>
+        <Amount>7145</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>7145</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+      <OtherProfessionalFees>
+        <Category>401K Management</Category>
+        <Amount>4052</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>4052</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <SubstantialContributorsSch documentId="SubstantialContributorsSchedul" softwareId="09000047" softwareVersion="2009v1.3">
+      <SubstantialContributor>
+        <PersonName>Estate of Robert Galvin</PersonName>
+        <USAddress>
+          <AddressLine1>1497 North Road</AddressLine1>
+          <City>Tully</City>
+          <State>NY</State>
+          <ZIPCode>13159</ZIPCode>
+        </USAddress>
+      </SubstantialContributor>
+    </SubstantialContributorsSch>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="09000047" softwareVersion="2009v1.3">
+      <Taxes>
+        <Category>Payroll</Category>
+        <Amount>65451</Amount>
+        <DisbursementsCharitablePrps>65451</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

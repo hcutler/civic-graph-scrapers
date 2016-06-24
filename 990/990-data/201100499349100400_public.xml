@@ -1,0 +1,960 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-17T19:29:18-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>PAVLIK &amp;AMP CHITWOOD LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>PO BOX 626</AddressLine1>
+        <City>YREKA</City>
+        <State>CA</State>
+        <ZIPCode>96097</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>680445376</EIN>
+      <Name>
+        <BusinessNameLine1>LILLY'S GIFT FOUNDATION LOIS G ERICSON PRESIDENT</BusinessNameLine1>
+      </Name>
+      <NameControl>LILL</NameControl>
+      <Phone>5303984373</Phone>
+      <USAddress>
+        <AddressLine1>8519 SHADY DELL ROAD</AddressLine1>
+        <City>MACDOEL</City>
+        <State>CA</State>
+        <ZIPCode>96058</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>LOIS G ERICSON</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>5303984373</Phone>
+      <DateSigned>2011-01-25</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>MICHAEL S PAVLIK</Name>
+      <Phone>5308422796</Phone>
+      <DatePrepared>2011-01-25</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="8">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>7906230</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>851755</ContriReceivedRevAndExpnss>
+        <DividendsRevAndExpnss>261229</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>261229</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>216785</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>1851866</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>216785</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>1329769</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>478014</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">1595</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>1595</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>0</AccountingFeesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">25103</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>25103</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>0</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>26698</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>26698</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>290000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>290000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>316698</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>26698</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>290000</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>1013071</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>451316</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>156197</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>332215</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>332215</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>2072060</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2018900001">2298917</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>2891158</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>3620382</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="RetDoc2044400001">4129441</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>4193592</InvestmentsCorpBondsEOYFMV>
+        <InvestmentsOtherBOY>298387</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc2018100001">399524</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>489265</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>6147026</TotalAssetsBOY>
+        <TotalAssetsEOY>7160097</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>7906230</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>0</CapitalStockBOY>
+        <CapitalStockEOY>0</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>6147026</RetainedEarningsBOY>
+        <RetainedEarningsEOY>7160097</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>6147026</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>7160097</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>6147026</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>7160097</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>6147026</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>1013071</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>7160097</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>7160097</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>VARIOUS SALES NORTHERN TRUST ACCT #23-60636</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-01</DateAcquired>
+          <DateSold>2010-07-01</DateSold>
+          <GrossSalesPrice>1801656</GrossSalesPrice>
+          <CostOrOtherBasis>1635081</CostOrOtherBasis>
+          <GainOrLoss>166575</GainOrLoss>
+          <GainsMinusExcessOrLosses>166575</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CAPITAL GAINS DIVIDENDS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>50210</GrossSalesPrice>
+          <GainOrLoss>50210</GainOrLoss>
+          <GainsMinusExcessOrLosses>50210</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>216785</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>278134</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>5616346</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.049522</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>227694</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>4857734</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.046872</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>177000</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>4351648</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.040674</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>142000</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>3493630</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.040645</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>114372</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>2759762</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.041443</DistributionRatioYear5>
+        <TotalDistributionRatio>0.219156</TotalDistributionRatio>
+        <AverageDistributionRatio>0.043831</AverageDistributionRatio>
+        <NetNoncharitableAssets>7034790</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>308342</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>4513</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>312855</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>290000</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>9026</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>9026</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>9026</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>3209</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>3209</TotalCreditsAndPayments>
+        <TaxDue>5817</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>CA</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors referenceDocumentId="RetDoc2089200001">1</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>LOIS G ERICSON</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>5303984373</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>8519 SHADY DELL ROAD</AddressLine1>
+          <City>MACDOEL</City>
+          <State>CA</State>
+          <ZIPCode>96058</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>0</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>LOIS G ERICSON</PersonName>
+          <USAddress>
+            <AddressLine1>8519 SHADY DELL ROAD</AddressLine1>
+            <City>MACDOEL</City>
+            <State>CA</State>
+            <ZIPCode>96058</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT/DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CONSTANCE D SHEPHERD</PersonName>
+          <USAddress>
+            <AddressLine1>2325 TYLER STREET</AddressLine1>
+            <City>EUGENE</City>
+            <State>OR</State>
+            <ZIPCode>97405</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>STEVEN L ERICSON</PersonName>
+          <USAddress>
+            <AddressLine1>7001 EAST BUTTE VALLEY ROAD</AddressLine1>
+            <City>DORRIS</City>
+            <State>CA</State>
+            <ZIPCode>96023</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>6716080</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>425839</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>7141919</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>7141919</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>107129</CashDeemedCharitable>
+        <NetNoncharitableAssets>7034790</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>351740</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>351740</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>9026</TaxBasedOnInvestmentIncome>
+        <TotalTax>9026</TotalTax>
+        <DistributableAmountBeforeAdj>342714</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>342714</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>342714</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>290000</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>290000</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>290000</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>342714</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>51434</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <TotalExcessDistriCarryover>0</TotalExcessDistriCarryover>
+        <QualifyingDistributions>290000</QualifyingDistributions>
+        <AppliedToYear1>51434</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>238566</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>0</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>104148</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>0</ExcessDistriCyovToNextYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>LILLY'S GIFT FOUNDATION</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>8519 SHADY DELL ROAD</AddressLine1>
+            <City>MACDOEL</City>
+            <State>CA</State>
+            <ZIPCode>96058</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>5303984373</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>POTENTIAL RECIPIENTS ARE TO SUBMIT A WRITTEN LETTER EXPLAINING NEED.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NO SUBMISSION DEADLINES</SubmissionDeadlines>
+          <RestrictionsOnAwards>NO RESTRICTIONS OR LIMITATIONS ON AWARDS.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ALSA - ORANGE COUNTY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2230 WEST CHAPMAN SUITE 123</AddressLine1>
+            <City>ORANGE</City>
+            <State>CA</State>
+            <ZIPCode>92868</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR ANY EXPENDITURE RELATED TO CHARITABLE PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ASHER STUDENT FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1408 BARRY AVENUE SUITE 205</AddressLine1>
+            <City>LOS ANGELES</City>
+            <State>CA</State>
+            <ZIPCode>90025</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR ANY STUDENT RELATED COSTS</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BUTTE VALLEY AMBULANCE SERVICE INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 9</AddressLine1>
+            <City>DORRIS</City>
+            <State>CA</State>
+            <ZIPCode>96023</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO PROVIDE SERVICE TO INDIVIDUALS WHO CAN NOT PAY</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BUTTE VALLEY FIRE PROTECTION DISTRICT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 103</AddressLine1>
+            <City>MACDOEL</City>
+            <State>CA</State>
+            <ZIPCode>96058</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO PURCHASE NEW EQUIPMENT</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CA CHAPTER OF ROCKY MOUNTAIN ELK FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 8249</AddressLine1>
+            <City>MISSOULA</City>
+            <State>MT</State>
+            <ZIPCode>59807</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>WILDLIFE ENHANCEMENT</PurposeOfGrantOrContribution>
+          <Amount>6000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DORRIS VOLUNTEER FIRE DEPARTMENT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 768</AddressLine1>
+            <City>DORRIS</City>
+            <State>CA</State>
+            <ZIPCode>96023</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR ANY EXPENDITURE RELATED TO CHARITABLE PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>EASTER SEAL SOCIETY OF NO CA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>20 LANDING CIRCLE SUITE 302</AddressLine1>
+            <City>CHICO</City>
+            <State>CA</State>
+            <ZIPCode>95973</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR THE SUMMER CAMP PROGRAM AT EAGLE LAKE OR GRIZZ.</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FRIENDS OF BOW ISLE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>16880 SE 56TH PLACE</AddressLine1>
+            <City>BELLEVUE</City>
+            <State>WA</State>
+            <ZIPCode>98006</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR OPERATION OF THE CAMP</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FRIENDS OF THE NRA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>9233 OLD FORT ROAD</AddressLine1>
+            <City>KLAMATH FALLS</City>
+            <State>OR</State>
+            <ZIPCode>97601</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR ANY EXPENDITURE RELATED TO EXEMPT FUNCTION</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GUIDING EYES FOR THE BLIND</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>611 GRANITE SPRINGS RD</AddressLine1>
+            <City>YORKTOWN HEIGHTS</City>
+            <State>NY</State>
+            <ZIPCode>10598</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUPPORT FOR THE BLIND</PurposeOfGrantOrContribution>
+          <Amount>7000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HOSANNA CHRISTIAN SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5000 HOSANNA WAY</AddressLine1>
+            <City>KLAMATH FALLS</City>
+            <State>OR</State>
+            <ZIPCode>97603</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROGRAM ASSISTANCE TO CHRISTIAN SCHOOL</PurposeOfGrantOrContribution>
+          <Amount>6000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HUMAN OPTIONS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5540 TRABUCO RD STE 100</AddressLine1>
+            <City>IRVINE</City>
+            <State>CA</State>
+            <ZIPCode>92620</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ASSISTANCE TO WOMEN AND THEIR FAMILIES AFFECTED BY D</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KLAMATH ADOLESCENT PROGRAM INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2130 ARTHUR STREET</AddressLine1>
+            <City>KLAMATH FALLS</City>
+            <State>OR</State>
+            <ZIPCode>97601</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR FOOD, CLOTHING AND SHELTER FOR THOSE ASSISTED</PurposeOfGrantOrContribution>
+          <Amount>8000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KLAMATH CRISIS CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1358</AddressLine1>
+            <City>KLAMATH FALLS</City>
+            <State>OR</State>
+            <ZIPCode>97601</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ASSISTANCE FOR VICTIMS OF SEXUAL AND DOMESTIC VIOLEN</PurposeOfGrantOrContribution>
+          <Amount>8000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KLAMATH FALLS GOSPEL MISSION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>823 WALNUT AVE</AddressLine1>
+            <City>KLAMATH FALLS</City>
+            <State>OR</State>
+            <ZIPCode>97601</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ASSISTANCE FOR EMERGENCY FOOD, CLOTHING AND SHELTER</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KLAMATH HOSPICE INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4745 S 6TH STREET</AddressLine1>
+            <City>KLAMATH FALLS</City>
+            <State>OR</State>
+            <ZIPCode>97601</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR CLIENT CARE OR CAMP EVERGREEN</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KLAMATH HUMANE SOCIETY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 482</AddressLine1>
+            <City>KLAMATH FALLS</City>
+            <State>OR</State>
+            <ZIPCode>97601</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>BUILDING FUND</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KLAMATH LAKE COUNTIES FOOD BANK</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3231 MAY WOOD DRIVE</AddressLine1>
+            <City>KLAMATH FALLS</City>
+            <State>OR</State>
+            <ZIPCode>97601</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR EMERGENCY FOOD ASSISTANCE ONLY</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MADRONE HOSPICE INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>255 COLLIER WAY</AddressLine1>
+            <City>YREKA</City>
+            <State>CA</State>
+            <ZIPCode>96097</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR CLIENT CARE</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MARCH OF DIMES</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2222 MARTIN SUITE 155</AddressLine1>
+            <City>IRVINE</City>
+            <State>CA</State>
+            <ZIPCode>92612</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR ANY EXPENDITURE RELATED TO CHARITABLE PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MERCY HOME FOR BOYS &amp; GIRLS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1140 W JACKSON BOULEVARD</AddressLine1>
+            <City>CHICAGO</City>
+            <State>IL</State>
+            <ZIPCode>60607</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR FOOD, CLOTHING AND SHELTER FOR THOSE ASSISTED</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MERLE WEST-CANCER TREATMENT-MAMMOGRAPHIC FUND</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2610 UHRMANN ROAD</AddressLine1>
+            <City>KLAMATH FALLS</City>
+            <State>OR</State>
+            <ZIPCode>97601</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR CANCER TREATMENT/MAMMOGRAPHIC</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ORANGE COUNTY RESCUE MISSIONTHE MUSTARD SEED RANCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1421 EDINGER SUITE B</AddressLine1>
+            <City>TUSTIN</City>
+            <State>CA</State>
+            <ZIPCode>92780</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR THE MUSTARD SEED RANCH</PurposeOfGrantOrContribution>
+          <Amount>7000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ORE-CAL RC&amp;D CO BUTTE VALLEY RIFLE ASSOCIATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 16</AddressLine1>
+            <City>DORRIS</City>
+            <State>CA</State>
+            <ZIPCode>96023</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO SECURE PROPERTY FOR FUTURE PARK AND COMMUNITY CEN</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>RONALD MCDONALD HOUSES OF PORTLAND OR</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2620 N COMMERCIAL AVENUE</AddressLine1>
+            <City>PORTLAND</City>
+            <State>OR</State>
+            <ZIPCode>97227</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ASSIST IN PROVIDING HOUSING FOR SERIOUSLY ILL CHILDR</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SMART-START MAKING A READER TODAY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>219 NW 12TH AVE STE 203</AddressLine1>
+            <City>PORTLAND</City>
+            <State>OR</State>
+            <ZIPCode>97209</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROVIDE FUNDS FOR READING PROGRAMS</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>STABLE HANDS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1852</AddressLine1>
+            <City>YREKA</City>
+            <State>CA</State>
+            <ZIPCode>96097</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROVIDE FUNDS THERAPEUTIC HORSEBACK RIDING</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE GIDEONS INTERNATIONAL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3863 HOOKER RD</AddressLine1>
+            <City>ROSEBURG</City>
+            <State>OR</State>
+            <ZIPCode>97470</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROVIDE FUNDS FOR BIBLE DISTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE SMILE TRAIN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>245 FIFTH AVENUE SUITE 2201</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10016</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR ANY EXPENDITURE RELATED TO CHARITABLE PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TWELVEACRES INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>595 MILLICH DRIVE SUITE 104</AddressLine1>
+            <City>CAMPBELL</City>
+            <State>CA</State>
+            <ZIPCode>95008</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR ANY EXPENDITURE RELATED TO CHARITABLE PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>YREKA FAMILY YMCA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>350 FOOTHILL DRIVE</AddressLine1>
+            <City>YREKA</City>
+            <State>CA</State>
+            <ZIPCode>96097</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR THE AFTER SCHOOL PROGRAM</PurposeOfGrantOrContribution>
+          <Amount>17000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MT SHASTA RACE ASSOCIATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 759</AddressLine1>
+            <City>MT SHASTA</City>
+            <State>CA</State>
+            <ZIPCode>96067</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR GENERAL SUPPORT OF THE SKI TEAM</PurposeOfGrantOrContribution>
+          <Amount>12000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>RESCUE RANCH INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1192</AddressLine1>
+            <City>YREKA</City>
+            <State>CA</State>
+            <ZIPCode>96097</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROVIDE FUNDS FOR DOG RESCUE AND REHABILITATION</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ORE-CAL RC&amp;D CO BUTTE VALLEY RIFLE ASSOCIATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 16</AddressLine1>
+            <City>DORRIS</City>
+            <State>CA</State>
+            <ZIPCode>96023</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TO BE USED FOR THE DEVELOPEMENT OF A COMMUNITY RODEO ARENA</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>290000</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>261229</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>216785</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>478014</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>478014</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>GRISWOLD INDUSTRIES</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>1701 PLACENTIA AVENUE</AddressLine1>
+          <City>COSTA MESA</City>
+          <State>CA</State>
+          <ZIPCode>92627</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>850000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>ACCOUNTING</Category>
+        <Amount>1595</Amount>
+        <NetInvestmentIncome>1595</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc2044400001">
+      <InvestmentsCorpBonds>
+        <NameOfBond>CORPORATE BONDS</NameOfBond>
+        <EOYBookValue>4129441</EOYBookValue>
+        <EOYFMV>4193592</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorpStock>
+        <NameOfStock>COMMON STOCK</NameOfStock>
+        <EOYBookValue>2298917</EOYBookValue>
+        <EOYFMV>2891158</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOther>
+        <CategoryOrItem>COMMODITIES</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>399524</BookValue>
+        <EOYFMV>489265</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>INVESTMENT FEES</Description>
+        <RevenueAndExpensesPerBooks>24943</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>24943</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>FILING FEE</Description>
+        <RevenueAndExpensesPerBooks>160</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>160</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <SubstantialContributorsSch documentId="RetDoc2089200001">
+      <SubstantialContributor>
+        <BusinessName>
+          <BusinessNameLine1>GRISWOLD INDUSTRIES</BusinessNameLine1>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1>PO BOX 1325</AddressLine1>
+          <City>NEWPORT BEACH</City>
+          <State>CA</State>
+          <ZIPCode>926590325</ZIPCode>
+        </USAddress>
+      </SubstantialContributor>
+    </SubstantialContributorsSch>
+  </ReturnData>
+</Return>

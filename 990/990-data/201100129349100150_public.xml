@@ -1,0 +1,448 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-01-11T10:14:41-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-08-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>HARRIS HARDY &amp; JOHNSTONE PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>9201 ARBORETUM PKWY STE 200</AddressLine1>
+        <City>RICHMOND</City>
+        <State>VA</State>
+        <ZIPCode>23236</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-09-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>237092739</EIN>
+      <Name>
+        <BusinessNameLine1>HERBERT &amp; ANNIE CARLTON FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>HERB</NameControl>
+      <Phone>8043304400</Phone>
+      <USAddress>
+        <AddressLine1>7416 FOREST HILL AVENUE</AddressLine1>
+        <City>RICHMOND</City>
+        <State>VA</State>
+        <ZIPCode>232351528</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Z GREENE HOLLOWELL</Name>
+      <Title>TREASURER</Title>
+      <Phone>8043304400</Phone>
+      <DateSigned>2011-01-15</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>TIM R HARRIS</Name>
+      <Phone>8045600560</Phone>
+      <DatePrepared>2011-01-07</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="8">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>55565</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>84</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>84</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="RetDoc3">-10154</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>60198</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>149</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>-10070</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>233</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">1190</AccountingFeesRevAndExpnss>
+        <AccountingFeesDsbrsChrtblPrps>1190</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc8">54</TaxesRevAndExpnss>
+        <TaxesDsbrsChrtblPrps>25</TaxesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc5">510</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>10</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>500</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>1754</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>10</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>1715</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>33000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>33000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>34754</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>10</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>34715</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-44824</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>223</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>25672</CashBOY>
+        <CashEOY>51700</CashEOY>
+        <CashEOYFMV>51700</CashEOYFMV>
+        <InvestmentsCorpStockBOY>75197</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc4">4845</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>3865</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>100869</TotalAssetsBOY>
+        <TotalAssetsEOY>56545</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>55565</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>100869</CapitalStockBOY>
+        <CapitalStockEOY>56545</CapitalStockEOY>
+        <TotalNetAssetsBOY>100869</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>56545</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>100869</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>56545</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>100869</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-44824</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="RetDoc6">500</OtherIncreases>
+        <Subtotal>56545</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>56545</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainNetIncome>149</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>44993</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>77918</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.577440</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>42278</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>86090</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.491091</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>40826</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>99665</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.409632</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>35023</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>93404</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.374963</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>33046</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>128815</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.256538</DistributionRatioYear5>
+        <TotalDistributionRatio>2.109664</TotalDistributionRatio>
+        <AverageDistributionRatio>0.421933</AverageDistributionRatio>
+        <NetNoncharitableAssets>79538</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>33560</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>2</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>33562</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>34715</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>2</InvestmentIncomeExciseTax>
+        <Subtotal>2</Subtotal>
+        <TaxBasedOnInvestmentIncome>2</TaxBasedOnInvestmentIncome>
+        <TaxDue>2</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>VA</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors referenceDocumentId="RetDoc7">false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>NONE</WebsiteAddress>
+        <BooksInCareOfPersonName>Z GREENE HOLLOWELL</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>8042723556</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>7416 FOREST HILL AVE</AddressLine1>
+          <City>RICHMOND</City>
+          <State>VA</State>
+          <ZIPCode>23235</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CAROLYN C HOLLOWELL</PersonName>
+          <USAddress>
+            <AddressLine1>7416 FOREST HILL AVENUE</AddressLine1>
+            <City>RICHMOND</City>
+            <State>VA</State>
+            <ZIPCode>23235</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARTHA A HOLLOWELL</PersonName>
+          <USAddress>
+            <AddressLine1>7416 FOREST HILL AVENUE</AddressLine1>
+            <City>RICHMOND</City>
+            <State>VA</State>
+            <ZIPCode>23235</ZIPCode>
+          </USAddress>
+          <Title>VICE PRES</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>PHILIP C HOLLOWELL</PersonName>
+          <USAddress>
+            <AddressLine1>7416 FOREST HILL AVENUE</AddressLine1>
+            <City>RICHMOND</City>
+            <State>VA</State>
+            <ZIPCode>23235</ZIPCode>
+          </USAddress>
+          <Title>VICE-PRES</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Z GREENE HOLLOWELL</PersonName>
+          <USAddress>
+            <AddressLine1>7416 FOREST HILL AVENUE</AddressLine1>
+            <City>RICHMOND</City>
+            <State>VA</State>
+            <ZIPCode>23235</ZIPCode>
+          </USAddress>
+          <Title>TREASURER/MG</Title>
+          <AvgHoursPerWkDevotedToPosition>10.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>3770</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>76979</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>80749</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>80749</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>1211</CashDeemedCharitable>
+        <NetNoncharitableAssets>79538</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>3977</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>3977</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>2</TaxBasedOnInvestmentIncome>
+        <TotalTax>2</TotalTax>
+        <DistributableAmountBeforeAdj>3975</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>3975</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>500</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>3475</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>34715</ExpensesAndContributions>
+        <QualifyingDistributions>34715</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>2</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>34713</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>3475</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>26832</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>29909</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>36243</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>37806</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>41155</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>171945</TotalExcessDistriCarryover>
+        <QualifyingDistributions>34715</QualifyingDistributions>
+        <AppliedToCurrentYear>3475</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>31240</RemainingDistriFromCorpus>
+        <TotalCorpus>203185</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>26832</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>176353</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>29909</ExcessFromYear4>
+        <ExcessFromYear3>36243</ExcessFromYear3>
+        <ExcessFromYear2>37806</ExcessFromYear2>
+        <ExcessFromYear1>41155</ExcessFromYear1>
+        <ExcessFromCurrentYear>31240</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>CAROLYN C HOLLOWELL</ContributingManager>
+        <ContributingManager>Z GREENE HOLLOWELL</ContributingManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>Z GREENE HOLLOWELL</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>7416 FOREST HILL AVENUE</AddressLine1>
+            <City>RICHMOND</City>
+            <State>VA</State>
+            <ZIPCode>23235</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>8042723556</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>APPLICANTS SHOULD FILE A SINGLE PAGE LETTER OUTLINING THE NEEDS AND FINANCIAL CONDITION OF THE ORGANIZATION.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE.</SubmissionDeadlines>
+          <RestrictionsOnAwards>NONE. HOWEVER, PREFERENCE IS GIVEN TO CHARITIES IN THE RICHMOND, VA AREA AND NATIONALLY KNOWN CHARITIES.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SEE ATTACHED DETAIL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>SEE ATTACHED DETAIL</AddressLine1>
+            <City>VARIOUS</City>
+            <State>VA</State>
+            <ZIPCode>23235</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SEE ATTACHED DETAIL</PurposeOfGrantOrContribution>
+          <Amount>33000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>33000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>84</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>-10154</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>-10070</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>-10070</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>ACCOUNTING FEE</Category>
+        <Amount>1190</Amount>
+        <DisbursementsCharitablePrps>1190</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc3">
+      <GainLossSaleOtherAsset>
+        <Name>VANGUARD WELLINGTON FUND</Name>
+        <DateAcquired>2006-09</DateAcquired>
+        <HowAcquired>DONATION</HowAcquired>
+        <DateSold>2009-09</DateSold>
+        <GrossSalesPrice>35500</GrossSalesPrice>
+        <Basis>32107</Basis>
+        <TotalNet>3393</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>FRANKLIN TEMPLETON GROWTH FUND</Name>
+        <DateAcquired>2006-09</DateAcquired>
+        <HowAcquired>DONATION</HowAcquired>
+        <DateSold>2009-09</DateSold>
+        <GrossSalesPrice>14807</GrossSalesPrice>
+        <Basis>24326</Basis>
+        <TotalNet>-9519</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>FRANKLIN TEMPLETON MUTUAL QUEST</Name>
+        <DateAcquired>2006-09</DateAcquired>
+        <HowAcquired>DONATION</HowAcquired>
+        <DateSold>2009-09</DateSold>
+        <GrossSalesPrice>9742</GrossSalesPrice>
+        <Basis>13919</Basis>
+        <TotalNet>-4177</TotalNet>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpStockSchedule documentId="RetDoc4">
+      <InvestmentsCorpStock>
+        <NameOfStock>VANGUARD WELLINGTON FUND</NameOfStock>
+        <EOYBookValue>1271</EOYBookValue>
+        <EOYFMV>1474</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>FRANKLIN TEMPLETON GROWTH FUND</NameOfStock>
+        <EOYBookValue>2043</EOYBookValue>
+        <EOYFMV>1262</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>FRANKLIN TEMPLETON MUTUAL QUEST Z</NameOfStock>
+        <EOYBookValue>1531</EOYBookValue>
+        <EOYFMV>1129</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="RetDoc5">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OFFICE EXPENSE</Description>
+        <RevenueAndExpensesPerBooks>510</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>10</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>500</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="RetDoc6">
+      <OtherIncreases>
+        <Description>ADJUSTMENT FOR UNCASHED DISTRIBUTION CHECKS</Description>
+        <Amount>500</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <SubstantialContributorsSch documentId="RetDoc7">
+      <SubstantialContributor>
+        <PersonName>Z GREENE HOLLOWELL</PersonName>
+        <USAddress>
+          <AddressLine1>7721 YARMOUTH DR</AddressLine1>
+          <City>RICHMOND</City>
+          <State>VA</State>
+          <ZIPCode>232252146</ZIPCode>
+        </USAddress>
+      </SubstantialContributor>
+    </SubstantialContributorsSch>
+    <TaxesSchedule documentId="RetDoc8">
+      <Taxes>
+        <Category>EXCISE TAX</Category>
+        <Amount>29</Amount>
+      </Taxes>
+      <Taxes>
+        <Category>TREASURER OF VIRGINIA</Category>
+        <Amount>25</Amount>
+        <DisbursementsCharitablePrps>25</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

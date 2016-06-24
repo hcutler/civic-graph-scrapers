@@ -1,0 +1,581 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-14T16:13:49-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>HINRICHER &amp; CRASNICK LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>3275 OLD CONEJO ROAD</AddressLine1>
+        <City>THOUSAND OAKS</City>
+        <State>CA</State>
+        <ZIPCode>91320</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>953927717</EIN>
+      <Name>
+        <BusinessNameLine1>HILLCREST HOUSING FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>HILL</NameControl>
+      <Phone>8187822211</Phone>
+      <USAddress>
+        <AddressLine1>6430 INDEPENDENCE AVE</AddressLine1>
+        <City>WOODLAND HILLS</City>
+        <State>CA</State>
+        <ZIPCode>91367</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>JAMES P HUDSON</Name>
+      <Title>DIR OF FINANCE</Title>
+      <Phone>8187822211</Phone>
+      <DateSigned>2011-01-11</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>TERRY F HINRICHER</Name>
+      <Phone>8054961883</Phone>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>628959</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>169974</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>64</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>64</InterestOnSavingsNetInvstIncm>
+        <GrossRentsRevAndExpnss>10737</GrossRentsRevAndExpnss>
+        <GrossRentsNetInvstIncm>10737</GrossRentsNetInvstIncm>
+        <NetRentalIncomeOrLoss>-179056</NetRentalIncomeOrLoss>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>180775</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>10801</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>0</TotalAdjustedNetIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstAdjNetIncm>0</CompOfcrDirTrstAdjNetIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <OthEmplSlrsWgsRevAndExpnss>11725</OthEmplSlrsWgsRevAndExpnss>
+        <OthEmplSlrsWgsNetInvstIncm>11725</OthEmplSlrsWgsNetInvstIncm>
+        <OthEmplSlrsWgsAdjNetIncm>0</OthEmplSlrsWgsAdjNetIncm>
+        <OthEmplSlrsWgsDsbrsChrtblPrps>0</OthEmplSlrsWgsDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">5400</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>5400</AccountingFeesNetInvstIncm>
+        <AccountingFeesAdjNetIncm>0</AccountingFeesAdjNetIncm>
+        <AccountingFeesDsbrsChrtblPrps>0</AccountingFeesDsbrsChrtblPrps>
+        <InterestRevAndExpnss>44267</InterestRevAndExpnss>
+        <InterestNetInvstIncm>44267</InterestNetInvstIncm>
+        <InterestAdjNetIncm>0</InterestAdjNetIncm>
+        <InterestDsbrsChrtblPrps>0</InterestDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">1899</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>1899</TaxesNetInvstIncm>
+        <TaxesAdjNetIncm>0</TaxesAdjNetIncm>
+        <TaxesDsbrsChrtblPrps>0</TaxesDsbrsChrtblPrps>
+        <DeprecAndDepletionRevAndExpnss>28289</DeprecAndDepletionRevAndExpnss>
+        <DeprecAndDepletionNetInvstIncm>28289</DeprecAndDepletionNetInvstIncm>
+        <DeprecAndDepletionAdjNetIncm>0</DeprecAndDepletionAdjNetIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">98213</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>98213</OtherExpensesNetInvstIncm>
+        <OtherExpensesAdjNetIncm>0</OtherExpensesAdjNetIncm>
+        <OtherExpensesDsbrsChrtblPrps>0</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>189793</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>189793</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>0</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>0</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>189793</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>189793</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>0</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>0</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-9018</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>1514</CashBOY>
+        <CashEOY>2367</CashEOY>
+        <CashEOYFMV>2367</CashEOYFMV>
+        <AccountsReceivable>2530</AccountsReceivable>
+        <AccountsReceivableBOY>283</AccountsReceivableBOY>
+        <AccountsReceivableEOY>2530</AccountsReceivableEOY>
+        <AccountsReceivableEOYFMV>2530</AccountsReceivableEOYFMV>
+        <PrepaidExpensesBOY>873</PrepaidExpensesBOY>
+        <LandBuildingAndEquipmentBasis>1061722</LandBuildingAndEquipmentBasis>
+        <AccumDeprecLandBldgAndEquip>511575</AccumDeprecLandBldgAndEquip>
+        <LandBuildingAndEquipmentBOY>575436</LandBuildingAndEquipmentBOY>
+        <LandBuildingAndEquipmentEOY>550147</LandBuildingAndEquipmentEOY>
+        <LandBuildingAndEquipmentEOYFMV>550147</LandBuildingAndEquipmentEOYFMV>
+        <OtherAssetsBOY referenceDocumentId="RetDoc2046600001">68631</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId="RetDoc2046600001">73915</OtherAssetsEOY>
+        <OtherAssetsEOYFMV referenceDocumentId="RetDoc2046600001">73915</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>646737</TotalAssetsBOY>
+        <TotalAssetsEOY>628959</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>628959</TotalAssetsEOYFMV>
+        <AccountsPayableBOY>9528</AccountsPayableBOY>
+        <AccountsPayableEOY>12415</AccountsPayableEOY>
+        <DeferredRevenueBOY>459</DeferredRevenueBOY>
+        <MortgagesAndNotesPayableBOY>484492</MortgagesAndNotesPayableBOY>
+        <MortgagesAndNotesPayableEOY>473388</MortgagesAndNotesPayableEOY>
+        <OtherLiabilitiesBOY referenceDocumentId="RetDoc2065700001">4519</OtherLiabilitiesBOY>
+        <OtherLiabilitiesEOY referenceDocumentId="RetDoc2065700001">4435</OtherLiabilitiesEOY>
+        <TotalLiabilitiesBOY>498998</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>490238</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>147739</UnrestrictedBOY>
+        <UnrestrictedEOY>138721</UnrestrictedEOY>
+        <TotalNetAssetsBOY>147739</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>138721</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>646737</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>628959</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>147739</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-9018</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>138721</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>138721</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>0</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>0</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.0</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>0</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>0</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.0</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>0</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>0</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.0</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>0</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>0</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.0</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>0</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>0</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.0</DistributionRatioYear5>
+        <TotalDistributionRatio>0.0</TotalDistributionRatio>
+        <AverageDistributionRatio>0.0</AverageDistributionRatio>
+        <AdjustedNoncharitableAssets>0</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>0</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>0</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>0</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>0</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>0</TaxBasedOnInvestmentIncome>
+        <TotalCreditsAndPayments>0</TotalCreditsAndPayments>
+        <TaxDue>0</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>0</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>CA</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>JAMES P HUDSON</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>8187822211</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>6430 INDEPENDENCE AVENUE</AddressLine1>
+          <City>WOODLAND HILLS</City>
+          <State>CA</State>
+          <ZIPCode>91367</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BERNARD GROSS DDS</PersonName>
+          <USAddress>
+            <AddressLine1>6430 INDEPENDENCE AVENUE</AddressLine1>
+            <City>WOODLAND HILLS</City>
+            <State>CA</State>
+            <ZIPCode>91367</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARGARET ROSE SCHULTZ</PersonName>
+          <USAddress>
+            <AddressLine1>6430 INDEPENDENCE AVENUE</AddressLine1>
+            <City>WOODLAND HILLS</City>
+            <State>CA</State>
+            <ZIPCode>91367</ZIPCode>
+          </USAddress>
+          <Title>VICE PRES.</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CHARLES HAUGHEY</PersonName>
+          <USAddress>
+            <AddressLine1>6430 INDEPENDENCE AVENUE</AddressLine1>
+            <City>WOODLAND HILLS</City>
+            <State>CA</State>
+            <ZIPCode>91367</ZIPCode>
+          </USAddress>
+          <Title>SEC/TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JAMES P HUDSON</PersonName>
+          <USAddress>
+            <AddressLine1>6430 INDEPENDENCE AVENUE</AddressLine1>
+            <City>wOODLAND HILLS</City>
+            <State>CA</State>
+            <ZIPCode>91367</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CRAIG CLIFTON</PersonName>
+          <USAddress>
+            <AddressLine1>6430 INDEPENDENCE AVENUE</AddressLine1>
+            <City>wOODLAND HILLS</City>
+            <State>CA</State>
+            <ZIPCode>91367</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>PAUL MILLER</PersonName>
+          <USAddress>
+            <AddressLine1>6430 INDEPENDENCE AVENUE</AddressLine1>
+            <City>wOODLAND HILLS</City>
+            <State>CA</State>
+            <ZIPCode>91367</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>NONE</Description1>
+        <Expenses1>0</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>NONE</Description1>
+        <Amount1>0</Amount1>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>71273</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>71273</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>71273</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>0</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>0</CashDeemedCharitable>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>0</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>0</MinimumInvestmentReturn>
+        <TotalTax>0</TotalTax>
+        <DistributableAmountBeforeAdj>0</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>0</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>0</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>0</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>0</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <TotalExcessDistriCarryover>0</TotalExcessDistriCarryover>
+        <QualifyingDistributions>0</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>0</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>0</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>0</ExcessDistriCyovToNextYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <TotGrantOrContriPaidDuringYear>0</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>64</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <NetRentalIncmReDebtFincdProp>
+          <RelatedOrExemptFunctionIncome>-179056</RelatedOrExemptFunctionIncome>
+        </NetRentalIncmReDebtFincdProp>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>64</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>-179056</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>-178992</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>3,5</LineNumber>
+          <RelationshipStatement>TO PROVIDE APARTMENTS FOR AN INDEPENDENT LIFE EXPERIENCE FOR THE DEVELOPMENTALLY DISABLED</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>US DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>611 WEST SIXTH STREET SUITE 800</AddressLine1>
+          <City>LOS ANGELES</City>
+          <State>CA</State>
+          <ZIPCode>90017</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>169974</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>AUDITING FEES</Category>
+        <Amount>4500</Amount>
+        <NetInvestmentIncome>4500</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+      <AccountingFees>
+        <Category>ACCOUNTING EXPENSES</Category>
+        <Amount>900</Amount>
+        <NetInvestmentIncome>900</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <OtherAssetsSchedule documentId="RetDoc2046600001">
+      <OtherAssets>
+        <Description>REPLACEMENT RESERVES</Description>
+        <BOYBookValue>67847</BOYBookValue>
+        <EOYBookValue>73130</EOYBookValue>
+        <EOYFMV>73130</EOYFMV>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>TENANT DEPOSITS</Description>
+        <BOYBookValue>784</BOYBookValue>
+        <EOYBookValue>785</EOYBookValue>
+        <EOYFMV>785</EOYFMV>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>TELEPHONE</Description>
+        <RevenueAndExpensesPerBooks>3790</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>3790</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>ELECTRICITY</Description>
+        <RevenueAndExpensesPerBooks>13399</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>13399</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>WATER</Description>
+        <RevenueAndExpensesPerBooks>6583</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>6583</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>GAS</Description>
+        <RevenueAndExpensesPerBooks>2253</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>2253</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>CONTRACTS</Description>
+        <RevenueAndExpensesPerBooks>42425</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>42425</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>RUBBISH REMOVAL</Description>
+        <RevenueAndExpensesPerBooks>3197</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>3197</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PROPERTY AND LIABILITY INSURANCE</Description>
+        <RevenueAndExpensesPerBooks>5640</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>5640</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>WORKERS COMPENSATION</Description>
+        <RevenueAndExpensesPerBooks>150</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>150</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MANAGEMENT FEES</Description>
+        <RevenueAndExpensesPerBooks>6420</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>6420</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MISCELLANEOUS FINANCIAL EXPENSE</Description>
+        <RevenueAndExpensesPerBooks>1560</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>1560</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>SUPPLIES</Description>
+        <RevenueAndExpensesPerBooks>7757</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>7757</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>SEWER</Description>
+        <RevenueAndExpensesPerBooks>1191</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>1191</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MISCELLANEOUS ADMINISTRATIVE EXPENSES</Description>
+        <RevenueAndExpensesPerBooks>815</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>815</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OFFICE EXPENSE</Description>
+        <RevenueAndExpensesPerBooks>3033</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>3033</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherLiabilitiesSchedule documentId="RetDoc2065700001">
+      <OtherLiabilities>
+        <Description>DUE TO HUD</Description>
+        <BOYBookValue>3735</BOYBookValue>
+        <EOYBookValue>3650</EOYBookValue>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>TENANT SECURITY DEPOSITS</Description>
+        <BOYBookValue>784</BOYBookValue>
+        <EOYBookValue>785</EOYBookValue>
+      </OtherLiabilities>
+    </OtherLiabilitiesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>PROPERTY TAXES</Category>
+        <Amount>1012</Amount>
+        <NetInvestmentIncome>1012</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>PAYROLL TAXES</Category>
+        <Amount>887</Amount>
+        <NetInvestmentIncome>887</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

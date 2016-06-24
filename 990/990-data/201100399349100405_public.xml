@@ -1,0 +1,684 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-08T14:29:30-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-09-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>LARSONALLEN LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>600 WASHINGTON AVENUE SUITE 1800</AddressLine1>
+        <City>ST LOUIS</City>
+        <State>MO</State>
+        <ZIPCode>63101</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-10-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>431580486</EIN>
+      <Name>
+        <BusinessNameLine1>BETH HAVEN GROUP HOMES INC</BusinessNameLine1>
+      </Name>
+      <NameControl>BETH</NameControl>
+      <Phone>5732216000</Phone>
+      <USAddress>
+        <AddressLine1>2500 Pleasant Street</AddressLine1>
+        <City>Hannibal</City>
+        <State>MO</State>
+        <ZIPCode>63401</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Paul Ewert</Name>
+      <Title>chief Executive officer</Title>
+      <Phone>5732216000</Phone>
+      <DateSigned>2011-02-07</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>ALLAN LARSON</Name>
+      <Phone>3149254300</Phone>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="10">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>1011436</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>881</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>881</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>881</InterestOnSavingsAdjNetIncm>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <NetSTCGAdjNetIncm>0</NetSTCGAdjNetIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc2001500001">1404617</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>0</OtherIncomeNetInvstIncm>
+        <OtherIncomeAdjNetIncm>1404617</OtherIncomeAdjNetIncm>
+        <TotalRevenueAndExpenses>1405498</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>881</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>1405498</TotalAdjustedNetIncome>
+        <CompOfcrDirTrstRevAndExpnss>79203</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstAdjNetIncm>79203</CompOfcrDirTrstAdjNetIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <OthEmplSlrsWgsRevAndExpnss>806021</OthEmplSlrsWgsRevAndExpnss>
+        <OthEmplSlrsWgsNetInvstIncm>0</OthEmplSlrsWgsNetInvstIncm>
+        <OthEmplSlrsWgsAdjNetIncm>806021</OthEmplSlrsWgsAdjNetIncm>
+        <OthEmplSlrsWgsDsbrsChrtblPrps>0</OthEmplSlrsWgsDsbrsChrtblPrps>
+        <PensionEmplBnftRevAndExpnss>106764</PensionEmplBnftRevAndExpnss>
+        <PensionEmplBnftNetInvstIncm>0</PensionEmplBnftNetInvstIncm>
+        <PensionEmplBnftAdjNetIncm>106764</PensionEmplBnftAdjNetIncm>
+        <PensionEmplBnftDsbrsChrtblPrps>0</PensionEmplBnftDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc2002300001">91370</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>0</OtherProfFeesNetInvstIncm>
+        <OtherProfFeesAdjNetIncm>91370</OtherProfFeesAdjNetIncm>
+        <OtherProfFeesDsbrsChrtblPrps>0</OtherProfFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">73431</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>0</TaxesNetInvstIncm>
+        <TaxesAdjNetIncm>73431</TaxesAdjNetIncm>
+        <TaxesDsbrsChrtblPrps>0</TaxesDsbrsChrtblPrps>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId="RetDoc2203000001">36821</DeprecAndDepletionRevAndExpnss>
+        <DeprecAndDepletionNetInvstIncm>0</DeprecAndDepletionNetInvstIncm>
+        <DeprecAndDepletionAdjNetIncm>36821</DeprecAndDepletionAdjNetIncm>
+        <OccupancyRevAndExpnss>14340</OccupancyRevAndExpnss>
+        <OccupancyNetInvstIncm>0</OccupancyNetInvstIncm>
+        <OccupancyAdjNetIncm>14340</OccupancyAdjNetIncm>
+        <OccupancyDsbrsChrtblPrps>0</OccupancyDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">226471</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>0</OtherExpensesNetInvstIncm>
+        <OtherExpensesAdjNetIncm>226471</OtherExpensesAdjNetIncm>
+        <OtherExpensesDsbrsChrtblPrps>0</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>1434421</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>1434421</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>0</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>1434421</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>1434421</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>0</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-28923</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>881</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>219038</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>230086</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>230086</SavingsAndTempCashInvstEOYFMV>
+        <AccountsReceivable>110991</AccountsReceivable>
+        <AccountsReceivableBOY>120699</AccountsReceivableBOY>
+        <AccountsReceivableEOY>110991</AccountsReceivableEOY>
+        <AccountsReceivableEOYFMV>110991</AccountsReceivableEOYFMV>
+        <PrepaidExpensesBOY>10785</PrepaidExpensesBOY>
+        <PrepaidExpensesEOY>9165</PrepaidExpensesEOY>
+        <PrepaidExpensesEOYFMV>9165</PrepaidExpensesEOYFMV>
+        <InvestmentsOtherBOY>73134</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc2018100001">73134</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>73134</InvestmentsOtherEOYFMV>
+        <LandBuildingAndEquipmentBasis>580058</LandBuildingAndEquipmentBasis>
+        <AccumDeprecLandBldgAndEquip>355704</AccumDeprecLandBldgAndEquip>
+        <LandBuildingAndEquipmentBOY>252274</LandBuildingAndEquipmentBOY>
+        <LandBuildingAndEquipmentEOY referenceDocumentId="RetDoc2059000001">224354</LandBuildingAndEquipmentEOY>
+        <LandBuildingAndEquipmentEOYFMV>580058</LandBuildingAndEquipmentEOYFMV>
+        <OtherAssetsBOY referenceDocumentId="RetDoc2046600001">13248</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId="RetDoc2046600001">8002</OtherAssetsEOY>
+        <OtherAssetsEOYFMV referenceDocumentId="RetDoc2046600001">8002</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>689178</TotalAssetsBOY>
+        <TotalAssetsEOY>655732</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>1011436</TotalAssetsEOYFMV>
+        <AccountsPayableBOY>64770</AccountsPayableBOY>
+        <AccountsPayableEOY>71368</AccountsPayableEOY>
+        <OtherLiabilitiesBOY referenceDocumentId="RetDoc2065700001">31084</OtherLiabilitiesBOY>
+        <OtherLiabilitiesEOY referenceDocumentId="RetDoc2065700001">19963</OtherLiabilitiesEOY>
+        <TotalLiabilitiesBOY>95854</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>91331</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>593324</UnrestrictedBOY>
+        <UnrestrictedEOY>564401</UnrestrictedEOY>
+        <TotalNetAssetsBOY>593324</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>564401</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>689178</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>655732</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>593324</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-28923</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>564401</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>564401</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>59496</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>996799</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.059687</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>49458</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>640137</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.077262</DistributionRatioYear2>
+        <TotalDistributionRatio>0.136949</TotalDistributionRatio>
+        <AverageDistributionRatio>0.068475</AverageDistributionRatio>
+        <NetNoncharitableAssets>994603</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>68105</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>9</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>68114</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>8900</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>18</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>18</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>18</TaxBasedOnInvestmentIncome>
+        <TotalCreditsAndPayments>0</TotalCreditsAndPayments>
+        <TaxDue>18</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>MO</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>1</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>www.bethaven.org</WebsiteAddress>
+        <BooksInCareOfPersonName>PAUL EWERT</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>5732216000</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>2500 PLEASANT STREET</AddressLine1>
+          <City>Hannibal</City>
+          <State>MO</State>
+          <ZIPCode>63401</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>TODD AHRENS</PersonName>
+          <USAddress>
+            <AddressLine1>2500 PLEASANT STREET</AddressLine1>
+            <City>HANNIBAL</City>
+            <State>MO</State>
+            <ZIPCode>63401</ZIPCode>
+          </USAddress>
+          <Title>BOARD MEMBER</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>TIM GOODMAN</PersonName>
+          <USAddress>
+            <AddressLine1>2500 PLEASANT STREET</AddressLine1>
+            <City>HANNIBAL</City>
+            <State>MO</State>
+            <ZIPCode>63401</ZIPCode>
+          </USAddress>
+          <Title>BOARD MEMBER</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>EDITH DANIELS-RICE</PersonName>
+          <USAddress>
+            <AddressLine1>2500 PLEASANT STREET</AddressLine1>
+            <City>HANNIBAL</City>
+            <State>MO</State>
+            <ZIPCode>63401</ZIPCode>
+          </USAddress>
+          <Title>BOARD MEMBER</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BETTY HATHAWAY</PersonName>
+          <USAddress>
+            <AddressLine1>2500 PLEASANT STREET</AddressLine1>
+            <City>HANNIBAL</City>
+            <State>MO</State>
+            <ZIPCode>63401</ZIPCode>
+          </USAddress>
+          <Title>BOARD MEMBER</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>RICHARD GRIFFEN</PersonName>
+          <USAddress>
+            <AddressLine1>2500 PLEASANT STREET</AddressLine1>
+            <City>HANNIBAL</City>
+            <State>MO</State>
+            <ZIPCode>63401</ZIPCode>
+          </USAddress>
+          <Title>BOARD MEMBER</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ED CLINE</PersonName>
+          <USAddress>
+            <AddressLine1>2500 PLEASANT STREET</AddressLine1>
+            <City>HANNIBAL</City>
+            <State>MO</State>
+            <ZIPCode>63401</ZIPCode>
+          </USAddress>
+          <Title>BOARD MEMBER</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>WENDELL KREIDER</PersonName>
+          <USAddress>
+            <AddressLine1>2500 PLEASANT STREET</AddressLine1>
+            <City>HANNIBAL</City>
+            <State>MO</State>
+            <ZIPCode>63401</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JEROLD LEE</PersonName>
+          <USAddress>
+            <AddressLine1>2500 PLEASANT STREET</AddressLine1>
+            <City>HANNIBAL</City>
+            <State>MO</State>
+            <ZIPCode>63401</ZIPCode>
+          </USAddress>
+          <Title>VICE-PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DICK SAUER</PersonName>
+          <USAddress>
+            <AddressLine1>2500 PLEASANT STREET</AddressLine1>
+            <City>HANNIBAL</City>
+            <State>MO</State>
+            <ZIPCode>63401</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY/TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>PAUL EWERT</PersonName>
+          <USAddress>
+            <AddressLine1>2500 PLEASANT STREET</AddressLine1>
+            <City>HANNIBAL</City>
+            <State>MO</State>
+            <ZIPCode>63401</ZIPCode>
+          </USAddress>
+          <Title>CHIEF EXECUTIVE OFFICER</Title>
+          <AvgHoursPerWkDevotedToPosition>40.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>79203</Compensation>
+          <ContriToEmplBenefitPlansEtc>13939</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompensationOfHghstPaidCntrct>
+          <BusinessName>
+            <BusinessNameLine1>BETH HAVEN MANAGEMENT SERVICES INC</BusinessNameLine1>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1>2500 PLEASANT STREET</AddressLine1>
+            <City>HANNIBAL</City>
+            <State>MO</State>
+            <ZIPCode>63401</ZIPCode>
+          </USAddress>
+          <TypeOfService>MANAGEMENT SERVICES</TypeOfService>
+          <Compensation>91370</Compensation>
+        </CompensationOfHghstPaidCntrct>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>PROVIDE HEALTH CARE AND SHELTER TO THE HANDICAPPED. PROVIDE MISCELLANEOUS SERVICES TO DEVELOPMENTALLY DISABLED RESIDENTS.</Description1>
+        <Expenses1>1434421</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>224562</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>785187</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>1009749</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>1009749</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>15146</CashDeemedCharitable>
+        <NetNoncharitableAssets>994603</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>49730</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <Sect4942j3j5FndtnAndFrgnOrg>X</Sect4942j3j5FndtnAndFrgnOrg>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>0</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <AmountsPaidAcqCharitableAssets>8900</AmountsPaidAcqCharitableAssets>
+        <QualifyingDistributions>8900</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>8900</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <TotalExcessDistriCarryover>0</TotalExcessDistriCarryover>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>0</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>0</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>0</ExcessDistriCyovToNextYear>
+      </UndistributedIncome>
+      <PrivateOperatingFoundations>
+        <DateOfRuling>2010-11-24</DateOfRuling>
+        <Section4942j5>X</Section4942j5>
+        <LessorAdjNetIncmMinInvstReturn>
+          <CurrentYear>0</CurrentYear>
+          <Total>0</Total>
+        </LessorAdjNetIncmMinInvstReturn>
+        <QualifyingDistributions>
+          <CurrentYear>8900</CurrentYear>
+          <Year1>59496</Year1>
+          <Year2>49458</Year2>
+          <Year3>0</Year3>
+          <Total>117854</Total>
+        </QualifyingDistributions>
+        <QlfyDistriNotUsedDirectly>
+          <CurrentYear>0</CurrentYear>
+          <Year1>0</Year1>
+          <Year2>0</Year2>
+          <Year3>0</Year3>
+          <Total>0</Total>
+        </QlfyDistriNotUsedDirectly>
+        <QlfyDistriMadeDirectly>
+          <CurrentYear>8900</CurrentYear>
+          <Year1>59496</Year1>
+          <Year2>49458</Year2>
+          <Year3>0</Year3>
+          <Total>117854</Total>
+        </QlfyDistriMadeDirectly>
+        <TwoThirdsMinInvstReturn>
+          <CurrentYear>33153</CurrentYear>
+          <Year1>33227</Year1>
+          <Year2>21338</Year2>
+          <Year3>0</Year3>
+          <Total>87718</Total>
+        </TwoThirdsMinInvstReturn>
+      </PrivateOperatingFoundations>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <TotGrantOrContriPaidDuringYear>0</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <ProgramServiceRevenuePartVII>
+          <Description>PATIENT SERVICE</Description>
+          <BusinessCode>623000</BusinessCode>
+          <RelatedOrExemptFunctionIncome>1395655</RelatedOrExemptFunctionIncome>
+        </ProgramServiceRevenuePartVII>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>881</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <OtherRevenueDescribed>
+          <Description>OTHER REVENUE</Description>
+          <ExclusionCode>03</ExclusionCode>
+          <ExclusionAmount>8962</ExclusionAmount>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>9843</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>1395655</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>1405498</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>1A</LineNumber>
+          <RelationshipStatement>PROVIDE HEALTHCARE AND SHELTER TO THE HANDICAPPED.</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <DepreciationSchedule documentId="RetDoc2203000001">
+      <Depreciation>
+        <DescriptionOfProperty>BUILDINGS</DescriptionOfProperty>
+        <CostOrOtherBasis>353707</CostOrOtherBasis>
+        <PriorYearsDepreciation>211735</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Rate>0.000000000000</Rate>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>EQUIPMENT</DescriptionOfProperty>
+        <CostOrOtherBasis>20455</CostOrOtherBasis>
+        <PriorYearsDepreciation>19813</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Rate>0.000000000000</Rate>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>VEHICLES</DescriptionOfProperty>
+        <CostOrOtherBasis>174896</CostOrOtherBasis>
+        <PriorYearsDepreciation>124156</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Rate>0.000000000000</Rate>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>land</DescriptionOfProperty>
+        <CostOrOtherBasis>31000</CostOrOtherBasis>
+        <ComputationMethod>L</ComputationMethod>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </Depreciation>
+    </DepreciationSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOther>
+        <CategoryOrItem>INVESTMENT IN INSURANCE GROUP</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>73134</BookValue>
+        <EOYFMV>73134</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <LandEtcSchedule2 documentId="RetDoc2059000001">
+      <LandEtc>
+        <CategoryOrItem>BUILDINGS</CategoryOrItem>
+        <CostOrOtherBasis>353707</CostOrOtherBasis>
+        <AccumulatedDepreciation>211735</AccumulatedDepreciation>
+        <BookValue>141972</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>EQUIPMENT</CategoryOrItem>
+        <CostOrOtherBasis>20455</CostOrOtherBasis>
+        <AccumulatedDepreciation>19813</AccumulatedDepreciation>
+        <BookValue>642</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>VEHICLES</CategoryOrItem>
+        <CostOrOtherBasis>174896</CostOrOtherBasis>
+        <AccumulatedDepreciation>124156</AccumulatedDepreciation>
+        <BookValue>50740</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>land</CategoryOrItem>
+        <CostOrOtherBasis>31000</CostOrOtherBasis>
+        <AccumulatedDepreciation>0</AccumulatedDepreciation>
+        <BookValue>31000</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+    </LandEtcSchedule2>
+    <OtherAssetsSchedule documentId="RetDoc2046600001">
+      <OtherAssets>
+        <Description>RESIDENT TRUST FUNDS</Description>
+        <BOYBookValue>13248</BOYBookValue>
+        <EOYBookValue>8002</EOYBookValue>
+        <EOYFMV>8002</EOYFMV>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>facility services</Description>
+        <RevenueAndExpensesPerBooks>61458</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>61458</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>DIETARY SUPPLIES &amp; SERVICES</Description>
+        <RevenueAndExpensesPerBooks>55883</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>55883</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>ADMINISTRATIVE COSTS</Description>
+        <RevenueAndExpensesPerBooks>63873</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>63873</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PATIENT SUPPLIES &amp; SERVICES</Description>
+        <RevenueAndExpensesPerBooks>45257</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>45257</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc2001500001">
+      <OtherIncome>
+        <Description>PATIENT SERVICE</Description>
+        <RevenueAndExpensesPerBooks>1395655</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>1395655</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>OTHER REVENUE</Description>
+        <RevenueAndExpensesPerBooks>8962</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>8962</AdjustedNetIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherLiabilitiesSchedule documentId="RetDoc2065700001">
+      <OtherLiabilities>
+        <Description>RESIDENT TRUST FUNDS</Description>
+        <BOYBookValue>7383</BOYBookValue>
+        <EOYBookValue>4865</EOYBookValue>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>DUE TO RELATED PARTY</Description>
+        <BOYBookValue>23701</BOYBookValue>
+        <EOYBookValue>15098</EOYBookValue>
+      </OtherLiabilities>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFees>
+        <Category>management</Category>
+        <Amount>91370</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>91370</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>payroll taxes</Category>
+        <Amount>73431</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>73431</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,923 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-01T13:14:05-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Clark Nuber PS</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>10900 NE 4th Street Suite 1700</AddressLine1>
+        <City>Bellevue</City>
+        <State>WA</State>
+        <ZIPCode>98004</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2009-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>910826037</EIN>
+      <Name>
+        <BusinessNameLine1>NORTHWEST HARVEST EMM</BusinessNameLine1>
+      </Name>
+      <NameControl>NORT</NameControl>
+      <Phone>2066250755</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 12272</AddressLine1>
+        <City>SEATTLE</City>
+        <State>WA</State>
+        <ZIPCode>98102</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>SHELLEY ROTONDO</Name>
+      <Title>EXECUTIVE DIRECTOR</Title>
+      <Phone>2066250755</Phone>
+      <DateSigned>2011-02-01</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Jane M Searing</Name>
+      <Phone>4254544919</Phone>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="11">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <NameOfPrincipalOfficerPerson>SHELLEY ROTONDO</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>PO BOX 12272</AddressLine1>
+        <City>SEATTLE</City>
+        <State>WA</State>
+        <ZIPCode>98102</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>36322190</GrossReceipts>
+      <GroupReturnForAffiliates>0</GroupReturnForAffiliates>
+      <Organization501c typeOf501cOrganization="3">X</Organization501c>
+      <WebSite>WWW.NORTHWESTHARVEST.ORG</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>1967</YearFormation>
+      <StateLegalDomicile>WA</StateLegalDomicile>
+      <ActivityOrMissionDescription>TO PROVIDE NUTRITIOUS FOOD TO HUNGRY PEOPLE STATEWIDE IN A MANNER THAT RESPECTS THEIR DIGNITY, WHILE FIGHTING TO ELIMINATE HUNGER.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>14</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>11</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>64</TotalNbrEmployees>
+      <TotalNbrVolunteers>5000</TotalNbrVolunteers>
+      <TotalGrossUBI>0</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>0</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>38448459</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>32685011</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>93227</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>350760</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>335838</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>380667</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>2886</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>0</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>38880410</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>33416438</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>24590102</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>27926599</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>3149654</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>3780765</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>1171119</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>2709953</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>3004820</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>30449709</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>34712184</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>8430701</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>-1295746</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>28821130</TotalAssetsBOY>
+      <TotalAssetsEOY>27379542</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>525289</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>328487</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>28295841</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>27051055</NetAssetsOrFundBalancesEOY>
+      <MissionDescription>THE MISSION OF NORTHWEST HARVEST IS TO PROVIDE NUTRITIOUS FOOD TO HUNGRY PEOPLE STATEWIDE IN A MANNER THAT RESPECTS THEIR DIGNITY, WHILE FIGHTING TO ELIMINATE HUNGER.</MissionDescription>
+      <SignificantNewProgramServices>0</SignificantNewProgramServices>
+      <SignificantChange>0</SignificantChange>
+      <Expense>32619420</Expense>
+      <Grants>27926599</Grants>
+      <Revenue>350760</Revenue>
+      <Description>NORTHWEST HARVEST PROVIDES A NUTRITIONAL FOOD SUPPLY TO APPROXIMATELY 300 HUNGER PROGRAMS IN WASHINGTON STATE THROUGH THE COLLECTION OF FOOD AND CASH DONATIONS TO BE USED FOR THE PURCHASE OF SUPPLEMENTAL FOOD. DURING THE FISCAL YEAR ENDED JUNE 30, 2010, OVER 24 MILLION POUNDS OF FOOD WERE SECURED FOR DISTRIBUTION TO INDIVIDUALS, FOOD BANKS AND FEEDING PROGRAMS AT NO CHARGE. THIS YEAR, NORTHWEST HARVEST INCREASED THE PERCENTAGE OF FRUITS AND VEGETABLES FOR DISTRIBUTION AS PART OF ITS FOCUS ON NUTRITION.</Description>
+      <TotalProgramServiceExpense>32619420</TotalProgramServiceExpense>
+      <DescribedIn501C3 referenceDocumentId="RetDoc1039100001">1</DescribedIn501C3>
+      <ScheduleBRequired referenceDocumentId="RetDoc1234500001">1</ScheduleBRequired>
+      <PoliticalActivities referenceDocumentId="RetDoc1039700001">0</PoliticalActivities>
+      <LobbyingActivities referenceDocumentId="RetDoc1039700001">1</LobbyingActivities>
+      <DonorAdvisedFunds referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="RetDoc1040000001">0</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="RetDoc1040000001">0</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="RetDoc1040000001">0</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="RetDoc1040000001">1</TermOrPermanentEndowments>
+      <BalanceSheetAmountsReported referenceDocumentId="RetDoc1040000001">1</BalanceSheetAmountsReported>
+      <IndependentAuditFinancialStmt referenceDocumentId="RetDoc1040000001">0</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="RetDoc1040000001">1</ConsolidatedAuditFinancialStmt>
+      <School>0</School>
+      <ForeignOffice>0</ForeignOffice>
+      <ForeignActivities>0</ForeignActivities>
+      <MoreThan5000KToOrganizations>0</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>0</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>0</ProfessionalFundraising>
+      <FundraisingActivities>0</FundraisingActivities>
+      <Gaming>0</Gaming>
+      <Hospital>0</Hospital>
+      <GrantsToOrganizations referenceDocumentId="RetDoc1041900001">0</GrantsToOrganizations>
+      <GrantsToIndividuals referenceDocumentId="RetDoc1041900001">1</GrantsToIndividuals>
+      <ScheduleJRequired referenceDocumentId="RetDoc1042400001">1</ScheduleJRequired>
+      <TaxExemptBonds>0</TaxExemptBonds>
+      <ExcessBenefitTransaction referenceDocumentId="RetDoc1042800001">0</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction referenceDocumentId="RetDoc1042800001">0</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP referenceDocumentId="RetDoc1042800001">0</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson referenceDocumentId="RetDoc1042800001">0</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization referenceDocumentId="RetDoc1042800001">0</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember referenceDocumentId="RetDoc1042800001">0</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp referenceDocumentId="RetDoc1042800001">1</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions referenceDocumentId="RetDoc1042900001">1</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt referenceDocumentId="RetDoc1042900001">0</DeductibleContributionsOfArt>
+      <Terminated>0</Terminated>
+      <PartialLiquidation>0</PartialLiquidation>
+      <DisregardedEntity referenceDocumentId="RetDoc1043400001">0</DisregardedEntity>
+      <RelatedEntity referenceDocumentId="RetDoc1043400001">1</RelatedEntity>
+      <RelatedOrgControlledEntity referenceDocumentId="RetDoc1043400001">0</RelatedOrgControlledEntity>
+      <TransfersToExemptNonChrtblOrg referenceDocumentId="RetDoc1043400001">0</TransfersToExemptNonChrtblOrg>
+      <ActivitiesConductedPartnership referenceDocumentId="RetDoc1043400001">0</ActivitiesConductedPartnership>
+      <ScheduleORequired>1</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>25</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <ComplianceWithBackupWitholding>1</ComplianceWithBackupWitholding>
+      <NumberOfEmployees>64</NumberOfEmployees>
+      <EmploymentTaxReturnsFiled>1</EmploymentTaxReturnsFiled>
+      <UnrelatedBusinessIncome>0</UnrelatedBusinessIncome>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>0</TaxablePartyNotification>
+      <NonDeductibleContributions>0</NonDeductibleContributions>
+      <QuidProQuoContributions>0</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>0</Form8282PropertyDisposedOf>
+      <FundsToPayPremiums>0</FundsToPayPremiums>
+      <PremiumsPaid>0</PremiumsPaid>
+      <NbrVotingGoverningBodyMembers>14</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>11</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>0</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>0</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>0</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>0</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>0</MembersOrStockholders>
+      <ElectionOfBoardMembers>0</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>0</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>1</MinutesOfGoverningBody>
+      <MinutesOfCommittees>1</MinutesOfCommittees>
+      <OfficerMailingAddress>0</OfficerMailingAddress>
+      <LocalChapters>0</LocalChapters>
+      <Form990ProvidedToGoverningBody>1</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>1</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>1</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>1</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>1</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>1</DocumentRetentionPolicy>
+      <CompensationProcessCEO>1</CompensationProcessCEO>
+      <CompensationProcessOther>1</CompensationProcessOther>
+      <InvestmentInJointVenture>0</InvestmentInJointVenture>
+      <StatesWhereCopyOfReturnIsFiled>WA</StatesWhereCopyOfReturnIsFiled>
+      <OwnWebsite>X</OwnWebsite>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>LESLIE MARTIN</BusinessNameLine1>
+        </NameBusiness>
+        <TelephoneNumber>2066250755</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>711 CHERRY STREET</AddressLine1>
+          <City>SEATTLE</City>
+          <State>WA</State>
+          <ZIPCode>98104</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <Form990PartVIISectionA>
+        <NamePerson>DAN HARKINS</NamePerson>
+        <Title>BOARD CHAIR</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>IRENE WARD</NamePerson>
+        <Title>CHAIR ELECT</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>REV W JAMES HALFAKER</NamePerson>
+        <Title>SECRETARY</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>KATHY BROWN</NamePerson>
+        <Title>TREASURER</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DIANA AXNESS</NamePerson>
+        <Title>MEMBER AT LARGE</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>BRIAN CALVERT</NamePerson>
+        <Title>MEMBER AT LARGE</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DICK GRADER</NamePerson>
+        <Title>MEMBER AT LARGE</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>SASA KIRKPATRICK</NamePerson>
+        <Title>MEMBER AT LARGE</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MINDY KORNBERG</NamePerson>
+        <Title>MEMBER AT LARGE</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>FRANK MINTON</NamePerson>
+        <Title>MEMBER AT LARGE</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>SUSAN SECKER</NamePerson>
+        <Title>MEMBER AT LARGE</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>EILEEN TAKEUCHI</NamePerson>
+        <Title>MEMBER AT LARGE</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>REVFLORA WILSON BRIDGES</NamePerson>
+        <Title>MEMBER AT LARGE</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DAN THOMAS</NamePerson>
+        <Title>MEMBER AT LARGE</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>SHELLEY ROTONDO</NamePerson>
+        <Title>EXECUTIVE DIRECTOR</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>120829</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>33834</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>RICHARD DELMASTRO</NamePerson>
+        <Title>FORMER DIR. OF FINANCE</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>81915</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>18620</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>LESLIE MARTIN</NamePerson>
+        <Title>DIRECTOR OF FINANCE</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>202744</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>0</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>52454</TotalOtherCompensation>
+      <NumberIndividualsGT100K>1</NumberIndividualsGT100K>
+      <FormersListed>0</FormersListed>
+      <TotalCompGT150K>1</TotalCompGT150K>
+      <CompensationFromOtherSources>0</CompensationFromOtherSources>
+      <NumberOfContractorsGT100K>0</NumberOfContractorsGT100K>
+      <AllOtherContributions>32685011</AllOtherContributions>
+      <NoncashContributions>24249324</NoncashContributions>
+      <TotalContributions>32685011</TotalContributions>
+      <ProgramServiceRevenue>
+        <Description>FOOD PURCHASE REIMBUR.</Description>
+        <BusinessCode>624200</BusinessCode>
+        <TotalRevenueColumn>350760</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>350760</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>350760</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>385276</TotalRevenueColumn>
+        <ExclusionAmount>385276</ExclusionAmount>
+      </InvestmentIncome>
+      <GrossAmountSalesAssets>
+        <Securities>2901143</Securities>
+      </GrossAmountSalesAssets>
+      <LessCostOthBasisSalesExpenses>
+        <Securities>2905752</Securities>
+      </LessCostOthBasisSalesExpenses>
+      <GainOrLoss>
+        <Securities>-4609</Securities>
+      </GainOrLoss>
+      <NetGainOrLossInvestments>
+        <TotalRevenueColumn>-4609</TotalRevenueColumn>
+        <ExclusionAmount>-4609</ExclusionAmount>
+      </NetGainOrLossInvestments>
+      <TotalRevenue>
+        <TotalRevenueColumn>33416438</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>350760</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>0</UnrelatedBusinessRevenue>
+        <ExclusionAmount>380667</ExclusionAmount>
+      </TotalRevenue>
+      <GrantsToDomesticIndividuals>
+        <Total>27926599</Total>
+        <ProgramServices>27926599</ProgramServices>
+      </GrantsToDomesticIndividuals>
+      <CompCurrentOfficersDirectors>
+        <Total>262473</Total>
+        <ProgramServices>175070</ProgramServices>
+        <ManagementAndGeneral>36746</ManagementAndGeneral>
+        <Fundraising>50657</Fundraising>
+      </CompCurrentOfficersDirectors>
+      <OtherSalariesAndWages>
+        <Total>2524883</Total>
+        <ProgramServices>1704232</ProgramServices>
+        <ManagementAndGeneral>437750</ManagementAndGeneral>
+        <Fundraising>382901</Fundraising>
+      </OtherSalariesAndWages>
+      <PensionPlanContributions>
+        <Total>230588</Total>
+        <ProgramServices>155250</ProgramServices>
+        <ManagementAndGeneral>33583</ManagementAndGeneral>
+        <Fundraising>41755</Fundraising>
+      </PensionPlanContributions>
+      <OtherEmployeeBenefits>
+        <Total>514032</Total>
+        <ProgramServices>377035</ProgramServices>
+        <ManagementAndGeneral>59810</ManagementAndGeneral>
+        <Fundraising>77187</Fundraising>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>248789</Total>
+        <ProgramServices>179797</ProgramServices>
+        <ManagementAndGeneral>32016</ManagementAndGeneral>
+        <Fundraising>36976</Fundraising>
+      </PayrollTaxes>
+      <FeesForServicesLegal>
+        <Total>3721</Total>
+        <ManagementAndGeneral>3721</ManagementAndGeneral>
+      </FeesForServicesLegal>
+      <FeesForServicesAccounting>
+        <Total>40422</Total>
+        <ManagementAndGeneral>40422</ManagementAndGeneral>
+      </FeesForServicesAccounting>
+      <FeesForServicesLobbying>
+        <Total>1500</Total>
+        <ManagementAndGeneral>1500</ManagementAndGeneral>
+      </FeesForServicesLobbying>
+      <FeesForServicesInvstMgmntFees>
+        <Total>1675</Total>
+        <ManagementAndGeneral>1675</ManagementAndGeneral>
+      </FeesForServicesInvstMgmntFees>
+      <FeesForServicesOther>
+        <Total>113004</Total>
+        <ProgramServices>73724</ProgramServices>
+        <ManagementAndGeneral>32298</ManagementAndGeneral>
+        <Fundraising>6982</Fundraising>
+      </FeesForServicesOther>
+      <Advertising>
+        <Total>395597</Total>
+        <ProgramServices>2841</ProgramServices>
+        <Fundraising>392756</Fundraising>
+      </Advertising>
+      <OfficeExpenses>
+        <Total>218921</Total>
+        <ProgramServices>86571</ProgramServices>
+        <ManagementAndGeneral>62046</ManagementAndGeneral>
+        <Fundraising>70304</Fundraising>
+      </OfficeExpenses>
+      <InformationTechnology>
+        <Total>81954</Total>
+        <ProgramServices>25396</ProgramServices>
+        <ManagementAndGeneral>27039</ManagementAndGeneral>
+        <Fundraising>29519</Fundraising>
+      </InformationTechnology>
+      <Occupancy>
+        <Total>1268625</Total>
+        <ProgramServices>1195255</ProgramServices>
+        <ManagementAndGeneral>34983</ManagementAndGeneral>
+        <Fundraising>38387</Fundraising>
+      </Occupancy>
+      <Travel>
+        <Total>48449</Total>
+        <ProgramServices>33124</ProgramServices>
+        <ManagementAndGeneral>5774</ManagementAndGeneral>
+        <Fundraising>9551</Fundraising>
+      </Travel>
+      <ConferencesMeetings>
+        <Total>46640</Total>
+        <ProgramServices>15168</ProgramServices>
+        <ManagementAndGeneral>26130</ManagementAndGeneral>
+        <Fundraising>5342</Fundraising>
+      </ConferencesMeetings>
+      <DepreciationDepletion>
+        <Total>325216</Total>
+        <ProgramServices>262637</ProgramServices>
+        <ManagementAndGeneral>46205</ManagementAndGeneral>
+        <Fundraising>16374</Fundraising>
+      </DepreciationDepletion>
+      <OtherExpenses>
+        <Description>FOOD TRANSPORTATION</Description>
+        <Total>384526</Total>
+        <ProgramServices>384526</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>IN-KIND GOODS</Description>
+        <Total>46308</Total>
+        <ProgramServices>6742</ProgramServices>
+        <ManagementAndGeneral>32139</ManagementAndGeneral>
+        <Fundraising>7427</Fundraising>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>STAFF EXPENSE</Description>
+        <Total>28262</Total>
+        <ProgramServices>15453</ProgramServices>
+        <ManagementAndGeneral>7808</ManagementAndGeneral>
+        <Fundraising>5001</Fundraising>
+      </OtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>34712184</Total>
+        <ProgramServices>32619420</ProgramServices>
+        <ManagementAndGeneral>921645</ManagementAndGeneral>
+        <Fundraising>1171119</Fundraising>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>167561</BOY>
+        <EOY>311730</EOY>
+      </CashNonInterestBearing>
+      <SavingsAndTempCashInvestments>
+        <BOY>7151315</BOY>
+        <EOY>6484299</EOY>
+      </SavingsAndTempCashInvestments>
+      <PledgesAndGrantsReceivable>
+        <BOY>864970</BOY>
+        <EOY>504854</EOY>
+      </PledgesAndGrantsReceivable>
+      <OtherNotesLoansReceivableNet>
+        <BOY>9937584</BOY>
+        <EOY>9841272</EOY>
+      </OtherNotesLoansReceivableNet>
+      <InventoriesForSaleOrUse>
+        <BOY>7526597</BOY>
+        <EOY>6519798</EOY>
+      </InventoriesForSaleOrUse>
+      <PrepaidExpensesDeferredCharges>
+        <BOY>74471</BOY>
+        <EOY>122093</EOY>
+      </PrepaidExpensesDeferredCharges>
+      <LandBuildingsEquipmentBasis>3773700</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>2107335</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>1247989</BOY>
+        <EOY>1666365</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <InvestmentsPubTradedSecurities>
+        <BOY>6028</BOY>
+      </InvestmentsPubTradedSecurities>
+      <InvestmentsOtherSecurities>
+        <BOY>522987</BOY>
+        <EOY>573250</EOY>
+      </InvestmentsOtherSecurities>
+      <OtherAssetsTotal>
+        <BOY>1321628</BOY>
+        <EOY>1355881</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>28821130</BOY>
+        <EOY>27379542</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>486441</BOY>
+        <EOY>300530</EOY>
+      </AccountsPayableAccruedExpenses>
+      <OtherLiabilities>
+        <BOY>38848</BOY>
+        <EOY>27957</EOY>
+      </OtherLiabilities>
+      <TotalLiabilities>
+        <BOY>525289</BOY>
+        <EOY>328487</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>25478981</BOY>
+        <EOY>24346724</EOY>
+      </UnrestrictedNetAssets>
+      <TemporarilyRestrictedNetAssets>
+        <BOY>1578430</BOY>
+        <EOY>1448162</EOY>
+      </TemporarilyRestrictedNetAssets>
+      <PermanentlyRestrictedNetAssets>
+        <BOY>1238430</BOY>
+        <EOY>1256169</EOY>
+      </PermanentlyRestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>28295841</BOY>
+        <EOY>27051055</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>28821130</BOY>
+        <EOY>27379542</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>0</AccountantCompileOrReview>
+      <FSAudited>1</FSAudited>
+      <AuditCommittee>1</AuditCommittee>
+      <FinancialStatementConsolidated>X</FinancialStatementConsolidated>
+      <FederalGrantAuditRequired>0</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc1039100001">
+      <PubliclySupportedOrg170b1Avi>X</PubliclySupportedOrg170b1Avi>
+      <GiftsGrantsContribReceived170>
+        <CurrentTaxYearMinus4Years>25918138</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>25752032</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>34442043</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>38448459</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>32685011</CurrentTaxYear>
+        <Total>157245683</Total>
+      </GiftsGrantsContribReceived170>
+      <ValueSrvcFcltsFurnishedByGovt>
+        <CurrentTaxYearMinus4Years>333893</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>327358</CurrentTaxYearMinus3Years>
+        <Total>661251</Total>
+      </ValueSrvcFcltsFurnishedByGovt>
+      <Total170>
+        <CurrentTaxYearMinus4Years>26252031</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>26079390</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>34442043</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>38448459</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>32685011</CurrentTaxYear>
+        <Total>157906934</Total>
+      </Total170>
+      <AmountsSubstContributorsTotal>11384495</AmountsSubstContributorsTotal>
+      <PublicSupportTotal170>146522439</PublicSupportTotal170>
+      <GrossInvestmentIncome170>
+        <CurrentTaxYearMinus4Years>232306</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>244202</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>301117</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>341117</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>385276</CurrentTaxYear>
+        <Total>1504018</Total>
+      </GrossInvestmentIncome170>
+      <TotalSupport>159410952</TotalSupport>
+      <GrossReceiptsFromAdmissionsEtc>1362103</GrossReceiptsFromAdmissionsEtc>
+      <PublicSupportPertcentage170>0.91910</PublicSupportPertcentage170>
+      <PublicSupportPertcentPriorYear>0.90210</PublicSupportPertcentPriorYear>
+      <ThirtyThreePercntTestsCY170>X</ThirtyThreePercntTestsCY170>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <ContributorInfo>
+        <ContributorNumber>RESTRICTED</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>RESTRICTED</AggregateContributions>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <IRS990ScheduleC documentId="RetDoc1039700001">
+      <Volunteers>0</Volunteers>
+      <PaidStaffOrManagement>1</PaidStaffOrManagement>
+      <MediaAdvertisements>0</MediaAdvertisements>
+      <MailingsMembers>0</MailingsMembers>
+      <PublicationsOrBroadcast>0</PublicationsOrBroadcast>
+      <GrantsOtherOrganizations>0</GrantsOtherOrganizations>
+      <DirectContactLegislators>0</DirectContactLegislators>
+      <RalliesDemonstrations>0</RalliesDemonstrations>
+      <OtherActivities>1</OtherActivities>
+      <OtherActivitiesAmount>51581</OtherActivitiesAmount>
+      <TotalLobbyingExpendituresIIB>51581</TotalLobbyingExpendituresIIB>
+      <NotDescribedIn501c3>0</NotDescribedIn501c3>
+      <Form990ScheduleCPartIV>
+        <Identifier>Part II-B, Line 1i:</Identifier>
+        <ReturnReference>Explanation of Other Lobbying Activities:</ReturnReference>
+        <Explanation>LOBBYING ACTIVITIES CONSISTED OF COMPENSATING A FIRM TO REPRESENT NORTHWEST HARVEST'S INTERESTS TO THE STATE LEGISLATURE. NORTHWEST HARVEST ALSO HIRED A PUBLIC POLICY MANAGER TO PERFORM ADVOCACY WORK IN OLYMPIA.</Explanation>
+      </Form990ScheduleCPartIV>
+    </IRS990ScheduleC>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <CurrentYear>
+        <BeginningOfYearBalance>105568</BeginningOfYearBalance>
+        <Contributions>6500</Contributions>
+        <InvestmentEarningsOrLosses>8011</InvestmentEarningsOrLosses>
+        <EndOfYearBalance>120079</EndOfYearBalance>
+      </CurrentYear>
+      <CurrentYearMinus1Year>
+        <BeginningOfYearBalance>131696</BeginningOfYearBalance>
+        <Contributions>123</Contributions>
+        <InvestmentEarningsOrLosses>-26251</InvestmentEarningsOrLosses>
+        <EndOfYearBalance>105568</EndOfYearBalance>
+      </CurrentYearMinus1Year>
+      <BoardDesignatedEOYBalance>0.13670</BoardDesignatedEOYBalance>
+      <PermanentEndowmentEOYBalance>0.86330</PermanentEndowmentEOYBalance>
+      <EndowmentsHeldByUnrelatedOrgs>0</EndowmentsHeldByUnrelatedOrgs>
+      <EndowmentsHeldByRelatedOrgs>0</EndowmentsHeldByRelatedOrgs>
+      <LeaseholdImprovements>
+        <OtherCostOrOtherBasis>351612</OtherCostOrOtherBasis>
+        <Depreciation>143694</Depreciation>
+        <BookValue>207918</BookValue>
+      </LeaseholdImprovements>
+      <Equipment>
+        <OtherCostOrOtherBasis>1345870</OtherCostOrOtherBasis>
+        <Depreciation>424661</Depreciation>
+        <BookValue>921209</BookValue>
+      </Equipment>
+      <OtherLandBuildings>
+        <OtherCostOrOtherBasis>2076218</OtherCostOrOtherBasis>
+        <Depreciation>1538980</Depreciation>
+        <BookValue>537238</BookValue>
+      </OtherLandBuildings>
+      <TotalOfBookValueLandBuildings>1666365</TotalOfBookValueLandBuildings>
+      <OtherLiabilities>
+        <Description>CAPITAL LEASE OBLIGATION</Description>
+        <Amount>27957</Amount>
+      </OtherLiabilities>
+      <TotalOfAmounts>27957</TotalOfAmounts>
+      <TotalRevenue>33416438</TotalRevenue>
+      <TotalExpenses>34712184</TotalExpenses>
+      <ExcessOrDeficitForYear>-1295746</ExcessOrDeficitForYear>
+      <NetUnrealizedGLOnInvestments>21040</NetUnrealizedGLOnInvestments>
+      <OtherAmount>29920</OtherAmount>
+      <TotalAdjustments>50960</TotalAdjustments>
+      <ExcessOrDeficitPerFS>-1244786</ExcessOrDeficitPerFS>
+      <TotRevenueEtcAuditedFinclStmt>34261530</TotRevenueEtcAuditedFinclStmt>
+      <NetUnrealizedGainsInvestments>21040</NetUnrealizedGainsInvestments>
+      <DonatedSrvcAndUseOfFacilities>792477</DonatedSrvcAndUseOfFacilities>
+      <OtherRevenues>31575</OtherRevenues>
+      <RevenueNotRptdF990>845092</RevenueNotRptdF990>
+      <RevenueSubtotal>33416438</RevenueSubtotal>
+      <RevenueNotRptdOnFinStmt>0</RevenueNotRptdOnFinStmt>
+      <TotalRevenuePerForm990>33416438</TotalRevenuePerForm990>
+      <TotExpensesEtcAuditedFinclStmt>36003259</TotExpensesEtcAuditedFinclStmt>
+      <DonatedServicesUseOfFacilities>792477</DonatedServicesUseOfFacilities>
+      <OtherExpensesIncluded>498598</OtherExpensesIncluded>
+      <ExpensesNotRptdF990>1291075</ExpensesNotRptdF990>
+      <ExpensesSubtotal>34712184</ExpensesSubtotal>
+      <ExpensesNotRptdOnFinStmt>0</ExpensesNotRptdOnFinStmt>
+      <TotalExpensesPerForm990>34712184</TotalExpensesPerForm990>
+      <Form990ScheduleDPartXIV>
+        <Identifier>Part V, Line 4:</Identifier>
+        <ReturnReference>Description of Intended Use of Endowment Funds:</ReturnReference>
+        <Explanation>ENDOWMENT FUNDS ARE USED TO MAINTAIN THE ORGANIZATION'S FOOD DISTRIBUTION PROGRAMS BY PROVIDING A STEADY STREAM OF INCOME THROUGHOUT THE YEAR. UP TO 25% OF THE ENDOWMENT FUNDS ARE AVAILABLE FOR SPECIAL CAPITAL NEEDS AND EMERGENCY SITUATIONS THAT MAY ARISE, WHILE 75% OF THE FUNDS ALWAYS REMAIN INVESTED, PRODUCING INCOME TO SUPPORT THE ORGANIZATION'S PROGRAMS.</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>Part XI, Line 8 - Other Adjustments:</Identifier>
+        <Explanation>PRESENT VALUE DISCOUNT ON PLEDGES: 29920.</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>Part XII, Line 2d - Other Adjustments:</Identifier>
+        <Explanation>REVENUE RELATED TO AFFILIATE: 474355. PRESENT VALUE DISCOUNT ON PLEDGES: 29920. ELIMINATIONS UPON CONSOLIDATION: -472700.</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>Part XIII, Line 2d - Other Adjustments:</Identifier>
+        <Explanation>EXPENSE RELATED TO AFFILIATE: 953965. ELIMINATIONS UPON CONSOLIDATION: -455367.</Explanation>
+      </Form990ScheduleDPartXIV>
+    </IRS990ScheduleD>
+    <IRS990ScheduleI documentId="RetDoc1041900001">
+      <RecordsMaintained>1</RecordsMaintained>
+      <Form990ScheduleIPartIII>
+        <TypeOfGrant>DIRECT AND INDIRECT (VIA PARTNER NETWORK) DISTRIBUTION OF FOOD TO LOW INCOME INDIVIDUALS</TypeOfGrant>
+        <NumberOfRecipients>7857800</NumberOfRecipients>
+        <AmountOfNonCashAssistance>27926599</AmountOfNonCashAssistance>
+        <MethodOfValuation>FMV</MethodOfValuation>
+        <DescriptionOfNonCashAssistance>FOOD PRODUCTS</DescriptionOfNonCashAssistance>
+      </Form990ScheduleIPartIII>
+      <Form990ScheduleIPartIV>
+        <Identifier>Procedure for Monitoring Grants in the U.S.:</Identifier>
+        <ReturnReference>Part I, Line 2:</ReturnReference>
+        <Explanation>Schedule I, Part I, Line 2: FOOD IS DISTRIBUTED TO FOOD BANKS WHO SERVE INDIVIDUALS IN NEED.</Explanation>
+      </Form990ScheduleIPartIV>
+      <Form990ScheduleIPartIV>
+        <Identifier>Other Information:</Identifier>
+        <ReturnReference>Part IV:</ReturnReference>
+        <Explanation>PART III, COLUMN B REPRESENTS NUMBER OF SERVICES PROVIDED. A SINGLE RECIPIENT MAY RECEIVE SERVICES MORE THAN ONCE.</Explanation>
+      </Form990ScheduleIPartIV>
+    </IRS990ScheduleI>
+    <IRS990ScheduleJ documentId="RetDoc1042400001">
+      <CompensationCommittee>X</CompensationCommittee>
+      <CompensationSurvey>X</CompensationSurvey>
+      <BoardOrCommitteeApproval>X</BoardOrCommitteeApproval>
+      <SeverancePayment>0</SeverancePayment>
+      <SupplementalNonqualRetirePlan>0</SupplementalNonqualRetirePlan>
+      <EquityBasedCompArrangement>0</EquityBasedCompArrangement>
+      <CompBasedOnRevenueOfFilingOrg>0</CompBasedOnRevenueOfFilingOrg>
+      <CompBasedOnRevenueRelatedOrgs>0</CompBasedOnRevenueRelatedOrgs>
+      <CompBasedNetEarningsFilingOrg>0</CompBasedNetEarningsFilingOrg>
+      <CompBasedNetEarningsRelateOrgs>0</CompBasedNetEarningsRelateOrgs>
+      <AnyNonFixedPayments>0</AnyNonFixedPayments>
+      <InitialContractException>0</InitialContractException>
+      <Form990ScheduleJPartII>
+        <NameBusiness>
+          <BusinessNameLine1>SHELLEY ROTONDO</BusinessNameLine1>
+        </NameBusiness>
+        <BaseCompensationFilingOrg>116366</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>4463</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>15332</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>18502</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>154663</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+    </IRS990ScheduleJ>
+    <IRS990ScheduleL documentId="RetDoc1042800001">
+      <Form990ScheduleLPartIV>
+        <NameOfInterestedPerson>
+          <NameBusiness>
+            <BusinessNameLine1>NORTHWEST HARVEST LANDOWNER</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfInterestedPerson>
+        <Relationship>DIRECTORS</Relationship>
+        <AmountOfTransaction>443056</AmountOfTransaction>
+        <DescriptionOfTransaction>LEASE PAYMENTS</DescriptionOfTransaction>
+        <SharingOfRevenues>0</SharingOfRevenues>
+      </Form990ScheduleLPartIV>
+    </IRS990ScheduleL>
+    <IRS990ScheduleM documentId="RetDoc1042900001">
+      <SecuritiesPubliclyTraded>
+        <NonCashCheckbox>X</NonCashCheckbox>
+        <NumberOfContributions>40</NumberOfContributions>
+        <NoncashContribsRptdF990>218734</NoncashContribsRptdF990>
+        <MethodOfDeterminingRevenues>FMV</MethodOfDeterminingRevenues>
+      </SecuritiesPubliclyTraded>
+      <OtherNonCashContributionsTable>
+        <NonCashCheckbox>X</NonCashCheckbox>
+        <Description>FOOD,NON-FOOD</Description>
+        <NumberOfContributions>16500000</NumberOfContributions>
+        <NoncashContribsRptdF990>23831612</NoncashContribsRptdF990>
+        <MethodOfDeterminingRevenues>COST</MethodOfDeterminingRevenues>
+      </OtherNonCashContributionsTable>
+      <OtherNonCashContributionsTable>
+        <NonCashCheckbox>X</NonCashCheckbox>
+        <Description>SOFTWARE/FURN</Description>
+        <NumberOfContributions>1</NumberOfContributions>
+        <NoncashContribsRptdF990>198978</NoncashContribsRptdF990>
+        <MethodOfDeterminingRevenues>COST</MethodOfDeterminingRevenues>
+      </OtherNonCashContributionsTable>
+      <AnyPropertyThatMustBeHeld>0</AnyPropertyThatMustBeHeld>
+      <ReviewProcessUnusualNCGifts>1</ReviewProcessUnusualNCGifts>
+      <ThirdPartiesUsed>1</ThirdPartiesUsed>
+      <Form990ScheduleMPartII>
+        <Identifier>Method for Determining Number of Contributors:</Identifier>
+        <ReturnReference>Part I, Column (b):</ReturnReference>
+        <Explanation>FOOD AND NON-FOOD ITEMS ARE COUNTED IN POUNDS DONATED. OTHER DONATIONS ARE COUNTED BASED ON NUMBER OF CONTRIBUTIONS RECEIVED.</Explanation>
+      </Form990ScheduleMPartII>
+      <Form990ScheduleMPartII>
+        <Identifier>Third Party Use:</Identifier>
+        <ReturnReference>Part I, Line 32b:</ReturnReference>
+        <Explanation>A BROKERAGE FIRM SOLD DONATED SECURITIES.</Explanation>
+      </Form990ScheduleMPartII>
+    </IRS990ScheduleM>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section B, line 11</Identifier>
+        <Explanation>THE EXECUTIVE COMMITTEE ALONG WITH THE FINANCE COMMITTEE WILL REVIEW THE FORM 990. THESE COMMITTEE MEMBERS THEN MAKE A RECOMMENDATION TO THE ENTIRE BOARD AS TO WHETHER TO APPROVE THE FORM 990 OR MAKE SOME CHANGES. THE ENTIRE BOARD RECEIVES A COPY OF THE FORM 990 BEFORE IT IS FILED. THE FULL BOARD VOTES TO APPROVE THE FORM 990 BASED UPON THE COMMITTEE MEMBERS' RECOMMENDATIONS BEFORE FILING.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section B, line 12c</Identifier>
+        <Explanation>ALL MEMBERS OF THE BOARD AND STAFF ARE COVERED BY THIS POLICY. DISCLOSURE OF POTENTIAL CONFLICT OF INTEREST MUST BE MADE IMMEDIATELY TO THE EXECUTIVE DIRECTOR AND BOARD CHAIR WHO WILL MAKE THE DETERMINATION OF POTENTIAL CONFLICT AND THE CONFLICT WILL BE REVIEWED BY THE ENTIRE BOARD. IF A CONFLICT IS DISCOVERED, THE BOARD MEMBER LEAVES THE DISCUSSION AND DOES NOT VOTE ON THE MATTER.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section B, line 15</Identifier>
+        <Explanation>THE FOLLOWING FACTORS ARE TAKEN INTO ACCOUNT FOR DETERMINING THE COMPENSATION OF THE EXECUTIVE DIRECTOR: 1. THE PAST PERFORMANCE OF THE DIRECTOR 2. THE PRESENT AND FUTURE NEEDS OF THE AGENCY 3. THE COMPENSATION OF THE COMPARABLE DIRECTORS FROM A LISTING OF THE TOP 50 NON-PROFITS PUBLISHED IN THE PUGET SOUND BUSINESS JOURNAL 4. NON-PROFIT WAGE AND BENEFIT SURVEY FOR EXECUTIVE DIRECTORS PUBLISHED BY WASHINGTON EMPLOYERS INC. COMPENSATION OF THE EXECUTIVE DIRECTOR IS DISCUSSED AND DETERMINED ANNUALLY BY THE BOARD OF DIRECTORS IN A PRIVATE EXECUTIVE SESSION, WHERE THE EXECUTIVE DIRECTOR'S LAST COMPENSATION REVIEW WAS HELD IN APRIL, 2010. THE COMPENSATION OF THE DIRECTOR OF FINANCE IS APPROVED BY THE EXECUTIVE DIRECTOR AND AS A COMPONENT OF THE ANNUAL BUDGETING PROCESS ALONG WITH ALL PAYROLL COSTS. THE COMPENSATION OF THE DIRECTOR OF FINANCE IS BASED ON SALARY SURVEYS OF OTHER NONPROFITS IN SIMILAR FIELDS AND SIZE IN WASHINGTON STATE AND AN INDEPENDENT COMPENSATION STUDY BY A THIRD PARTY PROFESSIONAL BENEFITS CONSULTANT.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section C, line 19</Identifier>
+        <Explanation>GOVERNING DOCUMENTS, CONFLICT OF INTEREST POLICIES, AND FINANCIAL STATEMENTS ARE AVAILABLE TO THE PUBLIC UPON REQUEST.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Explanation>FORM 990, PART I, LINE 6: VOLUNTEER TIME IS TRACKED BY THIS ORGANIZATION ON AN HOURS SERVED BASIS. BASED ON THE 78,139 VOLUNTEER HOURS DONATED DURING THE YEAR, NORTHWEST HARVEST HAD ABOUT 5,000 VOLUNTEERS. THE VOLUNTEERS ASSISTED IN FOOD AND NON-FOOD DISTRIBUTION AND VARIOUS FUND RAISING ACTIVITIES. 14 VOLUNTEERS ALSO SERVED AS MEMBERS OF THE BOARD OF DIRECTORS.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+    <IRS990ScheduleR documentId="RetDoc1043400001">
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>NORTHWEST HARVEST LANDOWNER</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>PO BOX 12272</AddressLine1>
+          <City>SEATTLE</City>
+          <State>WA</State>
+          <ZIPCode>98102</ZIPCode>
+        </AddressUS>
+        <EIN>208080827</EIN>
+        <PrimaryActivities>FOOD BANK WAREHOUSE LESSOR</PrimaryActivities>
+        <LegalDomicileState>WA</LegalDomicileState>
+        <ExemptCodeSection>501(c)(3)</ExemptCodeSection>
+        <PublicCharityStatus>11B-TYPE II</PublicCharityStatus>
+        <DirectControllingEntityNA>N/A</DirectControllingEntityNA>
+      </Form990ScheduleRPartII>
+      <ReceiptOfIntAnnRentsRoyalties>0</ReceiptOfIntAnnRentsRoyalties>
+      <GiftGrantOrCapContrToOtherOrg>0</GiftGrantOrCapContrToOtherOrg>
+      <GiftGrantOrCapContrFrOtherOrg>0</GiftGrantOrCapContrFrOtherOrg>
+      <LoansOrGuaranteesToOtherOrg>0</LoansOrGuaranteesToOtherOrg>
+      <LoansOrGuaranteesFromOtherOrg>0</LoansOrGuaranteesFromOtherOrg>
+      <SaleOfAssetsToOtherOrg>0</SaleOfAssetsToOtherOrg>
+      <PurchaseOfAssetsFromOtherOrg>0</PurchaseOfAssetsFromOtherOrg>
+      <ExchangeOfAssets>0</ExchangeOfAssets>
+      <RentalOfFacilitiesToOtherOrgs>0</RentalOfFacilitiesToOtherOrgs>
+      <RentalOfFacilitiesFrOtherOrgs>1</RentalOfFacilitiesFrOtherOrgs>
+      <PerformOfServicesForOtherOrgs>0</PerformOfServicesForOtherOrgs>
+      <PerformOfServicesByOtherOrgs>0</PerformOfServicesByOtherOrgs>
+      <SharingOfFacilities>0</SharingOfFacilities>
+      <SharingOfPaidEmployees>0</SharingOfPaidEmployees>
+      <ReimbursementPaidToOtherOrg>0</ReimbursementPaidToOtherOrg>
+      <ReimbursementPaidByOtherOrg>1</ReimbursementPaidByOtherOrg>
+      <OtherTransferToOtherOrg>1</OtherTransferToOtherOrg>
+      <OtherTransferFromOtherOrg>0</OtherTransferFromOtherOrg>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>NORTHWEST HARVEST LANDOWNER</BusinessNameLine1>
+        </NameOfOtherOrganization>
+        <TransactionType>J</TransactionType>
+        <AmountInvolved>443056</AmountInvolved>
+      </TransactionsRelatedOrgsTable>
+    </IRS990ScheduleR>
+  </ReturnData>
+</Return>

@@ -1,0 +1,655 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-09-11T13:10:04-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>HIXSON MARIN DESANCTIS &amp; COMPANY PA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>3801 PGA BLVD STE 806</AddressLine1>
+        <City>PALM BEACH GARDENS</City>
+        <State>FL</State>
+        <ZIPCode>334102800</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>650800240</EIN>
+      <Name>
+        <BusinessNameLine1>THE RENDINA FAMILY FOUNDATION INC</BusinessNameLine1>
+      </Name>
+      <NameControl>REND</NameControl>
+      <Phone>5616305055</Phone>
+      <USAddress>
+        <AddressLine1>661 UNIVERSITY BLVD</AddressLine1>
+        <AddressLine2>ROOM/SUITE 200</AddressLine2>
+        <City>JUPITER</City>
+        <State>FL</State>
+        <ZIPCode>33458</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>MICHAEL D RENDINA</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>5616305055</Phone>
+      <DateSigned>2010-08-18</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>PETER V DE SANCTIS</Name>
+      <Phone>5616245700</Phone>
+      <DatePrepared>2010-08-19</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="8">
+    <IRS990PF documentId="RetDoc3" referenceDocumentId="RetDoc2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>201021</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>204494</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>79</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>79</InterestOnSavingsNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc7">30268</OtherIncomeRevAndExpnss>
+        <TotalRevenueAndExpenses>234841</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>79</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc4">12500</AccountingFeesRevAndExpnss>
+        <AccountingFeesDsbrsChrtblPrps>12500</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc8">125</TaxesRevAndExpnss>
+        <TaxesDsbrsChrtblPrps>125</TaxesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc6">93950</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>35</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>2774</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>106575</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>35</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>15399</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>217500</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>217500</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>324075</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>35</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>232899</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-89234</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>44</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashEOY>65993</CashEOY>
+        <CashEOYFMV>65993</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>290242</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>135015</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>135015</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>9844</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc5">9844</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>13</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>300086</TotalAssetsBOY>
+        <TotalAssetsEOY>210852</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>201021</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>300086</RetainedEarningsBOY>
+        <RetainedEarningsEOY>210852</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>300086</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>210852</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>300086</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>210852</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>300086</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-89234</ExcessOfRevenueOverExpenses>
+        <Subtotal>210852</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>210852</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>552694</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>456214</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>1.211480</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>409413</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>894124</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.457893</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>597415</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>924795</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.645997</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>8500</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>458038</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.018557</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>7220</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>295424</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.024439</DistributionRatioYear5>
+        <TotalDistributionRatio>2.358366</TotalDistributionRatio>
+        <AverageDistributionRatio>0.471673</AverageDistributionRatio>
+        <NetNoncharitableAssets>194857</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>91909</AdjustedNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>91909</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>232899</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>FL</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>WWW.RENDINAFAMILYFOUNDATION.COM</WebsiteAddress>
+        <BooksInCareOfPersonName>MICHAEL D RENDINA</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>5616305055</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>661 UNIVERSITY BLVD SUITE 200</AddressLine1>
+          <City>JUPITER</City>
+          <State>FL</State>
+          <ZIPCode>334582795</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>RICHARD M RENDINA</PersonName>
+          <USAddress>
+            <AddressLine1>661 UNIVERSITY BLVD</AddressLine1>
+            <AddressLine2>SUITE 200</AddressLine2>
+            <City>JUPITER</City>
+            <State>FL</State>
+            <ZIPCode>33458</ZIPCode>
+          </USAddress>
+          <Title>VP/DIR/SEC</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARJORIE C RENDINA</PersonName>
+          <USAddress>
+            <AddressLine1>661 UNIVERSITY BLVD</AddressLine1>
+            <AddressLine2>SUITE 200</AddressLine2>
+            <City>JUPITER</City>
+            <State>FL</State>
+            <ZIPCode>33458</ZIPCode>
+          </USAddress>
+          <Title>VP/DIR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MICHAEL D RENDINA</PersonName>
+          <USAddress>
+            <AddressLine1>661 UNIVERSITY BLVD</AddressLine1>
+            <AddressLine2>SUITE 200</AddressLine2>
+            <City>JUPITER</City>
+            <State>FL</State>
+            <ZIPCode>33458</ZIPCode>
+          </USAddress>
+          <Title>P/TR/DIR</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>PATRICIA A RENDINA</PersonName>
+          <USAddress>
+            <AddressLine1>661 UNIVERSITY BLVD</AddressLine1>
+            <AddressLine2>SUITE 200</AddressLine2>
+            <City>JUPITER</City>
+            <State>FL</State>
+            <ZIPCode>33458</ZIPCode>
+          </USAddress>
+          <Title>DIR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>RICHARD B COMITER</PersonName>
+          <USAddress>
+            <AddressLine1>3801 PGA BLVD</AddressLine1>
+            <AddressLine2>SUITE 600</AddressLine2>
+            <City>PALM BEACH GARDENS</City>
+            <State>FL</State>
+            <ZIPCode>33410</ZIPCode>
+          </USAddress>
+          <Title>DIR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DAVID B RENDINA</PersonName>
+          <USAddress>
+            <AddressLine1>661 UNIVERSITY BLVD</AddressLine1>
+            <AddressLine2>SUITE 200</AddressLine2>
+            <City>JUPITER</City>
+            <State>FL</State>
+            <ZIPCode>33458</ZIPCode>
+          </USAddress>
+          <Title>DIR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>10</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>197814</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>197824</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>197824</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>2967</CashDeemedCharitable>
+        <NetNoncharitableAssets>194857</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>9743</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>9743</MinimumInvestmentReturn>
+        <DistributableAmountBeforeAdj>9743</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>9743</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>9743</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>232899</ExpensesAndContributions>
+        <QualifyingDistributions>232899</QualifyingDistributions>
+        <AdjQualifyingDistributions>232899</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>9743</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear3>552211</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>365547</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>530043</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>1447801</TotalExcessDistriCarryover>
+        <QualifyingDistributions>232899</QualifyingDistributions>
+        <AppliedToCurrentYear>9743</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>223156</RemainingDistriFromCorpus>
+        <TotalCorpus>1670957</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>1670957</ExcessDistriCyovToNextYear>
+        <ExcessFromYear3>552211</ExcessFromYear3>
+        <ExcessFromYear2>365547</ExcessFromYear2>
+        <ExcessFromYear1>530043</ExcessFromYear1>
+        <ExcessFromCurrentYear>223156</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>MARJORIE C RENDINA</ContributingManager>
+        <ContributingManager>RICHARD M RENDINA</ContributingManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>THE RENDINA FAMILY FOUNDATION INC</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>661 UNIVERSITY BLVD SUITE 200</AddressLine1>
+            <City>JUPITER</City>
+            <State>FL</State>
+            <ZIPCode>33458</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>5616305055</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>IN WRITING</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>FOR THE PUBLIC WELFARE OR FOR RELIGIOUS, CHARITABLE, SCIENTIFIC, EDUCATIONAL OR OTHER SIMILAR PURPOSES.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MASS GENERAL HOSPITAL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>55 FRUIT STREET</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02114</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(A)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>MGH BRAIN TUMOR CENTER FUND</PurposeOfGrantOrContribution>
+          <Amount>100000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AMERICAN CANCER SOCIETY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>621 CLEARWATER PARK RD</AddressLine1>
+            <City>WEST PALM BEACH</City>
+            <State>FL</State>
+            <ZIPCode>33401</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(A)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JUPITER MEDICAL CTR FDN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1210 SOUTH OLD DIXIE HWY</AddressLine1>
+            <City>JUPITER</City>
+            <State>FL</State>
+            <ZIPCode>33458</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(A)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CARDIAC CATHETERIZATION PROGRAM</PurposeOfGrantOrContribution>
+          <Amount>4000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HOSPICE OF PB COUNTY FDN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5300 EAST AVENUE</AddressLine1>
+            <City>WEST PALM BEACH</City>
+            <State>FL</State>
+            <ZIPCode>33407</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(A)(2)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SCRIPPS RESEARCH INST</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>10550 NORTH TORREY PINES</AddressLine1>
+            <City>LA JOLLA</City>
+            <State>CA</State>
+            <ZIPCode>92037</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(A)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FUND POST-DOCTORAL FELLOWSHIP</PurposeOfGrantOrContribution>
+          <Amount>75000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ACCELERATE BRAIN CANCER</BusinessNameLine1>
+            <BusinessNameLine2>CURE INC</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>800 AIRPORT BLVD 508</AddressLine1>
+            <City>BURLINGAME</City>
+            <State>CA</State>
+            <ZIPCode>94010</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(A)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FLORIDA BRAIN CANCER WALK</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LEUKEMIA &amp; LYMPHOMA SOC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4360 NORTHLAKE BLVD 109</AddressLine1>
+            <City>WEST PALM BEACH</City>
+            <State>FL</State>
+            <ZIPCode>33410</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(A)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>6000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>217500</TotGrantOrContriPaidDuringYear>
+        <GrantOrContriApprovedForFuture>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MASS GENERAL HOSPITAL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>55 FRUIT STREET</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02114</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(A)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>MGH BRAIN TUMOR CENTER FUND</PurposeOfGrantOrContribution>
+          <Amount>300000</Amount>
+        </GrantOrContriApprovedForFuture>
+        <GrantOrContriApprovedForFuture>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SCRIPPS RESEARCH INST</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>130 SCRIPPS WAY</AddressLine1>
+            <City>JUPITER</City>
+            <State>FL</State>
+            <ZIPCode>33458</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(A)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>75000</Amount>
+        </GrantOrContriApprovedForFuture>
+        <TotGrantOrContriApprovedFuture>375000</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>79</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <NetIncomeLossFromSpecialEvents>
+          <ExclusionCode>1</ExclusionCode>
+          <ExclusionAmount>-60873</ExclusionAmount>
+        </NetIncomeLossFromSpecialEvents>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>-60794</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>-60794</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>STEVE SMITH</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>2400 SE FEDERAL HWY SUITE 210</AddressLine1>
+          <City>STUART</City>
+          <State>FL</State>
+          <ZIPCode>34994</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>11100</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>7</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>STEADMAN HAWKINS CLINIC OF CAROLINAS</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>200 PATEWOOD DRIVE C100</AddressLine1>
+          <City>GREENVILLE</City>
+          <State>SC</State>
+          <ZIPCode>29615</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>30000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>2</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>HEALTH CARE REIT INC</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>600 HERITAGE DR</AddressLine1>
+          <City>JUPITER</City>
+          <State>FL</State>
+          <ZIPCode>33458</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>9050</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>3</ContributorNumber>
+        <ContributorNameIndividual>RICHARD M RENDINA</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>661 UNIVERSITY BLVD SUITE 200</AddressLine1>
+          <City>JUPITER</City>
+          <State>FL</State>
+          <ZIPCode>33458</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>25000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>4</ContributorNumber>
+        <ContributorNameIndividual>MARJORIE C RENDINA</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>661 UNIVERSITY BLVD SUITE 200</AddressLine1>
+          <City>JUPITER</City>
+          <State>FL</State>
+          <ZIPCode>33458</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>20000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>5</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>KEY BANK</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>1441 BRICKELL AVE SUITE 1220</AddressLine1>
+          <City>MIAMI</City>
+          <State>FL</State>
+          <ZIPCode>33131</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>7500</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>6</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>CAESARS PALACE</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>3570 LAS VEGAS BLVD SO</AddressLine1>
+          <AddressLine2>ROMAN TOWER - 15TH FLOOR</AddressLine2>
+          <City>LAS VEGAS</City>
+          <State>NV</State>
+          <ZIPCode>89109</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>7500</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc4">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>12500</Amount>
+        <DisbursementsCharitablePrps>12500</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <GeneralExplanationAttachment documentId="RetDoc2">
+      <GeneralExplanation>
+        <Identifier>GENERAL RETURN INFORMATION</Identifier>
+        <Explanation>CONTRIB INCLUD GROSS PAR DESCRIPTION RECEIPTS LIN _______________ ________ _______ GOLF TOURNAMENT 146,167 115,</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>GENERAL ELECTIONS</Identifier>
+      </GeneralExplanation>
+    </GeneralExplanationAttachment>
+    <InvestmentsCorpStockSchedule documentId="RetDoc5">
+      <InvestmentsCorpStock>
+        <NameOfStock>LEHMAN BROTHERS HOLDINGS INC</NameOfStock>
+        <EOYBookValue>9844</EOYBookValue>
+        <EOYFMV>13</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="RetDoc6">
+      <OtherExpenses>
+        <Description>GOLF TOURNAMENT</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>TOURNAMENT EXPENSES</Description>
+        <RevenueAndExpensesPerBooks>91141</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK FEES</Description>
+        <RevenueAndExpensesPerBooks>1809</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>35</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>1774</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MARKETING</Description>
+        <RevenueAndExpensesPerBooks>1000</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>1000</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc7">
+      <OtherIncome>
+        <Description>GOLF TOURNAMENT</Description>
+        <RevenueAndExpensesPerBooks>30268</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="RetDoc8">
+      <Taxes>
+        <Category>LICENSES</Category>
+        <Amount>125</Amount>
+        <DisbursementsCharitablePrps>125</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

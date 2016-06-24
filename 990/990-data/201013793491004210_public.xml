@@ -1,0 +1,774 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-05-17T11:37:21-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-03-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Galusha Higgins and Galusha</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>PO Box 1699</AddressLine1>
+        <City>Helena</City>
+        <State>MT</State>
+        <ZIPCode>596241699</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-04-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>816013577</EIN>
+      <Name>
+        <BusinessNameLine1>Haynes Foundation</BusinessNameLine1>
+      </Name>
+      <NameControl>HAYN</NameControl>
+      <Phone>4064424403</Phone>
+      <USAddress>
+        <AddressLine1>409 Albert St</AddressLine1>
+        <City>Helena</City>
+        <State>MT</State>
+        <ZIPCode>59601</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>John R Kline</Name>
+      <Title>President</Title>
+      <Phone>4064420258</Phone>
+      <DateSigned>2010-05-13</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Tracy Kohl CPA</Name>
+      <Phone>4064425520</Phone>
+      <DatePrepared>2010-05-13</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>15675435</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>348365</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>348365</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>-10932</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>2172402</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc2001500001">2536</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>2536</OtherIncomeNetInvstIncm>
+        <TotalRevenueAndExpenses>339969</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>350901</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>13200</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>8250</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">4027</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>661</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>1683</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">6943</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>4639</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>0</TaxesDsbrsChrtblPrps>
+        <TravConfMeetingRevAndExpnss>323</TravConfMeetingRevAndExpnss>
+        <TravConfMeetingNetInvstIncm>0</TravConfMeetingNetInvstIncm>
+        <TravConfMeetingDsbrsChrtblPrps>213</TravConfMeetingDsbrsChrtblPrps>
+        <PrintingAndPubRevAndExpnss>720</PrintingAndPubRevAndExpnss>
+        <PrintingAndPubNetInvstIncm>0</PrintingAndPubNetInvstIncm>
+        <PrintingAndPubDsbrsChrtblPrps>0</PrintingAndPubDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">81601</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>80427</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>225</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>106814</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>85727</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>10371</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>738000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>738000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>844814</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>85727</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>748371</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-504845</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>265174</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>293081</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>59299</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>59299</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>2699130</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2018900001">2588836</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>2855810</InvestmentsCorpStockEOYFMV>
+        <InvestmentsOtherBOY>11535040</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc2018100001">11374271</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>12760326</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>14527251</TotalAssetsBOY>
+        <TotalAssetsEOY>14022406</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>15675435</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>8803826</CapitalStockBOY>
+        <CapitalStockEOY>8803826</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>5723425</RetainedEarningsBOY>
+        <RetainedEarningsEOY>5218580</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>14527251</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>14022406</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>14527251</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>14022406</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>14527251</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-504845</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>14022406</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>14022406</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2881 JP Morgan Chase</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2005-06-30</DateAcquired>
+          <DateSold>2009-04-07</DateSold>
+          <GrossSalesPrice>79256</GrossSalesPrice>
+          <CostOrOtherBasis>110893</CostOrOtherBasis>
+          <GainOrLoss>-31637</GainOrLoss>
+          <GainsMinusExcessOrLosses>-31637</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1820 Garmin</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-05-14</DateAcquired>
+          <DateSold>2009-06-03</DateSold>
+          <GrossSalesPrice>40798</GrossSalesPrice>
+          <CostOrOtherBasis>102144</CostOrOtherBasis>
+          <GainOrLoss>-61346</GainOrLoss>
+          <GainsMinusExcessOrLosses>-61346</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2800 Oracle</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2006-03-15</DateAcquired>
+          <DateSold>2009-08-11</DateSold>
+          <GrossSalesPrice>59781</GrossSalesPrice>
+          <CostOrOtherBasis>36960</CostOrOtherBasis>
+          <GainOrLoss>22821</GainOrLoss>
+          <GainsMinusExcessOrLosses>22821</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>5775 Constellation Brands</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2004-01-22</DateAcquired>
+          <DateSold>2009-09-01</DateSold>
+          <GrossSalesPrice>83389</GrossSalesPrice>
+          <CostOrOtherBasis>96789</CostOrOtherBasis>
+          <GainOrLoss>-13400</GainOrLoss>
+          <GainsMinusExcessOrLosses>-13400</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>135 Met Life</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-11-14</DateAcquired>
+          <DateSold>2009-09-17</DateSold>
+          <GrossSalesPrice>5419</GrossSalesPrice>
+          <CostOrOtherBasis>9046</CostOrOtherBasis>
+          <GainOrLoss>-3627</GainOrLoss>
+          <GainsMinusExcessOrLosses>-3627</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>862 Ishares DJ Real Estate</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2005-06-30</DateAcquired>
+          <DateSold>2009-09-17</DateSold>
+          <GrossSalesPrice>38248</GrossSalesPrice>
+          <CostOrOtherBasis>48678</CostOrOtherBasis>
+          <GainOrLoss>-10430</GainOrLoss>
+          <GainsMinusExcessOrLosses>-10430</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>500 Ishares S&amp;P 500</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2005-02-22</DateAcquired>
+          <DateSold>2009-09-17</DateSold>
+          <GrossSalesPrice>53586</GrossSalesPrice>
+          <CostOrOtherBasis>59750</CostOrOtherBasis>
+          <GainOrLoss>-6164</GainOrLoss>
+          <GainsMinusExcessOrLosses>-6164</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1176 Ishares Midcap 400</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2005-06-30</DateAcquired>
+          <DateSold>2009-09-17</DateSold>
+          <GrossSalesPrice>82494</GrossSalesPrice>
+          <CostOrOtherBasis>81297</CostOrOtherBasis>
+          <GainOrLoss>1197</GainOrLoss>
+          <GainsMinusExcessOrLosses>1197</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2358 Ishares EAFE Index</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2003-11-18</DateAcquired>
+          <DateSold>2009-09-17</DateSold>
+          <GrossSalesPrice>130467</GrossSalesPrice>
+          <CostOrOtherBasis>98321</CostOrOtherBasis>
+          <GainOrLoss>32146</GainOrLoss>
+          <GainsMinusExcessOrLosses>32146</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>3328.387 Europac Growth Fd</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2005-06-30</DateAcquired>
+          <DateSold>2009-09-17</DateSold>
+          <GrossSalesPrice>126312</GrossSalesPrice>
+          <CostOrOtherBasis>119123</CostOrOtherBasis>
+          <GainOrLoss>7189</GainOrLoss>
+          <GainsMinusExcessOrLosses>7189</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>3255.94 Trowe Price Emg Mkt</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2006-08-08</DateAcquired>
+          <DateSold>2009-09-17</DateSold>
+          <GrossSalesPrice>146220</GrossSalesPrice>
+          <CostOrOtherBasis>143014</CostOrOtherBasis>
+          <GainOrLoss>3206</GainOrLoss>
+          <GainsMinusExcessOrLosses>3206</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2174.198 Stratton Small Cap</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2006-11-17</DateAcquired>
+          <DateSold>2009-09-17</DateSold>
+          <GrossSalesPrice>85946</GrossSalesPrice>
+          <CostOrOtherBasis>106123</CostOrOtherBasis>
+          <GainOrLoss>-20177</GainOrLoss>
+          <GainsMinusExcessOrLosses>-20177</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>4181.52 ING Global RE</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-02-12</DateAcquired>
+          <DateSold>2009-09-17</DateSold>
+          <GrossSalesPrice>63225</GrossSalesPrice>
+          <CostOrOtherBasis>40728</CostOrOtherBasis>
+          <GainOrLoss>22497</GainOrLoss>
+          <GainsMinusExcessOrLosses>22497</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>103,168 Vanguard Tot Bd Mkt</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-10-08</DateAcquired>
+          <DateSold>2009-09-17</DateSold>
+          <GrossSalesPrice>1072953</GrossSalesPrice>
+          <CostOrOtherBasis>1020422</CostOrOtherBasis>
+          <GainOrLoss>52531</GainOrLoss>
+          <GainsMinusExcessOrLosses>52531</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>686 Ishares S&amp;P 500</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2005-02-22</DateAcquired>
+          <DateSold>2010-01-22</DateSold>
+          <GrossSalesPrice>76673</GrossSalesPrice>
+          <CostOrOtherBasis>81977</CostOrOtherBasis>
+          <GainOrLoss>-5304</GainOrLoss>
+          <GainsMinusExcessOrLosses>-5304</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>300 Ishares SmallCap 600</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2005-06-30</DateAcquired>
+          <DateSold>2010-01-22</DateSold>
+          <GrossSalesPrice>16620</GrossSalesPrice>
+          <CostOrOtherBasis>16632</CostOrOtherBasis>
+          <GainOrLoss>-12</GainOrLoss>
+          <GainsMinusExcessOrLosses>-12</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>348.863 Trowe Price Emg Mkt</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-12-18</DateAcquired>
+          <DateSold>2010-01-22</DateSold>
+          <GrossSalesPrice>10060</GrossSalesPrice>
+          <CostOrOtherBasis>11437</CostOrOtherBasis>
+          <GainOrLoss>-1377</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1377</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Capital Gains Dividends</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>955</GrossSalesPrice>
+          <GainOrLoss>955</GainOrLoss>
+          <GainsMinusExcessOrLosses>955</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>-10932</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>922355</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>14849163</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.062115</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>926881</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>18465536</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.050195</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>873640</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>17765472</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.049176</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>842111</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>16688559</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.050460</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>792903</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>16112572</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.049210</DistributionRatioYear5>
+        <TotalDistributionRatio>0.261156</TotalDistributionRatio>
+        <AverageDistributionRatio>0.052231</AverageDistributionRatio>
+        <NetNoncharitableAssets>14090523</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>735962</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>2652</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>738614</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>748371</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>2652</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>2652</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>2652</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>2641</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>2641</TotalCreditsAndPayments>
+        <Form2220Attached referenceDocumentId="RetDoc1192000001">X</Form2220Attached>
+        <PenaltyForUnderpayment>2</PenaltyForUnderpayment>
+        <TaxDue>13</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>0</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>MT</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>Margaret Woo</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>4064424403</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>409 Albert St</AddressLine1>
+          <City>Helena</City>
+          <State>MT</State>
+          <ZIPCode>59601</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>John R Kline PC</PersonName>
+          <USAddress>
+            <AddressLine1>P O Box 1705</AddressLine1>
+            <City>Helena</City>
+            <State>MT</State>
+            <ZIPCode>59624</ZIPCode>
+          </USAddress>
+          <Title>President</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>4400</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Robert H Lehrkind</PersonName>
+          <USAddress>
+            <AddressLine1>P O Box 8000</AddressLine1>
+            <City>Bozeman</City>
+            <State>MT</State>
+            <ZIPCode>59715</ZIPCode>
+          </USAddress>
+          <Title>Vice President</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>4400</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Margaret L Woo</PersonName>
+          <USAddress>
+            <AddressLine1>409 ALBERT ST</AddressLine1>
+            <City>Helena</City>
+            <State>MT</State>
+            <ZIPCode>59601</ZIPCode>
+          </USAddress>
+          <Title>Secretary-treasurer</Title>
+          <AvgHoursPerWkDevotedToPosition>4.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>3673</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Galusha Higgins Galusha PC</PersonName>
+          <USAddress>
+            <AddressLine1>910 N LAST CHANCE GULCH</AddressLine1>
+            <City>Helena</City>
+            <State>MT</State>
+            <ZIPCode>59601</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>4.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>727</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>14093415</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>211684</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>14305099</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>14305099</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>214576</CashDeemedCharitable>
+        <NetNoncharitableAssets>14090523</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>704526</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>704526</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>2652</TaxBasedOnInvestmentIncome>
+        <TotalTax>2652</TotalTax>
+        <DistributableAmountBeforeAdj>701874</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>701874</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>701874</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>748371</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>748371</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>2652</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>745719</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>701874</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>203975</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <TotalExcessDistriCarryover>0</TotalExcessDistriCarryover>
+        <QualifyingDistributions>748371</QualifyingDistributions>
+        <AppliedToYear1>203975</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>544396</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>0</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>157478</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>0</ExcessDistriCyovToNextYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Carroll College</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1601 N Benton Ave</AddressLine1>
+            <City>Helena</City>
+            <State>MT</State>
+            <ZIPCode>59601</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Student scholarships</PurposeOfGrantOrContribution>
+          <Amount>94000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Montana State University</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>P O Box 172440</AddressLine1>
+            <City>Bozeman</City>
+            <State>MT</State>
+            <ZIPCode>597172440</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Student scholarships</PurposeOfGrantOrContribution>
+          <Amount>200000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Montana State University Billings</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1500 University Drive</AddressLine1>
+            <City>Billings</City>
+            <State>MT</State>
+            <ZIPCode>591010298</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Student scholarships</PurposeOfGrantOrContribution>
+          <Amount>60000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Montana State University Northern</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>P O Box 7751</AddressLine1>
+            <City>Havre</City>
+            <State>MT</State>
+            <ZIPCode>59501</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Student scholarships</PurposeOfGrantOrContribution>
+          <Amount>24000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Montana Tech</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1300 West Park</AddressLine1>
+            <City>Butte</City>
+            <State>MT</State>
+            <ZIPCode>59701</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Student scholarships</PurposeOfGrantOrContribution>
+          <Amount>36000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Rocky Mountain College</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1511 Poly Drive</AddressLine1>
+            <City>Billings</City>
+            <State>MT</State>
+            <ZIPCode>59102</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Student scholarships</PurposeOfGrantOrContribution>
+          <Amount>56000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Salish-Kootenai College</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>P O Box 70</AddressLine1>
+            <City>Pablo</City>
+            <State>MT</State>
+            <ZIPCode>59855</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Student scholarships</PurposeOfGrantOrContribution>
+          <Amount>16000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>University of Great Falls</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1301 20th Street So</AddressLine1>
+            <City>Great Falls</City>
+            <State>MT</State>
+            <ZIPCode>59405</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Student scholarships</PurposeOfGrantOrContribution>
+          <Amount>32000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>University of Montana</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>32 Campus Drive</AddressLine1>
+            <City>Missoula</City>
+            <State>MT</State>
+            <ZIPCode>59807</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Student scholarships</PurposeOfGrantOrContribution>
+          <Amount>200000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>University of Montana-Western</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>710 South Atlantic</AddressLine1>
+            <City>Dillon</City>
+            <State>MT</State>
+            <ZIPCode>59725</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Student scholarships</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>738000</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>348365</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <OtherInvestmentIncomePartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>2536</ExclusionAmount>
+        </OtherInvestmentIncomePartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>-10932</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>339969</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>339969</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>Galusha Higgins &amp; Galusha</Category>
+        <Amount>4027</Amount>
+        <NetInvestmentIncome>661</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>1683</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorpStock>
+        <NameOfStock>Corporate stocks</NameOfStock>
+        <EOYBookValue>2588836</EOYBookValue>
+        <EOYFMV>2855810</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOther>
+        <CategoryOrItem>Mutual funds</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>11374271</BookValue>
+        <EOYFMV>12760326</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>Insurance</Description>
+        <RevenueAndExpensesPerBooks>949</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Investment fees</Description>
+        <RevenueAndExpensesPerBooks>80426</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>80426</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Bank charges and wire fees</Description>
+        <RevenueAndExpensesPerBooks>226</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>1</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>225</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc2001500001">
+      <OtherIncome>
+        <Description>Royalties</Description>
+        <RevenueAndExpensesPerBooks>107</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>107</NetInvestmentIncome>
+        <AdjustedNetIncome>107</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>NASD settlements</Description>
+        <RevenueAndExpensesPerBooks>2429</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>2429</NetInvestmentIncome>
+        <AdjustedNetIncome>2429</AdjustedNetIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>Foreign taxes</Category>
+        <Amount>4639</Amount>
+        <NetInvestmentIncome>4639</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>Excise taxes</Category>
+        <Amount>2304</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

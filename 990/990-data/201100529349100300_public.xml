@@ -1,0 +1,456 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-21T16:20:36-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>THOMAS V BRUNELLE CPA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>3010 COMPASS POINTE WALK</AddressLine1>
+        <City>ALPHARETTA</City>
+        <State>GA</State>
+        <ZIPCode>30005</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>582047343</EIN>
+      <Name>
+        <BusinessNameLine1>BRIAN G DYSON FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>BRIA</NameControl>
+      <Phone>4043642940</Phone>
+      <USAddress>
+        <AddressLine1>3060 PEACHTREE ROAD NW NO 1465</AddressLine1>
+        <City>ATLANTA</City>
+        <State>GA</State>
+        <ZIPCode>30305</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>BRIAN DYSON</Name>
+      <Title>DIRECTOR</Title>
+      <Phone>4043642940</Phone>
+      <DateSigned>2011-02-15</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>THOMAS BRUNELLE</Name>
+      <Phone>7706645836</Phone>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>766274</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>15</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>15</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>20440</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>20440</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>334</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>342</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>334</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>20789</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>20789</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">1186</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>0</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>1186</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">921</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>0</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>0</TaxesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>2107</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>1186</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>35956</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>35956</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>38063</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>37142</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-17274</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>20789</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>14936</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>5118</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>5118</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>16171</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2018900001">15988</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>761156</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>31107</TotalAssetsBOY>
+        <TotalAssetsEOY>21106</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>766274</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>191444</CapitalStockBOY>
+        <CapitalStockEOY>191444</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>-160337</RetainedEarningsBOY>
+        <RetainedEarningsEOY>-170338</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>31107</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>21106</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>31107</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>21106</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>31107</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-17274</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="RetDoc2049700001">7273</OtherIncreases>
+        <Subtotal>21106</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>21106</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>6 SH COCA-COLA</DescriptionOfAsset>
+          <HowAcquired>D</HowAcquired>
+          <DateAcquired>1987-12-01</DateAcquired>
+          <DateSold>2010-12-01</DateSold>
+          <GrossSalesPrice>342</GrossSalesPrice>
+          <CostOrOtherBasis>8</CostOrOtherBasis>
+          <GainOrLoss>334</GainOrLoss>
+          <GainsMinusExcessOrLosses>334</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>334</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>48459</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>618791</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.078312</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>40000</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>652945</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.061261</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>74372</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>715359</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.103965</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>21000</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>602068</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.034880</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>37385</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>583882</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.064028</DistributionRatioYear5>
+        <TotalDistributionRatio>0.342446</TotalDistributionRatio>
+        <AverageDistributionRatio>0.068489</AverageDistributionRatio>
+        <NetNoncharitableAssets>653232</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>44739</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>208</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>44947</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>37142</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>416</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>416</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>416</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>480</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>480</TotalCreditsAndPayments>
+        <Overpayment>64</Overpayment>
+        <AmountCreditedToNextYear>64</AmountCreditedToNextYear>
+        <AmountToBeRefunded>0</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>GA</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>ELSE ANDERSON</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>4043642940</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>3060 PEACHTREE RD NW STE 1465</AddressLine1>
+          <City>ATLANTA</City>
+          <State>GA</State>
+          <ZIPCode>30305</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>0</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BRIAN G DYSON</PersonName>
+          <USAddress>
+            <AddressLine1>3060 PEACHTREE RD NW STE 1465</AddressLine1>
+            <City>ATLANTA</City>
+            <State>GA</State>
+            <ZIPCode>30305</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>655197</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>7983</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>663180</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>663180</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>9948</CashDeemedCharitable>
+        <NetNoncharitableAssets>653232</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>32662</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>32662</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>416</TaxBasedOnInvestmentIncome>
+        <TotalTax>416</TotalTax>
+        <DistributableAmountBeforeAdj>32246</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>32246</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>32246</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>37142</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>37142</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>37142</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>32246</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear3>9543</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>7922</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>18401</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>35866</TotalExcessDistriCarryover>
+        <QualifyingDistributions>37142</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>32246</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>4896</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>40762</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>40762</ExcessDistriCyovToNextYear>
+        <ExcessFromYear3>9543</ExcessFromYear3>
+        <ExcessFromYear2>7922</ExcessFromYear2>
+        <ExcessFromYear1>18401</ExcessFromYear1>
+        <ExcessFromCurrentYear>4896</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>BRIAN G DYSON</ContributingManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>BRIAN DYSON</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>3060 PEACHTREE RD NW STE 1465</AddressLine1>
+            <City>ATLANTA</City>
+            <State>GA</State>
+            <ZIPCode>30305</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>4043642940</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>WRITTEN</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>NONE</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <AppicationSubmissionInfo>
+          <RecipientName>CHATHAM INTERNATIONAL</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>3060 PEACHTREE RD NW STE 1465</AddressLine1>
+            <City>ATLANTA</City>
+            <State>GA</State>
+            <ZIPCode>30305</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>4043642940</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>WRITTEN</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>NONE</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ATLANTA INTERNATIONAL SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2890 NORTH FULTON DR</AddressLine1>
+            <City>ATLANTA</City>
+            <State>GA</State>
+            <ZIPCode>30305</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>7493</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GA TENNIS FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3270 HABERSHAM RD</AddressLine1>
+            <City>ATLANTA</City>
+            <State>GA</State>
+            <ZIPCode>30305</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HELP ARGENTINA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>108 HUDSON STREET</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10163</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>13500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>APPALACHIAN STATE UNIVERSITY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>APPALACHIAN STATE UNIVERSITY</AddressLine1>
+            <City>BOONE</City>
+            <State>NC</State>
+            <ZIPCode>28608</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>14463</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>35956</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>15</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>20440</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>334</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>20789</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>20789</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>TAX PREP</Category>
+        <Amount>1186</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>1186</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorpStock>
+        <NameOfStock>COCA COLA CO</NameOfStock>
+        <EOYBookValue>15988</EOYBookValue>
+        <EOYFMV>761156</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherIncreasesSchedule documentId="RetDoc2049700001">
+      <OtherIncreases>
+        <Description>BASIS VS FMV ON STOCK DISTRIBUTION</Description>
+        <Amount>7273</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>IRS</Category>
+        <Amount>921</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

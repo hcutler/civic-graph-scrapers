@@ -1,0 +1,758 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-08-18T14:21:56-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-05-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>SHEEHAN &amp; COMPANY CPA PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>230 PARK AVENUE 23RD FLOOR</AddressLine1>
+        <City>NEW YORK</City>
+        <State>NY</State>
+        <ZIPCode>101690124</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-06-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>201213788</EIN>
+      <Name>
+        <BusinessNameLine1>ALLEN E &amp; PATRICIA M MURRAY FOUNDATION TRUST</BusinessNameLine1>
+      </Name>
+      <NameControl>ALLE</NameControl>
+      <Phone>6316246929</Phone>
+      <USAddress>
+        <AddressLine1>C/O P MURRAY 250 FOXHUNT CRESCENT</AddressLine1>
+        <City>SYOSSET</City>
+        <State>NY</State>
+        <ZIPCode>11791</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>PATRICIA MURRAY</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>6316246929</Phone>
+      <DateSigned>2010-07-15</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Kevin J Ryan</Name>
+      <Phone>2129624470</Phone>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>174932</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>2260</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>2260</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>-26049</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>176471</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc2001500001">592</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>592</OtherIncomeNetInvstIncm>
+        <TotalRevenueAndExpenses>-23197</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>2852</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">98</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>0</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>0</TaxesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">1050</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>0</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>0</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>1148</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>10000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>10000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>11148</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>10000</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-34345</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>2852</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>2196</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>6322</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>6322</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsOtherBOY>218645</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc2018100001">180174</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>168610</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>220841</TotalAssetsBOY>
+        <TotalAssetsEOY>186496</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>174932</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>255912</CapitalStockBOY>
+        <CapitalStockEOY>255912</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>-35071</RetainedEarningsBOY>
+        <RetainedEarningsEOY>-69416</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>220841</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>186496</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>220841</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>186496</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>220841</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-34345</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>186496</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>186496</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>DISP OF 30 shrs POWERSHARES DB COMMODITY FUND</DescriptionOfAsset>
+          <DateAcquired>2008-04-21</DateAcquired>
+          <DateSold>2009-11-18</DateSold>
+          <GrossSalesPrice>473</GrossSalesPrice>
+          <GainOrLoss>473</GainOrLoss>
+          <GainsMinusExcessOrLosses>473</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>THRU POWERSHARES DBC PARTNERSHIP</DescriptionOfAsset>
+          <GainOrLoss>34</GainOrLoss>
+          <GainsMinusExcessOrLosses>34</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>THRU POWERSHARES DBC PARTNERSHIP</DescriptionOfAsset>
+          <GainOrLoss>-53</GainOrLoss>
+          <GainsMinusExcessOrLosses>-53</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>124 METROPOLITAN WEST TOTAL RETURN BOND FD DTD 1/1/2008 $0.506</DescriptionOfAsset>
+          <DateAcquired>2009-06-15</DateAcquired>
+          <DateSold>2009-07-21</DateSold>
+          <GrossSalesPrice>1157</GrossSalesPrice>
+          <CostOrOtherBasis>1125</CostOrOtherBasis>
+          <GainOrLoss>32</GainOrLoss>
+          <GainsMinusExcessOrLosses>32</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>517 METROPOLITAN WEST TOTAL RETURN BOND FD DTD 1/1/2008 $0.506</DescriptionOfAsset>
+          <DateAcquired>2009-06-15</DateAcquired>
+          <DateSold>2009-08-26</DateSold>
+          <GrossSalesPrice>4943</GrossSalesPrice>
+          <CostOrOtherBasis>4669</CostOrOtherBasis>
+          <GainOrLoss>274</GainOrLoss>
+          <GainsMinusExcessOrLosses>274</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>345 BLACKROCK LARGE CAP VALUE FUND</DescriptionOfAsset>
+          <DateAcquired>2009-04-15</DateAcquired>
+          <DateSold>2009-10-01</DateSold>
+          <GrossSalesPrice>4423</GrossSalesPrice>
+          <CostOrOtherBasis>3767</CostOrOtherBasis>
+          <GainOrLoss>656</GainOrLoss>
+          <GainsMinusExcessOrLosses>656</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>633.9889 HENDERSON EUROPEAN FOCUS FUND</DescriptionOfAsset>
+          <DateAcquired>2009-08-26</DateAcquired>
+          <DateSold>2009-10-01</DateSold>
+          <GrossSalesPrice>14854</GrossSalesPrice>
+          <CostOrOtherBasis>9791</CostOrOtherBasis>
+          <GainOrLoss>5063</GainOrLoss>
+          <GainsMinusExcessOrLosses>5063</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>274.528 METROPOLITAN WEST TOTAL RETURN BOND FD DTD 1/1/2008 $0.506</DescriptionOfAsset>
+          <DateAcquired>2008-12-12</DateAcquired>
+          <DateSold>2009-10-01</DateSold>
+          <GrossSalesPrice>2685</GrossSalesPrice>
+          <CostOrOtherBasis>2444</CostOrOtherBasis>
+          <GainOrLoss>241</GainOrLoss>
+          <GainsMinusExcessOrLosses>241</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>25 SPDR GOLD TRUST</DescriptionOfAsset>
+          <DateAcquired>2009-07-23</DateAcquired>
+          <DateSold>2009-10-01</DateSold>
+          <GrossSalesPrice>2455</GrossSalesPrice>
+          <CostOrOtherBasis>2233</CostOrOtherBasis>
+          <GainOrLoss>222</GainOrLoss>
+          <GainsMinusExcessOrLosses>222</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>35 AIM EUROPEAN GROWTH FUND</DescriptionOfAsset>
+          <DateAcquired>2009-10-01</DateAcquired>
+          <DateSold>2009-11-18</DateSold>
+          <GrossSalesPrice>992</GrossSalesPrice>
+          <CostOrOtherBasis>922</CostOrOtherBasis>
+          <GainOrLoss>70</GainOrLoss>
+          <GainsMinusExcessOrLosses>70</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>100 MFS VALUE FUND</DescriptionOfAsset>
+          <DateAcquired>2009-10-01</DateAcquired>
+          <DateSold>2009-11-18</DateSold>
+          <GrossSalesPrice>2071</GrossSalesPrice>
+          <CostOrOtherBasis>1956</CostOrOtherBasis>
+          <GainOrLoss>115</GainOrLoss>
+          <GainsMinusExcessOrLosses>115</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>3 SPDR GOLD TRUST</DescriptionOfAsset>
+          <DateAcquired>2009-04-17</DateAcquired>
+          <DateSold>2009-11-18</DateSold>
+          <GrossSalesPrice>336</GrossSalesPrice>
+          <CostOrOtherBasis>256</CostOrOtherBasis>
+          <GainOrLoss>80</GainOrLoss>
+          <GainsMinusExcessOrLosses>80</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>67.382 FIDELITY CONTRAFUND INC</DescriptionOfAsset>
+          <DateAcquired>2010-02-08</DateAcquired>
+          <DateSold>2010-02-10</DateSold>
+          <GrossSalesPrice>3726</GrossSalesPrice>
+          <CostOrOtherBasis>2987</CostOrOtherBasis>
+          <GainOrLoss>739</GainOrLoss>
+          <GainsMinusExcessOrLosses>739</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>175 DWS CAPITAL GROWTH</DescriptionOfAsset>
+          <DateAcquired>2010-02-10</DateAcquired>
+          <DateSold>2010-03-17</DateSold>
+          <GrossSalesPrice>8692</GrossSalesPrice>
+          <CostOrOtherBasis>7936</CostOrOtherBasis>
+          <GainOrLoss>756</GainOrLoss>
+          <GainsMinusExcessOrLosses>756</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>400 MFS VALUE FUND</DescriptionOfAsset>
+          <DateAcquired>2009-10-01</DateAcquired>
+          <DateSold>2010-03-17</DateSold>
+          <GrossSalesPrice>8712</GrossSalesPrice>
+          <CostOrOtherBasis>7824</CostOrOtherBasis>
+          <GainOrLoss>888</GainOrLoss>
+          <GainsMinusExcessOrLosses>888</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>4 SPDR GOLD TRUST</DescriptionOfAsset>
+          <DateAcquired>2010-03-17</DateAcquired>
+          <DateSold>2010-05-19</DateSold>
+          <GrossSalesPrice>467</GrossSalesPrice>
+          <CostOrOtherBasis>440</CostOrOtherBasis>
+          <GainOrLoss>27</GainOrLoss>
+          <GainsMinusExcessOrLosses>27</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>300 EATON VANCE STR EMRG MKTS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-05-11</DateAcquired>
+          <DateSold>2009-06-05</DateSold>
+          <GrossSalesPrice>3213</GrossSalesPrice>
+          <CostOrOtherBasis>4209</CostOrOtherBasis>
+          <GainOrLoss>-996</GainOrLoss>
+          <GainsMinusExcessOrLosses>-996</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>325 HENDERSON EUROPEAN FOCUS FUND</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-12-10</DateAcquired>
+          <DateSold>2009-06-15</DateSold>
+          <GrossSalesPrice>6074</GrossSalesPrice>
+          <CostOrOtherBasis>9858</CostOrOtherBasis>
+          <GainOrLoss>-3784</GainOrLoss>
+          <GainsMinusExcessOrLosses>-3784</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>205 DWS RREEF GLOBAL REAL ESTATE</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-04-21</DateAcquired>
+          <DateSold>2009-07-22</DateSold>
+          <GrossSalesPrice>1203</GrossSalesPrice>
+          <CostOrOtherBasis>2101</CostOrOtherBasis>
+          <GainOrLoss>-898</GainOrLoss>
+          <GainsMinusExcessOrLosses>-898</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>60 HENDERSON EUROPEAN FOCUS FUND</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2006-01-12</DateAcquired>
+          <DateSold>2009-07-22</DateSold>
+          <GrossSalesPrice>1161</GrossSalesPrice>
+          <CostOrOtherBasis>1618</CostOrOtherBasis>
+          <GainOrLoss>-457</GainOrLoss>
+          <GainsMinusExcessOrLosses>-457</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>3161 BLACKROCK LG CAP VALUE</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-05-21</DateAcquired>
+          <DateSold>2009-10-01</DateSold>
+          <GrossSalesPrice>40524</GrossSalesPrice>
+          <CostOrOtherBasis>56013</CostOrOtherBasis>
+          <GainOrLoss>-15489</GainOrLoss>
+          <GainsMinusExcessOrLosses>-15489</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>598.3941 HENDERSON EUROPEAN FOCUS FUND</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2006-01-12</DateAcquired>
+          <DateSold>2009-10-01</DateSold>
+          <GrossSalesPrice>14020</GrossSalesPrice>
+          <CostOrOtherBasis>16148</CostOrOtherBasis>
+          <GainOrLoss>-2128</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2128</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>60 FIDELITY CONTRAFUND INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-05-21</DateAcquired>
+          <DateSold>2009-11-18</DateSold>
+          <GrossSalesPrice>3449</GrossSalesPrice>
+          <CostOrOtherBasis>4148</CostOrOtherBasis>
+          <GainOrLoss>-699</GainOrLoss>
+          <GainsMinusExcessOrLosses>-699</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>55 ISHARES INC MCSI PAC EX-JAPAN</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-05-21</DateAcquired>
+          <DateSold>2009-11-18</DateSold>
+          <GrossSalesPrice>2339</GrossSalesPrice>
+          <CostOrOtherBasis>2805</CostOrOtherBasis>
+          <GainOrLoss>-466</GainOrLoss>
+          <GainsMinusExcessOrLosses>-466</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>30 shrs POWERSHARES DB COMMODITY FUND</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2006-10-04</DateAcquired>
+          <DateSold>2009-11-18</DateSold>
+          <GrossSalesPrice>736</GrossSalesPrice>
+          <CostOrOtherBasis>697</CostOrOtherBasis>
+          <GainOrLoss>39</GainOrLoss>
+          <GainsMinusExcessOrLosses>39</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>741.687 FIDELITY CONTRAFUND INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-05-21</DateAcquired>
+          <DateSold>2010-02-10</DateSold>
+          <GrossSalesPrice>41008</GrossSalesPrice>
+          <CostOrOtherBasis>51220</CostOrOtherBasis>
+          <GainOrLoss>-10212</GainOrLoss>
+          <GainsMinusExcessOrLosses>-10212</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>185 COLUMBIA SELECT SMALL CAP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-06-06</DateAcquired>
+          <DateSold>2010-03-17</DateSold>
+          <GrossSalesPrice>2792</GrossSalesPrice>
+          <CostOrOtherBasis>3787</CostOrOtherBasis>
+          <GainOrLoss>-995</GainOrLoss>
+          <GainsMinusExcessOrLosses>-995</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>95 T ROSE PRICE JAPAN FD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2005-10-05</DateAcquired>
+          <DateSold>2010-03-17</DateSold>
+          <GrossSalesPrice>718</GrossSalesPrice>
+          <CostOrOtherBasis>941</CostOrOtherBasis>
+          <GainOrLoss>-223</GainOrLoss>
+          <GainsMinusExcessOrLosses>-223</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>25 SPDR GOLD TRUST</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-04-17</DateAcquired>
+          <DateSold>2010-05-19</DateSold>
+          <GrossSalesPrice>2920</GrossSalesPrice>
+          <CostOrOtherBasis>2131</CostOrOtherBasis>
+          <GainOrLoss>789</GainOrLoss>
+          <GainsMinusExcessOrLosses>789</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>48 T ROSE PRICE JAPAN FD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2005-10-05</DateAcquired>
+          <DateSold>2009-07-22</DateSold>
+          <GrossSalesPrice>328</GrossSalesPrice>
+          <CostOrOtherBasis>475</CostOrOtherBasis>
+          <GainOrLoss>-147</GainOrLoss>
+          <GainsMinusExcessOrLosses>-147</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>-26049</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>13000</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>174524</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.074488</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>22927</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>275001</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.083371</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>14000</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>272493</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.051377</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>23830</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>257551</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.092525</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>17000</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>216495</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.078524</DistributionRatioYear5>
+        <TotalDistributionRatio>0.380285</TotalDistributionRatio>
+        <AverageDistributionRatio>0.076057</AverageDistributionRatio>
+        <NetNoncharitableAssets>6530</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>497</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>29</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>526</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>10000</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>29</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>29</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>29</TaxBasedOnInvestmentIncome>
+        <TotalCreditsAndPayments>0</TotalCreditsAndPayments>
+        <TaxDue>29</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>NY</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>ALLEN R MURRAY</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>2128152233</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>250 FOXHUNT CRESCENT</AddressLine1>
+          <City>SYOSSET</City>
+          <State>NY</State>
+          <ZIPCode>11791</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>PATRICIA M MURRAY</PersonName>
+          <USAddress>
+            <AddressLine1>250 FOXHUNT CRESCENT</AddressLine1>
+            <City>SYOSSET</City>
+            <State>NY</State>
+            <ZIPCode>11791</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ALLEN R MURRAY</PersonName>
+          <USAddress>
+            <AddressLine1>272 SOUTHWOOD CIRCLE</AddressLine1>
+            <City>SYOSSET</City>
+            <State>NY</State>
+            <ZIPCode>11791</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>EILEEN M MURRAY</PersonName>
+          <USAddress>
+            <AddressLine1>250 FOXHUNT CRESCENT</AddressLine1>
+            <City>SYOSSET</City>
+            <State>NY</State>
+            <ZIPCode>11791</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>6537</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>92</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>6629</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>6629</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>99</CashDeemedCharitable>
+        <NetNoncharitableAssets>6530</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>327</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>327</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>29</TaxBasedOnInvestmentIncome>
+        <TotalTax>29</TotalTax>
+        <DistributableAmountBeforeAdj>298</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>298</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>298</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>10000</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>10000</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>29</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>9971</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>298</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear5>6485</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>11292</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>819</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>9323</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>4330</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>32249</TotalExcessDistriCarryover>
+        <QualifyingDistributions>10000</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>298</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>9702</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>41951</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>6485</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>35466</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>11292</ExcessFromYear4>
+        <ExcessFromYear3>819</ExcessFromYear3>
+        <ExcessFromYear2>9323</ExcessFromYear2>
+        <ExcessFromYear1>4330</ExcessFromYear1>
+        <ExcessFromCurrentYear>9702</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>PATRICIA M MURRAY</ContributingManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>PATRICIA M MURRAY OR ALLEN R MURRAY</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>250 FOXHUNT CRESCENT</AddressLine1>
+            <City>SYOSSET</City>
+            <State>NY</State>
+            <ZIPCode>11791</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>2128152233</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>APPLICATIONS TO BE SUBMITTED IN WRITING</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>N/A</SubmissionDeadlines>
+          <RestrictionsOnAwards>AWARDS ONLY TO THOSE ORGANIZATIONS DESCRIBED IN IRC 170(C)(2)(B), 2055(A) AND 2522(A) FOR CHARITABLE, EDUCATIONAL, SCIENTIFIC OR LITERARY PURPOSES.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CATHOLIC MINISTRIES APPEAL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>200 west centennial avenue suite</AddressLine1>
+            <AddressLine2>202</AddressLine2>
+            <City>roosevelt</City>
+            <State>NY</State>
+            <ZIPCode>11575</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>OUR LADY OF MERCY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>815 CONVENT ROAD</AddressLine1>
+            <City>SYOSSET</City>
+            <State>NY</State>
+            <ZIPCode>11791</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SPECIAL OLYMPICS OF PALM BEACH COUNTY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2728 LAKE WORTH ROAD</AddressLine1>
+            <City>LAKE WORTH</City>
+            <State>FL</State>
+            <ZIPCode>33461</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ST EDWARDS THE CONFESSOR CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>205 JACKSON AVENUE</AddressLine1>
+            <City>SYOSSET</City>
+            <State>NY</State>
+            <ZIPCode>11791</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>10000</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <RelatedOrExemptFunctionIncome>2260</RelatedOrExemptFunctionIncome>
+        </DividendsAndIntFromSecPartVII>
+        <OtherInvestmentIncomePartVII>
+          <RelatedOrExemptFunctionIncome>592</RelatedOrExemptFunctionIncome>
+        </OtherInvestmentIncomePartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>-26049</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>0</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>-23197</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>-23197</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>4,8</LineNumber>
+          <RelationshipStatement>THE ALLEN E. AND PATRICIA M. MURRAY FOUNDATION TRUST, A NON-OPERATING PRIVATE FOUNDATION, IS PRIMARILY SUPPORTED BY CONTRIBUTIONS. IT RAISES REVENUE THROUGH INVESTMENT ACTIVITIES FOR THE PURPOSE OF PROVIDING FINANCIAL SUPPORT IN THE FORM OF GIFTS AND GRANTS TO DESERVING CHARITABLE, EDUCATIONAL, SCIENTIFIC AND LITERARY PROJECTS AND ORGANIZATIONS. SECTION 103.</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOther>
+        <CategoryOrItem>DEUTSCHE BANK; ALTERNATIVE INVESTMENT FUNDS</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>18643</BookValue>
+        <EOYFMV>15177</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>DEUTSCHE BANK; EQUITY INVESTMENT FUNDS</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>150693</BookValue>
+        <EOYFMV>142917</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>dEUTSCHE BANK; FIXED INCOME</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>10838</BookValue>
+        <EOYFMV>10516</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>DEUTSCHE BANK; INVESTMENT MGMT FEES</Description>
+        <RevenueAndExpensesPerBooks>1015</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>THRU POWERSHARES DBC PARTNERSHIP</Description>
+        <RevenueAndExpensesPerBooks>35</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc2001500001">
+      <OtherIncome>
+        <Description>THRU POWERSHARES DBC PARTNERSHIP</Description>
+        <RevenueAndExpensesPerBooks>592</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>592</NetInvestmentIncome>
+        <AdjustedNetIncome>592</AdjustedNetIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>FOREIGN TAXES PAID</Category>
+        <Amount>98</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

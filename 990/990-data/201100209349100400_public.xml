@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-01-18T08:05:57-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-09-30</TaxPeriodEndDate>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-10-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>137133247</EIN>
+      <Name>
+        <BusinessNameLine1>EDITH PC TAYLOR CHARITABLE TRUST</BusinessNameLine1>
+        <BusinessNameLine2>XXX-XX-XXXX R52537009</BusinessNameLine2>
+      </Name>
+      <NameControl>TAYL</NameControl>
+      <Phone>4149771210</Phone>
+      <USAddress>
+        <AddressLine1>C/O JPMORGAN CHASE BANK PO BOX 3038</AddressLine1>
+        <City>MILWAUKEE</City>
+        <State>WI</State>
+        <ZIPCode>53201</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>JACK L UDOVICH</Name>
+      <Title>Trustee</Title>
+      <Phone>4149771210</Phone>
+      <DateSigned>2011-02-08</DateSigned>
+    </Officer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="8">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>1128372</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>67</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>67</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>24443</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>24443</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>19144</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>424585</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>19144</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>43654</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>43654</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>10913</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>8185</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>2728</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">825</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>0</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>825</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">628</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>59</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>0</TaxesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>12366</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>8244</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>3553</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>63000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>63000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>75366</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>8244</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>66553</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-31712</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>35410</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashEOY>25500</CashEOY>
+        <CashEOYFMV>25500</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>101434</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>44032</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>44032</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>482812</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2018900001">575827</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>617825</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>496218</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="RetDoc2044400001">403387</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>441015</InvestmentsCorpBondsEOYFMV>
+        <TotalAssetsBOY>1080464</TotalAssetsBOY>
+        <TotalAssetsEOY>1048746</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>1128372</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>1080464</CapitalStockBOY>
+        <CapitalStockEOY>1048746</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>0</RetainedEarningsBOY>
+        <RetainedEarningsEOY>0</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>1080464</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>1048746</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>1080464</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>1048746</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>1080464</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-31712</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="RetDoc2049700001">23</OtherIncreases>
+        <Subtotal>1048775</Subtotal>
+        <OtherDecreases referenceDocumentId="RetDoc2049800001">29</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>1048746</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>PUBLICLY TRADED SECURITIES</DescriptionOfAsset>
+          <GrossSalesPrice>424576</GrossSalesPrice>
+          <CostOrOtherBasis>405441</CostOrOtherBasis>
+          <GainOrLoss>19135</GainOrLoss>
+          <GainsMinusExcessOrLosses>19135</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Capital Gains Dividends</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>9</GrossSalesPrice>
+          <GainOrLoss>9</GainOrLoss>
+          <GainsMinusExcessOrLosses>9</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>19144</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>3304</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>1065624</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.003101</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>66211</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>1168965</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.056641</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>64225</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>1196560</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.053675</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>61441</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>1132731</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.054241</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>59109</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>1142179</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.051751</DistributionRatioYear5>
+        <TotalDistributionRatio>0.219409</TotalDistributionRatio>
+        <AverageDistributionRatio>0.043882</AverageDistributionRatio>
+        <NetNoncharitableAssets>1074554</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>47154</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>354</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>47508</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>66553</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>354</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>354</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>354</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>560</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>560</TotalCreditsAndPayments>
+        <Overpayment>206</Overpayment>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+        <AmountToBeRefunded>206</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>NJ</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>JPMORGAN CHASE BANK NA</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>9732852236</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>225 South Street</AddressLine1>
+          <City>Morristown</City>
+          <State>NJ</State>
+          <ZIPCode>079605336</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>1</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>0</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JPMORGAN CHASE BANK NA</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 3038</AddressLine1>
+            <City>MILWAUKEE</City>
+            <State>WI</State>
+            <ZIPCode>53201</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>10913</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>NONE</Description1>
+        <Expenses1>0</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>NONE</Description1>
+        <Amount1>0</Amount1>
+        <AllOthProgRltdInvestmentsTotal referenceDocumentId="RetDoc2063500001">0</AllOthProgRltdInvestmentsTotal>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>1021406</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>69512</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>1090918</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>1090918</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>16364</CashDeemedCharitable>
+        <NetNoncharitableAssets>1074554</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>53728</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>53728</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>354</TaxBasedOnInvestmentIncome>
+        <TotalTax>354</TotalTax>
+        <DistributableAmountBeforeAdj>53374</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>53374</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>53374</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>66553</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>66553</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>354</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>66199</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>53374</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear2>1676</ExcessDistriCarryoverYear2>
+        <TotalExcessDistriCarryover>1676</TotalExcessDistriCarryover>
+        <QualifyingDistributions>66553</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>53374</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>13179</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>14855</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>14855</ExcessDistriCyovToNextYear>
+        <ExcessFromYear2>1676</ExcessFromYear2>
+        <ExcessFromCurrentYear>13179</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>JPMORGAN CHASE BANK NA ATTN GREGORY</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>225 SOUTH STREET</AddressLine1>
+            <City>morristown</City>
+            <State>NJ</State>
+            <ZIPCode>07960</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>9732852212</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>NO FORMAL APPLICATION</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>TO ASSIST QUALIFIED CHARITABLE INSTITUTIONS SUPPORTING HOMELESS INDIVIDUALS.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GREATER UNITY FELLOWSHIP CHURCH OF GOD AND CHRIST</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1360</AddressLine1>
+            <City>Dover</City>
+            <State>NJ</State>
+            <ZIPCode>078021360</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROGRAM SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>7500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HOMELESS SOLUTIONS INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>6 DUMONT PLACE 3RD FLOOR</AddressLine1>
+            <City>MORRISTOWN</City>
+            <State>NJ</State>
+            <ZIPCode>079602500</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROGRAM SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>INTERFAITH FOOD PANTRY INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>540A W HANOVER AVE</AddressLine1>
+            <City>MORRISTOWN</City>
+            <State>NJ</State>
+            <ZIPCode>079602500</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROGRAM SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>4000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JERSEY BATTERED WOMEN'S SERVICE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 70</AddressLine1>
+            <City>MORRIS PLAINS</City>
+            <State>NJ</State>
+            <ZIPCode>07950</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROGRAM SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MARKET STREET MISSION INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>9 MARKET ST</AddressLine1>
+            <City>MORRISTOWN</City>
+            <State>NJ</State>
+            <ZIPCode>079605122</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROGRAM SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MONTCLAIR SALVATION ARMY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>46 PARK STREET</AddressLine1>
+            <City>MONTCLAIR</City>
+            <State>NJ</State>
+            <ZIPCode>07042</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROGRAM SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>OUR PLACE INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>51 WASHINGTON ST</AddressLine1>
+            <City>MORRISTOWN</City>
+            <State>NJ</State>
+            <ZIPCode>079606811</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROGRAM SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>STANLEY CONGREGATIONAL CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>94 FAIRMOUNT AVE</AddressLine1>
+            <City>CHATHAM</City>
+            <State>NJ</State>
+            <ZIPCode>07928</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROGRAM SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>4000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE CHATHAM UNITED METHODIST CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>460 MAIN STREET</AddressLine1>
+            <City>CHATHAM</City>
+            <State>NJ</State>
+            <ZIPCode>07928</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROGRAM SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ZUFALL HEALTH CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>17 S Warren StreeT</AddressLine1>
+            <City>Dover</City>
+            <State>NJ</State>
+            <ZIPCode>07801</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROGRAM SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FAMILY PROMISE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>71 SUMMIT AVE</AddressLine1>
+            <City>SUMMIT</City>
+            <State>NJ</State>
+            <ZIPCode>07901</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROGRAM SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>7500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SALVATION ARMY NATIONAL CORP</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>10 FRANKLIN STREET</AddressLine1>
+            <City>ROCHESTER</City>
+            <State>NY</State>
+            <ZIPCode>146044310</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROGRAM SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>4000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TRINITY LUTHERAN CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>123 E BLACKWELL STREET</AddressLine1>
+            <City>Dover</City>
+            <State>NJ</State>
+            <ZIPCode>07801</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROGRAM SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SAGE ELDERCARE INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>290 BROAD STREET</AddressLine1>
+            <City>SUMMIT</City>
+            <State>NJ</State>
+            <ZIPCode>07901</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROGRAM SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>63000</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>67</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>24443</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>19144</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>43654</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>43654</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>TAX PREPARATION FEE</Category>
+        <Amount>825</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>825</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <AllOthProgRltdInvestmentsSch documentId="RetDoc2063500001">
+      <AllOthProgRltdInvestments>
+        <Description>NONE</Description>
+        <Amount>0</Amount>
+      </AllOthProgRltdInvestments>
+    </AllOthProgRltdInvestmentsSch>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc2044400001">
+      <InvestmentsCorpBonds>
+        <NameOfBond>GOLDMAN SACHS TRUST HIGH YIELD FUND INSTITUTIONAL SHS - 2836.879 SHS</NameOfBond>
+        <EOYBookValue>20000</EOYBookValue>
+        <EOYFMV>20397</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>PAYDEN HIGH INCOME FUND - 3305.785 SHS</NameOfBond>
+        <EOYBookValue>20000</EOYBookValue>
+        <EOYFMV>23802</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>EATON VANCE MUT FDS TR FLT RT CL I - 2508.552 SHS</NameOfBond>
+        <EOYBookValue>22000</EOYBookValue>
+        <EOYFMV>22025</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>JPMORGAN CORE BOND FUND SELECT SHARE CLASS FUND 3720 3.40% - 23612.693 SHS</NameOfBond>
+        <EOYBookValue>253245</EOYBookValue>
+        <EOYFMV>275560</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>JPMORGAN HIGH YIELD BOND FUND SELECT CLASS FUND 3580 6.94% - 5381.021 SHS</NameOfBond>
+        <EOYBookValue>36000</EOYBookValue>
+        <EOYFMV>43263</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>JPMORGAN STRATEGIC INCOME OPPORTUNITIES FUND 3844 2.95% - 1885.922 SHS</NameOfBond>
+        <EOYBookValue>19118</EOYBookValue>
+        <EOYFMV>22103</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>DREYFUS/LAUREL FDS TR PRM EMRGN MK I - 778 SHS</NameOfBond>
+        <EOYBookValue>11024</EOYBookValue>
+        <EOYFMV>11522</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>JPMORGAN INTERNATIONAL CURRENCY INCOME FUND 1.28% - 2016.499 SHS</NameOfBond>
+        <EOYBookValue>22000</EOYBookValue>
+        <EOYFMV>22343</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorpStock>
+        <NameOfStock>AMERICAN CENTURY 3 INCOME FUND (FUND 123) - 3152.364 SHS</NameOfStock>
+        <EOYBookValue>18000</EOYBookValue>
+        <EOYFMV>21373</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MATTHEWS PACIFIC TIGER FD - 520.291 SHS</NameOfStock>
+        <EOYBookValue>10000</EOYBookValue>
+        <EOYFMV>12003</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>SPDR S&amp;P 500 ETF TRUST - 100 SHS</NameOfStock>
+        <EOYBookValue>11083</EOYBookValue>
+        <EOYFMV>11413</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>JPMORGAN REALTY INCOME FUND INSTIT. SHR CL FD 1372 - 1237.345 SHS</NameOfStock>
+        <EOYBookValue>11000</EOYBookValue>
+        <EOYFMV>10963</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ARBITRAGE FUNDS - I CL I - 1680.672 SHS</NameOfStock>
+        <EOYBookValue>22000</EOYBookValue>
+        <EOYFMV>22017</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>HARTFORD MID CAP FD I - 1126.472 SHS</NameOfStock>
+        <EOYBookValue>22000</EOYBookValue>
+        <EOYFMV>22101</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>JPMORGAN US REAL ESTATE FUND SELECT SHARE CLASS FUND 3037 - 792.744 SHS</NameOfStock>
+        <EOYBookValue>16394</EOYBookValue>
+        <EOYFMV>11534</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>JPMORGAN INTREPID AMERICA FUND SELECT SHARE CLASS FUND 1206 - 1250.468 SHS</NameOfStock>
+        <EOYBookValue>28095</EOYBookValue>
+        <EOYFMV>25847</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>JPM MARKET EXPANSION INDEX FD SEL SH CL FD 3708 - 1825.119 SHS</NameOfStock>
+        <EOYBookValue>11845</EOYBookValue>
+        <EOYFMV>17174</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>JPM TAX AWARE DISCIPLINED 3 FD INST SH CL FD 1236 - 3653.94 SHS</NameOfStock>
+        <EOYBookValue>71763</EOYBookValue>
+        <EOYFMV>58500</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>JPMORGAN ASIA 3 FUND SELECT SHARE CLASS FUND 1134 - 1112.008 SHS</NameOfStock>
+        <EOYBookValue>23946</EOYBookValue>
+        <EOYFMV>39543</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>VANGUARD EMERGING MARKET ETF - 735 SHS</NameOfStock>
+        <EOYBookValue>33035</EOYBookValue>
+        <EOYFMV>33413</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>JPMORGAN US LARGE CAP CORE PLUS FUND SELECT FUND 1002 - 3547.546 SHS</NameOfStock>
+        <EOYBookValue>52656</EOYBookValue>
+        <EOYFMV>65913</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>JPM SHORT DURATION BD FD SEL CL FD # 1011 - 886.465 SHS</NameOfStock>
+        <EOYBookValue>14280</EOYBookValue>
+        <EOYFMV>13563</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>LEGG MASON PARTNERS APPRECIATION CL I - 1418.44 SHS</NameOfStock>
+        <EOYBookValue>14000</EOYBookValue>
+        <EOYFMV>17986</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>POWERSHARES DB COMMODITY INDEX TRACKING FUND - 900 SHS</NameOfStock>
+        <EOYBookValue>20789</EOYBookValue>
+        <EOYFMV>21699</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MANNING &amp; NAPIER FUND INC WORLD OPPORTUNITIES SERIES FUND - 2796.691 SHS</NameOfStock>
+        <EOYBookValue>16227</EOYBookValue>
+        <EOYFMV>23157</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>EATON VANCE MUT FDS TR GLOBAL MACRO - I - 2022.32 SHS</NameOfStock>
+        <EOYBookValue>20982</EOYBookValue>
+        <EOYFMV>20911</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>HSBC MKT PLUS AIB 11/19/10 INITIAL LEVEL-SPX:5/15/09:100.00 - 20000 SHS</NameOfStock>
+        <EOYBookValue>19750</EOYBookValue>
+        <EOYFMV>25948</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>HSBC 18M SPX MKT PLS NOTE 02/10/11 -SPX:08/07/09: 1010.48 - 14000 SHS</NameOfStock>
+        <EOYBookValue>13860</EOYBookValue>
+        <EOYFMV>15789</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>JPMORGAN RESEARCH MARKET NEUTRAL FUND - SEL - 901.722 SHS</NameOfStock>
+        <EOYBookValue>14139</EOYBookValue>
+        <EOYFMV>13977</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>BARC BREN DJ-UBS COMDTY11/29/11 - 10000 SHS</NameOfStock>
+        <EOYBookValue>9850</EOYBookValue>
+        <EOYFMV>10645</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>GS EAFE NOTE 01/24/11 -1/08/10:SX5E: 3017.85 UKX:5534.24 TPX: 941.29 - 15000</NameOfStock>
+        <EOYBookValue>14873</EOYBookValue>
+        <EOYFMV>14444</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>HSBC EAFE BREN 02/17/11 -1/08/10:SX5E:3017.85 UKX:5534.24 TPX:941.29 - 20000</NameOfStock>
+        <EOYBookValue>19800</EOYBookValue>
+        <EOYFMV>19230</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>HIGHBRIDGE DYNAMIC COMMODITIES STRATEGY FUND - SE - 753.425 SHS</NameOfStock>
+        <EOYBookValue>11000</EOYBookValue>
+        <EOYFMV>12371</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>GS MID CALLABLE CONTINGENT 06/17/11 -MID:3/10/10: 778.80 - 25000 SHS</NameOfStock>
+        <EOYBookValue>24760</EOYBookValue>
+        <EOYFMV>25383</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CS SPX BREN 04/07/11 - SPX:3/19/10: 1159.90 - 10000 SHS</NameOfStock>
+        <EOYBookValue>9900</EOYBookValue>
+        <EOYFMV>10007</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>GS BREN SPX 09/06/11 -08/13/10 SPX:1079.25 - 20000 SHS</NameOfStock>
+        <EOYBookValue>19800</EOYBookValue>
+        <EOYFMV>20921</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc2049800001">
+      <OtherDecreases>
+        <Description>ADJUSTMENT TO CARRYING VALUE</Description>
+        <Amount>29</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherIncreasesSchedule documentId="RetDoc2049700001">
+      <OtherIncreases>
+        <Description>RETURN OF CAPITAL ADJUSTMENT</Description>
+        <Amount>23</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>ESTIMATED EXCISE TAX - CURRENT YEAR</Category>
+        <Amount>560</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>EXCISE TAX - PRIOR YEAR</Category>
+        <Amount>9</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>foreign taxes withheld</Category>
+        <Amount>59</Amount>
+        <NetInvestmentIncome>59</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

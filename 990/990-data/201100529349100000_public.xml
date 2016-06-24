@@ -1,0 +1,648 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-21T06:40:17-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>MELLOTT &amp; MELLOTT PLL</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>312 ELM STREET - SUITE 1250</AddressLine1>
+        <City>CINCINNATI</City>
+        <State>OH</State>
+        <ZIPCode>45202</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>205560552</EIN>
+      <Name>
+        <BusinessNameLine1>JEANETTE K AND DONALD O EDWARDS</BusinessNameLine1>
+        <BusinessNameLine2>FOUNDATION ATTN KYLE BROOKS</BusinessNameLine2>
+      </Name>
+      <NameControl>JEAN</NameControl>
+      <Phone>5137211350</Phone>
+      <USAddress>
+        <AddressLine1>3074 MADISON ROAD</AddressLine1>
+        <City>CINCINNATI</City>
+        <State>OH</State>
+        <ZIPCode>45209</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>TRUSTEE</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>5137211350</Phone>
+      <DateSigned>2011-02-09</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>DONALD L JR MELLOTT</Name>
+      <Phone>5132412940</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>2324703</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>4985</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>4985</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>21415</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>21415</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>-5137</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>50608</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>21263</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>26400</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <LegalFeesRevAndExpnss referenceDocumentId="RetDoc2002100001">1420</LegalFeesRevAndExpnss>
+        <LegalFeesNetInvstIncm>0</LegalFeesNetInvstIncm>
+        <LegalFeesDsbrsChrtblPrps>0</LegalFeesDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">3315</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>0</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>0</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">129</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>129</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>0</TaxesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">49420</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>49420</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>0</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>54284</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>49549</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>195000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>195000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>249284</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>49549</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>195000</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-228021</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>1351192</CashBOY>
+        <CashEOY>1178917</CashEOY>
+        <CashEOYFMV>1178917</CashEOYFMV>
+        <InvestmentsOtherBOY>1074789</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc2018100001">1019043</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>1145786</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>2425981</TotalAssetsBOY>
+        <TotalAssetsEOY>2197960</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>2324703</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>0</CapitalStockBOY>
+        <CapitalStockEOY>0</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>2425981</RetainedEarningsBOY>
+        <RetainedEarningsEOY>2197960</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>2425981</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>2197960</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>2425981</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>2197960</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>2425981</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-228021</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>2197960</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>2197960</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>25000 CHASE MANHATTEN CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-06-15</DateSold>
+          <GrossSalesPrice>25000</GrossSalesPrice>
+          <CostOrOtherBasis>27773</CostOrOtherBasis>
+          <GainOrLoss>-2773</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2773</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>25000 FHL BANK DEB</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2000-02-10</DateAcquired>
+          <DateSold>2010-02-12</DateSold>
+          <GrossSalesPrice>25000</GrossSalesPrice>
+          <CostOrOtherBasis>27480</CostOrOtherBasis>
+          <GainOrLoss>-2480</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2480</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>JOHN HANDCOCK BK THRIFT OPP FUND</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-08-10</DateSold>
+          <CostOrOtherBasis>492</CostOrOtherBasis>
+          <GainOrLoss>-492</GainOrLoss>
+          <GainsMinusExcessOrLosses>-492</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Capital Gains Dividends</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>608</GrossSalesPrice>
+          <GainOrLoss>608</GainOrLoss>
+          <GainsMinusExcessOrLosses>608</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>-5137</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>70000</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>2304761</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.030372</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>115000</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>2639019</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.043577</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>124951</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>2951194</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.042339</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>55000</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>3132559</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.017558</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>0</QualifyingDistributionsYear5>
+        <TotalDistributionRatio>0.133846</TotalDistributionRatio>
+        <AverageDistributionRatio>0.026769</AverageDistributionRatio>
+        <NetNoncharitableAssets>2311446</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>61875</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>0</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>61875</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>195000</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>0</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>0</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>1351</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>1351</TotalCreditsAndPayments>
+        <Overpayment>1351</Overpayment>
+        <AmountCreditedToNextYear>1351</AmountCreditedToNextYear>
+        <AmountToBeRefunded>0</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>0</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>OH</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>ROBERT F JUNG</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>5132452620</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>3540 BLUE ROCK ROAD SUITE 3</AddressLine1>
+          <City>CINCINNATI</City>
+          <State>OH</State>
+          <ZIPCode>45239</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>0</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ROBERT F JUNG</PersonName>
+          <USAddress>
+            <AddressLine1>3540 BLUE ROCK RD SUITE 3</AddressLine1>
+            <City>CINCINNATI</City>
+            <State>OH</State>
+            <ZIPCode>45239</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>KYLE C BROOKS</PersonName>
+          <USAddress>
+            <AddressLine1>3074 MADISON ROAD</AddressLine1>
+            <City>CINCINNATI</City>
+            <State>OH</State>
+            <ZIPCode>45209</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>1059872</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>1286774</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>2346646</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>2346646</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>35200</CashDeemedCharitable>
+        <NetNoncharitableAssets>2311446</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>115572</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>115572</MinimumInvestmentReturn>
+        <TotalTax>0</TotalTax>
+        <DistributableAmountBeforeAdj>115572</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>115572</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>115572</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>195000</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>195000</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>195000</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>115572</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>115238</UndistributedIncomePriorYear>
+        <PriorYear1>2008</PriorYear1>
+        <TotalForPriorYears>59827</TotalForPriorYears>
+        <TotalExcessDistriCarryover>0</TotalExcessDistriCarryover>
+        <QualifyingDistributions>195000</QualifyingDistributions>
+        <AppliedToYear1>115238</AppliedToYear1>
+        <AppliedToPriorYears referenceDocumentId="RetDoc10083200000">59827</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>19935</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>0</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>95637</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>0</ExcessDistriCyovToNextYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <AppicationSubmissionInfo>
+          <RecipientName>ROBERT F JUNG</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>3540 BLUE ROCK ROAD SUITE 3</AddressLine1>
+            <City>CINCINNATI</City>
+            <State>OH</State>
+            <ZIPCode>452390000</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>5132452620</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>A GRANT PROPOSAL THAT SPECIFIES THE PURPOSE FOR WHICH THE FUNDS WILL BE USED.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE.</SubmissionDeadlines>
+          <RestrictionsOnAwards>NONE.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BLOC MINISTRIES</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3952 NORTH BEND RD</AddressLine1>
+            <City>CINCINNATI</City>
+            <State>OH</State>
+            <ZIPCode>45211</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE ACTIVITIES</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NORTHEREN KENTUCKY UNIVERSITY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>NUNN DRIVE</AddressLine1>
+            <City>HIGHLAND HEIGHTS</City>
+            <State>KY</State>
+            <ZIPCode>41009</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE ACTIVITIES</PurposeOfGrantOrContribution>
+          <Amount>70000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LADDINC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3603 VICTORY PARKWAY</AddressLine1>
+            <City>CINCINNATI</City>
+            <State>OH</State>
+            <ZIPCode>45229</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE ACTIVITIES</PurposeOfGrantOrContribution>
+          <Amount>40000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ELDER HIGH SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3900 VINCENT AVE</AddressLine1>
+            <City>CINCINNATI</City>
+            <State>OH</State>
+            <ZIPCode>45205</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE ACTIVITIES</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ST JAMES SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>6111 CHEVIOT RD</AddressLine1>
+            <City>CINCINNATI</City>
+            <State>OH</State>
+            <ZIPCode>45247</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE ACTIVITIES</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CINCINNATI ART MUSEUM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>953 EDEN PARK DR</AddressLine1>
+            <City>CINCINNATI</City>
+            <State>OH</State>
+            <ZIPCode>45202</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE ACTIVITIES</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CINCINNATI ZOO AND BOTANICAL GARDEN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3400 VINE ST</AddressLine1>
+            <City>CINCINNATI</City>
+            <State>OH</State>
+            <ZIPCode>45220</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE ACTIVITIES</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CINCINNATI SYMPHONY ORCHESTRA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1241 ELM ST</AddressLine1>
+            <City>CINCINNATI</City>
+            <State>OH</State>
+            <ZIPCode>45202</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE ACTIVITIES</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ST ALOYSIUS ORPHANAGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4721 READING RD</AddressLine1>
+            <City>CINCINNATI</City>
+            <State>OH</State>
+            <ZIPCode>45237</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE ACTIVITIES</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>REHABILIATAION INSTITUTE OF CHICAGO</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>345 EAST SUPERIOR ST</AddressLine1>
+            <City>CHICAGO</City>
+            <State>IL</State>
+            <ZIPCode>60611</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE ACTIVITIES</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ST XAVIER HIGH SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>600 W NORTH BEND RD</AddressLine1>
+            <City>CINCINNATI</City>
+            <State>OH</State>
+            <ZIPCode>45224</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE ACTIVITIES</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ALZHEIMER'S ASSOCIATION OF GREATER CINCINNATI</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>644 LINN ST</AddressLine1>
+            <City>CINCINNATI</City>
+            <State>OH</State>
+            <ZIPCode>45203</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE ACTIVITIES</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE UNIVERSITY OF TEXAS MD ANDERSON CANCER CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 4486</AddressLine1>
+            <City>HOUSTON</City>
+            <State>TX</State>
+            <ZIPCode>77210</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE ACTIVITIES</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>195000</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>4985</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>21415</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>-5137</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>21263</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>21263</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Amount>3315</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <AppliedToPriorYearElection documentId="RetDoc10083200000">
+      <Election>PURSUANT TO INCOME TAX REGULATION SECTION 53.492(A)-3(D)(2),THE FOUNDATION ELECTS TO APPLY $59,827 OF EXCESS QUALIFIED DISTRIBUTIONS MADE IN THE 2010 TAX YEAR TOWARD $59,827 OF UNDISTRIBUTED INCOME REMAINING FROM 2008. THE $59,827 OF UNDISTRIBUTED INCOME RELATED TO 2008 WAS DUE TO REASONABLE CAUSE AND WAS DISCLOSED ON THE FOUNDATION'S 2009 TAX RETURN.</Election>
+    </AppliedToPriorYearElection>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOther>
+        <CategoryOrItem>BOND FUNDS</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>53109</BookValue>
+        <EOYFMV>53573</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>COMMON STOCK</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>416513</BookValue>
+        <EOYFMV>498774</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>EQUITY FUNDS</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>518737</BookValue>
+        <EOYFMV>568093</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>FOREIGN STOCKS</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>30684</BookValue>
+        <EOYFMV>25346</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <LegalFeesSchedule documentId="RetDoc2002100001">
+      <LegalFees>
+        <Amount>1420</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>AGENCY FEES</Description>
+        <RevenueAndExpensesPerBooks>1585</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>1585</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>INVESTMENT MANAGEMENT FEES</Description>
+        <RevenueAndExpensesPerBooks>47835</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>47835</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>FOREIGN TAXES</Category>
+        <Amount>129</Amount>
+        <NetInvestmentIncome>129</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

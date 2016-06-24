@@ -1,0 +1,517 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-24T09:55:17-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>YOUNT HYDE &amp;AMP BARBOUR PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>1100 SUNSET LANE SUITE 1310</AddressLine1>
+        <City>CULPEPER</City>
+        <State>VA</State>
+        <ZIPCode>22701</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>546260176</EIN>
+      <Name>
+        <BusinessNameLine1>NEWHOUSE SCHOLARSHIP TRUST FUND</BusinessNameLine1>
+        <BusinessNameLine2>CO STELLARONE WEALTH MANAGEMENT</BusinessNameLine2>
+      </Name>
+      <NameControl>NEWH</NameControl>
+      <Phone>5408259110</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 1717</AddressLine1>
+        <City>CULPEPER</City>
+        <State>VA</State>
+        <ZIPCode>22701</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>KIM J RAMEY</Name>
+      <Title>VP - TRUST OFFICER</Title>
+      <Phone>5408259011</Phone>
+      <DateSigned>2011-02-12</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>GARY LEE CPA</Name>
+      <Phone>5408256050</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>200304</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>6914</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>6914</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>29005</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>246358</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>29005</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>35919</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>35919</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>2356</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>2120</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>236</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">825</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>0</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>825</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">57</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>0</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>0</TaxesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">530</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>0</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>530</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>3768</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>2120</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>1591</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>7620</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>7620</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>11388</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>2120</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>9211</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>24531</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>33799</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>7484</CashBOY>
+        <CashEOY>3093</CashEOY>
+        <CashEOYFMV>3093</CashEOYFMV>
+        <InvestmentsOtherBOY>168722</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc2018100001">197644</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>197211</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>176206</TotalAssetsBOY>
+        <TotalAssetsEOY>200737</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>200304</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>176206</CapitalStockBOY>
+        <CapitalStockEOY>200737</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>0</RetainedEarningsBOY>
+        <RetainedEarningsEOY>0</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>176206</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>200737</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>176206</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>200737</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>176206</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>24531</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>200737</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>200737</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2,621 SH - COMMON TRUST FUND B</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>1988-02-29</DateAcquired>
+          <DateSold>2010-12-31</DateSold>
+          <GrossSalesPrice>27027</GrossSalesPrice>
+          <CostOrOtherBasis>28092</CostOrOtherBasis>
+          <GainOrLoss>-1065</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1065</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>7,021 SH - COMMON TRUST FUND B</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2001-03-31</DateAcquired>
+          <DateSold>2010-12-31</DateSold>
+          <GrossSalesPrice>72398</GrossSalesPrice>
+          <CostOrOtherBasis>74708</CostOrOtherBasis>
+          <GainOrLoss>-2310</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2310</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>499 SH - COMMON TRUST FUND B</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-01-31</DateAcquired>
+          <DateSold>2010-12-31</DateSold>
+          <GrossSalesPrice>5146</GrossSalesPrice>
+          <CostOrOtherBasis>5322</CostOrOtherBasis>
+          <GainOrLoss>-176</GainOrLoss>
+          <GainsMinusExcessOrLosses>-176</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>665 SH - COMMON TRUST FUND A</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>1988-02-29</DateAcquired>
+          <DateSold>2010-12-31</DateSold>
+          <GrossSalesPrice>68527</GrossSalesPrice>
+          <CostOrOtherBasis>73782</CostOrOtherBasis>
+          <GainOrLoss>-5255</GainOrLoss>
+          <GainsMinusExcessOrLosses>-5255</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>234 SH - COMMON TRUST FUND A</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2003-09-30</DateAcquired>
+          <DateSold>2010-12-31</DateSold>
+          <GrossSalesPrice>24113</GrossSalesPrice>
+          <CostOrOtherBasis>35449</CostOrOtherBasis>
+          <GainOrLoss>-11336</GainOrLoss>
+          <GainsMinusExcessOrLosses>-11336</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>COMMON TRUST FUND "A" - CAPITAL GAIN ALLOCATION</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>42173</GrossSalesPrice>
+          <GainOrLoss>42173</GainOrLoss>
+          <GainsMinusExcessOrLosses>42173</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>COMMON TRUST FUND "B" - CAPITAL GAIN ALLOCATION</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>6974</GrossSalesPrice>
+          <GainOrLoss>6974</GainOrLoss>
+          <GainsMinusExcessOrLosses>6974</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>29005</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>9984</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>184636</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.054074</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>10527</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>203925</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.051622</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>9244</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>225998</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.040903</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>13171</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>220199</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.059814</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>11019</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>217897</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.050570</DistributionRatioYear5>
+        <TotalDistributionRatio>0.256983</TotalDistributionRatio>
+        <AverageDistributionRatio>0.051397</AverageDistributionRatio>
+        <NetNoncharitableAssets>194267</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>9985</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>338</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>10323</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>9211</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>676</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>676</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>676</TaxBasedOnInvestmentIncome>
+        <TotalCreditsAndPayments>0</TotalCreditsAndPayments>
+        <TaxDue>676</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>VA</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>STELLARONE WEALTH MANAGEMENT</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>5408259110</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>PO BOX 1717</AddressLine1>
+          <City>CULPEPER</City>
+          <State>VA</State>
+          <ZIPCode>22701</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>0</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>1</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>0</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>1</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>0</TrFailToQualifyAsExceptions>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>STELLARONE WEALTH MANAGEMENT</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 1717</AddressLine1>
+            <City>CULPEPER</City>
+            <State>VA</State>
+            <ZIPCode>22701</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>2356</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>N/A</Description1>
+        <Expenses1>0</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <AllOthProgRltdInvestmentsTotal referenceDocumentId="RetDoc2063500001">0</AllOthProgRltdInvestmentsTotal>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>193536</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>3689</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>197225</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>197225</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>2958</CashDeemedCharitable>
+        <NetNoncharitableAssets>194267</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>9713</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>9713</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>676</TaxBasedOnInvestmentIncome>
+        <TotalTax>676</TotalTax>
+        <DistributableAmountBeforeAdj>9037</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>9037</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>9037</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>9211</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>9211</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>9211</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>9037</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>7606</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <TotalExcessDistriCarryover>0</TotalExcessDistriCarryover>
+        <QualifyingDistributions>9211</QualifyingDistributions>
+        <AppliedToYear1>7606</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>1605</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>0</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>7432</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>0</ExcessDistriCyovToNextYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <AppicationSubmissionInfo>
+          <RecipientName>MS SUSAN BRAMLEY</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>EASTERN VIEW HIGH SCHOOL</AddressLine1>
+            <City>CULPEPER</City>
+            <State>VA</State>
+            <ZIPCode>22701</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>5408250621</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>APPLICATION FORMS CAN BE PICKED UP BY STUDENTS IN MID-MARCH OF EACH YEAR. INFORMATION STUDENTS NEED TO INCLUDE IS FAMILY FINANCIAL INFORMATION AND PAST GRADES. STUDENTS WILL ALSO BE INTERVIEWED.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>SPRING ANNUALLY</SubmissionDeadlines>
+          <RestrictionsOnAwards>GRANTS ARE LIMITED TO STUDENTS ATTENDING EDUCATIONAL INSTITUTIONS AS DEFINED IN IRC 170 (B) (1) (A) (II).</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <AppicationSubmissionInfo>
+          <RecipientName>MS LISA WALKER</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>CULPEPER COUNTY HIGH SCHOOL</AddressLine1>
+            <City>CULPEPER</City>
+            <State>VA</State>
+            <ZIPCode>22701</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>5408258310</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>SAME AS ABOVE</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>SAME AS ABOVE</SubmissionDeadlines>
+          <RestrictionsOnAwards>SAME AS ABOVE</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KARAH PERRYMAN GERMANNA COMMUNITY COLLEGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2130 GERMANNA HIGHWAY</AddressLine1>
+            <City>LOCUST GROVE</City>
+            <State>VA</State>
+            <ZIPCode>22508</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>1905</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DENISE MYERS WEST VIRGINIA UNIVERSITY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 6201</AddressLine1>
+            <City>MORGANTOWN</City>
+            <State>WV</State>
+            <ZIPCode>26506</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>1905</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TIFFANY MYERS GERMANNA COMMUNITY COLLEGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2130 GERMANNA HIGHWAY</AddressLine1>
+            <City>LOCUST GROVE</City>
+            <State>VA</State>
+            <ZIPCode>22508</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>1905</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>RACHEL HULVEY JAMES MADISON UNIVERSITY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>800 S MAIN STREET</AddressLine1>
+            <City>HARRISONBURG</City>
+            <State>VA</State>
+            <ZIPCode>22807</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>1905</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>7620</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>6914</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>29005</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>35919</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>35919</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>825</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>825</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <AllOthProgRltdInvestmentsSch documentId="RetDoc2063500001">
+      <AllOthProgRltdInvestments>
+        <Description>NONE</Description>
+        <Amount>0</Amount>
+      </AllOthProgRltdInvestments>
+    </AllOthProgRltdInvestmentsSch>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOther>
+        <CategoryOrItem>COMMON TRUST FUND "A"</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>92700</BookValue>
+        <EOYFMV>92640</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>COMMON TRUST FUND "B"</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>104944</BookValue>
+        <EOYFMV>104571</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>COURT FEES &amp; COSTS</Description>
+        <RevenueAndExpensesPerBooks>530</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>530</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>2009 FEDERAL EXCISE TAXES PAID</Category>
+        <Amount>57</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

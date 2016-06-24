@@ -1,0 +1,560 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-03-04T21:15:13-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>THOMAS S MONSON CPA INC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>1173 S 250 W SUITE 204</AddressLine1>
+        <City>ST GEORGE</City>
+        <State>UT</State>
+        <ZIPCode>84770</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>980441716</EIN>
+      <Name>
+        <BusinessNameLine1>THE MINER FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>MINE</NameControl>
+      <Phone>4356283930</Phone>
+      <USAddress>
+        <AddressLine1>C/O TMONSON CPA 1173 S 250 W 204</AddressLine1>
+        <City>ST GEORGE</City>
+        <State>UT</State>
+        <ZIPCode>84770</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>THOMAS MONSON</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>4356283930</Phone>
+      <DateSigned>2011-03-02</DateSigned>
+    </Officer>
+    <Preparer>
+      <Phone>4356283930</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>3012540</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>50000</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>22</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>22</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>69916</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>69916</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>-180004</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>819996</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>-60066</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>69938</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <OthEmplSlrsWgsRevAndExpnss>3000</OthEmplSlrsWgsRevAndExpnss>
+        <OthEmplSlrsWgsNetInvstIncm>0</OthEmplSlrsWgsNetInvstIncm>
+        <OthEmplSlrsWgsDsbrsChrtblPrps>0</OthEmplSlrsWgsDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">3675</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>0</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>0</AccountingFeesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">23252</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>0</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>0</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>29927</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>239479</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>239479</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>269406</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>239479</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-329472</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>69938</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>2246</CashBOY>
+        <CashEOY>2246</CashEOY>
+        <CashEOYFMV>2246</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>16238</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>796294</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>796294</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpBondsBOY>3700000</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="RetDoc2044400001">2700000</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>2214000</InvestmentsCorpBondsEOYFMV>
+        <TotalAssetsBOY>3718484</TotalAssetsBOY>
+        <TotalAssetsEOY>3498540</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>3012540</TotalAssetsEOYFMV>
+        <LoansFromOfficersEOY referenceDocumentId="RetDoc2203200001">109528</LoansFromOfficersEOY>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>109528</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>0</CapitalStockBOY>
+        <CapitalStockEOY>0</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>3718484</RetainedEarningsBOY>
+        <RetainedEarningsEOY>3389012</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>3718484</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>3389012</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>3718484</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>3498540</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>3718484</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-329472</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>3389012</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>3389012</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>PANHANDLE-PLAINS STUDENT FIN CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2006-04-28</DateAcquired>
+          <DateSold>2010-12-06</DateSold>
+          <GrossSalesPrice>819996</GrossSalesPrice>
+          <CostOrOtherBasis>1000000</CostOrOtherBasis>
+          <GainOrLoss>-180004</GainOrLoss>
+          <GainsMinusExcessOrLosses>-180004</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>-180004</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>199719</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>3678498</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.054294</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>273938</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>3729723</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.073447</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>234575</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>3809270</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.061580</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>61963</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>3799225</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.016309</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>15658</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>1498484</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.010449</DistributionRatioYear5>
+        <TotalDistributionRatio>0.216079</TotalDistributionRatio>
+        <AverageDistributionRatio>0.043216</AverageDistributionRatio>
+        <NetNoncharitableAssets>3649392</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>157712</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>699</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>158411</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>239479</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>699</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>699</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>699</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>9986</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>9986</TotalCreditsAndPayments>
+        <Overpayment>9287</Overpayment>
+        <AmountCreditedToNextYear>9287</AmountCreditedToNextYear>
+        <AmountToBeRefunded>0</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>DE</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors referenceDocumentId="RetDoc2089200001">1</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>THOMAS S MONSON CPA</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>4356283930</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>1173 S 250 W 204</AddressLine1>
+          <City>ST GEORGE</City>
+          <State>UT</State>
+          <ZIPCode>84770</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>0</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ALLEN P MINER</PersonName>
+          <USAddress>
+            <AddressLine1>115 RIORDAN PLACE</AddressLine1>
+            <City>MENLO PARK</City>
+            <State>CA</State>
+            <ZIPCode>94025</ZIPCode>
+          </USAddress>
+          <Title>PRSDNT,SECTRY,EXEC DIR.</Title>
+          <AvgHoursPerWkDevotedToPosition>7.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MICHIKO MINER</PersonName>
+          <USAddress>
+            <AddressLine1>115 RIORDAN PLACE</AddressLine1>
+            <City>MENLO PARK</City>
+            <State>CA</State>
+            <ZIPCode>94025</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>THOMAS S MONSON</PersonName>
+          <USAddress>
+            <AddressLine1>256 N CRESCENT CIRCLE</AddressLine1>
+            <City>ST GEORGE</City>
+            <State>UT</State>
+            <ZIPCode>84770</ZIPCode>
+          </USAddress>
+          <Title>TREASURER, OUTSIDE DIR.</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>3658333</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>46633</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>3704966</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>3704966</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>55574</CashDeemedCharitable>
+        <NetNoncharitableAssets>3649392</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>182470</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>182470</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>699</TaxBasedOnInvestmentIncome>
+        <TotalTax>699</TotalTax>
+        <DistributableAmountBeforeAdj>181771</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>181771</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>181771</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>239479</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>239479</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>699</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>238780</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>181771</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>6954</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <TotalExcessDistriCarryover>0</TotalExcessDistriCarryover>
+        <QualifyingDistributions>239479</QualifyingDistributions>
+        <AppliedToYear1>6954</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>181771</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>50754</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>50754</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>50754</ExcessDistriCyovToNextYear>
+        <ExcessFromCurrentYear>50754</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>ALLEN P MINER</ContributingManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>ALLEN P MINER</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>C/O THOMAS MONSON CPA 1173 S 250 W</AddressLine1>
+            <AddressLine2>204</AddressLine2>
+            <City>ST GEORGE</City>
+            <State>UT</State>
+            <ZIPCode>84770</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>4356283930</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>ALL GRANTS ARE SUBJECT TO SIGNATURE OF GENERAL OPERATING DONATION LETTER.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>ALL GRANT FUNDS MUST BE EXPENDED FOR CHARITABLE PURPOSES WITHIN THE MEANING OF SEC 501(C)(3) OF THE INTERNAL REVENUE SERVICE CODE.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DONORSCHOOSEORG</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>347 WEST 36TH STREET STE 503</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10018</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PRIVATE FOUNDATION 5</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL DONATION FOR OPERATING PURPOSES</PurposeOfGrantOrContribution>
+          <Amount>1455</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FAIRVIEW MUSEUM OF HISTORY AND ART</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>85 N 100 E</AddressLine1>
+            <City>FAIRVIEW</City>
+            <State>UT</State>
+            <ZIPCode>84629</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PRIVATE FOUNDATION 5</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL DONATION FOR OPERATING PURPOSES</PurposeOfGrantOrContribution>
+          <Amount>50000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FAIRVIEW CITY CORPORATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>165 N STATE BOX 97</AddressLine1>
+            <City>FAIRVIEW</City>
+            <State>UT</State>
+            <ZIPCode>84629</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PRIVATE FOUNDATION 5</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL DONATION FOR OPERATING PURPOSES</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MENLO PARK ATHERTON EDUCATION FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>181 ENCINAL AVENUE</AddressLine1>
+            <City>ATHERTON</City>
+            <State>CA</State>
+            <ZIPCode>94027</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PRIVATE FOUNDATION 5</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL DONATION FOR OPERATING PURPOSES</PurposeOfGrantOrContribution>
+          <Amount>7500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FAMILY SUPPORT CENTER OF SOUTHERN UTAH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>102 NORTH 200 EAST</AddressLine1>
+            <City>CEDAR CITY</City>
+            <State>UT</State>
+            <ZIPCode>84720</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PRIVATE FOUNDATION 5</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL DONATION FOR OPERATING PURPOSES</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NPO JAPAN VENTURE RESEARCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1>1-21-15-902 EBISU-NISHI SHIBUYA</AddressLine1>
+            <City>TOKYO</City>
+            <Country>JA</Country>
+            <PostalCode>150-0021</PostalCode>
+          </RecipientForeignAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>FOREIGN ORG EQUIVALE</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL DONATION FOR OPERATING PURPOSES</PurposeOfGrantOrContribution>
+          <Amount>172524</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>239479</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>22</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>69916</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>-180004</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>-110066</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>-110066</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>ALLEN P MINER</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>115 RIORDAN PLACE</AddressLine1>
+          <City>MENLO PARK</City>
+          <State>CA</State>
+          <ZIPCode>94025</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>50000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>3675</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc2044400001">
+      <InvestmentsCorpBonds>
+        <NameOfBond>PANHANDLE PLAINS STUDENT FIN CORP</NameOfBond>
+        <EOYBookValue>2700000</EOYBookValue>
+        <EOYFMV>2214000</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <LoansFromOfficersSchedule documentId="RetDoc2203200001">
+      <LoansFromOfficer>
+        <LendersName>ALLEN P MINER</LendersName>
+        <LendersTitle>PRESIDENT</LendersTitle>
+        <OriginalAmountOfLoan>109528</OriginalAmountOfLoan>
+        <BalanceDue>109528</BalanceDue>
+        <DateOfNote>2009-06</DateOfNote>
+        <MaturityDate>2009-06</MaturityDate>
+        <RepaymentTerms>IN FULL</RepaymentTerms>
+        <InterestRate>0.000000000000</InterestRate>
+        <SecurityProvidedByBorrower>NONE</SecurityProvidedByBorrower>
+        <PurposeOfLoan>PROVIDE TEMPORARY OPERATING FUNDS</PurposeOfLoan>
+        <DescOfLenderConsideration>CASH</DescOfLenderConsideration>
+        <ConsiderationFmv>109528</ConsiderationFmv>
+      </LoansFromOfficer>
+    </LoansFromOfficersSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>BANK CHARGES</Description>
+        <RevenueAndExpensesPerBooks>240</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>FUNDRAISING EXPENSES</Description>
+        <RevenueAndExpensesPerBooks>22165</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PAYROLL TAXES</Description>
+        <RevenueAndExpensesPerBooks>236</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>INTERNET</Description>
+        <RevenueAndExpensesPerBooks>304</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>FOREIGN EXCHANGE LOSS</Description>
+        <RevenueAndExpensesPerBooks>307</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <SubstantialContributorsSch documentId="RetDoc2089200001">
+      <SubstantialContributor>
+        <PersonName>ALLEN P MINER</PersonName>
+        <USAddress>
+          <AddressLine1>115 RIORDAN PLACE</AddressLine1>
+          <City>MENLO PARK</City>
+          <State>CA</State>
+          <ZIPCode>94025</ZIPCode>
+        </USAddress>
+      </SubstantialContributor>
+    </SubstantialContributorsSch>
+  </ReturnData>
+</Return>

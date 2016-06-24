@@ -1,0 +1,656 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-09-09T14:15:36-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>EDELSTEIN AND COMPANY LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>160 Federal StREET 9TH FLOOR</AddressLine1>
+        <City>BOSTON</City>
+        <State>MA</State>
+        <ZIPCode>021101772</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>260281707</EIN>
+      <Name>
+        <BusinessNameLine1>JOHN AND SUSAN WILDER FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>JOHN</NameControl>
+      <Phone>2148124447</Phone>
+      <USAddress>
+        <AddressLine1>200 CRESCENT COURT No 200</AddressLine1>
+        <City>DALLAS</City>
+        <State>TX</State>
+        <ZIPCode>75201</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>C JOHN WILDER</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>2148124447</Phone>
+      <DateSigned>2010-09-02</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Scott Kaplowitch</Name>
+      <Phone>6172276161</Phone>
+      <DatePrepared>2010-09-02</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>847407</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>500000</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>519</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>519</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>2018</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>2018</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>-111432</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>82593</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>391105</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>2537</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc2002300001">6900</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>1688</OtherProfFeesNetInvstIncm>
+        <OtherProfFeesDsbrsChrtblPrps>5212</OtherProfFeesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">450</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>0</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>450</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>7350</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>1688</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>5662</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>57130</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>57130</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>64480</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>1688</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>62792</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>326625</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>849</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>350799</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>400647</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>400647</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>12441</InvestmentsCorpStockBOY>
+        <InvestmentsOtherBOY>0</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc2018100001">446760</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>446760</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>363240</TotalAssetsBOY>
+        <TotalAssetsEOY>847407</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>847407</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>0</CapitalStockBOY>
+        <CapitalStockEOY>0</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>363240</RetainedEarningsBOY>
+        <RetainedEarningsEOY>847407</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>363240</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>847407</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>363240</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>847407</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>363240</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>326625</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="RetDoc2049700001">157542</OtherIncreases>
+        <Subtotal>847407</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>847407</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>SALE OF PUBLICLY TRADED SECURITIES</DescriptionOfAsset>
+          <GrossSalesPrice>82593</GrossSalesPrice>
+          <CostOrOtherBasis>123045</CostOrOtherBasis>
+          <GainOrLoss>-40452</GainOrLoss>
+          <GainsMinusExcessOrLosses>-40452</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>-40452</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>461939</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>647579</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.713332</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>475866</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>1099643</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.432746</DistributionRatioYear2>
+        <TotalDistributionRatio>1.146078</TotalDistributionRatio>
+        <AverageDistributionRatio>0.573039</AverageDistributionRatio>
+        <NetNoncharitableAssets>385824</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>221092</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>8</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>221100</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>62792</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>17</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>17</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>17</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>5571</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>5571</TotalCreditsAndPayments>
+        <Overpayment>5554</Overpayment>
+        <AmountCreditedToNextYear>5554</AmountCreditedToNextYear>
+        <AmountToBeRefunded>0</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>TX</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>WWW.JSWILDER.ORG</WebsiteAddress>
+        <BooksInCareOfPersonName>FIDELITY PRIVATE FOUNDATION SERVICE</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>8003344438</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>2 SEAPORT LANE</AddressLine1>
+          <City>BOSTON</City>
+          <State>MA</State>
+          <ZIPCode>02210</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>C JOHN WILDER</PersonName>
+          <USAddress>
+            <AddressLine1>200 CRESCENT COURT SUITE 200</AddressLine1>
+            <City>DALLAS</City>
+            <State>TX</State>
+            <ZIPCode>75201</ZIPCode>
+          </USAddress>
+          <Title>EXEC. CHAIRMAN/DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>SUSAN A WILDER</PersonName>
+          <USAddress>
+            <AddressLine1>200 CRESCENT COURT SUITE 200</AddressLine1>
+            <City>DALLAS</City>
+            <State>TX</State>
+            <ZIPCode>75201</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT/DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>15.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JANICE E WALLACE</PersonName>
+          <USAddress>
+            <AddressLine1>200 CRESCENT COURT SUITE 200</AddressLine1>
+            <City>DALLAS</City>
+            <State>TX</State>
+            <ZIPCode>75201</ZIPCode>
+          </USAddress>
+          <Title>TREASURER/ASST. SECRETARY/DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JEFFREY S AGEE</PersonName>
+          <USAddress>
+            <AddressLine1>200 CRESCENT COURT SUITE 200</AddressLine1>
+            <City>DALLAS</City>
+            <State>TX</State>
+            <ZIPCode>75201</ZIPCode>
+          </USAddress>
+          <Title>CHIEF ACCOUNTING OFFICER/DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>HAROLD M KING</PersonName>
+          <USAddress>
+            <AddressLine1>200 CRESCENT COURT SUITE 200</AddressLine1>
+            <City>DALLAS</City>
+            <State>TX</State>
+            <ZIPCode>75201</ZIPCode>
+          </USAddress>
+          <Title>EXEC. VP/GENERAL TAX COUNSEL</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>NATHAN E LANGSTON</PersonName>
+          <USAddress>
+            <AddressLine1>200 CRESCENT COURT SUITE 200</AddressLine1>
+            <City>DALLAS</City>
+            <State>TX</State>
+            <ZIPCode>75201</ZIPCode>
+          </USAddress>
+          <Title>EXEC. VP/CFO</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>LILLIAN S MEYER</PersonName>
+          <USAddress>
+            <AddressLine1>200 CRESCENT COURT SUITE 200</AddressLine1>
+            <City>DALLAS</City>
+            <State>TX</State>
+            <ZIPCode>75201</ZIPCode>
+          </USAddress>
+          <Title>CONTROLLER/SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>63753</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>327946</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>391699</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>391699</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>5875</CashDeemedCharitable>
+        <NetNoncharitableAssets>385824</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>19291</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>19291</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>17</TaxBasedOnInvestmentIncome>
+        <TotalTax>17</TotalTax>
+        <DistributableAmountBeforeAdj>19274</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>19274</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>19274</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>62792</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>62792</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>62792</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>19274</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear2>426142</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>429618</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>855760</TotalExcessDistriCarryover>
+        <QualifyingDistributions>62792</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>19274</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>43518</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>899278</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>899278</ExcessDistriCyovToNextYear>
+        <ExcessFromYear2>426142</ExcessFromYear2>
+        <ExcessFromYear1>429618</ExcessFromYear1>
+        <ExcessFromCurrentYear>43518</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>C JOHN WILDER</ContributingManager>
+        <ContributingManager>SUSAN A WILDER</ContributingManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>JANICE WALLACE</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>200 CRESCENT COURT SUITE 200</AddressLine1>
+            <City>DALLAS</City>
+            <State>TX</State>
+            <ZIPCode>75201</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>2148124447</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>COVER LETTER FROM PRESIDENT OR CEO OF THE ORGANIZATION, NO MORE THAN 2 PAGES STATING PROJECT TITLE, FUNDING REQUEST, PROJECT BUDGET, NUMBER OF CHILDREN TO BE SERVED, PROBLEM STATEMENT OR ISSUE TO BE ADDRESSED, PROJECT DESCRIPTION AND HOW IT ADDRESSES PROBLEM STATEMENT, TIME FRAME FOR PROJECT, PLAN FOR MEASURING SUCCESS AND CONTACT PERSON.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>PROOF OF FEDERAL TIN; MUST SUPPORT ONE OR MORE OF ORGANIZATIONS' STATED FOCUSES; ORGANIZATIONS' PROGRAMS AND SERVICES MUST DIRECTLY BENEFIT YOUTH AGES NEWBORN TO HIGH SCHOOL SENIORS; AND ORGANIZATIONS MUST NOT SUBMIT MORE THAN ONE GRANT PROPOSAL PER ANY CALENDAR YEAR.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>VOLUNTEERS FOR CHRIST INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1824 EIGHTH AVE</AddressLine1>
+            <City>FORT WORTH</City>
+            <State>TX</State>
+            <ZIPCode>76110</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(A)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RELIGIOUS</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FIRST UNITED METHODIST CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1201 LAVACA ST</AddressLine1>
+            <City>AUSTIN</City>
+            <State>TX</State>
+            <ZIPCode>78701</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(A)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RELIGIOUS</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SOUTH LAFOURCHE HIGH SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>16911 EAST MAIN</AddressLine1>
+            <City>GALLIANO</City>
+            <State>LA</State>
+            <ZIPCode>70354</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(A)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CAMPUS CRUSADE FOR CHRIST</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>100 LAKE HART DRIVE</AddressLine1>
+            <City>ORLANDO</City>
+            <State>FL</State>
+            <ZIPCode>32832</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(A)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RELIGIOUS</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HIGHLAND PARK EDUCATION FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4201 GRASSMERE LANE</AddressLine1>
+            <City>DALLAS</City>
+            <State>TX</State>
+            <ZIPCode>75205</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(A)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HIGHLAND PARK PRESBYTERIAN CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3821 UNIVERSITY BLVD</AddressLine1>
+            <City>DALLAS</City>
+            <State>TX</State>
+            <ZIPCode>75205</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(A)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RELIGIOUS</PurposeOfGrantOrContribution>
+          <Amount>12500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KIDS ACROSS AMERICA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 930</AddressLine1>
+            <City>BRANSON</City>
+            <State>MO</State>
+            <ZIPCode>65615</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(A)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUMMER CAMP</PurposeOfGrantOrContribution>
+          <Amount>2100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LEADERSHIP SEMINARS OF AMERICA INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>917 CANBERRA ROAD</AddressLine1>
+            <City>LAFAYETTE</City>
+            <State>LA</State>
+            <ZIPCode>70503</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(A)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNIVERSITY OF TEXAS AT AUSTIN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>MCCOMBS SCHOOL OF BUSINESS 1 UNIV</AddressLine1>
+            <AddressLine2>STATION B6006</AddressLine2>
+            <City>AUSTIN</City>
+            <State>TX</State>
+            <ZIPCode>78712</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(A)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WORLD VISION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 70271</AddressLine1>
+            <City>TACOMA</City>
+            <State>WA</State>
+            <ZIPCode>98481</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(A)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RELIGIOUS</PurposeOfGrantOrContribution>
+          <Amount>10780</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE SALVATION ARMY OF TEXAS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>6500 HARRY HINES BLVD</AddressLine1>
+            <City>DALLAS</City>
+            <State>TX</State>
+            <ZIPCode>75235</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(A)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>COMMUNITY SERVICES</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE MOCHA CLUB</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 2888</AddressLine1>
+            <City>BRENTWOOD</City>
+            <State>TN</State>
+            <ZIPCode>37024</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(A)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>COMMUNITY SERVICES</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>57130</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>519</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>2018</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>-111432</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>-108895</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>-108895</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>C JOHN WILDER</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>200 CRESCENT COURT SUITE 200</AddressLine1>
+          <City>DALLAS</City>
+          <State>TX</State>
+          <ZIPCode>75201</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>500000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOther>
+        <CategoryOrItem>VANGUARD MUTUAL FUND</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>446760</BookValue>
+        <EOYFMV>446760</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>PHONE/FAX/INTERNET</Description>
+        <RevenueAndExpensesPerBooks>450</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>450</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="RetDoc2049700001">
+      <OtherIncreases>
+        <Description>UNREALIZED GAIN ON INVESTMENTS</Description>
+        <Amount>157542</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFees>
+        <Category>MARKETNET INC.</Category>
+        <Amount>150</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>150</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+      <OtherProfessionalFees>
+        <Category>FIDELITY PRIVATE FOUNDATION SERVICES</Category>
+        <Amount>6750</Amount>
+        <NetInvestmentIncome>1688</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>5062</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+  </ReturnData>
+</Return>

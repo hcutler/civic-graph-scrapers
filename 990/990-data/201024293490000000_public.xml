@@ -1,0 +1,1056 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2007v2.10">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-08-30T08:39:37-05:00</Timestamp>
+    <TaxPeriodEndDate>2008-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Clifton Gunderson LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>9515 Deereco Rd - Suite 500</AddressLine1>
+        <City>Timonium</City>
+        <State>MD</State>
+        <ZIPCode>210932184</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2007-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>526001577</EIN>
+      <Name>
+        <BusinessNameLine1>McDonogh School Incorporated</BusinessNameLine1>
+      </Name>
+      <NameControl>MCDO</NameControl>
+      <Phone>4103630600</Phone>
+      <USAddress>
+        <AddressLine1>PO Box 380</AddressLine1>
+        <City>Owings Mills</City>
+        <State>MD</State>
+        <ZIPCode>211170380</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Lawrence E Johnston</Name>
+      <Title>VP Finance</Title>
+      <Phone>4103630600</Phone>
+      <DateSigned>2010-08-27</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Melinda M Boswell CPA</Name>
+      <Phone>4104530900</Phone>
+    </Preparer>
+    <TaxYear>2007</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="3">
+    <IRS990 documentId="RetDoc0001">
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <WebSite>WWW.MCDONOGH.ORG</WebSite>
+      <GroupReturn>0</GroupReturn>
+      <SepReturnFiledByMemberOfGroup>0</SepReturnFiledByMemberOfGroup>
+      <Organization501c typeOf501cOrganization="3" referenceDocumentId="RetDoc0002">X</Organization501c>
+      <GrossReceipts>51087343</GrossReceipts>
+      <DirectPublicSupport>5198693</DirectPublicSupport>
+      <TotalCashContributions>4390461</TotalCashContributions>
+      <TotalNoncashContributions>808232</TotalNoncashContributions>
+      <TotalContributions>5198693</TotalContributions>
+      <ProgramServiceRevenue>29246973</ProgramServiceRevenue>
+      <InterestOnSavingsTempCashInvst>236412</InterestOnSavingsTempCashInvst>
+      <DividendsAndIntFromSecurities>1433222</DividendsAndIntFromSecurities>
+      <GrossRents>411693</GrossRents>
+      <LessRentalExpenses>160440</LessRentalExpenses>
+      <NetRentalIncomeLoss>251253</NetRentalIncomeLoss>
+      <OtherInvestmentIncome referenceDocumentId="RetDoc0004">30369</OtherInvestmentIncome>
+      <GroAmtSaleOfAssetsOthInventory>
+        <Securities>14484356</Securities>
+        <Other>1500</Other>
+      </GroAmtSaleOfAssetsOthInventory>
+      <LessCostOrOtherBasis>
+        <Securities>9501597</Securities>
+      </LessCostOrOtherBasis>
+      <GainLoss>
+        <Securities referenceDocumentId="RetDoc0005">4982759</Securities>
+        <Other referenceDocumentId="RetDoc0006">1500</Other>
+      </GainLoss>
+      <NetGainOrLossFromSaleOfAssets>4984259</NetGainOrLossFromSaleOfAssets>
+      <OtherRevenue>44125</OtherRevenue>
+      <TotalRevenue>41425306</TotalRevenue>
+      <ProgramServicesExpenses>29363847</ProgramServicesExpenses>
+      <ManagementAndGeneralExpenses>6798542</ManagementAndGeneralExpenses>
+      <FundraisingExpenses>745951</FundraisingExpenses>
+      <TotalExpenses>36908340</TotalExpenses>
+      <ExcessOrDeficitForYear>4516966</ExcessOrDeficitForYear>
+      <NetAssetsOrFundBalancesBOY>131141355</NetAssetsOrFundBalancesBOY>
+      <OtherChangesInNetAssets referenceDocumentId="RetDoc0007">-9664348</OtherChangesInNetAssets>
+      <NetAssetsOrFundBalancesEOY>125993973</NetAssetsOrFundBalancesEOY>
+      <GrantsAndAllocationsPaid cash="4992185" referenceDocumentId="RetDoc0008">
+        <Total>4992185</Total>
+        <ProgramServices>4992185</ProgramServices>
+      </GrantsAndAllocationsPaid>
+      <CompCurrentOfficersDirectors>
+        <Total>49140</Total>
+        <ProgramServices>49140</ProgramServices>
+      </CompCurrentOfficersDirectors>
+      <OtherSalariesAndWages>
+        <Total>16515918</Total>
+        <ProgramServices>12049946</ProgramServices>
+        <ManagementAndGeneral>3976671</ManagementAndGeneral>
+        <Fundraising>489301</Fundraising>
+      </OtherSalariesAndWages>
+      <PensionPlanContributions>
+        <Total>843776</Total>
+        <ProgramServices>615629</ProgramServices>
+        <ManagementAndGeneral>203151</ManagementAndGeneral>
+        <Fundraising>24996</Fundraising>
+      </PensionPlanContributions>
+      <OtherEmployeeBenefits>
+        <Total>1657583</Total>
+        <ProgramServices>1210632</ProgramServices>
+        <ManagementAndGeneral>397982</ManagementAndGeneral>
+        <Fundraising>48969</Fundraising>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>1217559</Total>
+        <ProgramServices>889256</ProgramServices>
+        <ManagementAndGeneral>292333</ManagementAndGeneral>
+        <Fundraising>35970</Fundraising>
+      </PayrollTaxes>
+      <AccountingFees>
+        <Total>92156</Total>
+        <ProgramServices>92156</ProgramServices>
+      </AccountingFees>
+      <LegalFees>
+        <Total>32529</Total>
+        <ProgramServices>32529</ProgramServices>
+      </LegalFees>
+      <Supplies>
+        <Total>285096</Total>
+        <ProgramServices>226303</ProgramServices>
+        <ManagementAndGeneral>52768</ManagementAndGeneral>
+        <Fundraising>6025</Fundraising>
+      </Supplies>
+      <Telephone>
+        <Total>94109</Total>
+        <ManagementAndGeneral>94109</ManagementAndGeneral>
+      </Telephone>
+      <PostageAndShipping>
+        <Total>53951</Total>
+        <ProgramServices>52851</ProgramServices>
+        <Fundraising>1100</Fundraising>
+      </PostageAndShipping>
+      <Occupancy>
+        <Total>1438384</Total>
+        <ProgramServices>1438384</ProgramServices>
+      </Occupancy>
+      <PrintingAndPublication>
+        <Total>65662</Total>
+        <ManagementAndGeneral>65662</ManagementAndGeneral>
+      </PrintingAndPublication>
+      <Travel>
+        <Total>60265</Total>
+        <ProgramServices>40193</ProgramServices>
+        <ManagementAndGeneral>20072</ManagementAndGeneral>
+      </Travel>
+      <ConferencesConventionsMeetings>
+        <Total>13539</Total>
+        <ManagementAndGeneral>13539</ManagementAndGeneral>
+      </ConferencesConventionsMeetings>
+      <Interest>
+        <Total>605461</Total>
+        <ProgramServices>605461</ProgramServices>
+      </Interest>
+      <DepreciationDepletionEtc referenceDocumentId="RetDoc0009">
+        <Total>1467734</Total>
+        <ProgramServices>1467734</ProgramServices>
+      </DepreciationDepletionEtc>
+      <OtherExpenses>
+        <Description>INSTRUCTIONSTUDENT SUPPORT</Description>
+        <Total>5746191</Total>
+        <ProgramServices>4241233</ProgramServices>
+        <ManagementAndGeneral>1365368</ManagementAndGeneral>
+        <Fundraising>139590</Fundraising>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>CAPITAL CAMPAIGN</Description>
+        <Total>454625</Total>
+        <ProgramServices>454625</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PROVISION FOR PLANT RENEWALS</Description>
+        <Total>770480</Total>
+        <ProgramServices>770480</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Land development costs</Description>
+        <Total>264161</Total>
+        <ManagementAndGeneral>264161</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Vehicle Maintenance</Description>
+        <Total>135110</Total>
+        <ProgramServices>135110</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Campus Master Plan</Description>
+        <Total>52726</Total>
+        <ManagementAndGeneral>52726</ManagementAndGeneral>
+      </OtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>36908340</Total>
+        <ProgramServices>29363847</ProgramServices>
+        <ManagementAndGeneral>6798542</ManagementAndGeneral>
+        <Fundraising>745951</Fundraising>
+      </TotalFunctionalExpenses>
+      <PrimaryExemptPurpose>MCDONOGH SCHOOL IS AN ORGANIZATION WHICH IS ORGANIZED AND OPERATED FOR THE EXCLUSIVE PURPOSE OF PRESENTING FORMAL EDUCATIONAL INSTRUCTION. THE SCHOOL MAINTAINS A REGULAR FACULTY AND CURRICULUM AND HAS A REGULARLY ENROLLED BODY OF PUPILS AND STUDENTS IN ATTENDANCE AT THE PLACE WHERE ITS EDUCATIONAL ACTIVITIES ARE REGULARLY CARRIED ON. PURSUANT TO IRC SECTION 501(C)(3), THE PROVISION OF EDUCATIONAL INSTRUCTION IS AN EXEMPT PURPOSE.</PrimaryExemptPurpose>
+      <ProgramServiceAccomplishments>
+        <DescriptionProgramServiceAccom>MCDONOGH SCHOOL IS AN EDUCATIONAL INSTITUTION AND ALL EXPENDITURES ARE USED EXCLUSIVELY IN FURTHERANCE OF ITS EXEMPT PURPOSE. THE SCHOOL PROVIDES INSTRUCTION TO STUDENTS FROM KINDERGARTEN THROUGH HIGH SCHOOL. AS OF JUNE 30, 2008 THE SCHOOL HAS APPROXIMATELY 1200 STUDENTS.</DescriptionProgramServiceAccom>
+        <GrantsAndAllocations>4992185</GrantsAndAllocations>
+        <ProgramServiceExpenses>29363847</ProgramServiceExpenses>
+      </ProgramServiceAccomplishments>
+      <TotalProgramServicesExpenses>29363847</TotalProgramServicesExpenses>
+      <SavingsAndTempCashInvestments>
+        <BOY>11176523</BOY>
+        <EOY>7956660</EOY>
+      </SavingsAndTempCashInvestments>
+      <AccountsReceivable>430769</AccountsReceivable>
+      <ArAllowanceDoubtfulAccounts>57260</ArAllowanceDoubtfulAccounts>
+      <AccountsReceivableNet>
+        <BOY>351769</BOY>
+        <EOY>373509</EOY>
+      </AccountsReceivableNet>
+      <PledgesReceivable>18766022</PledgesReceivable>
+      <PledgesRcvblAllowanceDbtflAcct>5875000</PledgesRcvblAllowanceDbtflAcct>
+      <PledgesReceivableNet>
+        <BOY>12886022</BOY>
+        <EOY>12891022</EOY>
+      </PledgesReceivableNet>
+      <ReceivablesFromOfficersEtc>
+        <BOY>250000</BOY>
+        <EOY referenceDocumentId="RetDoc0010">250000</EOY>
+      </ReceivablesFromOfficersEtc>
+      <OtherNotesAndLoansReceivable>230365</OtherNotesAndLoansReceivable>
+      <OtherRcvblAllowanceDbtflAcct>70000</OtherRcvblAllowanceDbtflAcct>
+      <OtherNotesLoansReceivableNet>
+        <BOY>180852</BOY>
+        <EOY>160365</EOY>
+      </OtherNotesLoansReceivableNet>
+      <InvestmentsPubSecuritiesFMV>X</InvestmentsPubSecuritiesFMV>
+      <InvestmentsPubTradedSecurities>
+        <BOY>89154050</BOY>
+        <EOY>89076637</EOY>
+      </InvestmentsPubTradedSecurities>
+      <InvestmentsOtherSecuritiesFMV>X</InvestmentsOtherSecuritiesFMV>
+      <InvestmentsOtherSecurities>
+        <BOY>6084761</BOY>
+        <EOY referenceDocumentId="RetDoc0011">7033116</EOY>
+      </InvestmentsOtherSecurities>
+      <LandBuildingsEquipmentBasis>47115728</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>20854897</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>26662360</BOY>
+        <EOY referenceDocumentId="RetDoc0012">26260831</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <OtherAssetsTotal>
+        <BOY>12808685</BOY>
+        <EOY referenceDocumentId="RetDoc0013">10784665</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>159555022</BOY>
+        <EOY>154786805</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>1284215</BOY>
+        <EOY>1513843</EOY>
+      </AccountsPayableAccruedExpenses>
+      <MortgagesAndNotesPayable>
+        <BOY>14432499</BOY>
+        <EOY referenceDocumentId="RetDoc0014">14555182</EOY>
+      </MortgagesAndNotesPayable>
+      <OtherLiabilitiesTotal>
+        <BOY>12696953</BOY>
+        <EOY referenceDocumentId="RetDoc0015">12723807</EOY>
+      </OtherLiabilitiesTotal>
+      <TotalLiabilities>
+        <BOY>28413667</BOY>
+        <EOY>28792832</EOY>
+      </TotalLiabilities>
+      <OrgFollowsSFAS117>X</OrgFollowsSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>70179581</BOY>
+        <EOY>65704613</EOY>
+      </UnrestrictedNetAssets>
+      <TemporarilyRestrictedNetAssets>
+        <BOY>27787719</BOY>
+        <EOY>26813346</EOY>
+      </TemporarilyRestrictedNetAssets>
+      <PermanentlyRestrictedNetAssets>
+        <BOY>33174055</BOY>
+        <EOY>33476014</EOY>
+      </PermanentlyRestrictedNetAssets>
+      <TotalNetAssetsOrFundBalances>
+        <BOY>131141355</BOY>
+        <EOY>125993973</EOY>
+      </TotalNetAssetsOrFundBalances>
+      <TotalLiabilitiesAndNetAssets>
+        <BOY>159555022</BOY>
+        <EOY>154786805</EOY>
+      </TotalLiabilitiesAndNetAssets>
+      <TotRevenueEtcAuditedFinclStmt>31921398</TotRevenueEtcAuditedFinclStmt>
+      <NetUnrealizedGainsInvestments>-9221665</NetUnrealizedGainsInvestments>
+      <TotOthRevenueOnLnaButNotOnLn12>-282243</TotOthRevenueOnLnaButNotOnLn12>
+      <TotAmtIncldOnLnaButNotOnLn12>-9503908</TotAmtIncldOnLnaButNotOnLn12>
+      <PartIVALineaMinusLineb>41425306</PartIVALineaMinusLineb>
+      <TotalRevenuePerLine12>41425306</TotalRevenuePerLine12>
+      <TotExpensesEtcAuditedFinclStmt>37068780</TotExpensesEtcAuditedFinclStmt>
+      <TotOtherExpOnLineaNotOnLine17>160440</TotOtherExpOnLineaNotOnLine17>
+      <TotalAmtIncludedOnAButNotOn17>160440</TotalAmtIncludedOnAButNotOn17>
+      <PartIVBLineaMinusLineb>36908340</PartIVBLineaMinusLineb>
+      <TotalExpensesPerLine17>36908340</TotalExpensesPerLine17>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>Curtis Adams MD</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 380</AddressLine1>
+          <City>OWINGS MILLS</City>
+          <State>MD</State>
+          <ZIPCode>211170380</ZIPCode>
+        </AddressUS>
+        <Title>MEMBER</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>Arthur Adler</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 380</AddressLine1>
+          <City>OWINGS MILLS</City>
+          <State>MD</State>
+          <ZIPCode>211170380</ZIPCode>
+        </AddressUS>
+        <Title>MEMBER</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>Jerry B Bias</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 380</AddressLine1>
+          <City>OWINGS MILLS</City>
+          <State>MD</State>
+          <ZIPCode>211170380</ZIPCode>
+        </AddressUS>
+        <Title>MEMBER</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>r jack doub</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 380</AddressLine1>
+          <City>OWINGS MILLS</City>
+          <State>MD</State>
+          <ZIPCode>211170380</ZIPCode>
+        </AddressUS>
+        <Title>MEMBER</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>howard s klein</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 380</AddressLine1>
+          <City>OWINGS MILLS</City>
+          <State>MD</State>
+          <ZIPCode>211170380</ZIPCode>
+        </AddressUS>
+        <Title>MEMBER</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>se-jin lee md</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 380</AddressLine1>
+          <City>OWINGS MILLS</City>
+          <State>MD</State>
+          <ZIPCode>211170380</ZIPCode>
+        </AddressUS>
+        <Title>MEMBER</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>ROBERT CARPENTER</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 380</AddressLine1>
+          <City>OWINGS MILLS</City>
+          <State>MD</State>
+          <ZIPCode>211170380</ZIPCode>
+        </AddressUS>
+        <Title>MEMBER</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>H Stacey Boyer</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 380</AddressLine1>
+          <City>OWINGS MILLS</City>
+          <State>MD</State>
+          <ZIPCode>211170380</ZIPCode>
+        </AddressUS>
+        <Title>SECRETARY</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>FRANK CURRAN III</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 380</AddressLine1>
+          <City>OWINGS MILLS</City>
+          <State>MD</State>
+          <ZIPCode>211170380</ZIPCode>
+        </AddressUS>
+        <Title>MEMBER</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>ANNA DOPKIN</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 380</AddressLine1>
+          <City>OWINGS MILLS</City>
+          <State>MD</State>
+          <ZIPCode>211170380</ZIPCode>
+        </AddressUS>
+        <Title>MEMBER</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>STEVEN FADER</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 380</AddressLine1>
+          <City>OWINGS MILLS</City>
+          <State>MD</State>
+          <ZIPCode>211170380</ZIPCode>
+        </AddressUS>
+        <Title>MEMBER</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>Adam Brooks</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 380</AddressLine1>
+          <City>OWINGS MILLS</City>
+          <State>MD</State>
+          <ZIPCode>211170380</ZIPCode>
+        </AddressUS>
+        <Title>MEMBER</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>Henry G Chiles Jr</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 380</AddressLine1>
+          <City>OWINGS MILLS</City>
+          <State>MD</State>
+          <ZIPCode>211170380</ZIPCode>
+        </AddressUS>
+        <Title>MEMBER</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>JOSEPH FLYNN</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 380</AddressLine1>
+          <City>OWINGS MILLS</City>
+          <State>MD</State>
+          <ZIPCode>211170380</ZIPCode>
+        </AddressUS>
+        <Title>MEMBER</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>RICHARD LEVINE</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 380</AddressLine1>
+          <City>OWINGS MILLS</City>
+          <State>MD</State>
+          <ZIPCode>211170380</ZIPCode>
+        </AddressUS>
+        <Title>MEMBER</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>DONN LEWIS</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 380</AddressLine1>
+          <City>OWINGS MILLS</City>
+          <State>MD</State>
+          <ZIPCode>211170380</ZIPCode>
+        </AddressUS>
+        <Title>MEMBER</Title>
+        <AvgHoursPerWkDevotedToPosition>40.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>46800</Compensation>
+        <ContriToEmplBenefitPlansEtc>2340</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>Michael D Layden</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 380</AddressLine1>
+          <City>OWINGS MILLS</City>
+          <State>MD</State>
+          <ZIPCode>211170380</ZIPCode>
+        </AddressUS>
+        <Title>MEMBER</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>JOHN LUETKEMEYER JR</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 380</AddressLine1>
+          <City>OWINGS MILLS</City>
+          <State>MD</State>
+          <ZIPCode>211170380</ZIPCode>
+        </AddressUS>
+        <Title>MEMBER</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>frederick o mitchell ii</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 380</AddressLine1>
+          <City>OWINGS MILLS</City>
+          <State>MD</State>
+          <ZIPCode>211170380</ZIPCode>
+        </AddressUS>
+        <Title>MEMBER</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>william paterakis</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 380</AddressLine1>
+          <City>OWINGS MILLS</City>
+          <State>MD</State>
+          <ZIPCode>211170380</ZIPCode>
+        </AddressUS>
+        <Title>MEMBER</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>pamela c singleton</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 380</AddressLine1>
+          <City>OWINGS MILLS</City>
+          <State>MD</State>
+          <ZIPCode>211170380</ZIPCode>
+        </AddressUS>
+        <Title>MEMBER</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>A LEONARD PINEAU VMD</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 380</AddressLine1>
+          <City>OWINGS MILLS</City>
+          <State>MD</State>
+          <ZIPCode>211170380</ZIPCode>
+        </AddressUS>
+        <Title>MEMBER</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>Erika R Seth</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 380</AddressLine1>
+          <City>OWINGS MILLS</City>
+          <State>MD</State>
+          <ZIPCode>211170380</ZIPCode>
+        </AddressUS>
+        <Title>MEMBER</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>charles o monk ii</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 380</AddressLine1>
+          <City>OWINGS MILLS</City>
+          <State>MD</State>
+          <ZIPCode>211170380</ZIPCode>
+        </AddressUS>
+        <Title>PRESIDENT</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>THEO RODGERS</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 380</AddressLine1>
+          <City>OWINGS MILLS</City>
+          <State>MD</State>
+          <ZIPCode>211170380</ZIPCode>
+        </AddressUS>
+        <Title>MEMBER</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>HENRY ROSENBERG JR</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 380</AddressLine1>
+          <City>OWINGS MILLS</City>
+          <State>MD</State>
+          <ZIPCode>211170380</ZIPCode>
+        </AddressUS>
+        <Title>MEMBER</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>MARY PAT SEURKAMP</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 380</AddressLine1>
+          <City>OWINGS MILLS</City>
+          <State>MD</State>
+          <ZIPCode>211170380</ZIPCode>
+        </AddressUS>
+        <Title>MEMBER</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>Vernon HC Wright</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 380</AddressLine1>
+          <City>OWINGS MILLS</City>
+          <State>MD</State>
+          <ZIPCode>211170380</ZIPCode>
+        </AddressUS>
+        <Title>MEMBER</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>SHIRLEY YANG MD</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 380</AddressLine1>
+          <City>OWINGS MILLS</City>
+          <State>MD</State>
+          <ZIPCode>211170380</ZIPCode>
+        </AddressUS>
+        <Title>MEMBER</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>michael l falcone</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 380</AddressLine1>
+          <City>OWINGS MILLS</City>
+          <State>MD</State>
+          <ZIPCode>211170380</ZIPCode>
+        </AddressUS>
+        <Title>VICE PRESIDENT</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>james bannantine</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 380</AddressLine1>
+          <City>OWINGS MILLS</City>
+          <State>MD</State>
+          <ZIPCode>211170380</ZIPCode>
+        </AddressUS>
+        <Title>TREASURER</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <NumberOfOfficers>32</NumberOfOfficers>
+      <AreAnyRelated>0</AreAnyRelated>
+      <CompensationFromRelatedOrg>0</CompensationFromRelatedOrg>
+      <ConflictOfInterestPolicy>1</ConflictOfInterestPolicy>
+      <ActivitiesNotPreviouslyRpt>0</ActivitiesNotPreviouslyRpt>
+      <MadeChangesToOrgnzngEtcDoc>0</MadeChangesToOrgnzngEtcDoc>
+      <OrganizationHadUBI>1</OrganizationHadUBI>
+      <OrganizationFiled990T>1</OrganizationFiled990T>
+      <OrganizationDissolvedEtc>0</OrganizationDissolvedEtc>
+      <OrgIsRelatedToAnotherOrg>0</OrgIsRelatedToAnotherOrg>
+      <DidOrgFileForm1120POLThisYear>0</DidOrgFileForm1120POLThisYear>
+      <OrgReceivedDonatedServicesEtc>0</OrgReceivedDonatedServicesEtc>
+      <OrgCompliedWithPublicInspRqr>1</OrgCompliedWithPublicInspRqr>
+      <NondeductibleContribSoliciated>0</NondeductibleContribSoliciated>
+      <OwnershipOfTaxableCorporation>0</OwnershipOfTaxableCorporation>
+      <InterestControlledEntity>0</InterestControlledEntity>
+      <TaxImposedUnderIRC4911>0</TaxImposedUnderIRC4911>
+      <TaxImposedUnderIRC4912>0</TaxImposedUnderIRC4912>
+      <TaxImposedUnderIRC4955>0</TaxImposedUnderIRC4955>
+      <EngagedInExcessBenefitTrans>0</EngagedInExcessBenefitTrans>
+      <AmountOfTaxImposedOnOrgMgr>0</AmountOfTaxImposedOnOrgMgr>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+      <ExcessBusinessHoldings>0</ExcessBusinessHoldings>
+      <StatesWhereCopyOfReturnIsFiled>MD</StatesWhereCopyOfReturnIsFiled>
+      <NumberOfEmployees>401</NumberOfEmployees>
+      <TheBooksAreInCareOf>
+        <NamePerson>THE ORGANIZATION</NamePerson>
+        <AddressUS>
+          <AddressLine1>PO BOX 380</AddressLine1>
+          <City>owings mills</City>
+          <State>MD</State>
+          <ZIPCode>211170380</ZIPCode>
+        </AddressUS>
+        <TelephoneNumber>4103630600</TelephoneNumber>
+      </TheBooksAreInCareOf>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ForeignOffice>0</ForeignOffice>
+      <ProgramServiceRevenuePartVII>
+        <Description>TUITION AND FEES</Description>
+        <RelatedOrExemptFunctionIncome>26282945</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenuePartVII>
+      <ProgramServiceRevenuePartVII>
+        <Description>BOARDING</Description>
+        <RelatedOrExemptFunctionIncome>229121</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenuePartVII>
+      <ProgramServiceRevenuePartVII>
+        <Description>RIDING FEES</Description>
+        <RelatedOrExemptFunctionIncome>82070</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenuePartVII>
+      <ProgramServiceRevenuePartVII>
+        <Description>HORSE SHOWS</Description>
+        <RelatedOrExemptFunctionIncome>296737</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenuePartVII>
+      <ProgramServiceRevenuePartVII>
+        <Description>TRANSPORTATION</Description>
+        <RelatedOrExemptFunctionIncome>31510</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenuePartVII>
+      <ProgramServiceRevenuePartVII>
+        <Description>HORSE TRAINING</Description>
+        <RelatedOrExemptFunctionIncome>7328</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenuePartVII>
+      <ProgramServiceRevenuePartVII>
+        <Description>HORSE LEASES</Description>
+        <RelatedOrExemptFunctionIncome>24861</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenuePartVII>
+      <ProgramServiceRevenuePartVII>
+        <Description>TACK SHOP</Description>
+        <RelatedOrExemptFunctionIncome>4884</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenuePartVII>
+      <ProgramServiceRevenuePartVII>
+        <Description>INSTRUCTIONAL CAMPS</Description>
+        <RelatedOrExemptFunctionIncome>1357019</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenuePartVII>
+      <ProgramServiceRevenuePartVII>
+        <Description>SCHOOL SUPPLIES</Description>
+        <RelatedOrExemptFunctionIncome>189040</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenuePartVII>
+      <ProgramServiceRevenuePartVII>
+        <Description>TEXTBOOKS</Description>
+        <RelatedOrExemptFunctionIncome>10925</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenuePartVII>
+      <ProgramServiceRevenuePartVII>
+        <Description>MISCELLANEOUS</Description>
+        <RelatedOrExemptFunctionIncome>730533</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenuePartVII>
+      <IntOnSavingsAndTempCashInvst>
+        <ExclusionCode>14</ExclusionCode>
+        <ExclusionAmount>236412</ExclusionAmount>
+      </IntOnSavingsAndTempCashInvst>
+      <DividendsAndIntFromSecPartVII>
+        <ExclusionCode>14</ExclusionCode>
+        <ExclusionAmount>1433222</ExclusionAmount>
+      </DividendsAndIntFromSecPartVII>
+      <NetRntlIncmReNotDebtFincdProp>
+        <ExclusionCode>16</ExclusionCode>
+        <ExclusionAmount>251253</ExclusionAmount>
+      </NetRntlIncmReNotDebtFincdProp>
+      <OtherInvestmentIncomePartVII>
+        <BusinessCode>523000</BusinessCode>
+        <UnrelatedBusinessIncomeAmount>30369</UnrelatedBusinessIncomeAmount>
+      </OtherInvestmentIncomePartVII>
+      <GainSalesAssetsOthThanInvntry>
+        <ExclusionCode>18</ExclusionCode>
+        <ExclusionAmount>4984259</ExclusionAmount>
+      </GainSalesAssetsOthThanInvntry>
+      <OtherRevenueDescribed>
+        <Description>AUXILLARY ENTERPRISES</Description>
+        <BusinessCode>611710</BusinessCode>
+        <UnrelatedBusinessIncomeAmount>44125</UnrelatedBusinessIncomeAmount>
+      </OtherRevenueDescribed>
+      <SubtotalsPartVII>
+        <UnrelatedBusinessIncomeAmount>74494</UnrelatedBusinessIncomeAmount>
+        <ExclusionAmount>6905146</ExclusionAmount>
+        <RelatedOrExemptFunctionIncome>29246973</RelatedOrExemptFunctionIncome>
+      </SubtotalsPartVII>
+      <TotalPartVII>36226613</TotalPartVII>
+      <RlnOfActyToAccomOfExemptPrps>
+        <LineNumber>93</LineNumber>
+        <RelationshipStatement>ALL REVENUES ARE FROM TUITION AND FEES CHARGED TO STUDENTS AND RELATE TO NUMEROUS EDUCATIONAL AND INSTRUCTIONAL PROGRAMS CONDUCTED BY THE SCHOOL. AS MCDONOGH SCHOOL IS A PRIVATE INSTITUTION, THESE CHARGES ARE NECESSARY TO KEEP THE SCHOOL OPEN AND OPERATING.</RelationshipStatement>
+      </RlnOfActyToAccomOfExemptPrps>
+      <OrgReceivedFundsToPayPremiums>0</OrgReceivedFundsToPayPremiums>
+      <OrganizationPaidPremiums>0</OrganizationPaidPremiums>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc0002">
+      <CompensationOfHighestPaidEmpl>
+        <Name>W BOULTON DIXON</Name>
+        <AddressUS>
+          <AddressLine1>PO BOX 380</AddressLine1>
+          <City>owings mills</City>
+          <State>MD</State>
+          <ZIPCode>21117</ZIPCode>
+        </AddressUS>
+        <Title>Former HEADMASTER</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <Compensation>260441</Compensation>
+        <EmployeeBenefits>26654</EmployeeBenefits>
+        <ExpenseAccount>14971</ExpenseAccount>
+      </CompensationOfHighestPaidEmpl>
+      <CompensationOfHighestPaidEmpl>
+        <Name>LAWRENCE E JOHNSTON</Name>
+        <AddressUS>
+          <AddressLine1>PO BOX 380</AddressLine1>
+          <City>OWINGS MILLS</City>
+          <State>MD</State>
+          <ZIPCode>21117</ZIPCode>
+        </AddressUS>
+        <Title>VP OF FINANCE</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <Compensation>155000</Compensation>
+        <EmployeeBenefits>20474</EmployeeBenefits>
+        <ExpenseAccount>0</ExpenseAccount>
+      </CompensationOfHighestPaidEmpl>
+      <CompensationOfHighestPaidEmpl>
+        <Name>Brian McBride</Name>
+        <AddressUS>
+          <AddressLine1>PO BOX 380</AddressLine1>
+          <City>Owings Mills</City>
+          <State>MD</State>
+          <ZIPCode>21117</ZIPCode>
+        </AddressUS>
+        <Title>Asst Headmaster</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <Compensation>122900</Compensation>
+        <EmployeeBenefits>19680</EmployeeBenefits>
+        <ExpenseAccount>0</ExpenseAccount>
+      </CompensationOfHighestPaidEmpl>
+      <CompensationOfHighestPaidEmpl>
+        <Name>Charles W Britton</Name>
+        <AddressUS>
+          <AddressLine1>PO BOX 380</AddressLine1>
+          <City>owings mills</City>
+          <State>MD</State>
+          <ZIPCode>21117</ZIPCode>
+        </AddressUS>
+        <Title>Headmaster</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <Compensation>282090</Compensation>
+        <EmployeeBenefits>24556</EmployeeBenefits>
+        <ExpenseAccount>0</ExpenseAccount>
+      </CompensationOfHighestPaidEmpl>
+      <CompensationOfHighestPaidEmpl>
+        <Name>Eileen F Toohey</Name>
+        <AddressUS>
+          <AddressLine1>PO BOX 380</AddressLine1>
+          <City>OWINGS MILLS</City>
+          <State>MD</State>
+          <ZIPCode>21117</ZIPCode>
+        </AddressUS>
+        <Title>Dir of Development</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <Compensation>125000</Compensation>
+        <EmployeeBenefits>22200</EmployeeBenefits>
+        <ExpenseAccount>0</ExpenseAccount>
+      </CompensationOfHighestPaidEmpl>
+      <TotNumberOfOthEmplPaidOver50k>132</TotNumberOfOthEmplPaidOver50k>
+      <CompOfHghstPaidCntrctProfSer>
+        <NamePerson>Clifton Gunderson</NamePerson>
+        <AddressUS>
+          <AddressLine1>9515 Deereco Road Suite 500</AddressLine1>
+          <City>Timonium</City>
+          <State>MD</State>
+          <ZIPCode>21093</ZIPCode>
+        </AddressUS>
+        <TypeOfService>Audit Services</TypeOfService>
+        <Compensation>50050</Compensation>
+      </CompOfHghstPaidCntrctProfSer>
+      <CompOfHghstPaidCntrctOthSer>
+        <NamePerson>WF MILLER AND CO</NamePerson>
+        <AddressUS>
+          <AddressLine1>106 LONGDALE ROAD</AddressLine1>
+          <City>TIMONIUm</City>
+          <State>MD</State>
+          <ZIPCode>21093</ZIPCode>
+        </AddressUS>
+        <TypeOfService>CONSTRUCTION</TypeOfService>
+        <Compensation>244616</Compensation>
+      </CompOfHghstPaidCntrctOthSer>
+      <CompOfHghstPaidCntrctOthSer>
+        <NamePerson>CARROLL MECHANICAL</NamePerson>
+        <AddressUS>
+          <AddressLine1>3394 SCHAEFER DRIVE</AddressLine1>
+          <City>HAMPSTEAD</City>
+          <State>MD</State>
+          <ZIPCode>21074</ZIPCode>
+        </AddressUS>
+        <TypeOfService>HVAC</TypeOfService>
+        <Compensation>174050</Compensation>
+      </CompOfHghstPaidCntrctOthSer>
+      <CompOfHghstPaidCntrctOthSer>
+        <NamePerson>STEVE MORRELL</NamePerson>
+        <AddressUS>
+          <AddressLine1>PO BOX 148</AddressLine1>
+          <City>UPPERCO</City>
+          <State>MD</State>
+          <ZIPCode>21155</ZIPCode>
+        </AddressUS>
+        <TypeOfService>PLUMBING</TypeOfService>
+        <Compensation>130497</Compensation>
+      </CompOfHghstPaidCntrctOthSer>
+      <AnyLobbyingActivitiesDuringYr>0</AnyLobbyingActivitiesDuringYr>
+      <SelfDealingActivities referenceDocumentId="RetDoc0018">
+        <AnySaleOfProperty>0</AnySaleOfProperty>
+        <AnyLending>0</AnyLending>
+        <AnyGoodsOrServices>1</AnyGoodsOrServices>
+        <AnyCompensation>1</AnyCompensation>
+        <AnyTransferOfAssets>0</AnyTransferOfAssets>
+      </SelfDealingActivities>
+      <AwardScholarshipsEtc referenceDocumentId="RetDoc0019">1</AwardScholarshipsEtc>
+      <AnnuityPlan403bForEmployees>1</AnnuityPlan403bForEmployees>
+      <RealPropertyInterestContrib>0</RealPropertyInterestContrib>
+      <ProvideCreditDebtMgmtServices>0</ProvideCreditDebtMgmtServices>
+      <MaintainSeparateAccount>0</MaintainSeparateAccount>
+      <NumberFundsHeld>0</NumberFundsHeld>
+      <AggregateFundValue>0</AggregateFundValue>
+      <School170b1Aii>X</School170b1Aii>
+      <OrgDescribedOnLines10or11>
+        <SumOfExcessContributions>0</SumOfExcessContributions>
+      </OrgDescribedOnLines10or11>
+      <OrgDescribedOnLine12></OrgDescribedOnLine12>
+      <NondiscriminatoryPolicyStmt>1</NondiscriminatoryPolicyStmt>
+      <PolicyStatementInBrochuresEtc>1</PolicyStatementInBrochuresEtc>
+      <PolicyPublViaBroadcastMedia>1</PolicyPublViaBroadcastMedia>
+      <PubViaBroadcastMediaExpln>MCDONOGH SCHOOL HAS PUBLISHED ITS RACIAL NONDISCRIMINATION POLICY IN ALL MEDIA THROUGH WHICH IT ADVERTISES.</PubViaBroadcastMediaExpln>
+      <MaintRacialCompositionRecords>1</MaintRacialCompositionRecords>
+      <MaintScholarshipsRecords>1</MaintScholarshipsRecords>
+      <MaintCopiesOfBrochuresEtc>1</MaintCopiesOfBrochuresEtc>
+      <MaintCopiesOfAllSolicitations>1</MaintCopiesOfAllSolicitations>
+      <DiscriminateRaceStudentsRights>0</DiscriminateRaceStudentsRights>
+      <DiscriminateRaceAdmissPolicies>0</DiscriminateRaceAdmissPolicies>
+      <DiscriminateRaceEmplmnFaculty>0</DiscriminateRaceEmplmnFaculty>
+      <DiscriminateRaceScholarships>0</DiscriminateRaceScholarships>
+      <DiscriminateRaceEducPolicies>0</DiscriminateRaceEducPolicies>
+      <DiscriminateRaceUseOfFclts>0</DiscriminateRaceUseOfFclts>
+      <DiscriminateRaceAthleticProg>0</DiscriminateRaceAthleticProg>
+      <DiscriminateRaceOtherActy>0</DiscriminateRaceOtherActy>
+      <GovernmentFinancialAid>
+        <Received>0</Received>
+        <Revoked>0</Revoked>
+      </GovernmentFinancialAid>
+      <ComplianceWithRevProc75_50>1</ComplianceWithRevProc75_50>
+      <IRS990ScheduleAPartVIA></IRS990ScheduleAPartVIA>
+      <IRS990ScheduleAPartVIB></IRS990ScheduleAPartVIB>
+      <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+      <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+      <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+      <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+      <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+      <ReimbursementArrangements>0</ReimbursementArrangements>
+      <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+      <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+      <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+      <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="RetDoc0003">
+      <ContributorInfo>
+        <ContributorNumber>RESTRICTED</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>RESTRICTED</AggregateContributions>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+  </ReturnData>
+</Return>

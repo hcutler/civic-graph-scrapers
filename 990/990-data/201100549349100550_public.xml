@@ -1,0 +1,608 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-23T11:43:18-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>DGN LLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>PO BOX 947</AddressLine1>
+        <City>TRAVERSE CITY</City>
+        <State>MI</State>
+        <ZIPCode>496850947</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>364360800</EIN>
+      <Name>
+        <BusinessNameLine1>WILLIAM AND MARY SWIFT FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>WILL</NameControl>
+      <Phone>2312237558</Phone>
+      <USAddress>
+        <AddressLine1>13956 PENINSULA DRIVE</AddressLine1>
+        <City>TRAVERSE CITY</City>
+        <State>MI</State>
+        <ZIPCode>49686</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>WILLIAM SWIFT</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>2312237558</Phone>
+      <DateSigned>2011-02-17</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>JAMES G SHUMATE CPA</Name>
+      <Phone>2319461722</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>466</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>3000</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc2001500001">100</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>0</OtherIncomeNetInvstIncm>
+        <TotalRevenueAndExpenses>3100</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>0</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">790</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>395</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>0</AccountingFeesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">20</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>10</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>0</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>810</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>405</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>2050</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>2050</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>2860</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>405</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>2050</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>240</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>226</CashBOY>
+        <CashEOY>466</CashEOY>
+        <TotalAssetsBOY>226</TotalAssetsBOY>
+        <TotalAssetsEOY>466</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>466</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>0</CapitalStockBOY>
+        <CapitalStockEOY>0</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>226</RetainedEarningsBOY>
+        <RetainedEarningsEOY>466</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>226</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>466</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>226</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>466</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>226</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>240</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>466</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>466</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>1850</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>284</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>6.514085</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>16900</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>9662</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>1.749120</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>4020</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>3460</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>1.161850</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>4155</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>2125</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>1.955294</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>10794</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>2230</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>4.840359</DistributionRatioYear5>
+        <TotalDistributionRatio>16.220708</TotalDistributionRatio>
+        <AverageDistributionRatio>3.244142</AverageDistributionRatio>
+        <NetNoncharitableAssets>394</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>1278</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>0</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>1278</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>2050</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>0</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>0</TaxBasedOnInvestmentIncome>
+        <TotalCreditsAndPayments>0</TotalCreditsAndPayments>
+        <TaxDue>0</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>0</AtLeast5000InAssets>
+        <StatesFiledWith>MI</StatesFiledWith>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors referenceDocumentId="RetDoc2089200001">1</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>WILLIAM A SWIFT</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>2312237558</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>13956 PENINSULA DRIVE</AddressLine1>
+          <City>TRAVERSE CITY</City>
+          <State>MI</State>
+          <ZIPCode>49686</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>0</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>WILLIAM A SWIFT</PersonName>
+          <USAddress>
+            <AddressLine1>13956 PENINSULA DRIVE</AddressLine1>
+            <City>TRAVERSE CITY</City>
+            <State>MI</State>
+            <ZIPCode>49686</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>0.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARY E SWIFT</PersonName>
+          <USAddress>
+            <AddressLine1>13956 PENINSULA DRIVE</AddressLine1>
+            <City>TRAVERSE CITY</City>
+            <State>MI</State>
+            <ZIPCode>49686</ZIPCode>
+          </USAddress>
+          <Title>VICE PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>0.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>WILLIAM A SWIFT</PersonName>
+          <USAddress>
+            <AddressLine1>13956 PENINSULA DRIVE</AddressLine1>
+            <City>TRAVERSE CITY</City>
+            <State>MI</State>
+            <ZIPCode>49686</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARY E SWIFT</PersonName>
+          <USAddress>
+            <AddressLine1>13956 PENINSULA DRIVE</AddressLine1>
+            <City>TRAVERSE CITY</City>
+            <State>MI</State>
+            <ZIPCode>49686</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>WILLIAM A SWIFT</PersonName>
+          <USAddress>
+            <AddressLine1>13956 PENINSULA DRIVE</AddressLine1>
+            <City>TRAVERSE CITY</City>
+            <State>MI</State>
+            <ZIPCode>49686</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARY E SWIFT</PersonName>
+          <USAddress>
+            <AddressLine1>13956 PENINSULA DRIVE</AddressLine1>
+            <City>TRAVERSE CITY</City>
+            <State>MI</State>
+            <ZIPCode>49686</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>SCOTT D HARVEY</PersonName>
+          <USAddress>
+            <AddressLine1>202 E STATE ST</AddressLine1>
+            <City>TRAVERSE CITY</City>
+            <State>MI</State>
+            <ZIPCode>49685</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>GRAND TRAVERSE REGIONAL LAND CONSERVANCY</Description1>
+        <Expenses1>500</Expenses1>
+        <Description2>FIRST CONGRESSIONAL CHURCH</Description2>
+        <Expenses2>350</Expenses2>
+        <Description3>VISTA MARIA</Description3>
+        <Expenses3>250</Expenses3>
+        <Description4>MUNSON HOSPICE</Description4>
+        <Expenses4>250</Expenses4>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>400</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>400</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>400</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>6</CashDeemedCharitable>
+        <NetNoncharitableAssets>394</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>20</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>20</MinimumInvestmentReturn>
+        <TotalTax>0</TotalTax>
+        <DistributableAmountBeforeAdj>20</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>20</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>20</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>2050</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>2050</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>2050</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>20</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear5>10794</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>4087</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>3838</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>16675</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>1836</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>37230</TotalExcessDistriCarryover>
+        <QualifyingDistributions>2050</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>20</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>2030</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>39260</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>10794</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>28466</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>4087</ExcessFromYear4>
+        <ExcessFromYear3>3838</ExcessFromYear3>
+        <ExcessFromYear2>16675</ExcessFromYear2>
+        <ExcessFromYear1>1836</ExcessFromYear1>
+        <ExcessFromCurrentYear>2030</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHERRYLAND HUMANE SOCIETY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1750 AHLBERG RD</AddressLine1>
+            <City>TRAVERSE CITY</City>
+            <State>MI</State>
+            <ZIPCode>49686</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE GRANT</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FIRST CONGRESSIONAL CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>6105 CENTER RD</AddressLine1>
+            <City>TRAVERSE CITY</City>
+            <State>MI</State>
+            <ZIPCode>49686</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE GRANT</PurposeOfGrantOrContribution>
+          <Amount>350</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GRAND TRAVERSE CONSERVATION DISTRICT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1450 CASS RD</AddressLine1>
+            <City>TRAVERSE CITY</City>
+            <State>MI</State>
+            <ZIPCode>49684</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE GRANT</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GRAND TRAVERSE REG'L COMMUNITY FOUNDATION - DOUGHERTY HISTORIC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>250 E FRONT ST SUITE 310</AddressLine1>
+            <City>TRAVERSE CITY</City>
+            <State>MI</State>
+            <ZIPCode>49684</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE GRANT</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GRAND TRAVERSE REG'L LAND CONSERVANCY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3860 NORTH LONG LAKE ROAD SUITE D</AddressLine1>
+            <City>TRAVERSE CITY</City>
+            <State>MI</State>
+            <ZIPCode>49684</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE GRANT</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MUNSON HEALTHCARE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>210 BEAUMONT PLACE</AddressLine1>
+            <City>TRAVERSE CITY</City>
+            <State>MI</State>
+            <ZIPCode>49684</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE GRANT</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PENINSULA COMMUNITY LIBRARY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2735 ISLAND VIEW</AddressLine1>
+            <City>TRAVERSE CITY</City>
+            <State>MI</State>
+            <ZIPCode>49686</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE GRANT</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SALVATION ARMY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1239 BARLOW ST</AddressLine1>
+            <City>TRAVERSE CITY</City>
+            <State>MI</State>
+            <ZIPCode>49686</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE GRANT</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE WATERSHED CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>13272 SW BAY SHORE DR</AddressLine1>
+            <City>TRAVERSE CITY</City>
+            <State>MI</State>
+            <ZIPCode>49684</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE GRANT</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>VISTA MARIA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>20651 WEST WARREN AVE</AddressLine1>
+            <City>DEARBORN HEIGHTS</City>
+            <State>MI</State>
+            <ZIPCode>48127</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE GRANT</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WINGS OF WONDER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>13035 SOUTH GREENWAY</AddressLine1>
+            <City>EMPIRE</City>
+            <State>MI</State>
+            <ZIPCode>49630</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE GRANT</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>2050</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <OtherRevenueDescribed>
+          <Description>TAX REFUND</Description>
+          <ExclusionAmount>100</ExclusionAmount>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>100</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>100</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>WILLIAM AND MARY SWIFT</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>13956 PENINSULA DRIVE</AddressLine1>
+          <City>TRAVERSE CITY</City>
+          <State>MI</State>
+          <ZIPCode>49686</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>3000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>DENNIS, GARTLAND, AND NIERGARTH</Category>
+        <Amount>790</Amount>
+        <NetInvestmentIncome>395</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>STATE OF MICHIGAN ANNUAL FEE</Description>
+        <RevenueAndExpensesPerBooks>20</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>10</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc2001500001">
+      <OtherIncome>
+        <Description>TAX REFUND</Description>
+        <RevenueAndExpensesPerBooks>100</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>100</AdjustedNetIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <SubstantialContributorsSch documentId="RetDoc2089200001">
+      <SubstantialContributor>
+        <PersonName>WILLIAM AND MARY SWIFT</PersonName>
+        <ForeignAddress>
+          <AddressLine1>13956 PENINSULA DRIVE</AddressLine1>
+          <City>TRAVERSE CITY</City>
+          <Country>OC</Country>
+          <PostalCode>49686</PostalCode>
+        </ForeignAddress>
+      </SubstantialContributor>
+    </SubstantialContributorsSch>
+  </ReturnData>
+</Return>

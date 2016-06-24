@@ -1,0 +1,796 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-08-26T10:11:32-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>ALMQUIST MALTZAHN GALLOWAY &amp; LUTH PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>PO BOX 1407</AddressLine1>
+        <City>GRAND ISLAND</City>
+        <State>NE</State>
+        <ZIPCode>688021407</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>363664011</EIN>
+      <Name>
+        <BusinessNameLine1>COLLEGE PARK AT GRAND ISLAND</BusinessNameLine1>
+      </Name>
+      <NameControl>COLL</NameControl>
+      <Phone>3083987275</Phone>
+      <USAddress>
+        <AddressLine1>3180 W HIGHWAY 34</AddressLine1>
+        <City>GRAND ISLAND</City>
+        <State>NE</State>
+        <ZIPCode>688017279</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>RANDY BLAIR</Name>
+      <Title>EXECUTIVE DIRECTOR</Title>
+      <Phone>3083987275</Phone>
+      <DateSigned>2010-07-20</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>CHRISTINE SHENK CPA</Name>
+      <Phone>3083811810</Phone>
+      <DatePrepared>2010-08-05</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="12">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>5799989</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>2325</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>2325</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>2325</InterestOnSavingsAdjNetIncm>
+        <DividendsRevAndExpnss>15883</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>15883</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>15883</DividendsAdjNetIncm>
+        <GrossRentsRevAndExpnss>8250</GrossRentsRevAndExpnss>
+        <GrossRentsNetInvstIncm>8250</GrossRentsNetInvstIncm>
+        <GrossRentsAdjNetIncm>8250</GrossRentsAdjNetIncm>
+        <NetRentalIncomeOrLoss>8250</NetRentalIncomeOrLoss>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc9">264441</OtherIncomeRevAndExpnss>
+        <OtherIncomeAdjNetIncm>264441</OtherIncomeAdjNetIncm>
+        <TotalRevenueAndExpenses>290899</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>26458</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>290899</TotalAdjustedNetIncome>
+        <CompOfcrDirTrstRevAndExpnss>60000</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>3000</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstAdjNetIncm>3000</CompOfcrDirTrstAdjNetIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>57000</CompOfcrDirTrstDsbrsChrtblPrps>
+        <OthEmplSlrsWgsRevAndExpnss>22343</OthEmplSlrsWgsRevAndExpnss>
+        <OthEmplSlrsWgsDsbrsChrtblPrps>22343</OthEmplSlrsWgsDsbrsChrtblPrps>
+        <PensionEmplBnftRevAndExpnss>17215</PensionEmplBnftRevAndExpnss>
+        <PensionEmplBnftNetInvstIncm>861</PensionEmplBnftNetInvstIncm>
+        <PensionEmplBnftAdjNetIncm>861</PensionEmplBnftAdjNetIncm>
+        <PensionEmplBnftDsbrsChrtblPrps>16354</PensionEmplBnftDsbrsChrtblPrps>
+        <LegalFeesRevAndExpnss referenceDocumentId="RetDoc6">185</LegalFeesRevAndExpnss>
+        <LegalFeesNetInvstIncm>9</LegalFeesNetInvstIncm>
+        <LegalFeesAdjNetIncm>9</LegalFeesAdjNetIncm>
+        <LegalFeesDsbrsChrtblPrps>176</LegalFeesDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">7925</AccountingFeesRevAndExpnss>
+        <AccountingFeesDsbrsChrtblPrps>7925</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc11">1000</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesDsbrsChrtblPrps>1000</OtherProfFeesDsbrsChrtblPrps>
+        <InterestRevAndExpnss>2076</InterestRevAndExpnss>
+        <InterestDsbrsChrtblPrps>2076</InterestDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc12">260</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>260</TaxesNetInvstIncm>
+        <TaxesAdjNetIncm>260</TaxesAdjNetIncm>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId="RetDoc3">124315</DeprecAndDepletionRevAndExpnss>
+        <DeprecAndDepletionAdjNetIncm>124315</DeprecAndDepletionAdjNetIncm>
+        <OccupancyRevAndExpnss>219517</OccupancyRevAndExpnss>
+        <OccupancyAdjNetIncm>137757</OccupancyAdjNetIncm>
+        <OccupancyDsbrsChrtblPrps>81760</OccupancyDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc7">16809</OtherExpensesRevAndExpnss>
+        <OtherExpensesDsbrsChrtblPrps>16809</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>471645</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>4130</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>266202</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>205443</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>4379</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>4379</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>476024</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>4130</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>266202</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>209822</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-185125</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>22328</NetInvestmentIncome>
+        <AdjustedNetIncome>24697</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>645</CashBOY>
+        <CashEOY>727</CashEOY>
+        <CashEOYFMV>727</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>14222</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>71349</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>71349</SavingsAndTempCashInvstEOYFMV>
+        <AccountsReceivable>6029</AccountsReceivable>
+        <AccountsReceivableBOY>6818</AccountsReceivableBOY>
+        <AccountsReceivableEOY>6029</AccountsReceivableEOY>
+        <AccountsReceivableEOYFMV>6029</AccountsReceivableEOYFMV>
+        <PrepaidExpensesBOY>1254</PrepaidExpensesBOY>
+        <PrepaidExpensesEOY>1559</PrepaidExpensesEOY>
+        <PrepaidExpensesEOYFMV>1559</PrepaidExpensesEOYFMV>
+        <InvestmentsCorpStockBOY>560270</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc4">356778</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>356778</InvestmentsCorpStockEOYFMV>
+        <LandBuildingAndEquipmentBasis>5363547</LandBuildingAndEquipmentBasis>
+        <AccumDeprecLandBldgAndEquip>2097291</AccumDeprecLandBldgAndEquip>
+        <LandBuildingAndEquipmentBOY>3230236</LandBuildingAndEquipmentBOY>
+        <LandBuildingAndEquipmentEOY referenceDocumentId="RetDoc5">3266256</LandBuildingAndEquipmentEOY>
+        <LandBuildingAndEquipmentEOYFMV>5363547</LandBuildingAndEquipmentEOYFMV>
+        <TotalAssetsBOY>3813445</TotalAssetsBOY>
+        <TotalAssetsEOY>3702698</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>5799989</TotalAssetsEOYFMV>
+        <AccountsPayableBOY>9267</AccountsPayableBOY>
+        <AccountsPayableEOY>23656</AccountsPayableEOY>
+        <DeferredRevenueBOY>2000</DeferredRevenueBOY>
+        <DeferredRevenueEOY>5535</DeferredRevenueEOY>
+        <OtherLiabilitiesBOY referenceDocumentId="RetDoc10">30044</OtherLiabilitiesBOY>
+        <OtherLiabilitiesEOY referenceDocumentId="RetDoc10">15453</OtherLiabilitiesEOY>
+        <TotalLiabilitiesBOY>41311</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>44644</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>3772134</UnrestrictedBOY>
+        <UnrestrictedEOY>3658054</UnrestrictedEOY>
+        <TotalNetAssetsBOY>3772134</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>3658054</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>3813445</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>3702698</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>3772134</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-185125</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="RetDoc8">71045</OtherIncreases>
+        <Subtotal>3658054</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>3658054</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>308512</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>700737</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.440268</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>198994</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>1087735</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.182943</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>172495</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>1168793</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.147584</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>203285</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>1107365</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.183575</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>184525</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>1077110</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.171315</DistributionRatioYear5>
+        <TotalDistributionRatio>1.125685</TotalDistributionRatio>
+        <AverageDistributionRatio>0.225137</AverageDistributionRatio>
+        <NetNoncharitableAssets>582134</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>131060</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>223</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>131283</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>209822</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>223</InvestmentIncomeExciseTax>
+        <Subtotal>223</Subtotal>
+        <TaxBasedOnInvestmentIncome>223</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>215</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>215</TotalCreditsAndPayments>
+        <TaxDue>8</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <PrivateOperatingFoundation>true</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>COLLEGEPARK.DOANE.EDU</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>ALMQUIST MALTZAHN GALLOWAY &amp; LUTH</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>3083811810</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>1203 W 2ND ST</AddressLine1>
+          <City>GRAND ISLAND</City>
+          <State>NE</State>
+          <ZIPCode>68801</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>RANDY BLAIR</PersonName>
+          <USAddress>
+            <AddressLine1>1901 W LOUISE</AddressLine1>
+            <City>GRAND ISLAND</City>
+            <State>NE</State>
+            <ZIPCode>68803</ZIPCode>
+          </USAddress>
+          <Title>EXEC DIRECTR</Title>
+          <AvgHoursPerWkDevotedToPosition>40.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>60000</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>WILL ARMSTRONG</PersonName>
+          <USAddress>
+            <AddressLine1>3104 S BLAINE ST</AddressLine1>
+            <City>GRAND ISLAND</City>
+            <State>NE</State>
+            <ZIPCode>68801</ZIPCode>
+          </USAddress>
+          <Title>PAST-CHAIR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JUDY SANDSTROM</PersonName>
+          <USAddress>
+            <AddressLine1>2117 W CHARLES ST</AddressLine1>
+            <City>GRAND ISLAND</City>
+            <State>NE</State>
+            <ZIPCode>68803</ZIPCode>
+          </USAddress>
+          <Title>CHAIR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>TROY HUGHES</PersonName>
+          <USAddress>
+            <AddressLine1>1721 BASS ROAD</AddressLine1>
+            <City>GRAND ISLAND</City>
+            <State>NE</State>
+            <ZIPCode>68801</ZIPCode>
+          </USAddress>
+          <Title>VICE CHAIR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>KEVIN WERNER</PersonName>
+          <USAddress>
+            <AddressLine1>1422 S NEWCASTLE ROAD</AddressLine1>
+            <City>GRAND ISLAND</City>
+            <State>NE</State>
+            <ZIPCode>68801</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CHRIS SHENK</PersonName>
+          <USAddress>
+            <AddressLine1>1203 W 2ND STREET</AddressLine1>
+            <City>GRAND ISLAND</City>
+            <State>NE</State>
+            <ZIPCode>68803</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>SARAH CUNNINGHAM</PersonName>
+          <USAddress>
+            <AddressLine1>3180 W HIGHWAY 34</AddressLine1>
+            <City>GRAND ISLAND</City>
+            <State>NE</State>
+            <ZIPCode>68801</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>LYNN BLACK</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 4903</AddressLine1>
+            <City>GRAND ISLAND</City>
+            <State>NE</State>
+            <ZIPCode>688024903</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>LINDA STANISLAV</PersonName>
+          <USAddress>
+            <AddressLine1>3204 PONCA CIRCLE</AddressLine1>
+            <City>GRAND ISLAND</City>
+            <State>NE</State>
+            <ZIPCode>68803</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JANICE HADFIELD</PersonName>
+          <USAddress>
+            <AddressLine1>535 BOSWELL AVENUE</AddressLine1>
+            <City>CRETE</City>
+            <State>NE</State>
+            <ZIPCode>683333228</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JIM WERTH</PersonName>
+          <USAddress>
+            <AddressLine1>123 S WEBB ROAD</AddressLine1>
+            <City>GRAND ISLAND</City>
+            <State>NE</State>
+            <ZIPCode>68803</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BOB RYE</PersonName>
+          <USAddress>
+            <AddressLine1>3211 MAGNOLIA COURT</AddressLine1>
+            <City>GRAND ISLAND</City>
+            <State>NE</State>
+            <ZIPCode>68803</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MIKE HENKE</PersonName>
+          <USAddress>
+            <AddressLine1>2222 W 2ND</AddressLine1>
+            <City>GRAND ISLAND</City>
+            <State>NE</State>
+            <ZIPCode>68803</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>LARRY KELLER</PersonName>
+          <USAddress>
+            <AddressLine1>115 CANYON DRIVE</AddressLine1>
+            <City>PHILLIPS</City>
+            <State>NE</State>
+            <ZIPCode>68865</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JACK HENRY</PersonName>
+          <USAddress>
+            <AddressLine1>2928 E HIGHWAY 30</AddressLine1>
+            <City>GRAND ISLAND</City>
+            <State>NE</State>
+            <ZIPCode>68801</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JIM TRUELL</PersonName>
+          <USAddress>
+            <AddressLine1>220 OXNARD AVE</AddressLine1>
+            <City>GRAND ISLAND</City>
+            <State>NE</State>
+            <ZIPCode>68801</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>KURT HAECKER</PersonName>
+          <USAddress>
+            <AddressLine1>2706 WAGON ROAD</AddressLine1>
+            <City>GRAND ISLAND</City>
+            <State>NE</State>
+            <ZIPCode>68801</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BARB ERNST</PersonName>
+          <USAddress>
+            <AddressLine1>622 W 11TH STREET</AddressLine1>
+            <City>GRAND ISLAND</City>
+            <State>NE</State>
+            <ZIPCode>68801</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BETH BARTLETT</PersonName>
+          <USAddress>
+            <AddressLine1>3917 PARTRIDGE CIRCLE</AddressLine1>
+            <City>GRAND ISLAND</City>
+            <State>NE</State>
+            <ZIPCode>68803</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARILYN FOX</PersonName>
+          <USAddress>
+            <AddressLine1>3180 W HWY 34</AddressLine1>
+            <City>GRAND ISLAND</City>
+            <State>NE</State>
+            <ZIPCode>68801</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>MAINTENANCE AND OPERATION OF CENTER FOR HIGHER EDUCATION IN HALL COUNTY, NEBRASKA.</Description1>
+        <Expenses1>205443</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>544097</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>46902</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>590999</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>590999</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>8865</CashDeemedCharitable>
+        <NetNoncharitableAssets>582134</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>29107</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <Sect4942j3j5FndtnAndFrgnOrg>X</Sect4942j3j5FndtnAndFrgnOrg>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>209822</ExpensesAndContributions>
+        <QualifyingDistributions>209822</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>223</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>209599</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <PrivateOperatingFoundations>
+        <Section4942j3>X</Section4942j3>
+        <LessorAdjNetIncmMinInvstReturn>
+          <CurrentYear>24697</CurrentYear>
+          <Year1>31798</Year1>
+          <Year2>32321</Year2>
+          <Year3>17292</Year3>
+          <Total>106108</Total>
+        </LessorAdjNetIncmMinInvstReturn>
+        <Percent85OfLessor>
+          <CurrentYear>20992</CurrentYear>
+          <Year1>27028</Year1>
+          <Year2>27473</Year2>
+          <Year3>14698</Year3>
+          <Total>90191</Total>
+        </Percent85OfLessor>
+        <QualifyingDistributions>
+          <CurrentYear>209822</CurrentYear>
+          <Year1>308920</Year1>
+          <Year2>199888</Year2>
+          <Year3>172495</Year3>
+          <Total>891125</Total>
+        </QualifyingDistributions>
+        <QlfyDistriMadeDirectly>
+          <CurrentYear>209822</CurrentYear>
+          <Year1>308920</Year1>
+          <Year2>199888</Year2>
+          <Year3>172495</Year3>
+          <Total>891125</Total>
+        </QlfyDistriMadeDirectly>
+        <TotalAssets>
+          <CurrentYear>5799989</CurrentYear>
+          <Year1>5786421</Year1>
+          <Year2>6191420</Year2>
+          <Year3>6378737</Year3>
+          <Total>24156567</Total>
+        </TotalAssets>
+        <TotalAssetsSect4942j3Bi>
+          <CurrentYear>5363547</CurrentYear>
+          <Year1>5203212</Year1>
+          <Year2>5178617</Year2>
+          <Year3>5178617</Year3>
+          <Total>20923993</Total>
+        </TotalAssetsSect4942j3Bi>
+      </PrivateOperatingFoundations>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>RANDY BLAIR</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>3180 W HIGHWAY 34</AddressLine1>
+            <City>GRAND ISLAND</City>
+            <State>NE</State>
+            <ZIPCode>68801</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>3083987275</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>APPLICANTS MUST SUBMIT THEIR NAME, ADDRESS, PROGRAM OF STUDY, DETAILS REGARDING THEIR FINANCIAL NEED AND EXPECTED COURSE OF EDUCATIONAL STUDIES.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>APPLICATIONS ARE ACCEPTED THROUGHOUT THE YEAR, BUT SCHOLARSHIPS ARE AWARDED AT THE BEGINNING OF THE</SubmissionDeadlines>
+          <RestrictionsOnAwards>N/A</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GRAND ISLAND LITTLE THEAT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3180 W US HWY 34</AddressLine1>
+            <City>GRAND ISLAND</City>
+            <State>NE</State>
+            <ZIPCode>68801</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>4379</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>4379</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>2325</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>15883</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <NetRntlIncmReNotDebtFincdProp>
+          <ExclusionCode>16</ExclusionCode>
+          <ExclusionAmount>8250</ExclusionAmount>
+        </NetRntlIncmReNotDebtFincdProp>
+        <OtherRevenueDescribed>
+          <Description>CLASSROOM RENTAL</Description>
+          <RelatedOrExemptFunctionIncome>258571</RelatedOrExemptFunctionIncome>
+        </OtherRevenueDescribed>
+        <OtherRevenueDescribed>
+          <Description>EQUIPMENT RENT</Description>
+          <RelatedOrExemptFunctionIncome>3201</RelatedOrExemptFunctionIncome>
+        </OtherRevenueDescribed>
+        <OtherRevenueDescribed>
+          <Description>VENDING MACHINE INCOME</Description>
+          <ExclusionCode>3</ExclusionCode>
+          <ExclusionAmount>2669</ExclusionAmount>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>29127</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>261772</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>290899</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>11B</LineNumber>
+          <RelationshipStatement>RENTAL INCOME FROM CLASSROOMS USED FOR EXEMPT PURPOSE</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>11C</LineNumber>
+          <RelationshipStatement>EQUIPMENT RENT &amp; TECHNICIAN FEES FOR EDUCATIONAL SERVICE</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>INDIRECT ACCOUNTING FEES</Category>
+        <Amount>7925</Amount>
+        <DisbursementsCharitablePrps>7925</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="RetDoc3">
+      <Depreciation>
+        <DescriptionOfProperty>DEPRECIATION</DescriptionOfProperty>
+        <CurrentYearExpense>124315</CurrentYearExpense>
+      </Depreciation>
+    </DepreciationSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc4">
+      <InvestmentsCorpStock>
+        <NameOfStock>DEPRECIATION FUND-MUTUAL FUNDS</NameOfStock>
+        <EOYBookValue>356778</EOYBookValue>
+        <EOYFMV>356778</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <LandEtcSchedule2 documentId="RetDoc5">
+      <LandEtc>
+        <CategoryOrItem>BUILDINGS AND EQUIPMENT</CategoryOrItem>
+        <CostOrOtherBasis>5230047</CostOrOtherBasis>
+        <AccumulatedDepreciation>2097291</AccumulatedDepreciation>
+        <BookValue>3132756</BookValue>
+        <EOYFMV>5230047</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>LAND</CategoryOrItem>
+        <CostOrOtherBasis>133500</CostOrOtherBasis>
+        <BookValue>133500</BookValue>
+        <EOYFMV>133500</EOYFMV>
+      </LandEtc>
+    </LandEtcSchedule2>
+    <LegalFeesSchedule documentId="RetDoc6">
+      <LegalFees>
+        <Category>INDIRECT LEGAL FEES</Category>
+        <Amount>185</Amount>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc7">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>SUPPLIES</Description>
+        <RevenueAndExpensesPerBooks>11989</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>11989</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>ADVERTISING/MARKETING</Description>
+        <RevenueAndExpensesPerBooks>500</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>500</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>TELEPHONE</Description>
+        <RevenueAndExpensesPerBooks>4320</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>4320</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc9">
+      <OtherIncome>
+        <Description>CLASSROOM RENTAL</Description>
+        <RevenueAndExpensesPerBooks>258571</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>258571</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>EQUIPMENT RENT</Description>
+        <RevenueAndExpensesPerBooks>3201</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>3201</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>VENDING MACHINE INCOME</Description>
+        <RevenueAndExpensesPerBooks>2669</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>2669</AdjustedNetIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="RetDoc8">
+      <OtherIncreases>
+        <Description>UNREALIZED GAIN ON INVESTMENTS</Description>
+        <Amount>71045</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <OtherLiabilitiesSchedule documentId="RetDoc10">
+      <OtherLiabilities>
+        <Description>PAVING ASSESSMENTS PAYABLE</Description>
+        <BOYBookValue>29237</BOYBookValue>
+        <EOYBookValue>14644</EOYBookValue>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>PAYROLL TAXES PAYABLE</Description>
+        <BOYBookValue>807</BOYBookValue>
+        <EOYBookValue>809</EOYBookValue>
+      </OtherLiabilities>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc11">
+      <OtherProfessionalFees>
+        <Category>INDIRECT OTHER PROFESSIONAL FEES</Category>
+        <Amount>1000</Amount>
+        <DisbursementsCharitablePrps>1000</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc12">
+      <Taxes>
+        <Category>REAL ESTATE TAX</Category>
+        <Amount>260</Amount>
+        <NetInvestmentIncome>260</NetInvestmentIncome>
+        <AdjustedNetIncome>260</AdjustedNetIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

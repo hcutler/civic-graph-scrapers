@@ -1,0 +1,799 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-09-15T10:08:53-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-05-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>BARRON GANNON &amp; CO PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>1275 POST ROAD</AddressLine1>
+        <City>FAIRFIELD</City>
+        <State>CT</State>
+        <ZIPCode>06824</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-06-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>222599664</EIN>
+      <Name>
+        <BusinessNameLine1>SOUTHPORT AREA FUND CO BEN BAKER</BusinessNameLine1>
+      </Name>
+      <NameControl>SOUT</NameControl>
+      <Phone>2032556847</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 705</AddressLine1>
+        <City>SOUTHPORT</City>
+        <State>CT</State>
+        <ZIPCode>06890</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>BENJAMIN M BAKER</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>2032556847</Phone>
+      <DateSigned>2010-08-26</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>HENRY BARRON CPA</Name>
+      <Phone>2032597876</Phone>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="4">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>2583</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>55765</ContriReceivedRevAndExpnss>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <NetSTCGAdjNetIncm>0</NetSTCGAdjNetIncm>
+        <TotalRevenueAndExpenses>55765</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>0</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>0</TotalAdjustedNetIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstAdjNetIncm>0</CompOfcrDirTrstAdjNetIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">700</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>70</AccountingFeesNetInvstIncm>
+        <AccountingFeesAdjNetIncm>0</AccountingFeesAdjNetIncm>
+        <AccountingFeesDsbrsChrtblPrps>630</AccountingFeesDsbrsChrtblPrps>
+        <TravConfMeetingRevAndExpnss>565</TravConfMeetingRevAndExpnss>
+        <TravConfMeetingNetInvstIncm>57</TravConfMeetingNetInvstIncm>
+        <TravConfMeetingAdjNetIncm>0</TravConfMeetingAdjNetIncm>
+        <TravConfMeetingDsbrsChrtblPrps>508</TravConfMeetingDsbrsChrtblPrps>
+        <PrintingAndPubRevAndExpnss>13</PrintingAndPubRevAndExpnss>
+        <PrintingAndPubNetInvstIncm>1</PrintingAndPubNetInvstIncm>
+        <PrintingAndPubAdjNetIncm>0</PrintingAndPubAdjNetIncm>
+        <PrintingAndPubDsbrsChrtblPrps>12</PrintingAndPubDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">95</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>10</OtherExpensesNetInvstIncm>
+        <OtherExpensesAdjNetIncm>0</OtherExpensesAdjNetIncm>
+        <OtherExpensesDsbrsChrtblPrps>85</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>1373</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>138</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>0</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>1235</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>54176</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>54176</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>55549</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>138</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>0</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>55411</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>216</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>2367</CashBOY>
+        <CashEOY>2583</CashEOY>
+        <CashEOYFMV>2583</CashEOYFMV>
+        <TotalAssetsBOY>2367</TotalAssetsBOY>
+        <TotalAssetsEOY>2583</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>2583</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>2367</UnrestrictedBOY>
+        <UnrestrictedEOY>2583</UnrestrictedEOY>
+        <TotalNetAssetsBOY>2367</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>2583</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>2367</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>2583</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>2367</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>216</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>2583</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>2583</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>44423</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>0</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.0</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>66633</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>0</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.0</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>64753</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>0</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.0</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>62072</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>0</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.0</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>61854</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>0</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.0</DistributionRatioYear5>
+        <TotalDistributionRatio>0.0</TotalDistributionRatio>
+        <AverageDistributionRatio>0.0</AverageDistributionRatio>
+        <NetNoncharitableAssets>1271</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>0</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>0</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>0</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>55411</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>0</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>0</TaxBasedOnInvestmentIncome>
+        <TotalCreditsAndPayments>0</TotalCreditsAndPayments>
+        <TaxDue>0</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>CT</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>ALISON BARRY</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>2032540830</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>1046 PEQUOT AVENUE</AddressLine1>
+          <City>SOUTHPORT</City>
+          <State>CT</State>
+          <ZIPCode>06890</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>G WHITNEY BIGGS</PersonName>
+          <USAddress>
+            <AddressLine1>1078 RIDGEFIELD RD</AddressLine1>
+            <City>WILTON</City>
+            <State>CT</State>
+            <ZIPCode>06897</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BENJAMIN M BAKER</PersonName>
+          <USAddress>
+            <AddressLine1>174 OLD SOUTH ROAD</AddressLine1>
+            <City>SOUTHPORT</City>
+            <State>CT</State>
+            <ZIPCode>06890</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BENJAMIN M BAKER</PersonName>
+          <USAddress>
+            <AddressLine1>174 OLD SOUTH ROAD</AddressLine1>
+            <City>SOUTHPORT</City>
+            <State>CT</State>
+            <ZIPCode>06890</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>G WHITNEY BIGGS</PersonName>
+          <USAddress>
+            <AddressLine1>1078 RIDGEFIELD RD</AddressLine1>
+            <City>WILTON</City>
+            <State>CT</State>
+            <ZIPCode>06897</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>HARVEY L GRAY</PersonName>
+          <USAddress>
+            <AddressLine1>289 SASCO HILL ROAD</AddressLine1>
+            <City>FAIRFIELD</City>
+            <State>CT</State>
+            <ZIPCode>06824</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ARCHIE F MACALLASTER II</PersonName>
+          <USAddress>
+            <AddressLine1>489 SASCO HILL ROAD</AddressLine1>
+            <City>FAIRFIELD</City>
+            <State>CT</State>
+            <ZIPCode>06824</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BARBARA A YOUNG</PersonName>
+          <USAddress>
+            <AddressLine1>330 HARBOR ROAD</AddressLine1>
+            <City>SOUTHPORT</City>
+            <State>CT</State>
+            <ZIPCode>06890</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DERBY F ANDERSON</PersonName>
+          <USAddress>
+            <AddressLine1>228 MAIN STREET</AddressLine1>
+            <City>SOUTHPORT</City>
+            <State>CT</State>
+            <ZIPCode>06890</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>R BRADFORD EVANS</PersonName>
+          <USAddress>
+            <AddressLine1>1259 PEQUOT AVENUE</AddressLine1>
+            <City>SOUTHPORT</City>
+            <State>CT</State>
+            <ZIPCode>06890</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>VIRGINIA K CARGILL</PersonName>
+          <USAddress>
+            <AddressLine1>1110 HARBOR ROAD</AddressLine1>
+            <City>SOUTHPORT</City>
+            <State>CT</State>
+            <ZIPCode>06890</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JULIA W LINSLEY</PersonName>
+          <USAddress>
+            <AddressLine1>THE MEADOWS S PINE CREEK AVENUE</AddressLine1>
+            <City>FAIRFIELD</City>
+            <State>CT</State>
+            <ZIPCode>06824</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JULIA W LINSLEY</PersonName>
+          <USAddress>
+            <AddressLine1>THE MEADOWS S PINE CREEK AVENUE</AddressLine1>
+            <City>FAIRFIELD</City>
+            <State>CT</State>
+            <ZIPCode>06824</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CHARLES B CURTIS</PersonName>
+          <USAddress>
+            <AddressLine1>537 VERNA HILL ROAD</AddressLine1>
+            <City>FAIRFIELD</City>
+            <State>CT</State>
+            <ZIPCode>06824</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>VIRGINIA K CARGILL</PersonName>
+          <USAddress>
+            <AddressLine1>1110 HARBOR ROAD</AddressLine1>
+            <City>SOUTHPORT</City>
+            <State>CT</State>
+            <ZIPCode>06890</ZIPCode>
+          </USAddress>
+          <Title>VICE PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ALISON BARRY</PersonName>
+          <USAddress>
+            <AddressLine1>1046 PEQUOT AVENUE</AddressLine1>
+            <City>SOUTHPORT</City>
+            <State>CT</State>
+            <ZIPCode>06890</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOHN B PAYNE</PersonName>
+          <USAddress>
+            <AddressLine1>75 STONE RIDGE WAY APT 3C</AddressLine1>
+            <City>FAIRFIELD</City>
+            <State>CT</State>
+            <ZIPCode>06824</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>1290</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>1290</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>1290</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>19</CashDeemedCharitable>
+        <NetNoncharitableAssets>1271</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>64</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <Sect4942j3j5FndtnAndFrgnOrg>X</Sect4942j3j5FndtnAndFrgnOrg>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>55411</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>55411</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>55411</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <TotalExcessDistriCarryover>0</TotalExcessDistriCarryover>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>0</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>0</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>0</ExcessDistriCyovToNextYear>
+      </UndistributedIncome>
+      <PrivateOperatingFoundations>
+        <DateOfRuling>1985-05-24</DateOfRuling>
+        <Section4942j3>X</Section4942j3>
+        <LessorAdjNetIncmMinInvstReturn>
+          <CurrentYear>0</CurrentYear>
+          <Year1>0</Year1>
+          <Year2>0</Year2>
+          <Year3>0</Year3>
+          <Total>0</Total>
+        </LessorAdjNetIncmMinInvstReturn>
+        <Percent85OfLessor>
+          <CurrentYear>0</CurrentYear>
+          <Year1>0</Year1>
+          <Year2>0</Year2>
+          <Year3>0</Year3>
+          <Total>0</Total>
+        </Percent85OfLessor>
+        <QualifyingDistributions>
+          <CurrentYear>55411</CurrentYear>
+          <Year1>44423</Year1>
+          <Year2>66633</Year2>
+          <Year3>64753</Year3>
+          <Total>231220</Total>
+        </QualifyingDistributions>
+        <QlfyDistriNotUsedDirectly>
+          <CurrentYear>0</CurrentYear>
+          <Year1>0</Year1>
+          <Year2>0</Year2>
+          <Year3>0</Year3>
+          <Total>0</Total>
+        </QlfyDistriNotUsedDirectly>
+        <QlfyDistriMadeDirectly>
+          <CurrentYear>55411</CurrentYear>
+          <Year1>44423</Year1>
+          <Year2>66633</Year2>
+          <Year3>64753</Year3>
+          <Total>231220</Total>
+        </QlfyDistriMadeDirectly>
+        <TotalAssets>
+          <Total>0</Total>
+        </TotalAssets>
+        <TotalAssetsSect4942j3Bi>
+          <Total>0</Total>
+        </TotalAssetsSect4942j3Bi>
+        <TwoThirdsMinInvstReturn>
+          <Total>0</Total>
+        </TwoThirdsMinInvstReturn>
+        <TotalSupport>
+          <Total>0</Total>
+        </TotalSupport>
+        <PublicSupport>
+          <CurrentYear>55765</CurrentYear>
+          <Total>55765</Total>
+        </PublicSupport>
+        <LargestSupportFromEO>
+          <Total>0</Total>
+        </LargestSupportFromEO>
+        <GrossInvestmentIncome>
+          <Total>0</Total>
+        </GrossInvestmentIncome>
+      </PrivateOperatingFoundations>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>BENJAMIN M BAKER</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 705</AddressLine1>
+            <City>SOUTHPORT</City>
+            <State>CT</State>
+            <ZIPCode>068900545</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>2032556847</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>IN LETTER FORM (GIVING ALL PERTINENT INFORMATION)</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>APPLICATIONS ARE ACCEPTED AT ANY TIME. NOTICE OF APPROVAL, REJECTION, OR REQUEST FOR ADDITIONAL INFO</SubmissionDeadlines>
+          <RestrictionsOnAwards>NONE</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BLESSING OF THE FLEET</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>246 OLD POST ROAD</AddressLine1>
+            <City>SOUTHPORT</City>
+            <State>CT</State>
+            <ZIPCode>068901496</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>300</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PEQUOT LIBRARY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>720 PEQUOT AVENUE</AddressLine1>
+            <City>SOUTHPORT</City>
+            <State>CT</State>
+            <ZIPCode>068901496</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RENOVATION EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SOUTHPORT VOLUNTEER FIRE DEPARTMENT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>69 MAIN STREET</AddressLine1>
+            <City>SOUTHPORT</City>
+            <State>CT</State>
+            <ZIPCode>068901322</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RENOVATION EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>15750</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>EPISCOPAL CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>651 PEQUOT AVENUE</AddressLine1>
+            <City>SOUTHPORT</City>
+            <State>CT</State>
+            <ZIPCode>068901366</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RENOVATION EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WAKEMAN BOYS AND GIRLS CLUB</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>385 CENTER STREET</AddressLine1>
+            <City>SOUTHPORT</City>
+            <State>CT</State>
+            <ZIPCode>068901496</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RENOVATION EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>YE YACHT YARD PRESERVATION INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>985 HARBOR ROAD</AddressLine1>
+            <City>SOUTHPORT</City>
+            <State>CT</State>
+            <ZIPCode>068901366</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>3800</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SOUTHPORT CONSERVANCY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>56 OLD POST ROAD</AddressLine1>
+            <City>FAIRFIELD</City>
+            <State>CT</State>
+            <ZIPCode>068246042</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RENOVATION EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SOUTHPORT CONGREGATIONAL CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>524 PEQUOT AVENUE</AddressLine1>
+            <City>SOUTHPORT</City>
+            <State>CT</State>
+            <ZIPCode>068901365</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TOWN OF FAIRFIELD-SOUTHPORT PERRY GREEN SITE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>611 OLD POST ROAD</AddressLine1>
+            <City>FAIRFIELD</City>
+            <State>CT</State>
+            <ZIPCode>068246042</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING EXPENSES/COSTS IRRIGATION SYSTEM</PurposeOfGrantOrContribution>
+          <Amount>326</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>54176</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>0</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>0</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>1</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <TransferSchedule>
+          <LineNumber>1b(4)</LineNumber>
+          <AmountInvolved>550</AmountInvolved>
+          <NameOfNoncharitableEO>
+            <BusinessNameLine1>SOUTHPORT AREA ASSOCIATION INC</BusinessNameLine1>
+          </NameOfNoncharitableEO>
+          <DescriptionOfTransfersEtc>REIMBURSEMENT ANNUAL MEETING</DescriptionOfTransfersEtc>
+        </TransferSchedule>
+        <TransferSchedule>
+          <LineNumber>1b(4)</LineNumber>
+          <AmountInvolved>700</AmountInvolved>
+          <NameOfNoncharitableEO>
+            <BusinessNameLine1>SOUTHPORT AREA ASSOCIATION INC</BusinessNameLine1>
+          </NameOfNoncharitableEO>
+          <DescriptionOfTransfersEtc>REIMBURSEMENT ACCOUNTING &amp; AUDIT FEES</DescriptionOfTransfersEtc>
+        </TransferSchedule>
+        <TransferSchedule>
+          <LineNumber>1b(4)</LineNumber>
+          <AmountInvolved>70</AmountInvolved>
+          <NameOfNoncharitableEO>
+            <BusinessNameLine1>SOUTHPORT AREA ASSOCIATION INC</BusinessNameLine1>
+          </NameOfNoncharitableEO>
+          <DescriptionOfTransfersEtc>REIMBURSEMENT POST OFFICE BOX</DescriptionOfTransfersEtc>
+        </TransferSchedule>
+        <RelationshipsNoncharitableEOs>1</RelationshipsNoncharitableEOs>
+        <RelationshipSchedule>
+          <NameOfOrganization>
+            <BusinessNameLine1>SOUTHPORT AREA ASSOCIATION INC</BusinessNameLine1>
+          </NameOfOrganization>
+          <TypeOfOrganization>501 (C) (4)</TypeOfOrganization>
+          <DescriptionOfRelationship>COMMON DIRECTORS</DescriptionOfRelationship>
+        </RelationshipSchedule>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>GENERAL PUBLIC</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>VARIOUS</AddressLine1>
+          <City>SOUTHPORT</City>
+          <State>CT</State>
+          <ZIPCode>068900705</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>100</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>2</ContributorNumber>
+        <ContributorNameIndividual>SOUTHPORT AREA ASSOCIATION INC</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>P O BOX 705</AddressLine1>
+          <City>SOUTHPORT</City>
+          <State>CT</State>
+          <ZIPCode>068900705</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>55665</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>700</Amount>
+        <NetInvestmentIncome>70</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>630</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>ANNUAL REPORT</Description>
+        <RevenueAndExpensesPerBooks>25</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>3</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>22</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OFFICE EXPENSE</Description>
+        <RevenueAndExpensesPerBooks>70</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>7</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>63</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

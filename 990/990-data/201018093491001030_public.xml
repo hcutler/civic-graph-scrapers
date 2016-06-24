@@ -1,0 +1,462 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-06-29T16:47:48-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-01-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>HEIMBUCHER &amp; ANDERSON</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>2200 POWELL ST STE 440</AddressLine1>
+        <City>EMERYVILLE</City>
+        <State>CA</State>
+        <ZIPCode>94608</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-02-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>946102204</EIN>
+      <Name>
+        <BusinessNameLine1>The Fox Foundation</BusinessNameLine1>
+      </Name>
+      <NameControl>FOXF</NameControl>
+      <Phone>5102326309</Phone>
+      <USAddress>
+        <AddressLine1>2520 Arlington Blvd</AddressLine1>
+        <City>El Cerrito</City>
+        <State>CA</State>
+        <ZIPCode>945301504</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>ELTON FOX</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>5102326309</Phone>
+      <DateSigned>2010-06-25</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Robert A Heimbucher</Name>
+      <Phone>5105940100</Phone>
+      <DatePrepared>2010-06-16</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="2">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>563989</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>181</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>181</InterestOnSavingsNetInvstIncm>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>181</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>181</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">2900</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>1160</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>1740</AccountingFeesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>2900</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>1160</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>1740</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>230000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>230000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>232900</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>1160</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>231740</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-232719</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>886168</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>652849</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>562849</SavingsAndTempCashInvstEOYFMV>
+        <PrepaidExpensesBOY>540</PrepaidExpensesBOY>
+        <PrepaidExpensesEOY>1140</PrepaidExpensesEOY>
+        <PrepaidExpensesEOYFMV>1140</PrepaidExpensesEOYFMV>
+        <TotalAssetsBOY>886708</TotalAssetsBOY>
+        <TotalAssetsEOY>653989</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>563989</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>886708</CapitalStockBOY>
+        <CapitalStockEOY>653989</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>0</RetainedEarningsBOY>
+        <RetainedEarningsEOY>0</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>886708</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>653989</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>886708</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>653989</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>886708</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-232719</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>653989</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>653989</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>296069</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>1083882</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.273156</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>302886</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>1330971</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.227568</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>289060</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>1578020</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.183179</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>274481</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>1838327</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.149310</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>300389</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>2070584</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.145075</DistributionRatioYear5>
+        <TotalDistributionRatio>0.978288</TotalDistributionRatio>
+        <AverageDistributionRatio>0.195658</AverageDistributionRatio>
+        <NetNoncharitableAssets>694475</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>135880</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>0</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>135880</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>231740</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>0</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>0</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>1140</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>1140</TotalCreditsAndPayments>
+        <Overpayment>1140</Overpayment>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+        <AmountToBeRefunded>1140</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>CA</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>None</WebsiteAddress>
+        <BooksInCareOfPersonName>Elton B Fox</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>5102326309</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>2520 Arlington Blvd</AddressLine1>
+          <City>EL CERRITO</City>
+          <State>CA</State>
+          <ZIPCode>94530</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>0</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Elton B Fox</PersonName>
+          <USAddress>
+            <AddressLine1>2520 Arlington Blvd</AddressLine1>
+            <City>El Cerrito</City>
+            <State>CA</State>
+            <ZIPCode>94530</ZIPCode>
+          </USAddress>
+          <Title>President/Treas</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Ruth Fox</PersonName>
+          <USAddress>
+            <AddressLine1>2520 Arlington Blvd</AddressLine1>
+            <City>El Cerrito</City>
+            <State>CA</State>
+            <ZIPCode>94530</ZIPCode>
+          </USAddress>
+          <Title>Vice-President</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Steven K Fox</PersonName>
+          <USAddress>
+            <AddressLine1>2520 Arlington Blvd</AddressLine1>
+            <City>El Cerrito</City>
+            <State>CA</State>
+            <ZIPCode>94530</ZIPCode>
+          </USAddress>
+          <Title>Secretary</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>N/A</Description1>
+        <Expenses1>0</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+        <Amount1>0</Amount1>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>705051</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>705051</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>705051</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>10576</CashDeemedCharitable>
+        <NetNoncharitableAssets>694475</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>34724</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>34724</MinimumInvestmentReturn>
+        <TotalTax>0</TotalTax>
+        <DistributableAmountBeforeAdj>34724</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>34724</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>34724</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>231740</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>231740</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>231740</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>34724</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear5>197202</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>183523</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>211579</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>237555</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>242217</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>1072076</TotalExcessDistriCarryover>
+        <QualifyingDistributions>231740</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>34724</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>197016</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>1269092</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>197202</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>1071890</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>183523</ExcessFromYear4>
+        <ExcessFromYear3>211579</ExcessFromYear3>
+        <ExcessFromYear2>237555</ExcessFromYear2>
+        <ExcessFromYear1>242217</ExcessFromYear1>
+        <ExcessFromCurrentYear>197016</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>Elton B Fox</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BAY AREA RESCUE MISSION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>P O Box 1122</AddressLine1>
+            <City>RICHMOND</City>
+            <State>CA</State>
+            <ZIPCode>948029976</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL CAUSES</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Jews for Jesus</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>60 Haight Street</AddressLine1>
+            <City>San Francisco</City>
+            <State>CA</State>
+            <ZIPCode>941025895</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>THE NEW YORK AND ISRAEL CAMPAIGNS</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Ludwig Von Mises Institute</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>Auburn University</AddressLine1>
+            <City>Auburn</City>
+            <State>AL</State>
+            <ZIPCode>36849</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Student Scholarships</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Mt Hermon Association</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>P O Box 413</AddressLine1>
+            <City>Mt Hermon</City>
+            <State>CA</State>
+            <ZIPCode>95041</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Where Most Needed</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Partners International</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1117 E WESTVIEW CT</AddressLine1>
+            <City>SPokane</City>
+            <State>WA</State>
+            <ZIPCode>992189911</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>MATCHING FUND</PurposeOfGrantOrContribution>
+          <Amount>200000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Valley Bible Church</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1477 Willow Avenue</AddressLine1>
+            <City>Hercules</City>
+            <State>CA</State>
+            <ZIPCode>94547</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL, Mission and Building Fund</PurposeOfGrantOrContribution>
+          <Amount>23500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WYCLIFFE BIBLE TRANSLATORS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>P O BOX 628200</AddressLine1>
+            <City>ORLANDO</City>
+            <State>FL</State>
+            <ZIPCode>328628200</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>MISSION SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>230000</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>181</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>181</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>181</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>Accounting</Category>
+        <Amount>2900</Amount>
+        <NetInvestmentIncome>1160</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>1740</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+  </ReturnData>
+</Return>

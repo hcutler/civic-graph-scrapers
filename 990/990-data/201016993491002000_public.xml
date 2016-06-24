@@ -1,0 +1,397 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-06-16T17:44:26-00:00</Timestamp>
+    <TaxPeriodEndDate>2010-05-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Breedlove and Co PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>17014 Seven Pines Drive</AddressLine1>
+        <City>Spring</City>
+        <State>TX</State>
+        <ZIPCode>77379</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-06-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>760538023</EIN>
+      <Name>
+        <BusinessNameLine1>BRUCE B DICE FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>BRUC</NameControl>
+      <Phone>2815832888</Phone>
+      <USAddress>
+        <AddressLine1>c/o BRUCE B DICE 4355 SYLVANFIELD R</AddressLine1>
+        <City>HOUSTON</City>
+        <State>TX</State>
+        <ZIPCode>77014</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>KEVIN DICE</Name>
+      <Title>PRESIDENT</Title>
+      <DateSigned>2010-06-16</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Richard W Breedlove CPA</Name>
+      <Phone>2813791065</Phone>
+      <DatePrepared>2010-06-16</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="990PF" softwareId="09000123" softwareVersion="2009.0.12">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>500372</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>278738</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>1905</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>1905</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>7118</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>7118</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="990PF:103">2088</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>12068</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>2088</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>289849</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>11111</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="990PF:107">5000</AccountingFeesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>5000</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>35850</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>35850</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>40850</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>35850</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>248999</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>11111</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>251373</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>68164</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>68164</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockEOY referenceDocumentId="990PF:120">432208</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>432208</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>251373</TotalAssetsBOY>
+        <TotalAssetsEOY>500372</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>500372</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>251373</UnrestrictedBOY>
+        <UnrestrictedEOY>500372</UnrestrictedEOY>
+        <TotalNetAssetsBOY>251373</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>500372</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>251373</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>500372</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>251373</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>248999</ExcessOfRevenueOverExpenses>
+        <Subtotal>500372</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>500372</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>BERKSHIIRE HATHAWAY INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-01-12</DateAcquired>
+          <DateSold>2010-03-23</DateSold>
+          <GrossSalesPrice>12068</GrossSalesPrice>
+          <CostOrOtherBasis>9980</CostOrOtherBasis>
+          <GainOrLoss>2088</GainOrLoss>
+          <GainsMinusExcessOrLosses>2088</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>2088</CapitalGainNetIncome>
+        <NetShortTermCapitalGainOrLoss>2088</NetShortTermCapitalGainOrLoss>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>898720</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>98342</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>009.138720</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>10000</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>916875</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>000.010907</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>156821</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>951182</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>000.164870</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>195395</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>976005</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>000.200199</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>98301</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>868189</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>000.113225</DistributionRatioYear5>
+        <TotalDistributionRatio>009.627921</TotalDistributionRatio>
+        <AverageDistributionRatio>001.925584</AverageDistributionRatio>
+        <NetNoncharitableAssets>460885</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>887473</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>111</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>887584</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>35850</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>222</InvestmentIncomeExciseTax>
+        <Subtotal>222</Subtotal>
+        <TaxBasedOnInvestmentIncome>222</TaxBasedOnInvestmentIncome>
+        <TaxDue>222</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>TX</StatesFiledWith>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>BRUCE B DICE FOUNDATION</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>2815832888</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>4355 SYLVANFIELD DR STE 200</AddressLine1>
+          <City>HOUSTON</City>
+          <State>TX</State>
+          <ZIPCode>77014</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BRUCE DICE</PersonName>
+          <USAddress>
+            <AddressLine1>4355 SYLVANFIELSUITE STE200</AddressLine1>
+            <City>HOUSTON</City>
+            <State>TX</State>
+            <ZIPCode>77014</ZIPCode>
+          </USAddress>
+          <Title>CHAIRMAN</Title>
+          <AvgHoursPerWkDevotedToPosition>005.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>KEVIN B DICE</PersonName>
+          <USAddress>
+            <AddressLine1>4355 SYLVANFIELSUITE STE 200</AddressLine1>
+            <City>HOUSTON</City>
+            <State>TX</State>
+            <ZIPCode>77014</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>005.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>KIRK BRIAN DICE</PersonName>
+          <USAddress>
+            <AddressLine1>4355 SYLVANFIELSUITE STE 200</AddressLine1>
+            <City>HOUSTON</City>
+            <State>TX</State>
+            <ZIPCode>77014</ZIPCode>
+          </USAddress>
+          <Title>SEC/TREAS</Title>
+          <AvgHoursPerWkDevotedToPosition>005.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>N/A</Description1>
+        <Expenses1>0</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>432208</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>35696</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>467904</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>467904</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable referenceDocumentId="990PF:293">7019</CashDeemedCharitable>
+        <NetNoncharitableAssets>460885</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>23044</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>23044</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>222</TaxBasedOnInvestmentIncome>
+        <TotalTax>222</TotalTax>
+        <DistributableAmountBeforeAdj>22822</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>22822</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>22822</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions referenceDocumentId="990PF:294">35850</ExpensesAndContributions>
+        <QualifyingDistributions>35850</QualifyingDistributions>
+        <AdjQualifyingDistributions>35850</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>22822</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>15684</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>146595</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>109506</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear1>893803</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>1165588</TotalExcessDistriCarryover>
+        <QualifyingDistributions>35850</QualifyingDistributions>
+        <AppliedToCurrentYear>22822</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>13028</RemainingDistriFromCorpus>
+        <TotalCorpus>1178616</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>15684</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>1162932</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>146595</ExcessFromYear4>
+        <ExcessFromYear3>109506</ExcessFromYear3>
+        <ExcessFromYear1>893803</ExcessFromYear1>
+        <ExcessFromCurrentYear>13028</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MAYO FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>200 FIRST STREET SW</AddressLine1>
+            <City>ROCHESTER</City>
+            <State>MN</State>
+            <ZIPCode>55905</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CANCER RESEARCH</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AAPG FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 979</AddressLine1>
+            <City>TULSA</City>
+            <State>OK</State>
+            <ZIPCode>74101</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MICHELLE HEWITT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>28123 HICKORY COURT</AddressLine1>
+            <City>MAGNOLIA</City>
+            <State>TX</State>
+            <ZIPCode>77355</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>COLLEGE SCHOLARSHIPS FUND</PurposeOfGrantOrContribution>
+          <Amount>850</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>35850</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>1905</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>7118</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>9023</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>9023</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="990PF:107" softwareId="09000123" softwareVersion="2009.0.12">
+      <AccountingFees>
+        <Category>BREEDLOVE CO</Category>
+        <Amount>5000</Amount>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="990PF:206" softwareId="09000123" softwareVersion="2009.0.12">
+      <Depreciation>
+        <DescriptionOfProperty>4355 SYLVANFIELD DRIVE</DescriptionOfProperty>
+        <DateAcquired>2003-10-15</DateAcquired>
+        <CostOrOtherBasis>759005</CostOrOtherBasis>
+        <PriorYearsDepreciation>103811</PriorYearsDepreciation>
+        <ComputationMethod>SL/GDS</ComputationMethod>
+        <Life>039</Life>
+      </Depreciation>
+    </DepreciationSchedule>
+    <InvestmentsCorpStockSchedule documentId="990PF:120" softwareId="09000123" softwareVersion="2009.0.12">
+      <InvestmentsCorpStock>
+        <NameOfStock>370 shares of BERKSHIIRE HATHAWAY INC</NameOfStock>
+        <EOYBookValue>95622</EOYBookValue>
+        <EOYFMV>95622</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>2000 shares of KINDER MORGAN ENERGY</NameOfStock>
+        <EOYBookValue>119915</EOYBookValue>
+        <EOYFMV>119915</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>2500 shares of LINN ENERGY LLC</NameOfStock>
+        <EOYBookValue>70701</EOYBookValue>
+        <EOYFMV>70701</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>2000 shares of PLAINS ALL AMERICAN PIPELINE</NameOfStock>
+        <EOYBookValue>109687</EOYBookValue>
+        <EOYFMV>109687</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1000 shares of WILLIAMS PARTNERS LP</NameOfStock>
+        <EOYBookValue>36283</EOYBookValue>
+        <EOYFMV>36283</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsLandSchedule2 documentId="990PF:208" softwareId="09000123" softwareVersion="2009.0.12"></InvestmentsLandSchedule2>
+    <InvestmentsOtherSchedule2 documentId="990PF:209" softwareId="09000123" softwareVersion="2009.0.12"></InvestmentsOtherSchedule2>
+  </ReturnData>
+</Return>

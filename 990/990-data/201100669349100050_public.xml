@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-03-07T06:13:39-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>WOODWARD &amp; ASSOCIATES INC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>1707 CLEARWATER AVE</AddressLine1>
+        <City>BLOOMINGTON</City>
+        <State>IL</State>
+        <ZIPCode>617041584</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>261519115</EIN>
+      <Name>
+        <BusinessNameLine1>WARBIRD EDUCATION FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>WARB</NameControl>
+      <Phone>9727626500</Phone>
+      <USAddress>
+        <AddressLine1>3148 SENECA DRIVE</AddressLine1>
+        <City>FRISCO</City>
+        <State>TX</State>
+        <ZIPCode>75034</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>GLENN SMITH</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>9727626500</Phone>
+      <DateSigned>2011-03-04</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>CARL S WOODWARD</Name>
+      <Phone>3096628797</Phone>
+      <DatePrepared>2011-03-04</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990PF documentId="RetDoc2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>551000</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>52081</ContriReceivedRevAndExpnss>
+        <TotalRevenueAndExpenses>52081</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>0</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc3">2544</AccountingFeesRevAndExpnss>
+        <AccountingFeesDsbrsChrtblPrps>2544</AccountingFeesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc6">49537</OtherExpensesRevAndExpnss>
+        <OtherExpensesDsbrsChrtblPrps>49537</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>52081</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>52081</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>0</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>52081</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>52081</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>0</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>1000</CashBOY>
+        <CashEOY>1000</CashEOY>
+        <CashEOYFMV>1000</CashEOYFMV>
+        <InvestmentsOtherBOY>615000</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc5">615000</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>550000</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>616000</TotalAssetsBOY>
+        <TotalAssetsEOY>616000</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>551000</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>616000</RetainedEarningsBOY>
+        <RetainedEarningsEOY>616000</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>616000</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>616000</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>616000</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>616000</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>616000</TotalNetAssetsFundBalancesBOY>
+        <Subtotal>616000</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>616000</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>29684</QualifyingDistributionsYear1>
+        <QualifyingDistributionsYear2>4666</QualifyingDistributionsYear2>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>0</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>52081</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>TX</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>true</PrivateOperatingFoundation>
+        <NewSubstantialContributors referenceDocumentId="RetDoc7">true</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>WARBIRD EDUCATION FOUNDATION</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>9727626500</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>3148 SENECA DRIVE</AddressLine1>
+          <City>FRISCO</City>
+          <State>TX</State>
+          <ZIPCode>75034</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">GLENN SMITH</PersonName>
+          <USAddress>
+            <AddressLine1>3148 SENECA DRIVE</AddressLine1>
+            <City>FRISCO</City>
+            <State>TX</State>
+            <ZIPCode>75034</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">TERRI ALFORD</PersonName>
+          <USAddress>
+            <AddressLine1>1331 BELAIRE DRIVE</AddressLine1>
+            <City>RICHARDSON</City>
+            <State>TX</State>
+            <ZIPCode>75080</ZIPCode>
+          </USAddress>
+          <Title>VICE PRESIDE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">TERRI ALFORD</PersonName>
+          <USAddress>
+            <AddressLine1>1331 BELAIRE DRIVE</AddressLine1>
+            <City>RICHARDSON</City>
+            <State>TX</State>
+            <ZIPCode>75080</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">GLENN SMITH</PersonName>
+          <USAddress>
+            <AddressLine1>3148 SENECA DRIVE</AddressLine1>
+            <City>FRISCO</City>
+            <State>TX</State>
+            <ZIPCode>75034</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">DAVID MILLS</PersonName>
+          <USAddress>
+            <AddressLine1>1610 39TH AVE</AddressLine1>
+            <City>MOLINE</City>
+            <State>IL</State>
+            <ZIPCode>61265</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>AIR SHOW DEMONSTRATIONS AND EDUCATIONAL MEETINGS</Description1>
+        <Expenses1>52081</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>0</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>0</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>0</CashDeemedCharitable>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>0</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <Sect4942j3j5FndtnAndFrgnOrg>X</Sect4942j3j5FndtnAndFrgnOrg>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>52081</ExpensesAndContributions>
+        <QualifyingDistributions>52081</QualifyingDistributions>
+        <AdjQualifyingDistributions>52081</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <PrivateOperatingFoundations>
+        <Section4942j3>X</Section4942j3>
+        <LessorAdjNetIncmMinInvstReturn>
+          <CurrentYear>0</CurrentYear>
+          <Total>0</Total>
+        </LessorAdjNetIncmMinInvstReturn>
+        <QualifyingDistributions>
+          <CurrentYear>52081</CurrentYear>
+          <Year1>29684</Year1>
+          <Year2>4666</Year2>
+          <Total>86431</Total>
+        </QualifyingDistributions>
+        <QlfyDistriMadeDirectly>
+          <CurrentYear>52081</CurrentYear>
+          <Year1>29684</Year1>
+          <Year2>4666</Year2>
+          <Total>86431</Total>
+        </QlfyDistriMadeDirectly>
+        <TotalAssets>
+          <CurrentYear>551000</CurrentYear>
+          <Year1>616000</Year1>
+          <Year2>616000</Year2>
+          <Total>1783000</Total>
+        </TotalAssets>
+        <TotalAssetsSect4942j3Bi>
+          <CurrentYear>551000</CurrentYear>
+          <Year1>616000</Year1>
+          <Year2>616000</Year2>
+          <Total>1783000</Total>
+        </TotalAssetsSect4942j3Bi>
+      </PrivateOperatingFoundations>
+      <SupplementaryInformation>
+        <ContributingManager>GLENN SMITH</ContributingManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>GLENN SMITH</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>3148 SENECA DRIVE</AddressLine1>
+            <City>FRISCO</City>
+            <State>TX</State>
+            <ZIPCode>75034</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>9727626500</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>N/A</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>N/A</SubmissionDeadlines>
+          <RestrictionsOnAwards>N/A</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+      </SupplementaryInformation>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>GLENN SMITH</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>3148 SENECA DRIVE</AddressLine1>
+          <City>FRISCO</City>
+          <State>TX</State>
+          <ZIPCode>75034</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>52081</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc3">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>2544</Amount>
+        <DisbursementsCharitablePrps>2544</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <CompensationExplanation documentId="RetDoc4">
+      <Compensation>
+        <PersonName>GLENN SMITH</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>TERRI ALFORD</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>TERRI ALFORD</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>GLENN SMITH</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>DAVID MILLS</PersonName>
+      </Compensation>
+    </CompensationExplanation>
+    <InvestmentsOtherSchedule2 documentId="RetDoc5">
+      <InvestmentsOther>
+        <CategoryOrItem>1984 AERO VODOCHODY L-39C</CategoryOrItem>
+        <BookValue>615000</BookValue>
+        <EOYFMV>550000</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc6">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>FUEL EXPENSE</Description>
+        <RevenueAndExpensesPerBooks>33966</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>33966</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>INSURANCE</Description>
+        <RevenueAndExpensesPerBooks>5710</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>9861</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>REPAIRS/MAINTENANCE</Description>
+        <RevenueAndExpensesPerBooks>9861</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>5710</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <SubstantialContributorsSch documentId="RetDoc7">
+      <SubstantialContributor>
+        <PersonName>GLENN SMITH</PersonName>
+        <USAddress>
+          <AddressLine1>3148 SENECA DRIVE</AddressLine1>
+          <City>FRISCO</City>
+          <State>TX</State>
+          <ZIPCode>75034</ZIPCode>
+        </USAddress>
+      </SubstantialContributor>
+    </SubstantialContributorsSch>
+  </ReturnData>
+</Return>

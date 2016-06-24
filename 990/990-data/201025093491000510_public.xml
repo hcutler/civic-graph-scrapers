@@ -1,0 +1,2279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return returnVersion="2009v1.3" xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-09-07T14:12:31Z</Timestamp>
+    <TaxPeriodEndDate>2010-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Roberts McKenzie Mangan &amp; Cummings PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>4035 S Fremont</AddressLine1>
+        <City>Springfield</City>
+        <State>MO</State>
+        <ZIPCode>65804</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>431304514</EIN>
+      <Name>
+        <BusinessNameLine1>Musgrave Foundation</BusinessNameLine1>
+      </Name>
+      <NameControl>MUSG</NameControl>
+      <Phone>4178414600</Phone>
+      <USAddress>
+        <AddressLine1>1615 S Glenstone</AddressLine1>
+        <City>Springfield</City>
+        <State>MO</State>
+        <ZIPCode>65804</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>James B Johnson</Name>
+      <Title>Trustee</Title>
+      <DateSigned>2010-08-31</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>Patrice Ann Moore</Name>
+      <Phone>4178835348</Phone>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="09000047" softwareVersion="2009v1.3">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>11480237</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>106</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>106</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>106</InterestOnSavingsAdjNetIncm>
+        <DividendsRevAndExpnss>249716</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>249716</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>249716</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss>-137909</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>7727921</GrossSalesPrice>
+        <NetSTCGAdjNetIncm>106401</NetSTCGAdjNetIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId=" OtherIncomeSchedule2">452630</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>452630</OtherIncomeNetInvstIncm>
+        <TotalRevenueAndExpenses>564543</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>702452</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>356223</TotalAdjustedNetIncome>
+        <CompOfcrDirTrstRevAndExpnss>256329</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>177829</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>78500</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId=" AccountingFeesSchedule">7500</AccountingFeesRevAndExpnss>
+        <OtherProfFeesRevAndExpnss referenceDocumentId=" OtherProfessionalFeesSchedule">48172</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesDsbrsChrtblPrps>27996</OtherProfFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId=" TaxesSchedule">7641</TaxesRevAndExpnss>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <OccupancyRevAndExpnss>8400</OccupancyRevAndExpnss>
+        <OccupancyDsbrsChrtblPrps>8400</OccupancyDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">36967</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>34754</OtherExpensesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>365009</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>212583</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>114896</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>681750</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>681750</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>1046759</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>212583</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>796646</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-482216</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>489869</NetInvestmentIncome>
+        <AdjustedNetIncome>356223</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>284666</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>553842</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>553842</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsGovtObligBOY>154832</InvestmentsGovtObligBOY>
+        <InvestmentsGovtObligEOY>117702</InvestmentsGovtObligEOY>
+        <InvestmentsGovtObligEOYFMV>123973</InvestmentsGovtObligEOYFMV>
+        <InvestmentsCorpStockBOY>4444004</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY>4448907</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>4236662</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>2102538</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY>1694724</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>1768154</InvestmentsCorpBondsEOYFMV>
+        <InvestmentsOtherBOY>3980387</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY>3670232</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>4797606</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>10966427</TotalAssetsBOY>
+        <TotalAssetsEOY>10485407</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>11480237</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>10966427</UnrestrictedBOY>
+        <UnrestrictedEOY>10485407</UnrestrictedEOY>
+        <TotalNetAssetsBOY>10966427</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>10485407</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>10966427</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>10485407</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>10966427</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-482216</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId=" OtherIncreasesSchedule">1196</OtherIncreases>
+        <Subtotal>10485407</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>10485407</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2185 Sterlite Inds India</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-06-02</DateAcquired>
+          <DateSold>2010-06-21</DateSold>
+          <GrossSalesPrice>34196</GrossSalesPrice>
+          <CostOrOtherBasis>31587</CostOrOtherBasis>
+          <GainOrLoss>2609</GainOrLoss>
+          <GainsMinusExcessOrLosses>2609</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>502 Companhia De Bebidas Pr Adr</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-06-17</DateAcquired>
+          <DateSold>2010-06-07</DateSold>
+          <GrossSalesPrice>2</GrossSalesPrice>
+          <GainOrLoss>2</GainOrLoss>
+          <GainsMinusExcessOrLosses>2</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>777 Southwestern Energy</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-10</DateAcquired>
+          <DateSold>2010-05-24</DateSold>
+          <GrossSalesPrice>28268</GrossSalesPrice>
+          <CostOrOtherBasis>32921</CostOrOtherBasis>
+          <GainOrLoss>-4653</GainOrLoss>
+          <GainsMinusExcessOrLosses>-4653</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>774 Qualcomm Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-11-29</DateAcquired>
+          <DateSold>2010-05-24</DateSold>
+          <GrossSalesPrice>27717</GrossSalesPrice>
+          <CostOrOtherBasis>31997</CostOrOtherBasis>
+          <GainOrLoss>-4280</GainOrLoss>
+          <GainsMinusExcessOrLosses>-4280</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>317 EMS Technologies Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2006-10-10</DateAcquired>
+          <DateSold>2010-05-24</DateSold>
+          <GrossSalesPrice>4695</GrossSalesPrice>
+          <CostOrOtherBasis>6024</CostOrOtherBasis>
+          <GainOrLoss>-1329</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1329</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1996.044 Banco Santander Cent Hispano Adr</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-21</DateAcquired>
+          <DateSold>2010-05-24</DateSold>
+          <GrossSalesPrice>20998</GrossSalesPrice>
+          <CostOrOtherBasis>37125</CostOrOtherBasis>
+          <GainOrLoss>-16127</GainOrLoss>
+          <GainsMinusExcessOrLosses>-16127</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1169 Alcoa Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-10</DateAcquired>
+          <DateSold>2010-05-24</DateSold>
+          <GrossSalesPrice>13094</GrossSalesPrice>
+          <CostOrOtherBasis>40555</CostOrOtherBasis>
+          <GainOrLoss>-27461</GainOrLoss>
+          <GainsMinusExcessOrLosses>-27461</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>250000 Honeywell Intl Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-06-13</DateAcquired>
+          <DateSold>2010-05-20</DateSold>
+          <GrossSalesPrice>282962</GrossSalesPrice>
+          <CostOrOtherBasis>253130</CostOrOtherBasis>
+          <GainOrLoss>29832</GainOrLoss>
+          <GainsMinusExcessOrLosses>29832</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>250000 Bellsouth Corp</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-09-18</DateAcquired>
+          <DateSold>2010-05-20</DateSold>
+          <GrossSalesPrice>273641</GrossSalesPrice>
+          <CostOrOtherBasis>245295</CostOrOtherBasis>
+          <GainOrLoss>28346</GainOrLoss>
+          <GainsMinusExcessOrLosses>28346</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1032 State Str Corp</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-06-04</DateAcquired>
+          <DateSold>2010-05-06</DateSold>
+          <GrossSalesPrice>45202</GrossSalesPrice>
+          <CostOrOtherBasis>72629</CostOrOtherBasis>
+          <GainOrLoss>-27427</GainOrLoss>
+          <GainsMinusExcessOrLosses>-27427</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>211 Monsanto Co</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-21</DateAcquired>
+          <DateSold>2010-05-06</DateSold>
+          <GrossSalesPrice>12698</GrossSalesPrice>
+          <CostOrOtherBasis>24929</CostOrOtherBasis>
+          <GainOrLoss>-12231</GainOrLoss>
+          <GainsMinusExcessOrLosses>-12231</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>.5 Madden Steven Ltd</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2006-10-10</DateAcquired>
+          <DateSold>2010-05-06</DateSold>
+          <GrossSalesPrice>19</GrossSalesPrice>
+          <CostOrOtherBasis>15</CostOrOtherBasis>
+          <GainOrLoss>4</GainOrLoss>
+          <GainsMinusExcessOrLosses>4</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1264 Shoe Carnival</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-28</DateAcquired>
+          <DateSold>2010-04-23</DateSold>
+          <GrossSalesPrice>33839</GrossSalesPrice>
+          <CostOrOtherBasis>18189</CostOrOtherBasis>
+          <GainOrLoss>15650</GainOrLoss>
+          <GainsMinusExcessOrLosses>15650</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1672 Pfizer Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-11-03</DateAcquired>
+          <DateSold>2010-04-23</DateSold>
+          <GrossSalesPrice>28223</GrossSalesPrice>
+          <CostOrOtherBasis>29877</CostOrOtherBasis>
+          <GainOrLoss>-1654</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1654</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1094 Archer Daniels Midland Co</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-02-20</DateAcquired>
+          <DateSold>2010-04-23</DateSold>
+          <GrossSalesPrice>30921</GrossSalesPrice>
+          <CostOrOtherBasis>29768</CostOrOtherBasis>
+          <GainOrLoss>1153</GainOrLoss>
+          <GainsMinusExcessOrLosses>1153</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>714 Amgen Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-10</DateAcquired>
+          <DateSold>2010-04-19</DateSold>
+          <GrossSalesPrice>43450</GrossSalesPrice>
+          <CostOrOtherBasis>36662</CostOrOtherBasis>
+          <GainOrLoss>6788</GainOrLoss>
+          <GainsMinusExcessOrLosses>6788</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>100000 HSBC Fin Corp</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-02-15</DateAcquired>
+          <DateSold>2010-04-15</DateSold>
+          <GrossSalesPrice>100000</GrossSalesPrice>
+          <CostOrOtherBasis>101725</CostOrOtherBasis>
+          <GainOrLoss>-1725</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1725</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>100000 John Deere Cap Corp</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-11-16</DateAcquired>
+          <DateSold>2010-04-07</DateSold>
+          <GrossSalesPrice>100000</GrossSalesPrice>
+          <CostOrOtherBasis>102676</CostOrOtherBasis>
+          <GainOrLoss>-2676</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2676</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>100000 Wachovia Corp</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-02-14</DateAcquired>
+          <DateSold>2010-04-06</DateSold>
+          <GrossSalesPrice>105772</GrossSalesPrice>
+          <CostOrOtherBasis>99838</CostOrOtherBasis>
+          <GainOrLoss>5934</GainOrLoss>
+          <GainsMinusExcessOrLosses>5934</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>888 Watson Pharmaceuticals Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-10-01</DateAcquired>
+          <DateSold>2010-03-18</DateSold>
+          <GrossSalesPrice>36009</GrossSalesPrice>
+          <CostOrOtherBasis>26260</CostOrOtherBasis>
+          <GainOrLoss>9749</GainOrLoss>
+          <GainsMinusExcessOrLosses>9749</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>556 Dolby Lab Inc Cl A</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-01-29</DateAcquired>
+          <DateSold>2010-03-18</DateSold>
+          <GrossSalesPrice>32666</GrossSalesPrice>
+          <CostOrOtherBasis>14329</CostOrOtherBasis>
+          <GainOrLoss>18337</GainOrLoss>
+          <GainsMinusExcessOrLosses>18337</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>722 Fomento Economico Mex Sp</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-11-13</DateAcquired>
+          <DateSold>2010-03-10</DateSold>
+          <GrossSalesPrice>33255</GrossSalesPrice>
+          <CostOrOtherBasis>19283</CostOrOtherBasis>
+          <GainOrLoss>13972</GainOrLoss>
+          <GainsMinusExcessOrLosses>13972</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>841 Watson Pharmaceuticals Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-10-01</DateAcquired>
+          <DateSold>2010-02-17</DateSold>
+          <GrossSalesPrice>32565</GrossSalesPrice>
+          <CostOrOtherBasis>24870</CostOrOtherBasis>
+          <GainOrLoss>7695</GainOrLoss>
+          <GainsMinusExcessOrLosses>7695</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>218 Toyota Mtr Corp Adr</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-09-04</DateAcquired>
+          <DateSold>2010-02-17</DateSold>
+          <GrossSalesPrice>16092</GrossSalesPrice>
+          <CostOrOtherBasis>19296</CostOrOtherBasis>
+          <GainOrLoss>-3204</GainOrLoss>
+          <GainsMinusExcessOrLosses>-3204</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>789 Southwestern Energy</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-01</DateAcquired>
+          <DateSold>2010-02-17</DateSold>
+          <GrossSalesPrice>35883</GrossSalesPrice>
+          <CostOrOtherBasis>37698</CostOrOtherBasis>
+          <GainOrLoss>-1815</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1815</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>109 RWE AG Sponsored ADR</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-07</DateAcquired>
+          <DateSold>2010-02-17</DateSold>
+          <GrossSalesPrice>9581</GrossSalesPrice>
+          <CostOrOtherBasis>13974</CostOrOtherBasis>
+          <GainOrLoss>-4393</GainOrLoss>
+          <GainsMinusExcessOrLosses>-4393</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>621 Peabody Energy Corp</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-09-23</DateAcquired>
+          <DateSold>2010-02-17</DateSold>
+          <GrossSalesPrice>28510</GrossSalesPrice>
+          <CostOrOtherBasis>33090</CostOrOtherBasis>
+          <GainOrLoss>-4580</GainOrLoss>
+          <GainsMinusExcessOrLosses>-4580</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>5036 Semiconductor Corp</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-09-23</DateAcquired>
+          <DateSold>2010-02-17</DateSold>
+          <GrossSalesPrice>40388</GrossSalesPrice>
+          <CostOrOtherBasis>35000</CostOrOtherBasis>
+          <GainOrLoss>5388</GainOrLoss>
+          <GainsMinusExcessOrLosses>5388</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>565 National Grid Plc Sp Adr</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-08-01</DateAcquired>
+          <DateSold>2010-02-17</DateSold>
+          <GrossSalesPrice>28311</GrossSalesPrice>
+          <CostOrOtherBasis>36640</CostOrOtherBasis>
+          <GainOrLoss>-8329</GainOrLoss>
+          <GainsMinusExcessOrLosses>-8329</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1266 France Telecom Spsd Adr</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-09-04</DateAcquired>
+          <DateSold>2010-02-17</DateSold>
+          <GrossSalesPrice>29279</GrossSalesPrice>
+          <CostOrOtherBasis>35980</CostOrOtherBasis>
+          <GainOrLoss>-6701</GainOrLoss>
+          <GainsMinusExcessOrLosses>-6701</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1073 AECOM Technology</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-01-29</DateAcquired>
+          <DateSold>2010-02-17</DateSold>
+          <GrossSalesPrice>29335</GrossSalesPrice>
+          <CostOrOtherBasis>27719</CostOrOtherBasis>
+          <GainOrLoss>1616</GainOrLoss>
+          <GainsMinusExcessOrLosses>1616</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>732 Barclays IPath DJ AIG Comm</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-11-03</DateAcquired>
+          <DateSold>2009-12-18</DateSold>
+          <GrossSalesPrice>29997</GrossSalesPrice>
+          <CostOrOtherBasis>29303</CostOrOtherBasis>
+          <GainOrLoss>694</GainOrLoss>
+          <GainsMinusExcessOrLosses>694</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>5307 Barclays IPath DJ AIG Comm</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-08-18</DateAcquired>
+          <DateSold>2009-12-18</DateSold>
+          <GrossSalesPrice>217477</GrossSalesPrice>
+          <CostOrOtherBasis>306194</CostOrOtherBasis>
+          <GainOrLoss>-88717</GainOrLoss>
+          <GainsMinusExcessOrLosses>-88717</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>100000 General Cable Corporation</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2006-03-14</DateAcquired>
+          <DateSold>2009-12-17</DateSold>
+          <GrossSalesPrice>107720</GrossSalesPrice>
+          <CostOrOtherBasis>103033</CostOrOtherBasis>
+          <GainOrLoss>4687</GainOrLoss>
+          <GainsMinusExcessOrLosses>4687</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>250000 Bellsouth Corp</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-09-18</DateAcquired>
+          <DateSold>2009-12-17</DateSold>
+          <GrossSalesPrice>269078</GrossSalesPrice>
+          <CostOrOtherBasis>250358</CostOrOtherBasis>
+          <GainOrLoss>18720</GainOrLoss>
+          <GainsMinusExcessOrLosses>18720</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>718 Sempra Energy</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-10-01</DateAcquired>
+          <DateSold>2009-12-11</DateSold>
+          <GrossSalesPrice>39856</GrossSalesPrice>
+          <CostOrOtherBasis>36505</CostOrOtherBasis>
+          <GainOrLoss>3351</GainOrLoss>
+          <GainsMinusExcessOrLosses>3351</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>13 GSI Group</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-07</DateAcquired>
+          <DateSold>2009-12-11</DateSold>
+          <GrossSalesPrice>10</GrossSalesPrice>
+          <CostOrOtherBasis>101</CostOrOtherBasis>
+          <GainOrLoss>-91</GainOrLoss>
+          <GainsMinusExcessOrLosses>-91</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>370 GSI Group</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2006-10-10</DateAcquired>
+          <DateSold>2009-12-11</DateSold>
+          <GrossSalesPrice>296</GrossSalesPrice>
+          <CostOrOtherBasis>3423</CostOrOtherBasis>
+          <GainOrLoss>-3127</GainOrLoss>
+          <GainsMinusExcessOrLosses>-3127</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>424 Colgate Palmolive Co</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-11-20</DateAcquired>
+          <DateSold>2009-12-11</DateSold>
+          <GrossSalesPrice>35638</GrossSalesPrice>
+          <CostOrOtherBasis>26586</CostOrOtherBasis>
+          <GainOrLoss>9052</GainOrLoss>
+          <GainsMinusExcessOrLosses>9052</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>367 Becton Dickinson &amp; Co</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-10-01</DateAcquired>
+          <DateSold>2009-12-11</DateSold>
+          <GrossSalesPrice>28539</GrossSalesPrice>
+          <CostOrOtherBasis>29373</CostOrOtherBasis>
+          <GainOrLoss>-834</GainOrLoss>
+          <GainsMinusExcessOrLosses>-834</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1228 AON Corp</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-10-01</DateAcquired>
+          <DateSold>2009-12-11</DateSold>
+          <GrossSalesPrice>46331</GrossSalesPrice>
+          <CostOrOtherBasis>53329</CostOrOtherBasis>
+          <GainOrLoss>-6998</GainOrLoss>
+          <GainsMinusExcessOrLosses>-6998</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>223 United Technologies Corp</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-10</DateAcquired>
+          <DateSold>2009-12-03</DateSold>
+          <GrossSalesPrice>15124</GrossSalesPrice>
+          <CostOrOtherBasis>13853</CostOrOtherBasis>
+          <GainOrLoss>1271</GainOrLoss>
+          <GainsMinusExcessOrLosses>1271</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>195 Toyota Mtr Corp Adr</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-09-04</DateAcquired>
+          <DateSold>2009-12-03</DateSold>
+          <GrossSalesPrice>16573</GrossSalesPrice>
+          <CostOrOtherBasis>17260</CostOrOtherBasis>
+          <GainOrLoss>-687</GainOrLoss>
+          <GainsMinusExcessOrLosses>-687</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>160 Monsanto Co</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-21</DateAcquired>
+          <DateSold>2009-12-03</DateSold>
+          <GrossSalesPrice>13260</GrossSalesPrice>
+          <CostOrOtherBasis>18904</CostOrOtherBasis>
+          <GainOrLoss>-5644</GainOrLoss>
+          <GainsMinusExcessOrLosses>-5644</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>471 Millicom Intl Cellular</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-09-23</DateAcquired>
+          <DateSold>2009-12-03</DateSold>
+          <GrossSalesPrice>36016</GrossSalesPrice>
+          <CostOrOtherBasis>33003</CostOrOtherBasis>
+          <GainOrLoss>3013</GainOrLoss>
+          <GainsMinusExcessOrLosses>3013</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>528 McDonald's Corp</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-01</DateAcquired>
+          <DateSold>2009-12-03</DateSold>
+          <GrossSalesPrice>32952</GrossSalesPrice>
+          <CostOrOtherBasis>29980</CostOrOtherBasis>
+          <GainOrLoss>2972</GainOrLoss>
+          <GainsMinusExcessOrLosses>2972</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>396 Laboratory Crp of America Hldgs</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-09-23</DateAcquired>
+          <DateSold>2009-12-03</DateSold>
+          <GrossSalesPrice>28931</GrossSalesPrice>
+          <CostOrOtherBasis>27673</CostOrOtherBasis>
+          <GainOrLoss>1258</GainOrLoss>
+          <GainsMinusExcessOrLosses>1258</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>296 Diageo Plc Sponsored Adr New</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-10-01</DateAcquired>
+          <DateSold>2009-12-03</DateSold>
+          <GrossSalesPrice>20397</GrossSalesPrice>
+          <CostOrOtherBasis>20648</CostOrOtherBasis>
+          <GainOrLoss>-251</GainOrLoss>
+          <GainsMinusExcessOrLosses>-251</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>453 Cerner Corp</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-01</DateAcquired>
+          <DateSold>2009-12-03</DateSold>
+          <GrossSalesPrice>34867</GrossSalesPrice>
+          <CostOrOtherBasis>20562</CostOrOtherBasis>
+          <GainOrLoss>14305</GainOrLoss>
+          <GainsMinusExcessOrLosses>14305</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>358 Becton Dickinson &amp; Co</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-10-01</DateAcquired>
+          <DateSold>2009-12-03</DateSold>
+          <GrossSalesPrice>27748</GrossSalesPrice>
+          <CostOrOtherBasis>28653</CostOrOtherBasis>
+          <GainOrLoss>-905</GainOrLoss>
+          <GainsMinusExcessOrLosses>-905</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>154 Agrium Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-02-14</DateAcquired>
+          <DateSold>2009-12-03</DateSold>
+          <GrossSalesPrice>9249</GrossSalesPrice>
+          <CostOrOtherBasis>5799</CostOrOtherBasis>
+          <GainOrLoss>3450</GainOrLoss>
+          <GainsMinusExcessOrLosses>3450</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>.9566 Banco Santander Cent Hispano Adr</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-21</DateAcquired>
+          <DateSold>2009-11-30</DateSold>
+          <GrossSalesPrice>17</GrossSalesPrice>
+          <CostOrOtherBasis>18</CostOrOtherBasis>
+          <GainOrLoss>-1</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>501 Northern Tr Corp</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-09-23</DateAcquired>
+          <DateSold>2009-11-23</DateSold>
+          <GrossSalesPrice>24195</GrossSalesPrice>
+          <CostOrOtherBasis>35545</CostOrOtherBasis>
+          <GainOrLoss>-11350</GainOrLoss>
+          <GainsMinusExcessOrLosses>-11350</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>196 Diageo Plc Sponsored Adr New</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-07</DateAcquired>
+          <DateSold>2009-11-23</DateSold>
+          <GrossSalesPrice>13477</GrossSalesPrice>
+          <CostOrOtherBasis>13693</CostOrOtherBasis>
+          <GainOrLoss>-216</GainOrLoss>
+          <GainsMinusExcessOrLosses>-216</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>149 Companhia De Bebidas Pr Adr</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-06-17</DateAcquired>
+          <DateSold>2009-11-23</DateSold>
+          <GrossSalesPrice>14648</GrossSalesPrice>
+          <CostOrOtherBasis>10136</CostOrOtherBasis>
+          <GainOrLoss>4512</GainOrLoss>
+          <GainsMinusExcessOrLosses>4512</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>379 Precision Castparts Corp</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-10</DateAcquired>
+          <DateSold>2009-11-17</DateSold>
+          <GrossSalesPrice>40422</GrossSalesPrice>
+          <CostOrOtherBasis>37369</CostOrOtherBasis>
+          <GainOrLoss>3053</GainOrLoss>
+          <GainsMinusExcessOrLosses>3053</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>338 Precision Castparts Corp</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-06-24</DateAcquired>
+          <DateSold>2009-11-17</DateSold>
+          <GrossSalesPrice>36049</GrossSalesPrice>
+          <CostOrOtherBasis>36957</CostOrOtherBasis>
+          <GainOrLoss>-908</GainOrLoss>
+          <GainsMinusExcessOrLosses>-908</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>5985 Novagold Resources Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-08-18</DateAcquired>
+          <DateSold>2009-11-17</DateSold>
+          <GrossSalesPrice>32393</GrossSalesPrice>
+          <CostOrOtherBasis>39022</CostOrOtherBasis>
+          <GainOrLoss>-6629</GainOrLoss>
+          <GainsMinusExcessOrLosses>-6629</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>321 Freeport-McMoran Cooper &amp; Gold</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-01</DateAcquired>
+          <DateSold>2009-11-17</DateSold>
+          <GrossSalesPrice>26968</GrossSalesPrice>
+          <CostOrOtherBasis>36575</CostOrOtherBasis>
+          <GainOrLoss>-9607</GainOrLoss>
+          <GainsMinusExcessOrLosses>-9607</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>369 FTI Consulting Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-07</DateAcquired>
+          <DateSold>2009-11-17</DateSold>
+          <GrossSalesPrice>17728</GrossSalesPrice>
+          <CostOrOtherBasis>24877</CostOrOtherBasis>
+          <GainOrLoss>-7149</GainOrLoss>
+          <GainsMinusExcessOrLosses>-7149</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>488 St. Jude Med Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-07</DateAcquired>
+          <DateSold>2009-11-02</DateSold>
+          <GrossSalesPrice>16704</GrossSalesPrice>
+          <CostOrOtherBasis>19841</CostOrOtherBasis>
+          <GainOrLoss>-3137</GainOrLoss>
+          <GainsMinusExcessOrLosses>-3137</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>306 Nokia Corp Spsd ADR</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-07</DateAcquired>
+          <DateSold>2009-11-02</DateSold>
+          <GrossSalesPrice>3853</GrossSalesPrice>
+          <CostOrOtherBasis>7497</CostOrOtherBasis>
+          <GainOrLoss>-3644</GainOrLoss>
+          <GainsMinusExcessOrLosses>-3644</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1531 Nokia Corp Spsd ADR</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-01</DateAcquired>
+          <DateSold>2009-11-02</DateSold>
+          <GrossSalesPrice>19276</GrossSalesPrice>
+          <CostOrOtherBasis>36591</CostOrOtherBasis>
+          <GainOrLoss>-17315</GainOrLoss>
+          <GainsMinusExcessOrLosses>-17315</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1853 KBR Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-09-23</DateAcquired>
+          <DateSold>2009-11-02</DateSold>
+          <GrossSalesPrice>36329</GrossSalesPrice>
+          <CostOrOtherBasis>32335</CostOrOtherBasis>
+          <GainOrLoss>3994</GainOrLoss>
+          <GainsMinusExcessOrLosses>3994</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1223 Emerson Elec Co</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-10-13</DateAcquired>
+          <DateSold>2009-11-02</DateSold>
+          <GrossSalesPrice>46094</GrossSalesPrice>
+          <CostOrOtherBasis>45280</CostOrOtherBasis>
+          <GainOrLoss>814</GainOrLoss>
+          <GainsMinusExcessOrLosses>814</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>801 Emerson Elec Co</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-03-07</DateAcquired>
+          <DateSold>2009-11-02</DateSold>
+          <GrossSalesPrice>30189</GrossSalesPrice>
+          <CostOrOtherBasis>34002</CostOrOtherBasis>
+          <GainOrLoss>-3813</GainOrLoss>
+          <GainsMinusExcessOrLosses>-3813</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1373 Cooper Industries</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-10-13</DateAcquired>
+          <DateSold>2009-11-02</DateSold>
+          <GrossSalesPrice>53322</GrossSalesPrice>
+          <CostOrOtherBasis>45236</CostOrOtherBasis>
+          <GainOrLoss>8086</GainOrLoss>
+          <GainsMinusExcessOrLosses>8086</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>595 Abbott Labs</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-10-01</DateAcquired>
+          <DateSold>2009-11-02</DateSold>
+          <GrossSalesPrice>30053</GrossSalesPrice>
+          <CostOrOtherBasis>34306</CostOrOtherBasis>
+          <GainOrLoss>-4253</GainOrLoss>
+          <GainsMinusExcessOrLosses>-4253</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>298 Nintendo LTD ADR</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-07</DateAcquired>
+          <DateSold>2009-09-23</DateSold>
+          <GrossSalesPrice>9753</GrossSalesPrice>
+          <CostOrOtherBasis>21113</CostOrOtherBasis>
+          <GainOrLoss>-11360</GainOrLoss>
+          <GainsMinusExcessOrLosses>-11360</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>40 Broadcom Corp</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-07</DateAcquired>
+          <DateSold>2009-09-23</DateSold>
+          <GrossSalesPrice>1236</GrossSalesPrice>
+          <CostOrOtherBasis>1102</CostOrOtherBasis>
+          <GainOrLoss>134</GainOrLoss>
+          <GainsMinusExcessOrLosses>134</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>639 Broadcom Corp</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-06-04</DateAcquired>
+          <DateSold>2009-09-23</DateSold>
+          <GrossSalesPrice>19752</GrossSalesPrice>
+          <CostOrOtherBasis>17904</CostOrOtherBasis>
+          <GainOrLoss>1848</GainOrLoss>
+          <GainsMinusExcessOrLosses>1848</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1346 Scottish &amp; Southern Energy Adr</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-08-01</DateAcquired>
+          <DateSold>2009-08-28</DateSold>
+          <GrossSalesPrice>24362</GrossSalesPrice>
+          <CostOrOtherBasis>36748</CostOrOtherBasis>
+          <GainOrLoss>-12386</GainOrLoss>
+          <GainsMinusExcessOrLosses>-12386</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>429 Nintendo LTD ADR</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-07-25</DateAcquired>
+          <DateSold>2009-08-28</DateSold>
+          <GrossSalesPrice>14343</GrossSalesPrice>
+          <CostOrOtherBasis>25933</CostOrOtherBasis>
+          <GainOrLoss>-11590</GainOrLoss>
+          <GainsMinusExcessOrLosses>-11590</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>265 Nestle S A Sponsored Adr Repstg Reg</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-08-28</DateAcquired>
+          <DateSold>2009-08-28</DateSold>
+          <GrossSalesPrice>10719</GrossSalesPrice>
+          <CostOrOtherBasis>11297</CostOrOtherBasis>
+          <GainOrLoss>-578</GainOrLoss>
+          <GainsMinusExcessOrLosses>-578</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1064 Verizon Communications</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-10</DateAcquired>
+          <DateSold>2009-08-07</DateSold>
+          <GrossSalesPrice>33165</GrossSalesPrice>
+          <CostOrOtherBasis>36984</CostOrOtherBasis>
+          <GainOrLoss>-3819</GainOrLoss>
+          <GainsMinusExcessOrLosses>-3819</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>597 Stryker Corp</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-01</DateAcquired>
+          <DateSold>2009-08-07</DateSold>
+          <GrossSalesPrice>24155</GrossSalesPrice>
+          <CostOrOtherBasis>36996</CostOrOtherBasis>
+          <GainOrLoss>-12841</GainOrLoss>
+          <GainsMinusExcessOrLosses>-12841</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>595 Norfolk Southn Corp</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-21</DateAcquired>
+          <DateSold>2009-08-07</DateSold>
+          <GrossSalesPrice>27549</GrossSalesPrice>
+          <CostOrOtherBasis>37940</CostOrOtherBasis>
+          <GainOrLoss>-10391</GainOrLoss>
+          <GainsMinusExcessOrLosses>-10391</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>198 Monsanto Co</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-06-17</DateAcquired>
+          <DateSold>2009-08-07</DateSold>
+          <GrossSalesPrice>16636</GrossSalesPrice>
+          <CostOrOtherBasis>28303</CostOrOtherBasis>
+          <GainOrLoss>-11667</GainOrLoss>
+          <GainsMinusExcessOrLosses>-11667</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>540 France Telecom Spsd Adr</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-07</DateAcquired>
+          <DateSold>2009-08-07</DateSold>
+          <GrossSalesPrice>13640</GrossSalesPrice>
+          <CostOrOtherBasis>16900</CostOrOtherBasis>
+          <GainOrLoss>-3260</GainOrLoss>
+          <GainsMinusExcessOrLosses>-3260</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>492083.88 First Amer Real Estate Secs Fd Cl Y</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-06-17</DateAcquired>
+          <DateSold>2009-08-07</DateSold>
+          <GrossSalesPrice>492084</GrossSalesPrice>
+          <CostOrOtherBasis>586346</CostOrOtherBasis>
+          <GainOrLoss>-94262</GainOrLoss>
+          <GainsMinusExcessOrLosses>-94262</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>36545.54 GNMA</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2004-04-19</DateAcquired>
+          <DateSold>2010-06-15</DateSold>
+          <GrossSalesPrice>36546</GrossSalesPrice>
+          <CostOrOtherBasis>37130</CostOrOtherBasis>
+          <GainOrLoss>-584</GainOrLoss>
+          <GainsMinusExcessOrLosses>-584</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>.8344 Furiex Pharmaceuticals</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-08-07</DateAcquired>
+          <DateSold>2010-06-23</DateSold>
+          <GrossSalesPrice>9</GrossSalesPrice>
+          <CostOrOtherBasis>7</CostOrOtherBasis>
+          <GainOrLoss>2</GainOrLoss>
+          <GainsMinusExcessOrLosses>2</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>656 Bucyrus International Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-12-18</DateAcquired>
+          <DateSold>2010-06-21</DateSold>
+          <GrossSalesPrice>34275</GrossSalesPrice>
+          <CostOrOtherBasis>33351</CostOrOtherBasis>
+          <GainOrLoss>924</GainOrLoss>
+          <GainsMinusExcessOrLosses>924</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>361 RWE AG Sponsored ADR</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-04-23</DateAcquired>
+          <DateSold>2010-05-24</DateSold>
+          <GrossSalesPrice>25634</GrossSalesPrice>
+          <CostOrOtherBasis>30320</CostOrOtherBasis>
+          <GainOrLoss>-4686</GainOrLoss>
+          <GainsMinusExcessOrLosses>-4686</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>336 Rio Tinto Plc Sponsored Adr</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-08-28</DateAcquired>
+          <DateSold>2010-05-24</DateSold>
+          <GrossSalesPrice>14303</GrossSalesPrice>
+          <CostOrOtherBasis>13224</CostOrOtherBasis>
+          <GainOrLoss>1079</GainOrLoss>
+          <GainsMinusExcessOrLosses>1079</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>636 Nestle S A Sponsored Adr Repstg Reg</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-04-19</DateAcquired>
+          <DateSold>2010-05-24</DateSold>
+          <GrossSalesPrice>28219</GrossSalesPrice>
+          <CostOrOtherBasis>30744</CostOrOtherBasis>
+          <GainOrLoss>-2525</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2525</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>4612 National Bank of Greece</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-11-02</DateAcquired>
+          <DateSold>2010-05-24</DateSold>
+          <GrossSalesPrice>11807</GrossSalesPrice>
+          <CostOrOtherBasis>33337</CostOrOtherBasis>
+          <GainOrLoss>-21530</GainOrLoss>
+          <GainsMinusExcessOrLosses>-21530</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2223 Banco Santander Cent Hispano Adr</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-02-17</DateAcquired>
+          <DateSold>2010-05-24</DateSold>
+          <GrossSalesPrice>23386</GrossSalesPrice>
+          <CostOrOtherBasis>30033</CostOrOtherBasis>
+          <GainOrLoss>-6647</GainOrLoss>
+          <GainsMinusExcessOrLosses>-6647</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>21.956 Banco Santander Cent Hispano Adr</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-11-06</DateAcquired>
+          <DateSold>2010-05-24</DateSold>
+          <GrossSalesPrice>231</GrossSalesPrice>
+          <CostOrOtherBasis>363</CostOrOtherBasis>
+          <GainOrLoss>-132</GainOrLoss>
+          <GainsMinusExcessOrLosses>-132</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>755 Cliffs Natural Resources</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-12-18</DateAcquired>
+          <DateSold>2010-03-29</DateSold>
+          <GrossSalesPrice>54671</GrossSalesPrice>
+          <CostOrOtherBasis>33881</CostOrOtherBasis>
+          <GainOrLoss>20790</GainOrLoss>
+          <GainsMinusExcessOrLosses>20790</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1408 Intesa SanPaolo</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-02-17</DateAcquired>
+          <DateSold>2010-03-18</DateSold>
+          <GrossSalesPrice>33369</GrossSalesPrice>
+          <CostOrOtherBasis>31201</CostOrOtherBasis>
+          <GainOrLoss>2168</GainOrLoss>
+          <GainsMinusExcessOrLosses>2168</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>741 SAP AG ADR</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-11-02</DateAcquired>
+          <DateSold>2010-03-10</DateSold>
+          <GrossSalesPrice>34271</GrossSalesPrice>
+          <CostOrOtherBasis>33860</CostOrOtherBasis>
+          <GainOrLoss>411</GainOrLoss>
+          <GainsMinusExcessOrLosses>411</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1193 Foster Wheeler</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-12-18</DateAcquired>
+          <DateSold>2010-03-10</DateSold>
+          <GrossSalesPrice>32079</GrossSalesPrice>
+          <CostOrOtherBasis>34819</CostOrOtherBasis>
+          <GainOrLoss>-2740</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2740</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1703 TD Ameritrade Hldg Corp</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-08-07</DateAcquired>
+          <DateSold>2010-02-17</DateSold>
+          <GrossSalesPrice>29669</GrossSalesPrice>
+          <CostOrOtherBasis>33564</CostOrOtherBasis>
+          <GainOrLoss>-3895</GainOrLoss>
+          <GainsMinusExcessOrLosses>-3895</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>823 Phillips Van Heusen Corp</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-02-20</DateAcquired>
+          <DateSold>2010-02-17</DateSold>
+          <GrossSalesPrice>34887</GrossSalesPrice>
+          <CostOrOtherBasis>14201</CostOrOtherBasis>
+          <GainOrLoss>20686</GainOrLoss>
+          <GainsMinusExcessOrLosses>20686</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>780 Hewitt Assoc Inc Cl A</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-12-11</DateAcquired>
+          <DateSold>2010-02-17</DateSold>
+          <GrossSalesPrice>29603</GrossSalesPrice>
+          <CostOrOtherBasis>33638</CostOrOtherBasis>
+          <GainOrLoss>-4035</GainOrLoss>
+          <GainsMinusExcessOrLosses>-4035</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>4971 BTU Intl</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-12-18</DateAcquired>
+          <DateSold>2010-02-17</DateSold>
+          <GrossSalesPrice>23463</GrossSalesPrice>
+          <CostOrOtherBasis>29053</CostOrOtherBasis>
+          <GainOrLoss>-5590</GainOrLoss>
+          <GainsMinusExcessOrLosses>-5590</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>836 Barclays</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-04-06</DateAcquired>
+          <DateSold>2009-12-18</DateSold>
+          <GrossSalesPrice>34258</GrossSalesPrice>
+          <CostOrOtherBasis>28133</CostOrOtherBasis>
+          <GainOrLoss>6125</GainOrLoss>
+          <GainsMinusExcessOrLosses>6125</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>6513 Aegon NV NY</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-02-20</DateAcquired>
+          <DateSold>2009-12-11</DateSold>
+          <GrossSalesPrice>42439</GrossSalesPrice>
+          <CostOrOtherBasis>27550</CostOrOtherBasis>
+          <GainOrLoss>14889</GainOrLoss>
+          <GainsMinusExcessOrLosses>14889</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>268 Visa Inc Class A</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-05-05</DateAcquired>
+          <DateSold>2009-12-03</DateSold>
+          <GrossSalesPrice>21723</GrossSalesPrice>
+          <CostOrOtherBasis>18049</CostOrOtherBasis>
+          <GainOrLoss>3674</GainOrLoss>
+          <GainsMinusExcessOrLosses>3674</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>37 Priceline Com Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-02-20</DateAcquired>
+          <DateSold>2009-12-03</DateSold>
+          <GrossSalesPrice>8222</GrossSalesPrice>
+          <CostOrOtherBasis>3055</CostOrOtherBasis>
+          <GainOrLoss>5167</GainOrLoss>
+          <GainsMinusExcessOrLosses>5167</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>127 Rio Tinto Plc Sponsored Adr</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-08-28</DateAcquired>
+          <DateSold>2009-11-23</DateSold>
+          <GrossSalesPrice>27159</GrossSalesPrice>
+          <CostOrOtherBasis>19993</CostOrOtherBasis>
+          <GainOrLoss>7166</GainOrLoss>
+          <GainsMinusExcessOrLosses>7166</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>35 Mitsui &amp; Co Ltd</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-11-02</DateAcquired>
+          <DateSold>2009-11-23</DateSold>
+          <GrossSalesPrice>8997</GrossSalesPrice>
+          <CostOrOtherBasis>9218</CostOrOtherBasis>
+          <GainOrLoss>-221</GainOrLoss>
+          <GainsMinusExcessOrLosses>-221</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2686 Kona Grill Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-11-03</DateAcquired>
+          <DateSold>2009-11-18</DateSold>
+          <GrossSalesPrice>7906</GrossSalesPrice>
+          <CostOrOtherBasis>8541</CostOrOtherBasis>
+          <GainOrLoss>-635</GainOrLoss>
+          <GainsMinusExcessOrLosses>-635</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>180 Priceline Com Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-02-20</DateAcquired>
+          <DateSold>2009-11-17</DateSold>
+          <GrossSalesPrice>37761</GrossSalesPrice>
+          <CostOrOtherBasis>14860</CostOrOtherBasis>
+          <GainOrLoss>22901</GainOrLoss>
+          <GainsMinusExcessOrLosses>22901</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>7050 Kona Grill Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-11-03</DateAcquired>
+          <DateSold>2009-11-17</DateSold>
+          <GrossSalesPrice>21164</GrossSalesPrice>
+          <CostOrOtherBasis>22419</CostOrOtherBasis>
+          <GainOrLoss>-1255</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1255</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1105 Waste Mgmt Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-08-28</DateAcquired>
+          <DateSold>2009-11-02</DateSold>
+          <GrossSalesPrice>33295</GrossSalesPrice>
+          <CostOrOtherBasis>32662</CostOrOtherBasis>
+          <GainOrLoss>633</GainOrLoss>
+          <GainsMinusExcessOrLosses>633</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1060 Nippon Telegraph Telephone</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-12-18</DateAcquired>
+          <DateSold>2009-11-02</DateSold>
+          <GrossSalesPrice>21989</GrossSalesPrice>
+          <CostOrOtherBasis>27676</CostOrOtherBasis>
+          <GainOrLoss>-5687</GainOrLoss>
+          <GainsMinusExcessOrLosses>-5687</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2278 Netapp Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-11-20</DateAcquired>
+          <DateSold>2009-11-02</DateSold>
+          <GrossSalesPrice>62166</GrossSalesPrice>
+          <CostOrOtherBasis>28922</CostOrOtherBasis>
+          <GainOrLoss>33244</GainOrLoss>
+          <GainsMinusExcessOrLosses>33244</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1057 Family Dollar Store</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-11-13</DateAcquired>
+          <DateSold>2009-11-02</DateSold>
+          <GrossSalesPrice>29844</GrossSalesPrice>
+          <CostOrOtherBasis>28349</CostOrOtherBasis>
+          <GainOrLoss>1495</GainOrLoss>
+          <GainsMinusExcessOrLosses>1495</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>636 Nintendo LTD ADR</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-10-13</DateAcquired>
+          <DateSold>2009-09-23</DateSold>
+          <GrossSalesPrice>20815</GrossSalesPrice>
+          <CostOrOtherBasis>30464</CostOrOtherBasis>
+          <GainOrLoss>-9649</GainOrLoss>
+          <GainsMinusExcessOrLosses>-9649</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1160 NBTY Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-10-01</DateAcquired>
+          <DateSold>2009-09-23</DateSold>
+          <GrossSalesPrice>46371</GrossSalesPrice>
+          <CostOrOtherBasis>33551</CostOrOtherBasis>
+          <GainOrLoss>12820</GainOrLoss>
+          <GainsMinusExcessOrLosses>12820</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>7844 Fosters Group Ltd</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-11-03</DateAcquired>
+          <DateSold>2009-09-23</DateSold>
+          <GrossSalesPrice>38356</GrossSalesPrice>
+          <CostOrOtherBasis>32082</CostOrOtherBasis>
+          <GainOrLoss>6274</GainOrLoss>
+          <GainsMinusExcessOrLosses>6274</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>601 Davita Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-10-01</DateAcquired>
+          <DateSold>2009-09-23</DateSold>
+          <GrossSalesPrice>34010</GrossSalesPrice>
+          <CostOrOtherBasis>33692</CostOrOtherBasis>
+          <GainOrLoss>318</GainOrLoss>
+          <GainsMinusExcessOrLosses>318</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>312 Lockheed Martin Corp</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-10-01</DateAcquired>
+          <DateSold>2009-08-28</DateSold>
+          <GrossSalesPrice>23312</GrossSalesPrice>
+          <CostOrOtherBasis>33832</CostOrOtherBasis>
+          <GainOrLoss>-10520</GainOrLoss>
+          <GainsMinusExcessOrLosses>-10520</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>836 Arch Coal Inc</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-09-23</DateAcquired>
+          <DateSold>2009-08-28</DateSold>
+          <GrossSalesPrice>14698</GrossSalesPrice>
+          <CostOrOtherBasis>33580</CostOrOtherBasis>
+          <GainOrLoss>-18882</GainOrLoss>
+          <GainsMinusExcessOrLosses>-18882</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>704 Chubb Corp</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-10-01</DateAcquired>
+          <DateSold>2009-08-07</DateSold>
+          <GrossSalesPrice>33974</GrossSalesPrice>
+          <CostOrOtherBasis>36045</CostOrOtherBasis>
+          <GainOrLoss>-2071</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2071</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>3036299.13 First Amer Prime Oblig Fund Cl Y</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-01-01</DateAcquired>
+          <DateSold>2009-05-27</DateSold>
+          <GrossSalesPrice>3036299</GrossSalesPrice>
+          <CostOrOtherBasis>2989964</CostOrOtherBasis>
+          <GainOrLoss>46335</GainOrLoss>
+          <GainsMinusExcessOrLosses>46335</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>-137909</CapitalGainNetIncome>
+        <NetShortTermCapitalGainOrLoss>106401</NetShortTermCapitalGainOrLoss>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>760740</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>11806801</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.06443</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>865790</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>14523913</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.05961</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>810768</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>15190692</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.05337</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>759091</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>14542072</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.05220</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>731776</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>13398574</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.05462</DistributionRatioYear5>
+        <TotalDistributionRatio>0.28423</TotalDistributionRatio>
+        <AverageDistributionRatio>0.05685</AverageDistributionRatio>
+        <NetNoncharitableAssets>12601842</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>716364</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>4899</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>721263</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>796646</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>4899</InvestmentIncomeExciseTax>
+        <Subtotal>4899</Subtotal>
+        <TaxBasedOnInvestmentIncome>4899</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>7600</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>7600</TotalCreditsAndPayments>
+        <Form2220Attached referenceDocumentId=" IRS2220">X</Form2220Attached>
+        <Overpayment>2701</Overpayment>
+        <AmountCreditedToNextYear>2701</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>MO</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>US Bank Private Client Group</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>4178882202</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>1615 S Glenstone</AddressLine1>
+          <City>Springfield</City>
+          <State>MO</State>
+          <ZIPCode>65804</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Rob Baird</PersonName>
+          <USAddress>
+            <AddressLine1>2928 S Natural Bridge Dr</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65809</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Thomas L Slaight</PersonName>
+          <USAddress>
+            <AddressLine1>4361 E Berkeley St</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65809</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Junior Cline</PersonName>
+          <USAddress>
+            <AddressLine1>4260 N State Highway H</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65803</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Neil Wortley</PersonName>
+          <USAddress>
+            <AddressLine1>1707 W Elfindale</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65807</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Charles Fuller</PersonName>
+          <USAddress>
+            <AddressLine1>2914 W Trevor Trail</AddressLine1>
+            <City>Ozark</City>
+            <State>MO</State>
+            <ZIPCode>65721</ZIPCode>
+          </USAddress>
+          <Title>Chairman</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>US Bank as trustee</PersonName>
+          <USAddress>
+            <AddressLine1>1615 S Glenstone</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65804</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>177829</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Jerry L Redfern</PersonName>
+          <USAddress>
+            <AddressLine1>4130 White Oak Drive</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65809</ZIPCode>
+          </USAddress>
+          <Title>Foundation Mana</Title>
+          <AvgHoursPerWkDevotedToPosition>10.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>78500</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>Provision of grants to eligible 501 (c) (3) organizations.</Description1>
+        <Expenses1>681750</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>10295000</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>460968</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>2037780</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>12793748</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>12793748</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>191906</CashDeemedCharitable>
+        <NetNoncharitableAssets>12601842</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>630092</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>630092</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>4899</TaxBasedOnInvestmentIncome>
+        <TotalTax>4899</TotalTax>
+        <DistributableAmountBeforeAdj>625193</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>625193</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>625193</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>796646</ExpensesAndContributions>
+        <QualifyingDistributions>796646</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>4899</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>791747</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>625193</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear1>70415</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>70415</TotalExcessDistriCarryover>
+        <QualifyingDistributions>796646</QualifyingDistributions>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>625193</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>171453</RemainingDistriFromCorpus>
+        <TotalCorpus>241868</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>241868</ExcessDistriCyovToNextYear>
+        <ExcessFromYear1>70415</ExcessFromYear1>
+        <ExcessFromCurrentYear>171453</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <AppicationSubmissionInfo>
+          <RecipientName>Musgrave Foundation</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>One Corporate Centre Suite 1-130</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65804</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>4178414698</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>Applicants need to request submission form by contacting the Foundation offices.</FormAndInfoAndMaterials>
+          <RestrictionsOnAwards>Foundation activities are limited to the Southwest Missouri area, primarily Greene and surrounding counties.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>The Victim Center</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>819 N Boonville Ave</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65802</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General obligations</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Springfield Regional Arts Council</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>411 N Sherman Pkwy</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65802</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General obligations</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Safe at Home</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 1409</AddressLine1>
+            <City>Jefferson City</City>
+            <State>MO</State>
+            <ZIPCode>65102</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General obligations</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Ozarks Public Television</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>901 S National</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65897</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General obligations</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Lease of These</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>149 E State Hwy CC</AddressLine1>
+            <City>Nixa</City>
+            <State>MO</State>
+            <ZIPCode>65714</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General obligations</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>KIMBC Inc Kickapoo Winter Drumline</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>3710 S Jefferson Ave</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65807</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Travel</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Habitat for Humanity</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>2410 S Scenic Ave</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65807</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General obligations</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Family Violence Center Inc</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 5972</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65801</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General obligations</PurposeOfGrantOrContribution>
+          <Amount>4000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Easy Riders Precision Drill Team</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>7454 E Foxtrot Ln</AddressLine1>
+            <City>Rogersville</City>
+            <State>MO</State>
+            <ZIPCode>65742</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General obligations</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Community Foundation of the Ozarks</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>425 E Trafficway St</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65806</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General obligations</PurposeOfGrantOrContribution>
+          <Amount>50000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Care to Learn</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>411 N Sherman Pkwy</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65802</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General obligations</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Big Brothers Big Sisters</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>3372 W Battlefield Rd</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65807</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General obligations</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>ARC of the Ozarks</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1501 E Pythion</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65802</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General obligations</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>American Heart Association</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>2446 E Madrid St</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65804</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General obligations</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Pregnancy Care Center</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1342 E Primrose Ste C</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65804</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Obligations</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>East Grand Community Services</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>E Grand</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65802</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Obligations</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Sporting Chance</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1850 E Meadowmere St</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65804</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Obligations</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Ozarks Regional YMCA</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>417 S Jefferson</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65806</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Obligations</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>NAMI Southwest Missouri</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1701 S Campbell</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65807</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Obligations</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Gyn Cancer Alliance</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>417 S Jefferson Ave LL</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65808</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Obligations</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Alzheimer's Association</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1500 South Glenstone</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65804</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Obligations</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Newborns in Need</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>112 W Main St / PO Box 385</AddressLine1>
+            <City>Houston</City>
+            <State>MO</State>
+            <ZIPCode>65483</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General operations</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>American Red Cross</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1835 E Chestnut Expwy</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65802</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Operations</PurposeOfGrantOrContribution>
+          <Amount>17500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SW Missouri Office on Aging</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1737 S Fort</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65807</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General operations</PurposeOfGrantOrContribution>
+          <Amount>9000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Ozarks Technical Comm College</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 5958</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65801</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General operations</PurposeOfGrantOrContribution>
+          <Amount>38000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Ozarks Counseling Center</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>309 N Jefferson 110</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65806</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General operations</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Women in Need of the Ozarks</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 4626</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65808</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General operations</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Convoy of Hope</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>330 S Patterson</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65802</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General operations</PurposeOfGrantOrContribution>
+          <Amount>26000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Ozark Food Harvest</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>615 N Glenstone Ave</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65802</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General operations</PurposeOfGrantOrContribution>
+          <Amount>30000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>MO Colleges Fund Inc</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>3702 W Truman Blvd Ste 319</AddressLine1>
+            <City>Jefferson City</City>
+            <State>MO</State>
+            <ZIPCode>65109</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General operations</PurposeOfGrantOrContribution>
+          <Amount>19000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Fellowship Christian Athletes</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>2101 W Chesterfield Blvd</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65807</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General operations</PurposeOfGrantOrContribution>
+          <Amount>8000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>The Kitchen</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>420 E Commercial</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65803</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General operations</PurposeOfGrantOrContribution>
+          <Amount>14000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Lighthouse Child Development Center</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>2548 N Fremont</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65803</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Capital improvements</PurposeOfGrantOrContribution>
+          <Amount>196250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Isabel's House Crisis Nursery</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>2750 W Bennettf</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65802</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General operations</PurposeOfGrantOrContribution>
+          <Amount>8000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Springfield Victory Mission</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 2884</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65801</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General operations</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Cox Health Foundation</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1423 N Jefferson</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65802</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General operations</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SW Baptist University</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1600 University Ave</AddressLine1>
+            <City>Bolivar</City>
+            <State>MO</State>
+            <ZIPCode>65613</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General operations</PurposeOfGrantOrContribution>
+          <Amount>29000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Drury University</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>900 N Benton</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65802</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General operations</PurposeOfGrantOrContribution>
+          <Amount>7000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>The Salvation Army</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 9685</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65801</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General operations</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CASA of Southwest MO</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>3800 S National Ave</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65807</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General operations</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Boy Scouts of America</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1616 S Eastgate</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65809</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General operations</PurposeOfGrantOrContribution>
+          <Amount>22000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Springfield Community Center</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>411 N Sherman Parkway</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65802</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General operations</PurposeOfGrantOrContribution>
+          <Amount>24000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Developmental Ctr of Ozarks</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1545 E Pythian</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65802</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General operations</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Dallas County Health Dept</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1001 W Main St</AddressLine1>
+            <City>Buffalo</City>
+            <State>MO</State>
+            <ZIPCode>65622</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General operations</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Council of Churches of Ozarks</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1116 W Battlefield</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65807</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General operations</PurposeOfGrantOrContribution>
+          <Amount>45000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Ozarks Literacy Council</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>410 South Ave</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65806</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General operations</PurposeOfGrantOrContribution>
+          <Amount>6000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Boys and Girls Club</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1300 Boonville</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65802</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General operations</PurposeOfGrantOrContribution>
+          <Amount>18000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Discovery Center of Spfld</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>438 E St Louis</AddressLine1>
+            <City>Springfield</City>
+            <State>MO</State>
+            <ZIPCode>65806</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General operations</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>681750</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>106</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>249716</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <OtherInvestmentIncomePartVII>
+          <ExclusionCode>15</ExclusionCode>
+          <ExclusionAmount>452630</ExclusionAmount>
+        </OtherInvestmentIncomePartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>-137909</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>702452</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>-137909</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>564543</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="09000047" softwareVersion="2009v1.3">
+      <AccountingFees>
+        <Category>RMMC</Category>
+        <Amount>7500</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="09000047" softwareVersion="2009v1.3">
+      <OtherExpenses>
+        <Description>Oil production expenses</Description>
+        <RevenueAndExpensesPerBooks>34753</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>34754</NetInvestmentIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Miscellaneous</Description>
+        <RevenueAndExpensesPerBooks>1183</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Insurance</Description>
+        <RevenueAndExpensesPerBooks>233</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>ADR agent fees</Description>
+        <RevenueAndExpensesPerBooks>798</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="09000047" softwareVersion="2009v1.3">
+      <OtherIncome>
+        <Description>Other Investment Income</Description>
+        <RevenueAndExpensesPerBooks>452630</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>452630</NetInvestmentIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="OtherIncreasesSchedule" softwareId="09000047" softwareVersion="2009v1.3">
+      <OtherIncreases>
+        <Description>Adj to investment for accretion adjustment</Description>
+        <Amount>1196</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="09000047" softwareVersion="2009v1.3">
+      <OtherProfessionalFees>
+        <Category>Communications</Category>
+        <Amount>20176</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+      <OtherProfessionalFees>
+        <Category>Administrative support</Category>
+        <Amount>27996</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>27996</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="09000047" softwareVersion="2009v1.3">
+      <Taxes>
+        <Category>Foreign taxes w/h at source</Category>
+        <Amount>3174</Amount>
+      </Taxes>
+      <Taxes>
+        <Category>Excise tax estimated payments</Category>
+        <Amount>1739</Amount>
+      </Taxes>
+      <Taxes>
+        <Category>Additional foreign taxes</Category>
+        <Amount>2728</Amount>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

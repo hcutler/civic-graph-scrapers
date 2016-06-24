@@ -1,0 +1,804 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-15T18:42:11-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-06-30</TaxPeriodEndDate>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>203272490</EIN>
+      <Name>
+        <BusinessNameLine1>ABERNATHY PORT CHARLOTTE KIWANIS</BusinessNameLine1>
+        <BusinessNameLine2>FOUNDATION INC</BusinessNameLine2>
+      </Name>
+      <NameControl>ABER</NameControl>
+      <Phone>9416254189</Phone>
+      <USAddress>
+        <AddressLine1>3440 CONWAY BLVD SUITE 1-A</AddressLine1>
+        <City>PORT CHARLOTTE</City>
+        <State>FL</State>
+        <ZIPCode>33952</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>ALLAN J LEVIN</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>9416254189</Phone>
+      <DateSigned>2011-02-15</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>406804</FMVAssetsEOY>
+      <MethodOfAccountingOther note="HYBRID">X</MethodOfAccountingOther>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>9496</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>9496</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="RetDoc2">-7645</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>85358</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>38</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>1851</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>9534</TotalNetInvestmentIncome>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc4">5814</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>5814</OtherProfFeesNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc5">152</TaxesRevAndExpnss>
+        <TaxesAdjNetIncm>152</TaxesAdjNetIncm>
+        <TotOprExpensesRevAndExpnss>5966</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>5814</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>152</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>25650</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>25650</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>31616</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>5814</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>152</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>25650</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-29765</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>3720</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <InvestmentsCorpStockBOY>483174</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc3">453409</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>406804</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>483174</TotalAssetsBOY>
+        <TotalAssetsEOY>453409</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>406804</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>483174</RetainedEarningsBOY>
+        <RetainedEarningsEOY>453409</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>483174</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>453409</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>483174</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>453409</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>483174</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-29765</ExcessOfRevenueOverExpenses>
+        <Subtotal>453409</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>453409</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainNetIncome>38</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>41426</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>383264</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.108087</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>132399</QualifyingDistributionsYear2>
+        <QualifyingDistributionsYear3>51243</QualifyingDistributionsYear3>
+        <QualifyingDistributionsYear4>6777</QualifyingDistributionsYear4>
+        <TotalDistributionRatio>0.108087</TotalDistributionRatio>
+        <AverageDistributionRatio>0.108087</AverageDistributionRatio>
+        <NetNoncharitableAssets>412258</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>44560</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>37</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>44597</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>25650</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>74</InvestmentIncomeExciseTax>
+        <Subtotal>74</Subtotal>
+        <TaxBasedOnInvestmentIncome>74</TaxBasedOnInvestmentIncome>
+        <TaxPaidWithExtension>74</TaxPaidWithExtension>
+        <TotalCreditsAndPayments>74</TotalCreditsAndPayments>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>ALLEN LEVIN</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>9416294189</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>3440 CONWAY BLVD STE 1-A</AddressLine1>
+          <City>PORT CHARLOTTE</City>
+          <State>FL</State>
+          <ZIPCode>33952</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ALLEN J LEVIN</PersonName>
+          <USAddress>
+            <AddressLine1>3440 CONWAY BLVD SUITE 1A</AddressLine1>
+            <City>PORT CHARLOTTE</City>
+            <State>FL</State>
+            <ZIPCode>33952</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ROBERT L TALLEY</PersonName>
+          <USAddress>
+            <AddressLine1>13380 SW PEMBROKE CIRCLE</AddressLine1>
+            <City>LAKE SUSY</City>
+            <State>FL</State>
+            <ZIPCode>34269</ZIPCode>
+          </USAddress>
+          <Title>SECR/TREAS</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>LARRY HURLEY</PersonName>
+          <USAddress>
+            <AddressLine1>736 ELLICOTT CIRCLE</AddressLine1>
+            <City>PORT CHARLOTTE</City>
+            <State>FL</State>
+            <ZIPCode>33952</ZIPCode>
+          </USAddress>
+          <Title>DIRECOTR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>GABRIELLE AZAR-LEVIN</PersonName>
+          <USAddress>
+            <AddressLine1>1238 VERMEER DRIVE</AddressLine1>
+            <City>NOKOMIS</City>
+            <State>FL</State>
+            <ZIPCode>34275</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CATHERINE SPYIE</PersonName>
+          <USAddress>
+            <AddressLine1>21015 BAFFIN AVE</AddressLine1>
+            <City>PORT CHARLOTTE</City>
+            <State>FL</State>
+            <ZIPCode>33954</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ROY JOHNSON</PersonName>
+          <USAddress>
+            <AddressLine1>2465 ELKAM BLVD</AddressLine1>
+            <City>PORT CHARLOTTE</City>
+            <State>FL</State>
+            <ZIPCode>33952</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>GEORGE METZ</PersonName>
+          <USAddress>
+            <AddressLine1>20262 MACON LANE</AddressLine1>
+            <City>PORT CHARLOTTE</City>
+            <State>FL</State>
+            <ZIPCode>33952</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>SUSAN VACCA</PersonName>
+          <USAddress>
+            <AddressLine1>3417 TAMIAMI TRAIL SUITE C</AddressLine1>
+            <City>PORT CHARLOTTE</City>
+            <State>FL</State>
+            <ZIPCode>33952</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>418536</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>418536</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>418536</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>6278</CashDeemedCharitable>
+        <NetNoncharitableAssets>412258</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>20613</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <Sect4942j3j5FndtnAndFrgnOrg>X</Sect4942j3j5FndtnAndFrgnOrg>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>25650</ExpensesAndContributions>
+        <QualifyingDistributions>25650</QualifyingDistributions>
+        <AdjQualifyingDistributions>25650</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>20539</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear1>22441</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>22441</TotalExcessDistriCarryover>
+        <ExcessDistriCyovAppCYCorpus>20539</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>20539</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>1902</TotalCorpus>
+        <ExcessDistriCyovToNextYear>1902</ExcessDistriCyovToNextYear>
+        <ExcessFromYear1>1902</ExcessFromYear1>
+      </UndistributedIncome>
+      <PrivateOperatingFoundations>
+        <DateOfRuling>2005-07-26</DateOfRuling>
+      </PrivateOperatingFoundations>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>ALLEN J LEVIN</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>3440 CONWAY BLVD STE 1-A</AddressLine1>
+            <City>PORT CHARLOTTE</City>
+            <State>FL</State>
+            <ZIPCode>33952</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>9416294189</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>WHAT FUNDS ARE REQUESTED FOR AND AMOUNT REQUESTED.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>ADVANCEMENT OF EDUCATION AND OTHER CHARITABLE PURPOSES, PARTICULARLY FOR LEADERSHIP</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>AMERICAN LEGION AUXILIARY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>3152 HARBOR BLVD</AddressLine1>
+            <City>PORT CHARLOTTE</City>
+            <State>FL</State>
+            <ZIPCode>33952</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>GRANT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GIRLS STATE GRANT</PurposeOfGrantOrContribution>
+          <Amount>340</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>BOY SCOUT TROOP 95</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>16191 FOREST GLEN COURT</AddressLine1>
+            <City>PUNTA GORDA</City>
+            <State>FL</State>
+            <ZIPCode>33982</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>GRANT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>NATIONAL YOUTH LEADERS TRAINING</PurposeOfGrantOrContribution>
+          <Amount>585</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SARAH SURKEN</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>26300 AIRPORT RD</AddressLine1>
+            <City>PUNTA GORDA</City>
+            <State>FL</State>
+            <ZIPCode>33950</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JASMINE WEST</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1700 LEE HALL DRIVE</AddressLine1>
+            <City>TALLAHASSEE</City>
+            <State>FL</State>
+            <ZIPCode>32307</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JAMIE JEFFS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>A3900 UNIVERSITY CENTER</AddressLine1>
+            <City>TALLAHASSEE</City>
+            <State>FL</State>
+            <ZIPCode>323062480</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CASEY A REYNOLDS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>A3900 UNIVERSITY CENTER</AddressLine1>
+            <City>TALLAHASSEE</City>
+            <State>FL</State>
+            <ZIPCode>323062480</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JOHN REYES</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>A3900 UNIVERSITY CENTER</AddressLine1>
+            <City>TALLAHASSEE</City>
+            <State>FL</State>
+            <ZIPCode>323062480</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>MICHELLE ARNETT</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>820 1ST STREET NW</AddressLine1>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20052</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>VALERIE SEGEBRE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>LAKELAND BLVD</AddressLine1>
+            <City>PORT CHARLOTTE</City>
+            <State>FL</State>
+            <ZIPCode>33948</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>GRANT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>NATIONAL HISTORY FAIR SPONSOR</PurposeOfGrantOrContribution>
+          <Amount>300</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>ROSS LEACH</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>5800 BAYSHORE ROAD</AddressLine1>
+            <City>SARASOTA</City>
+            <State>FL</State>
+            <ZIPCode>342432109</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>ALEXIS ST JOHN</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>3301 COLLEGE AVENUE</AddressLine1>
+            <City>FORT LAUDERDALE</City>
+            <State>FL</State>
+            <ZIPCode>33314</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>KIWANIS CLUB OF PORT CHAR</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>18200 COCHRAN BLVD</AddressLine1>
+            <City>PORT CHARLOTTE</City>
+            <State>FL</State>
+            <ZIPCode>339481979</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>GRANT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROGRAM SPONSOR</PurposeOfGrantOrContribution>
+          <Amount>1675</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>MCKENZIE GOODFRIEND</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>18200 COCHRAN BLVD</AddressLine1>
+            <City>PORT CHARLOTTE</City>
+            <State>FL</State>
+            <ZIPCode>339481979</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>GRANT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROGRAM SPONSOR</PurposeOfGrantOrContribution>
+          <Amount>750</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>KIWANIS CLUB OF PORT CHAR</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>18200 COCHRAN BLVD</AddressLine1>
+            <City>PORT CHARLOTTE</City>
+            <State>FL</State>
+            <ZIPCode>339481979</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>GRANT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROGRAM SPONSOR</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>PEOPLE TO PEOPLE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>19565 AMBASSADOR WAY</AddressLine1>
+            <City>SPOKAGE</City>
+            <State>WA</State>
+            <ZIPCode>992244001</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>GRANT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROGRAM SPONSOR</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SAMATHA DELAND ROUGHTON</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>421 NORTH WOODLAND BLVD</AddressLine1>
+            <City>DELAND</City>
+            <State>FL</State>
+            <ZIPCode>32723</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>LOGON HARRIS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 160115</AddressLine1>
+            <City>ORLANDO</City>
+            <State>FL</State>
+            <ZIPCode>328160115</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>BROOKE SALVAGGIO</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 160115</AddressLine1>
+            <City>ORLANDO</City>
+            <State>FL</State>
+            <ZIPCode>328160115</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>25650</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>9496</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>38</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>-7683</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>9534</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>-7683</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>1851</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc2">
+      <GainLossSaleOtherAsset>
+        <Name>282.949 S DTMVX</Name>
+        <DateAcquired>2005-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-07</DateSold>
+        <GrossSalesPrice>3780</GrossSalesPrice>
+        <Basis>5786</Basis>
+        <TotalNet>-2006</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>291.723 S DFREX</Name>
+        <DateAcquired>2005-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-08</DateSold>
+        <GrossSalesPrice>4280</GrossSalesPrice>
+        <Basis>5551</Basis>
+        <TotalNet>-1271</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>158.544 S DFALX</Name>
+        <DateAcquired>2005-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-08</DateSold>
+        <GrossSalesPrice>2680</GrossSalesPrice>
+        <Basis>3031</Basis>
+        <TotalNet>-351</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>169.779 S DTMMX</Name>
+        <DateAcquired>2005-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-08</DateSold>
+        <GrossSalesPrice>1980</GrossSalesPrice>
+        <Basis>2252</Basis>
+        <TotalNet>-272</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>239.521 S DFITX</Name>
+        <DateAcquired>2007-07</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-08</DateSold>
+        <GrossSalesPrice>1180</GrossSalesPrice>
+        <Basis>1991</Basis>
+        <TotalNet>-811</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>114.865 S DISVX</Name>
+        <DateAcquired>2005-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-08</DateSold>
+        <GrossSalesPrice>1680</GrossSalesPrice>
+        <Basis>2003</Basis>
+        <TotalNet>-323</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>95.659 S DFISX</Name>
+        <DateAcquired>2005-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-08</DateSold>
+        <GrossSalesPrice>1280</GrossSalesPrice>
+        <Basis>1536</Basis>
+        <TotalNet>-256</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>243.902 S DTMVX</Name>
+        <DateAcquired>2005-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-08</DateSold>
+        <GrossSalesPrice>3780</GrossSalesPrice>
+        <Basis>4987</Basis>
+        <TotalNet>-1207</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>205.882 S DFTSX</Name>
+        <DateAcquired>2005-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-08</DateSold>
+        <GrossSalesPrice>3480</GrossSalesPrice>
+        <Basis>4394</Basis>
+        <TotalNet>-914</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>193.611 S DFIHX</Name>
+        <DateAcquired>2005-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-09</DateSold>
+        <GrossSalesPrice>1980</GrossSalesPrice>
+        <Basis>1979</Basis>
+        <TotalNet>1</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>218.978 S DTMIX</Name>
+        <DateAcquired>2005-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-09</DateSold>
+        <GrossSalesPrice>2980</GrossSalesPrice>
+        <Basis>3339</Basis>
+        <TotalNet>-359</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>206.129 S DFIHX</Name>
+        <DateAcquired>2007-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-09</DateSold>
+        <GrossSalesPrice>2109</GrossSalesPrice>
+        <Basis>2109</Basis>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>361.193 S DFIHX</Name>
+        <DateAcquired>2007-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-10</DateSold>
+        <GrossSalesPrice>3708</GrossSalesPrice>
+        <Basis>3695</Basis>
+        <TotalNet>13</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>289.576 S DFREX</Name>
+        <DateAcquired>2007-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-10</DateSold>
+        <GrossSalesPrice>2968</GrossSalesPrice>
+        <Basis>2963</Basis>
+        <TotalNet>5</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>692.644 S DTMMX</Name>
+        <DateAcquired>2005-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-01</DateSold>
+        <GrossSalesPrice>8915</GrossSalesPrice>
+        <Basis>9180</Basis>
+        <TotalNet>-265</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>468.596 S DTMEX</Name>
+        <DateAcquired>2005-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-01</DateSold>
+        <GrossSalesPrice>5622</GrossSalesPrice>
+        <Basis>6234</Basis>
+        <TotalNet>-612</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>247.66599 S DFIHX</Name>
+        <DateAcquired>2007-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-02</DateSold>
+        <GrossSalesPrice>2538</GrossSalesPrice>
+        <Basis>2541</Basis>
+        <TotalNet>-3</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>195.358 S DFIHX</Name>
+        <DateAcquired>2007-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-02</DateSold>
+        <GrossSalesPrice>2000</GrossSalesPrice>
+        <Basis>2004</Basis>
+        <TotalNet>-4</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>267.90899 S DTMVX</Name>
+        <DateAcquired>2005-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-03</DateSold>
+        <GrossSalesPrice>4888</GrossSalesPrice>
+        <Basis>5472</Basis>
+        <TotalNet>-584</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>109.89 S DFREX</Name>
+        <DateAcquired>2005-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-04</DateSold>
+        <GrossSalesPrice>2280</GrossSalesPrice>
+        <Basis>2091</Basis>
+        <TotalNet>189</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>S SWRSX</Name>
+        <DateAcquired>2005-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-05</DateSold>
+        <GrossSalesPrice>14264</GrossSalesPrice>
+        <Basis>13038</Basis>
+        <TotalNet>1226</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>S SWRSX</Name>
+        <DateAcquired>2009-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-05</DateSold>
+        <GrossSalesPrice>3188</GrossSalesPrice>
+        <Basis>2914</Basis>
+        <TotalNet>274</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>107.748 S DFTSX</Name>
+        <DateAcquired>2005-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-05</DateSold>
+        <GrossSalesPrice>2080</GrossSalesPrice>
+        <Basis>2298</Basis>
+        <TotalNet>-218</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>151.92099 S DIPSX</Name>
+        <DateAcquired>2007-07</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-05</DateSold>
+        <GrossSalesPrice>1680</GrossSalesPrice>
+        <Basis>1615</Basis>
+        <TotalNet>65</TotalNet>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpStockSchedule documentId="RetDoc3">
+      <InvestmentsCorpStock>
+        <NameOfStock>BROKERAGE ACCOUNT</NameOfStock>
+        <EOYBookValue>453409</EOYBookValue>
+        <EOYFMV>406804</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc4">
+      <OtherProfessionalFees>
+        <Category>INVESTMENT FEES</Category>
+        <Amount>5814</Amount>
+        <NetInvestmentIncome>5814</NetInvestmentIncome>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc5">
+      <Taxes>
+        <Category>LICENSES</Category>
+        <Amount>61</Amount>
+        <AdjustedNetIncome>61</AdjustedNetIncome>
+      </Taxes>
+      <Taxes>
+        <Category>TAXES</Category>
+        <Amount>91</Amount>
+        <AdjustedNetIncome>91</AdjustedNetIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

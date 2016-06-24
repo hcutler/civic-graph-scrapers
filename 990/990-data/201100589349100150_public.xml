@@ -1,0 +1,792 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-27T17:56:08-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>THOMAS V BRUNELLE CPA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>3010 COMPASS POINTE WALK</AddressLine1>
+        <City>ALPHARETTA</City>
+        <State>GA</State>
+        <ZIPCode>30005</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>261529583</EIN>
+      <Name>
+        <BusinessNameLine1>AUGUST FIFTH FOUNDATION INC</BusinessNameLine1>
+      </Name>
+      <NameControl>AUGU</NameControl>
+      <Phone>4042520062</Phone>
+      <USAddress>
+        <AddressLine1>23 ROSE GATE DRIVE</AddressLine1>
+        <City>ATLANTA</City>
+        <State>GA</State>
+        <ZIPCode>30342</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>WALTER GRANT</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>4042520062</Phone>
+      <DateSigned>2011-02-21</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>THOMAS BRUNELLE</Name>
+      <Phone>7706645836</Phone>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="11">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>322184</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>35973</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>174</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>174</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>5897</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>5879</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>90894</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>274259</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>90894</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>132938</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>96947</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">684</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>0</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>684</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">50</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>50</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>0</TaxesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">49</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>19</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>30</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>783</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>69</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>714</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>9000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>9000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>9783</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>69</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>9714</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>123155</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>96878</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>171</CashBOY>
+        <CashEOY>322</CashEOY>
+        <CashEOYFMV>322</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>173749</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>20528</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>20528</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>36013</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2018900001">270218</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>273983</InvestmentsCorpStockEOYFMV>
+        <InvestmentsOtherBOY>0</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc2018100001">25770</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>26999</InvestmentsOtherEOYFMV>
+        <OtherAssetsBOY referenceDocumentId="RetDoc2046600001">0</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId="RetDoc2046600001">352</OtherAssetsEOY>
+        <OtherAssetsEOYFMV referenceDocumentId="RetDoc2046600001">352</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>209933</TotalAssetsBOY>
+        <TotalAssetsEOY>317190</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>322184</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>0</CapitalStockBOY>
+        <CapitalStockEOY>0</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>209933</RetainedEarningsBOY>
+        <RetainedEarningsEOY>317190</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>209933</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>317190</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>209933</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>317190</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>209933</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>123155</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>333088</Subtotal>
+        <OtherDecreases referenceDocumentId="RetDoc2049800001">15898</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>317190</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>6000 SH EARTHLINK</DescriptionOfAsset>
+          <HowAcquired>D</HowAcquired>
+          <DateAcquired>1996-03-14</DateAcquired>
+          <DateSold>2010-05-07</DateSold>
+          <GrossSalesPrice>50759</GrossSalesPrice>
+          <CostOrOtherBasis>8003</CostOrOtherBasis>
+          <GainOrLoss>42756</GainOrLoss>
+          <GainsMinusExcessOrLosses>42756</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1000 SH VERIZON COMM</DescriptionOfAsset>
+          <HowAcquired>D</HowAcquired>
+          <DateAcquired>1989-02-10</DateAcquired>
+          <DateSold>2010-05-07</DateSold>
+          <GrossSalesPrice>28090</GrossSalesPrice>
+          <CostOrOtherBasis>6460</CostOrOtherBasis>
+          <GainOrLoss>21630</GainOrLoss>
+          <GainsMinusExcessOrLosses>21630</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>16 SH AMAZON.COM</DescriptionOfAsset>
+          <HowAcquired>D</HowAcquired>
+          <DateAcquired>2010-07-29</DateAcquired>
+          <DateSold>2010-11-17</DateSold>
+          <GrossSalesPrice>2531</GrossSalesPrice>
+          <CostOrOtherBasis>2067</CostOrOtherBasis>
+          <GainOrLoss>464</GainOrLoss>
+          <GainsMinusExcessOrLosses>464</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>470 SH ISHARES TR MSCI EMERGING MKTS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-05-07</DateAcquired>
+          <DateSold>2010-11-17</DateSold>
+          <GrossSalesPrice>21336</GrossSalesPrice>
+          <CostOrOtherBasis>17912</CostOrOtherBasis>
+          <GainOrLoss>3424</GainOrLoss>
+          <GainsMinusExcessOrLosses>3424</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>300 SH ISHARES TR MSCI EAFE INDEX</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-05-07</DateAcquired>
+          <DateSold>2010-11-17</DateSold>
+          <GrossSalesPrice>16904</GrossSalesPrice>
+          <CostOrOtherBasis>14760</CostOrOtherBasis>
+          <GainOrLoss>2144</GainOrLoss>
+          <GainsMinusExcessOrLosses>2144</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>710 SH SPDR S&amp;P 500 ETF TR</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-05-07</DateAcquired>
+          <DateSold>2010-11-17</DateSold>
+          <GrossSalesPrice>83899</GrossSalesPrice>
+          <CostOrOtherBasis>78625</CostOrOtherBasis>
+          <GainOrLoss>5274</GainOrLoss>
+          <GainsMinusExcessOrLosses>5274</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>132 SH ISHARES TR RUSSELL 1000 VALUE</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-11-17</DateAcquired>
+          <DateSold>2010-11-22</DateSold>
+          <GrossSalesPrice>8079</GrossSalesPrice>
+          <CostOrOtherBasis>8012</CostOrOtherBasis>
+          <GainOrLoss>67</GainOrLoss>
+          <GainsMinusExcessOrLosses>67</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>148 SH ISHARES TR RUSSELL 1000 GROWTH</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-11-17</DateAcquired>
+          <DateSold>2010-11-22</DateSold>
+          <GrossSalesPrice>8130</GrossSalesPrice>
+          <CostOrOtherBasis>7968</CostOrOtherBasis>
+          <GainOrLoss>162</GainOrLoss>
+          <GainsMinusExcessOrLosses>162</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>38 SH ALLIANCE DATA SYS CORP</DescriptionOfAsset>
+          <HowAcquired>D</HowAcquired>
+          <DateAcquired>2009-02-04</DateAcquired>
+          <DateSold>2010-11-17</DateSold>
+          <GrossSalesPrice>2310</GrossSalesPrice>
+          <CostOrOtherBasis>1553</CostOrOtherBasis>
+          <GainOrLoss>757</GainOrLoss>
+          <GainsMinusExcessOrLosses>757</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>27 SH AMAZON.COM</DescriptionOfAsset>
+          <HowAcquired>D</HowAcquired>
+          <DateAcquired>2009-07-31</DateAcquired>
+          <DateSold>2010-11-17</DateSold>
+          <GrossSalesPrice>4270</GrossSalesPrice>
+          <CostOrOtherBasis>2333</CostOrOtherBasis>
+          <GainOrLoss>1937</GainOrLoss>
+          <GainsMinusExcessOrLosses>1937</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>46 SH APPLE INC</DescriptionOfAsset>
+          <HowAcquired>D</HowAcquired>
+          <DateAcquired>2009-10-30</DateAcquired>
+          <DateSold>2010-11-17</DateSold>
+          <GrossSalesPrice>13815</GrossSalesPrice>
+          <CostOrOtherBasis>6899</CostOrOtherBasis>
+          <GainOrLoss>6916</GainOrLoss>
+          <GainsMinusExcessOrLosses>6916</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>45 SH ISHARES TR MSCI EMERGING MKTS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-08-21</DateAcquired>
+          <DateSold>2010-11-17</DateSold>
+          <GrossSalesPrice>2043</GrossSalesPrice>
+          <CostOrOtherBasis>1812</CostOrOtherBasis>
+          <GainOrLoss>231</GainOrLoss>
+          <GainsMinusExcessOrLosses>231</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>315 SH ISHARES TR MSCI EAFE INDEX</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-08-21</DateAcquired>
+          <DateSold>2010-11-17</DateSold>
+          <GrossSalesPrice>17749</GrossSalesPrice>
+          <CostOrOtherBasis>19738</CostOrOtherBasis>
+          <GainOrLoss>-1989</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1989</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>121 SH TARGET CORP</DescriptionOfAsset>
+          <HowAcquired>D</HowAcquired>
+          <DateAcquired>2009-04-09</DateAcquired>
+          <DateSold>2010-11-17</DateSold>
+          <GrossSalesPrice>6722</GrossSalesPrice>
+          <CostOrOtherBasis>3737</CostOrOtherBasis>
+          <GainOrLoss>2985</GainOrLoss>
+          <GainsMinusExcessOrLosses>2985</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>156 SH UNITEDHEALTH GROUP INC</DescriptionOfAsset>
+          <HowAcquired>D</HowAcquired>
+          <DateAcquired>2009-10-06</DateAcquired>
+          <DateSold>2010-11-17</DateSold>
+          <GrossSalesPrice>5503</GrossSalesPrice>
+          <CostOrOtherBasis>3486</CostOrOtherBasis>
+          <GainOrLoss>2017</GainOrLoss>
+          <GainsMinusExcessOrLosses>2017</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>POWERSHARES DB COMMODITY INDEX</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-01-01</DateAcquired>
+          <DateSold>2010-12-31</DateSold>
+          <GrossSalesPrice>711</GrossSalesPrice>
+          <GainOrLoss>711</GainOrLoss>
+          <GainsMinusExcessOrLosses>711</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>POWERSHARES DB COMMODITY INDEX</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-01-01</DateAcquired>
+          <DateSold>2010-12-31</DateSold>
+          <GrossSalesPrice>1066</GrossSalesPrice>
+          <GainOrLoss>1066</GainOrLoss>
+          <GainsMinusExcessOrLosses>1066</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CAPITAL GAINS DIVIDENDS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>342</GrossSalesPrice>
+          <GainOrLoss>342</GainOrLoss>
+          <GainsMinusExcessOrLosses>342</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>90894</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>5825</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>186706</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.031199</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>8984</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>220641</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.040718</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>0</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>251000</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.0</DistributionRatioYear3>
+        <TotalDistributionRatio>0.071917</TotalDistributionRatio>
+        <AverageDistributionRatio>0.023972</AverageDistributionRatio>
+        <NetNoncharitableAssets>277645</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>6656</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>969</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>7625</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>9714</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>969</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>969</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>969</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>126</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>126</TotalCreditsAndPayments>
+        <TaxDue>843</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>GA</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors referenceDocumentId="RetDoc2089200002">1</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>WALTER GRANT</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>4042520062</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>23 ROSE GATE DRIVE</AddressLine1>
+          <City>ATLANTA</City>
+          <State>GA</State>
+          <ZIPCode>30342</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>0</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>WALTER M GRANT</PersonName>
+          <USAddress>
+            <AddressLine1>23 ROSE GATE DR</AddressLine1>
+            <City>ATLANTA</City>
+            <State>GA</State>
+            <ZIPCode>30342</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT/TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>2.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ANN S GRANT</PersonName>
+          <USAddress>
+            <AddressLine1>23 ROSE GATE DR</AddressLine1>
+            <City>ATLANTA</City>
+            <State>GA</State>
+            <ZIPCode>30342</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>2.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>W MATTHEWS GRANT II</PersonName>
+          <USAddress>
+            <AddressLine1>2098 WELLESLEY AVENUE</AddressLine1>
+            <City>ST PAUL</City>
+            <State>MN</State>
+            <ZIPCode>55105</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.25</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>KRISTEN B GRANT</PersonName>
+          <USAddress>
+            <AddressLine1>2098 WELLESLEY AVENUE</AddressLine1>
+            <City>ST PAUL</City>
+            <State>MN</State>
+            <ZIPCode>55105</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.25</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JEAN ANN MANSFIELD</PersonName>
+          <USAddress>
+            <AddressLine1>4109 OBERON DR</AddressLine1>
+            <City>SMYRNA</City>
+            <State>GA</State>
+            <ZIPCode>30080</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.25</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>WHITACRE T MANSFIELD</PersonName>
+          <USAddress>
+            <AddressLine1>4109 OBERON DR</AddressLine1>
+            <City>SMYRNA</City>
+            <State>GA</State>
+            <ZIPCode>30080</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.25</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>RAYMOND R GRANT II</PersonName>
+          <USAddress>
+            <AddressLine1>5624 DENTON CIRCLE</AddressLine1>
+            <City>NORCROSS</City>
+            <State>GA</State>
+            <ZIPCode>30092</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.25</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CAROLINE M GRANT</PersonName>
+          <USAddress>
+            <AddressLine1>5624 DENTON CIRCLE</AddressLine1>
+            <City>NORCROSS</City>
+            <State>GA</State>
+            <ZIPCode>30092</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.25</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>N/A</Description1>
+        <Expenses1>0</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+        <Amount1>0</Amount1>
+        <AllOthProgRltdInvestmentsTotal referenceDocumentId="RetDoc2063500001">0</AllOthProgRltdInvestmentsTotal>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>147403</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>134470</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>281873</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>281873</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>4228</CashDeemedCharitable>
+        <NetNoncharitableAssets>277645</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>13882</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>13882</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>969</TaxBasedOnInvestmentIncome>
+        <TotalTax>969</TotalTax>
+        <DistributableAmountBeforeAdj>12913</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>12913</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>12913</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>9714</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>9714</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>969</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>8745</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>12913</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>5330</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <TotalExcessDistriCarryover>0</TotalExcessDistriCarryover>
+        <QualifyingDistributions>9714</QualifyingDistributions>
+        <AppliedToYear1>5330</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>4384</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>0</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>8529</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>0</ExcessDistriCyovToNextYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>WALTER M GRANT</ContributingManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>WALTER M GRANT</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>23 ROSE GATE DR</AddressLine1>
+            <City>ATLANTA</City>
+            <State>GA</State>
+            <ZIPCode>30342</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>4042520062</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>WRITTEN</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>501(C)(3) PUBLIC CHARITIES</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NORTHSIDE DRIVE BAPTIST CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3100 NORTHSIDE DR NW</AddressLine1>
+            <City>ATLANTA</City>
+            <State>GA</State>
+            <ZIPCode>30305</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FURTHER CHARITABLE PURPOSE OF CHURCH</PurposeOfGrantOrContribution>
+          <Amount>8000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SALVATION ARMY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 49247</AddressLine1>
+            <City>ATLANTA</City>
+            <State>GA</State>
+            <ZIPCode>30359</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FURTHER CHARITABLE PURPOSE OF SA</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>9000</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>174</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>5897</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>90894</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>96965</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>96965</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>ANN S GRANT</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>23 ROSE GATE DRIVE</AddressLine1>
+          <City>ATLANTA</City>
+          <State>GA</State>
+          <ZIPCode>30342</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>21173</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+        <NoncashContributionType>X</NoncashContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>2</ContributorNumber>
+        <ContributorNameIndividual>ANN S GRANT</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>23 ROSE GATE DRIVE</AddressLine1>
+          <City>ATLANTA</City>
+          <State>GA</State>
+          <ZIPCode>30342</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>12184</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+        <NoncashContributionType>X</NoncashContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>3</ContributorNumber>
+        <ContributorNameIndividual>ANN S GRANT</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>23 ROSE GATE DRIVE</AddressLine1>
+          <City>ATLANTA</City>
+          <State>GA</State>
+          <ZIPCode>30342</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>2616</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+        <NoncashContributionType>X</NoncashContributionType>
+      </ContributorInfo>
+      <NoncashProperty>
+        <ContributorNumberFromPartI>1</ContributorNumberFromPartI>
+        <NoncashPropertyDescription>46 SH APPLE INC COMMON - FMV 1425843 SH AMAZON.COM INC COMMON - FMV 6915</NoncashPropertyDescription>
+        <FairMarketValue>21173</FairMarketValue>
+        <DateReceived>2010-10-15</DateReceived>
+      </NoncashProperty>
+      <NoncashProperty>
+        <ContributorNumberFromPartI>2</ContributorNumberFromPartI>
+        <NoncashPropertyDescription>121 SH TARGET COPR. COMMON - FMV 6568156 SH UNITEDHEALTH GROUP INC COMMON - FMV 5616</NoncashPropertyDescription>
+        <FairMarketValue>12184</FairMarketValue>
+        <DateReceived>2010-10-15</DateReceived>
+      </NoncashProperty>
+      <NoncashProperty>
+        <ContributorNumberFromPartI>3</ContributorNumberFromPartI>
+        <NoncashPropertyDescription>38 SH ALLIANCE DATA SYSTEMS CORP COMMON - FMV 2616</NoncashPropertyDescription>
+        <FairMarketValue>2616</FairMarketValue>
+        <DateReceived>2010-10-15</DateReceived>
+      </NoncashProperty>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>TAX PREP</Category>
+        <Amount>684</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>684</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <AllOthProgRltdInvestmentsSch documentId="RetDoc2063500001">
+      <AllOthProgRltdInvestments>
+        <Description>N/A</Description>
+        <Amount>0</Amount>
+      </AllOthProgRltdInvestments>
+    </AllOthProgRltdInvestmentsSch>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorpStock>
+        <NameOfStock>EQUITY FUNDS</NameOfStock>
+        <EOYBookValue>270218</EOYBookValue>
+        <EOYFMV>273983</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>US STOCKS</NameOfStock>
+        <EOYBookValue>0</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOther>
+        <CategoryOrItem>PWERSHARES DB</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>25770</BookValue>
+        <EOYFMV>26999</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherAssetsSchedule documentId="RetDoc2046600001">
+      <OtherAssets>
+        <Description>DIVIDEND RECEIVABLE</Description>
+        <BOYBookValue>0</BOYBookValue>
+        <EOYBookValue>352</EOYBookValue>
+        <EOYFMV>352</EOYFMV>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc2049800001">
+      <OtherDecreases>
+        <Description>FMV VS COST OF CONTRIBUTED SECURITIES</Description>
+        <Amount>15898</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>FILING FEES</Description>
+        <RevenueAndExpensesPerBooks>30</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>30</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>POWERSHARES INVEST EXP</Description>
+        <RevenueAndExpensesPerBooks>19</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>19</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <SubstantialContributorsSch documentId="RetDoc2089200002">
+      <SubstantialContributor>
+        <PersonName>ANN S GRANT</PersonName>
+        <USAddress>
+          <AddressLine1>23 ROSE GATE DR</AddressLine1>
+          <City>ATLANTA</City>
+          <State>GA</State>
+          <ZIPCode>30342</ZIPCode>
+        </USAddress>
+      </SubstantialContributor>
+    </SubstantialContributorsSch>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>FOREIGN TAX</Category>
+        <Amount>50</Amount>
+        <NetInvestmentIncome>50</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

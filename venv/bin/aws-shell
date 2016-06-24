@@ -1,0 +1,10 @@
+#!/Users/Hannah-Cutler/Desktop/summer-2016/Microsoft/civic-graph-scrapers/venv/bin/python
+# EASY-INSTALL-ENTRY-SCRIPT: 'aws-shell==0.1.1','console_scripts','aws-shell'
+__requires__ = 'aws-shell==0.1.1'
+import sys
+from pkg_resources import load_entry_point
+
+if __name__ == '__main__':
+    sys.exit(
+        load_entry_point('aws-shell==0.1.1', 'console_scripts', 'aws-shell')()
+    )

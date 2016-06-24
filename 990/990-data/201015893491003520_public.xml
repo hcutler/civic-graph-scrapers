@@ -1,0 +1,504 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-06-07T08:34:24-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-01-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>MONTGOMERY WIETHORN &amp; BURKE PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>20704 GILL RD STE 100</AddressLine1>
+        <City>FARMINGTON HILLS</City>
+        <State>MI</State>
+        <ZIPCode>48335</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-02-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>383604317</EIN>
+      <Name>
+        <BusinessNameLine1>MCLENNAN FAMILY FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>MCLE</NameControl>
+      <Phone>2485575080</Phone>
+      <USAddress>
+        <AddressLine1>29516 SOUTHFIELD ROAD</AddressLine1>
+        <AddressLine2>ROOM/SUITE 102</AddressLine2>
+        <City>SOUTHFIELD</City>
+        <State>MI</State>
+        <ZIPCode>480762029</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>JAMES MCLENNAN</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>2485575080</Phone>
+      <DateSigned>2010-06-04</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>LARRY WIETHORN</Name>
+      <Phone>2484420777</Phone>
+      <DatePrepared>2010-06-04</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>302576</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>20472</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>20472</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>-30310</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>5334</GrossSalesPrice>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc5">565</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>565</OtherIncomeNetInvstIncm>
+        <TotalRevenueAndExpenses>-9273</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>21037</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">925</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>925</AccountingFeesNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc7">395</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>20</TaxesNetInvstIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc4">150</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>150</OtherExpensesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>1470</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>1095</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>17000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>17000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>18470</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>1095</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>17000</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-27743</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>19942</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>12466</CashBOY>
+        <CashEOY>5512</CashEOY>
+        <CashEOYFMV>5512</CashEOYFMV>
+        <InvestmentsCorpStockBOY>363943</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc3">344189</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>297064</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>376409</TotalAssetsBOY>
+        <TotalAssetsEOY>349701</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>302576</TotalAssetsEOYFMV>
+        <OtherLiabilitiesEOY referenceDocumentId="RetDoc6">1035</OtherLiabilitiesEOY>
+        <TotalLiabilitiesEOY>1035</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>376409</RetainedEarningsBOY>
+        <RetainedEarningsEOY>348666</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>376409</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>348666</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>376409</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>349701</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>376409</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-27743</ExcessOfRevenueOverExpenses>
+        <Subtotal>348666</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>348666</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>PUBLICLY TRADED SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-02-01</DateAcquired>
+          <DateSold>2010-01-31</DateSold>
+          <GrossSalesPrice>5334</GrossSalesPrice>
+          <CostOrOtherBasis>4114</CostOrOtherBasis>
+          <GainOrLoss>1220</GainOrLoss>
+          <GainsMinusExcessOrLosses>1220</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>PUBLICLY TRADED SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2001-01-01</DateAcquired>
+          <DateSold>2010-01-31</DateSold>
+          <CostOrOtherBasis>31530</CostOrOtherBasis>
+          <GainOrLoss>-31530</GainOrLoss>
+          <GainsMinusExcessOrLosses>-31530</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>-30310</CapitalGainNetIncome>
+        <NetShortTermCapitalGainOrLoss>1220</NetShortTermCapitalGainOrLoss>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>20000</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>285808</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.069977</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>11550</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>368762</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.031321</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>12000</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>366851</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.032711</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>27240</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>372309</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.073165</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>19736</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>384470</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.051333</DistributionRatioYear5>
+        <TotalDistributionRatio>0.258507</TotalDistributionRatio>
+        <AverageDistributionRatio>0.051701</AverageDistributionRatio>
+        <NetNoncharitableAssets>246296</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>12734</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>199</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>12933</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>17000</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>199</InvestmentIncomeExciseTax>
+        <Subtotal>199</Subtotal>
+        <TaxBasedOnInvestmentIncome>199</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>470</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>470</TotalCreditsAndPayments>
+        <Overpayment>271</Overpayment>
+        <AmountCreditedToNextYear>200</AmountCreditedToNextYear>
+        <AmountToBeRefunded>71</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>MI</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>JAMES MCLENNAN</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>2485575080</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>29516 SOUTHFIELD RD</AddressLine1>
+          <AddressLine2>STE 102</AddressLine2>
+          <City>SOUTHFIELD</City>
+          <State>MI</State>
+          <ZIPCode>48025</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>true</UndistributedIncomePriorYears>
+        <UndistributedIncomePriorYear1>2007</UndistributedIncomePriorYear1>
+        <UndistrIncome4942a2NotApplied>true</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JAMES MCLENNAN</PersonName>
+          <USAddress>
+            <AddressLine1>29516 SOUTHFIELD RD</AddressLine1>
+            <City>SOUTHFIELD</City>
+            <State>MI</State>
+            <ZIPCode>480762029</ZIPCode>
+          </USAddress>
+          <Title>PRES</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>REBECCA W MCLENNAN</PersonName>
+          <USAddress>
+            <AddressLine1>SAME AS ABOVE</AddressLine1>
+            <City>SOUTHFIELD</City>
+            <State>MI</State>
+            <ZIPCode>48076</ZIPCode>
+          </USAddress>
+          <Title>VP</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>REBECCA A MCLENNAN</PersonName>
+          <USAddress>
+            <AddressLine1>SAME AS ABOVE</AddressLine1>
+            <City>SOUTHFIELD</City>
+            <State>MI</State>
+            <ZIPCode>48076</ZIPCode>
+          </USAddress>
+          <Title>VP</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>LISA F MCLENNAN</PersonName>
+          <USAddress>
+            <AddressLine1>SAME AS ABOVE</AddressLine1>
+            <City>SOUTHFIELD</City>
+            <State>MI</State>
+            <ZIPCode>48076</ZIPCode>
+          </USAddress>
+          <Title>VP</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JAMES MCLENNAN</PersonName>
+          <USAddress>
+            <AddressLine1>29516 SOUTHFIELD RD</AddressLine1>
+            <City>SOUTHFIELD</City>
+            <State>MI</State>
+            <ZIPCode>480762029</ZIPCode>
+          </USAddress>
+          <Title>PRES</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>REBECCA W MCLENNAN</PersonName>
+          <USAddress>
+            <AddressLine1>SAME AS ABOVE</AddressLine1>
+            <City>SOUTHFIELD</City>
+            <State>MI</State>
+            <ZIPCode>48076</ZIPCode>
+          </USAddress>
+          <Title>VP</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>REBECCA A MCLENNAN</PersonName>
+          <USAddress>
+            <AddressLine1>SAME AS ABOVE</AddressLine1>
+            <City>SOUTHFIELD</City>
+            <State>MI</State>
+            <ZIPCode>48076</ZIPCode>
+          </USAddress>
+          <Title>VP</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>LISA F MCLENNAN</PersonName>
+          <USAddress>
+            <AddressLine1>SAME AS ABOVE</AddressLine1>
+            <City>SOUTHFIELD</City>
+            <State>MI</State>
+            <ZIPCode>48076</ZIPCode>
+          </USAddress>
+          <Title>VP</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>250047</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>250047</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>250047</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>3751</CashDeemedCharitable>
+        <NetNoncharitableAssets>246296</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>12315</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>12315</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>199</TaxBasedOnInvestmentIncome>
+        <TotalTax>199</TotalTax>
+        <DistributableAmountBeforeAdj>12116</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>12116</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>12116</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>17000</ExpensesAndContributions>
+        <QualifyingDistributions>17000</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>199</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>16801</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>12116</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>13803</UndistributedIncomePriorYear>
+        <QualifyingDistributions>17000</QualifyingDistributions>
+        <AppliedToYear1>13803</AppliedToYear1>
+        <AppliedToCurrentYear>3197</AppliedToCurrentYear>
+        <UndistributedIncomeCY>8919</UndistributedIncomeCY>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WAYNE STATE UNIVERSITY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4200 ADMINISTRATION BLDG</AddressLine1>
+            <City>DETROIT</City>
+            <State>MI</State>
+            <ZIPCode>48202</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GENERAL CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE COMMUNITY HOUSE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>MERRILL ST</AddressLine1>
+            <City>BIRMINGHAM</City>
+            <State>MI</State>
+            <ZIPCode>48010</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GENERAL CONTRIBUITON</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ACCESS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2651 SAULINO CT</AddressLine1>
+            <City>DEARBORN</City>
+            <State>MI</State>
+            <ZIPCode>48120</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GENERAL CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NORTHWESTERN UNIV</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>633 CLARK ST</AddressLine1>
+            <City>EVANSTON</City>
+            <State>IL</State>
+            <ZIPCode>60208</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GENERAL CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>17000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <RelatedOrExemptFunctionIncome>20472</RelatedOrExemptFunctionIncome>
+        </DividendsAndIntFromSecPartVII>
+        <OtherInvestmentIncomePartVII>
+          <RelatedOrExemptFunctionIncome>565</RelatedOrExemptFunctionIncome>
+        </OtherInvestmentIncomePartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>-30310</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>-9273</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>-9273</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>925</Amount>
+        <NetInvestmentIncome>925</NetInvestmentIncome>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc3">
+      <InvestmentsCorpStock>
+        <NameOfStock>INVESTMENTS- MUTUAL FUNDS (AT COST)</NameOfStock>
+        <EOYBookValue>154427</EOYBookValue>
+        <EOYFMV>138406</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>INVESTMENTS- STOCKS (AT COST)</NameOfStock>
+        <EOYBookValue>189762</EOYBookValue>
+        <EOYFMV>158658</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="RetDoc4">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK FEES</Description>
+        <RevenueAndExpensesPerBooks>150</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>150</NetInvestmentIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc5">
+      <OtherIncome>
+        <Description>MISC</Description>
+        <RevenueAndExpensesPerBooks>565</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>565</NetInvestmentIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherLiabilitiesSchedule documentId="RetDoc6">
+      <OtherLiabilities>
+        <Description>OUTSTANDING CALLS</Description>
+        <EOYBookValue>1035</EOYBookValue>
+      </OtherLiabilities>
+    </OtherLiabilitiesSchedule>
+    <TaxesSchedule documentId="RetDoc7">
+      <Taxes>
+        <Category>990 ES</Category>
+        <Amount>375</Amount>
+      </Taxes>
+      <Taxes>
+        <Category>STATE OF MICHIGAN</Category>
+        <Amount>20</Amount>
+        <NetInvestmentIncome>20</NetInvestmentIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

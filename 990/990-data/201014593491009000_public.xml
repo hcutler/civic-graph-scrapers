@@ -1,0 +1,547 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return returnVersion="2009v1.3" xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-05-25T20:03:41Z</Timestamp>
+    <TaxPeriodEndDate>2010-03-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Paul J Cashiola CPA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>1616 S Voss Road Suite 530</AddressLine1>
+        <City>Houston</City>
+        <State>TX</State>
+        <ZIPCode>770572637</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-04-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>760604378</EIN>
+      <Name>
+        <BusinessNameLine1>THE ROBERT AND SHIRLEY PHILLIPS FAMILY</BusinessNameLine1>
+        <BusinessNameLine2>FOUNDATION</BusinessNameLine2>
+      </Name>
+      <NameControl>ROBE</NameControl>
+      <Phone>8325192222</Phone>
+      <USAddress>
+        <AddressLine1>8 CRESTWOOD DR</AddressLine1>
+        <City>HOUSTON</City>
+        <State>TX</State>
+        <ZIPCode>77007</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>ROBERT G PHILLIPS</Name>
+      <Title>President</Title>
+      <DateSigned>2010-05-25</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>Paul Cashiola CPA</Name>
+      <Phone>7136541040</Phone>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="09000047" softwareVersion="2009v1.3">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>265416</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>1325</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>122</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>122</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>122</InterestOnSavingsAdjNetIncm>
+        <DividendsRevAndExpnss>123</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>123</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>123</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss>94069</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>309263</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>94069</CapitalGainNetIncmNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId=" OtherIncomeSchedule2">-24499</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>-24499</OtherIncomeNetInvstIncm>
+        <TotalRevenueAndExpenses>71140</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>69815</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>245</TotalAdjustedNetIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId=" AccountingFeesSchedule">1325</AccountingFeesRevAndExpnss>
+        <TaxesRevAndExpnss referenceDocumentId=" TaxesSchedule">44</TaxesRevAndExpnss>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">2365</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>3734</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>115034</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>115034</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>118768</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>115034</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-47628</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>69815</NetInvestmentIncome>
+        <AdjustedNetIncome>245</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>72259</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>14163</SavingsAndTempCashInvstEOY>
+        <InvestmentsCorpStockBOY>254532</InvestmentsCorpStockBOY>
+        <InvestmentsOtherEOY referenceDocumentId=" InvestmentsOtherSchedule2">265000</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>265416</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>326791</TotalAssetsBOY>
+        <TotalAssetsEOY>279163</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>265416</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>326791</RetainedEarningsBOY>
+        <RetainedEarningsEOY>279163</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>326791</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>279163</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>326791</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>279163</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>326791</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-47628</ExcessOfRevenueOverExpenses>
+        <Subtotal>279163</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>279163</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>6,000 ENTERPRISE PRODS PARTNERS LP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-11-07</DateAcquired>
+          <DateSold>2010-01-25</DateSold>
+          <GrossSalesPrice>195774</GrossSalesPrice>
+          <CostOrOtherBasis>120488</CostOrOtherBasis>
+          <GainOrLoss>75286</GainOrLoss>
+          <GainsMinusExcessOrLosses>75286</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2,000 ENTERPRISE PRODS PARTNERS LP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-11-07</DateAcquired>
+          <DateSold>2010-01-15</DateSold>
+          <GrossSalesPrice>64789</GrossSalesPrice>
+          <CostOrOtherBasis>48413</CostOrOtherBasis>
+          <GainOrLoss>16376</GainOrLoss>
+          <GainsMinusExcessOrLosses>16376</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1,625 ENTERPRISE PRODS PARTNERS LP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-11-07</DateAcquired>
+          <DateSold>2009-10-26</DateSold>
+          <GrossSalesPrice>48700</GrossSalesPrice>
+          <CostOrOtherBasis>46293</CostOrOtherBasis>
+          <GainOrLoss>2407</GainOrLoss>
+          <GainsMinusExcessOrLosses>2407</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>94069</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>105000</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>357090</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.29404</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>249737</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>249995</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.99897</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>149270</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>262393</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.56888</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>103476</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>371163</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.27879</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>75868</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>247978</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.30595</DistributionRatioYear5>
+        <TotalDistributionRatio>2.44663</TotalDistributionRatio>
+        <AverageDistributionRatio>0.48933</AverageDistributionRatio>
+        <NetNoncharitableAssets>293515</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>143624</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>698</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>144322</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>115034</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>1396</InvestmentIncomeExciseTax>
+        <Subtotal>1396</Subtotal>
+        <TaxBasedOnInvestmentIncome>1396</TaxBasedOnInvestmentIncome>
+        <Form2220Attached referenceDocumentId=" IRS2220">X</Form2220Attached>
+        <PenaltyForUnderpayment>1</PenaltyForUnderpayment>
+        <TaxDue>1397</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>TX</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>ROBERT G PHILLIPS</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>8325192222</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>8 CRESTWOOD DR</AddressLine1>
+          <City>HOUSTON</City>
+          <State>TX</State>
+          <ZIPCode>77007</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BRITTANY FAULK</PersonName>
+          <USAddress>
+            <AddressLine1>2830 ANN ARBOR DR</AddressLine1>
+            <City>HOUSTON</City>
+            <State>TX</State>
+            <ZIPCode>77063</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>SHIRLEY J PHILLIPS</PersonName>
+          <USAddress>
+            <AddressLine1>8 CRESTWOOD DR</AddressLine1>
+            <City>HOUSTON</City>
+            <State>TX</State>
+            <ZIPCode>77007</ZIPCode>
+          </USAddress>
+          <Title>Vice President</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ROBERT G PHILLIPS</PersonName>
+          <USAddress>
+            <AddressLine1>8 CRESTWOOD DR</AddressLine1>
+            <City>HOUSTON</City>
+            <State>TX</State>
+            <ZIPCode>77007</ZIPCode>
+          </USAddress>
+          <Title>President</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>224200</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>73785</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>297985</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>297985</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>4470</CashDeemedCharitable>
+        <NetNoncharitableAssets>293515</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>14676</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>14676</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>1396</TaxBasedOnInvestmentIncome>
+        <TotalTax>1396</TotalTax>
+        <DistributableAmountBeforeAdj>13280</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>13280</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>13280</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>115034</ExpensesAndContributions>
+        <QualifyingDistributions>115034</QualifyingDistributions>
+        <AdjQualifyingDistributions>115034</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>13280</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>72733</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>85216</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>136650</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>237923</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>87189</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>619711</TotalExcessDistriCarryover>
+        <QualifyingDistributions>115034</QualifyingDistributions>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>13280</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>101754</RemainingDistriFromCorpus>
+        <TotalCorpus>721465</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>72733</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>648732</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>85216</ExcessFromYear4>
+        <ExcessFromYear3>136650</ExcessFromYear3>
+        <ExcessFromYear2>237923</ExcessFromYear2>
+        <ExcessFromYear1>87189</ExcessFromYear1>
+        <ExcessFromCurrentYear>101754</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>SHIRLEY J PHILLIPS</ContributingManager>
+        <ContributingManager>ROBERT G PHILLIPS</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ZETA TAU ALPHA FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3450 FOUNDERS ROAD</AddressLine1>
+            <City>INDIANAPOLIS</City>
+            <State>IN</State>
+            <ZIPCode>46268</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501-C3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED GRANT TO FURTHER THE PURPOSE OF THE ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BOYKINS YOUTH FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 301146</AddressLine1>
+            <City>HOUSTON</City>
+            <State>TX</State>
+            <ZIPCode>77230</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501-C3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED GRANT TO FURTHER THE PURPOSE OF THE ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>8500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PURNELL SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>51 POTTERSVILLE ROAD</AddressLine1>
+            <City>POTTERSVILLE</City>
+            <State>NJ</State>
+            <ZIPCode>07979</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>SCHOOL</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED GRANT TO FURTHER THE PURPOSE OF THE ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>8334</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MARCH OF DIMES</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1275 MAMARONECK AVENUE</AddressLine1>
+            <City>WHITE PLAINS</City>
+            <State>NY</State>
+            <ZIPCode>10605</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501-C3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED GRANT TO FURTHER THE PURPOSE OF THE ORGANIZATION</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNITED CEREBRAL PALSEY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4500 BISSONET SUITE 340</AddressLine1>
+            <City>BELLAIRE</City>
+            <State>TX</State>
+            <ZIPCode>77401</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501-C3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED GRANT TO FURTHER THE PURPOSE OF THE ORGANIZATION.</PurposeOfGrantOrContribution>
+          <Amount>3500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TEXAS CHRISTIAN UNIVERSITY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2800 S UNIVERSITY DR</AddressLine1>
+            <City>FORT WORTH</City>
+            <State>TX</State>
+            <ZIPCode>76129</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>SCHOOL</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED GRANT TO FURTHER THE PURPOSE OF THE ORGANIZATION.</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNIVERSITY OF TEXAS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>GSB 2104</AddressLine1>
+            <City>AUSTIN</City>
+            <State>TX</State>
+            <ZIPCode>78712</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>SCHOOL</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED GRANT TO FURTHER THE PURPOSE OF THE ORGANIZATION.</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JUNIOR ACHIEVEMENT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2115 EAST GOVERNORS CIRCLE</AddressLine1>
+            <City>HOUSTON</City>
+            <State>TX</State>
+            <ZIPCode>77092</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501-C3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED GRANT TO FURTHER THE PURPOSE OF THE ORGANIZATION.</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHAPELWOOD CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>11140 GREENBAY</AddressLine1>
+            <City>HOUSTON</City>
+            <State>TX</State>
+            <ZIPCode>77024</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>CHURCH</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED GRANT TO FURTHER THE PURPOSE OF THE ORGANIZATION.</PurposeOfGrantOrContribution>
+          <Amount>40000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BOYS &amp; GIRLS COUNTRY - HOUSTON</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>18806 ROBERTS RD</AddressLine1>
+            <City>HOCKLEY</City>
+            <State>TX</State>
+            <ZIPCode>77447</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501-C3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED GRANT TO FURTHER THE PURPOSE OF THE ORGANIZATION.</PurposeOfGrantOrContribution>
+          <Amount>26600</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>115034</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>122</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>123</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <OtherInvestmentIncomePartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>24499</ExclusionAmount>
+        </OtherInvestmentIncomePartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>94069</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>-24254</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>94069</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>69815</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="09000047" softwareVersion="2009v1.3">
+      <AccountingFees>
+        <Category>TAX PREPARATION</Category>
+        <Amount>1325</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsOtherSchedule2 documentId="InvestmentsOtherSchedule2" softwareId="09000047" softwareVersion="2009v1.3">
+      <InvestmentsOther>
+        <CategoryOrItem>26,659.96 COLUMBIA SHORT TERM BOND FUND</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>265000</BookValue>
+        <EOYFMV>265416</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="09000047" softwareVersion="2009v1.3">
+      <OtherExpenses>
+        <Description>BANK CHARGES/INVESTMENT FEES</Description>
+        <RevenueAndExpensesPerBooks>2365</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="09000047" softwareVersion="2009v1.3">
+      <OtherIncome>
+        <Description>Other Investment Income</Description>
+        <RevenueAndExpensesPerBooks>-24499</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>-24499</NetInvestmentIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="09000047" softwareVersion="2009v1.3">
+      <Taxes>
+        <Category>EXCISE TAX ON INVESTMENT INCOME</Category>
+        <Amount>44</Amount>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

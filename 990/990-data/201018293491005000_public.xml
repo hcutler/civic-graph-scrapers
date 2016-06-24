@@ -1,0 +1,565 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return returnVersion="2009v1.3" xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-07-01T13:38:47Z</Timestamp>
+    <TaxPeriodEndDate>2010-04-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>M &amp; I TRUST CO NA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>11270 WEST PARK PLACE SUITE 400</AddressLine1>
+        <City>MILWAUKEE</City>
+        <State>WI</State>
+        <ZIPCode>53224</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-05-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>752750645</EIN>
+      <Name>
+        <BusinessNameLine1>CHARLES H PHIPPS FOUNDATION AGENCY</BusinessNameLine1>
+      </Name>
+      <NameControl>CHAR</NameControl>
+      <Phone>4803487702</Phone>
+      <USAddress>
+        <AddressLine1>C/O MI TRUST CO NA11270 W PARK PL S</AddressLine1>
+        <City>MILWAUKEE</City>
+        <State>WI</State>
+        <ZIPCode>53224</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>CHARLES PHIPPS</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>4803487702</Phone>
+      <DateSigned>2010-06-08</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>LAURA LESPERANCE CPA</Name>
+      <Phone>4148153500</Phone>
+      <DatePrepared>2010-07-01</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990PF documentId="00000001" referenceDocumentName="ReasonableCauseExplanation GeneralExplanationAttachment">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>3772656</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>100556</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>100556</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="00000002" referenceDocumentName="GainLossFromSaleOtherAssetsSchedule">-51996</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>452507</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="00000004" referenceDocumentName="OtherIncomeSchedule2">692</OtherIncomeRevAndExpnss>
+        <TotalRevenueAndExpenses>49252</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>100556</TotalNetInvestmentIncome>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="00000006" referenceDocumentName="OtherProfessionalFeesSchedule">12164</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>12164</OtherProfFeesNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId="00000007" referenceDocumentName="TaxesSchedule">2201</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>897</TaxesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>14365</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>13061</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>176500</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>176500</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>190865</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>13061</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>176500</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-141613</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>87495</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>106726</CashBOY>
+        <CashEOY>46972</CashEOY>
+        <CashEOYFMV>46972</CashEOYFMV>
+        <InvestmentsCorpStockBOY>1800157</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY>2001483</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>2141238</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>1616399</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY>1333991</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>1570060</InvestmentsCorpBondsEOYFMV>
+        <OtherAssetsBOY>18703</OtherAssetsBOY>
+        <OtherAssetsEOY>14386</OtherAssetsEOY>
+        <OtherAssetsEOYFMV>14386</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>3541985</TotalAssetsBOY>
+        <TotalAssetsEOY>3396832</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>3772656</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>3541985</CapitalStockBOY>
+        <CapitalStockEOY>3396832</CapitalStockEOY>
+        <TotalNetAssetsBOY>3541985</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>3396832</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>3541985</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>3396832</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>3541985</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-141613</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="00000005" referenceDocumentName="OtherIncreasesSchedule">59</OtherIncreases>
+        <Subtotal>3400431</Subtotal>
+        <OtherDecreases referenceDocumentId="00000003" referenceDocumentName="OtherDecreasesSchedule">3599</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>3396832</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>See Attached Statement</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-01-01</DateAcquired>
+          <DateSold>2010-04-30</DateSold>
+          <GrossSalesPrice>2294</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>1978</CostOrOtherBasis>
+          <GainOrLoss>316</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>316</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>See Attached Statement</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2001-01-01</DateAcquired>
+          <DateSold>2010-04-30</DateSold>
+          <GrossSalesPrice>448214</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>502525</CostOrOtherBasis>
+          <GainOrLoss>-54311</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-54311</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Long Term Capital Gain Dividends</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2001-01-01</DateAcquired>
+          <DateSold>2010-04-30</DateSold>
+          <GrossSalesPrice>1999</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>0</CostOrOtherBasis>
+          <GainOrLoss>1999</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>1999</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>-51996</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <NoncharitableAssetsYear1>3549609</NoncharitableAssetsYear1>
+        <QualifyingDistributionsYear2>107770</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>3049198</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.035344</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>98643</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>2171012</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.045436</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>38406</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>2042791</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.018801</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>18022</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>762927</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.023622</DistributionRatioYear5>
+        <TotalDistributionRatio>0.123203</TotalDistributionRatio>
+        <AverageDistributionRatio>0.030801</AverageDistributionRatio>
+        <NetNoncharitableAssets>3598522</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>110838</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>875</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>111713</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>176500</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>875</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>875</Subtotal>
+        <TaxBasedOnInvestmentIncome>875</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>1304</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>1304</TotalCreditsAndPayments>
+        <OriginalReturnOverpayment>-1304</OriginalReturnOverpayment>
+        <Overpayment>429</Overpayment>
+        <AmountCreditedToNextYear>429</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>TX</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>false</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>HOWARD W KEY</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>2143681500</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>8080 N CENTRAL EXPRESSWAY SUITE 900</AddressLine1>
+          <City>DALLAS</City>
+          <State>TX</State>
+          <ZIPCode>752061887</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CHARLES H PHIPPS</PersonName>
+          <USAddress>
+            <AddressLine1>29 ROBLEDO DR</AddressLine1>
+            <City>DALLAS</City>
+            <State>TX</State>
+            <ZIPCode>75230</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>3653322</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>3653322</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>3653322</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>54800</CashDeemedCharitable>
+        <NetNoncharitableAssets>3598522</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>179926</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>179926</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>875</TaxBasedOnInvestmentIncome>
+        <TotalTax>875</TotalTax>
+        <DistributableAmountBeforeAdj>179051</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>179051</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>179051</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>176500</ExpensesAndContributions>
+        <QualifyingDistributions>176500</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>875</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>175625</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>179051</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>176176</UndistributedIncomePriorYear>
+        <QualifyingDistributions>176500</QualifyingDistributions>
+        <AppliedToYear1>176176</AppliedToYear1>
+        <RemainingDistriFromCorpus>324</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>324</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>324</ExcessDistriCyovAppliedCY>
+        <UndistributedIncomeCY>178727</UndistributedIncomeCY>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>NONE</ContributingManager>
+        <ShareholderManager>NONE</ShareholderManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>CHARLES H PHIPPS</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>6600 LBJ FREEWAY SUITE 155</AddressLine1>
+            <City>DALLAS</City>
+            <State>TX</State>
+            <ZIPCode>75420</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>9729601186</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>LETTER</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>NONE</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FAMILY ELDERCARE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2210 HANCOCK DRIVE</AddressLine1>
+            <City>AUSTIN</City>
+            <State>TX</State>
+            <ZIPCode>78756</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Humanitarian</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MISSIONAIRES OF CHARITY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2704 HARANDALE AVE</AddressLine1>
+            <City>DALLAS</City>
+            <State>TX</State>
+            <ZIPCode>75216</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Charitable</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MEALS ON WHEELS AUSTIN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3227 E 5TH STREET</AddressLine1>
+            <City>AUSTIN</City>
+            <State>TX</State>
+            <ZIPCode>78702</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Humanitarian</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DOWN SYNDROME GUILD OF DALLAS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>701 N CENTRAL EXPRESSWAY SUITE 5-I</AddressLine1>
+            <City>RICHARDSON</City>
+            <State>TX</State>
+            <ZIPCode>75080</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Medical</PurposeOfGrantOrContribution>
+          <Amount>31000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE ARC OF DALLAS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>12700 HILLCREST RD SUITE 200</AddressLine1>
+            <City>DALLAS</City>
+            <State>TX</State>
+            <ZIPCode>75230</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>COLLIN COUNTY ADULT CLINIC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2520 AVENUE K SUITE 100</AddressLine1>
+            <City>PLANO</City>
+            <State>TX</State>
+            <ZIPCode>75074</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Charitable Medical</PurposeOfGrantOrContribution>
+          <Amount>7500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>VINCARE SERVICES- ST LOUISE HOUSE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2026 GUADALUPE ST</AddressLine1>
+            <City>AUSTIN</City>
+            <State>TX</State>
+            <ZIPCode>78705</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Charitable</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NOTRE DAME SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2018 ALLEN STREET</AddressLine1>
+            <City>DALLAS</City>
+            <State>TX</State>
+            <ZIPCode>75204</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Education</PurposeOfGrantOrContribution>
+          <Amount>30500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CARITAS OF AUSTIN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1947</AddressLine1>
+            <City>AUSTIN</City>
+            <State>TX</State>
+            <ZIPCode>787671947</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Charitable</PurposeOfGrantOrContribution>
+          <Amount>7500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CAPITAL AREA FOOD BANK</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>8201 S CONGRESS AVE</AddressLine1>
+            <City>AUSTIN</City>
+            <State>TX</State>
+            <ZIPCode>78745</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Charitable</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNIVERSITY OF WISCONSIN FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1848 UNIVERSITY AVE</AddressLine1>
+            <City>MADISON</City>
+            <State>WI</State>
+            <ZIPCode>53726</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Education</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JUNIOR LEAGUE OF AUSTIN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5416 PARKCREST SUITE 100</AddressLine1>
+            <City>AUSTIN</City>
+            <State>TX</State>
+            <ZIPCode>78731</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Community</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>176500</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>100556</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>-51996</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>-51996</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>48560</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>-51996</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>-3436</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <GainLossSaleOtherAssetsSch documentId="00000002">
+      <GainLossSaleOtherAsset>
+        <Name>Various</Name>
+        <GrossSalesPrice>452507</GrossSalesPrice>
+        <Basis>504503</Basis>
+        <TotalNet>-51996</TotalNet>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <OtherDecreasesSchedule documentId="00000003">
+      <OtherDecreases>
+        <Description>Amortization of Premium</Description>
+        <Amount>1224</Amount>
+      </OtherDecreases>
+      <OtherDecreases>
+        <Description>Accrual &amp; timing difference</Description>
+        <Amount>2375</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherIncomeSchedule2 documentId="00000004">
+      <OtherIncome>
+        <Description>Excise Tax Refund</Description>
+        <RevenueAndExpensesPerBooks>692</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="00000005">
+      <OtherIncreases>
+        <Description>Accrued interest pd on purchase</Description>
+        <Amount>59</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="00000006">
+      <OtherProfessionalFees>
+        <Category>MARSHALL &amp; ILSLEY AGENCY FEES FOR FOUNDATION ACCOUNT</Category>
+        <Amount>11264</Amount>
+      </OtherProfessionalFees>
+      <OtherProfessionalFees>
+        <Category>Marshall &amp; Ilsley Tax Preparation</Category>
+        <Amount>900</Amount>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="00000007">
+      <Taxes>
+        <Category>Excise Tax</Category>
+        <Amount>1304</Amount>
+      </Taxes>
+      <Taxes>
+        <Category>Foreign Tax</Category>
+        <Amount>897</Amount>
+        <NetInvestmentIncome>897</NetInvestmentIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

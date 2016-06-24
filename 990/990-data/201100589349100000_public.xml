@@ -1,0 +1,506 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-27T05:53:20-08:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Abraham C Kalker CPA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>50 S Franklin Turnpike</AddressLine1>
+        <City>Ramsey</City>
+        <State>NJ</State>
+        <ZIPCode>07446</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>116018258</EIN>
+      <Name>
+        <BusinessNameLine1>COMPASS FOUNDATION INC</BusinessNameLine1>
+      </Name>
+      <NameControl>COMP</NameControl>
+      <USAddress>
+        <AddressLine1>C/O RABINOWITZ - 911 PARK AVENUE</AddressLine1>
+        <City>NEW YORK</City>
+        <State>NY</State>
+        <ZIPCode>10021</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>ALLAN RABINOWITZ</Name>
+      <Title>Treasurer</Title>
+      <DateSigned>2011-02-21</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>ABRAHAM C KALKER</Name>
+      <Phone>2018181515</Phone>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>106739</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>1275</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>5172</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>5172</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>5172</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss>245</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>245</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>245</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>6692</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>5417</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>5172</TotalAdjustedNetIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId=" AccountingFeesSchedule">510</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>510</AccountingFeesNetInvstIncm>
+        <AccountingFeesAdjNetIncm>510</AccountingFeesAdjNetIncm>
+        <TaxesRevAndExpnss referenceDocumentId=" TaxesSchedule">98</TaxesRevAndExpnss>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">115</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>115</OtherExpensesNetInvstIncm>
+        <OtherExpensesAdjNetIncm>115</OtherExpensesAdjNetIncm>
+        <TotOprExpensesRevAndExpnss>723</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>625</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>625</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>8500</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>8500</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>9223</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>625</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>625</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>8500</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-2531</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>4792</NetInvestmentIncome>
+        <AdjustedNetIncome>4547</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>6308</CashBOY>
+        <CashEOY>3670</CashEOY>
+        <CashEOYFMV>3670</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>4027</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>3958</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>3958</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>64242</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId=" InvestmentsCorpStockSchedule">64419</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>55878</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>49367</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId=" InvestmentsCorpBondsSchedule">49367</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>43233</InvestmentsCorpBondsEOYFMV>
+        <TotalAssetsBOY>123944</TotalAssetsBOY>
+        <TotalAssetsEOY>121414</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>106739</TotalAssetsEOYFMV>
+        <OtherLiabilitiesEOY referenceDocumentId=" OtherLiabilitiesSchedule">1</OtherLiabilitiesEOY>
+        <TotalLiabilitiesEOY>1</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>123944</UnrestrictedBOY>
+        <UnrestrictedEOY>121413</UnrestrictedEOY>
+        <TotalNetAssetsBOY>123944</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>121413</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>123944</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>121414</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>123944</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-2531</ExcessOfRevenueOverExpenses>
+        <Subtotal>121413</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>121413</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>VARIOUS securities settlement proceeds</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2000-01-01</DateAcquired>
+          <DateSold>2010-01-01</DateSold>
+          <GrossSalesPrice>245</GrossSalesPrice>
+          <GainOrLoss>245</GainOrLoss>
+          <GainsMinusExcessOrLosses>245</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>245</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>3000</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>82576</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.03633</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>5931</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>98698</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.06009</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>6250</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>111168</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.05622</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>13827</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>116312</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.11888</DistributionRatioYear4>
+        <NoncharitableAssetsYear5>120537</NoncharitableAssetsYear5>
+        <TotalDistributionRatio>0.27152</TotalDistributionRatio>
+        <AverageDistributionRatio>0.05430</AverageDistributionRatio>
+        <NetNoncharitableAssets>101146</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>5493</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>48</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>5541</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>8500</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>48</InvestmentIncomeExciseTax>
+        <Subtotal>48</Subtotal>
+        <TaxBasedOnInvestmentIncome>48</TaxBasedOnInvestmentIncome>
+        <TaxDue>48</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>NY</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>ALLAN RABINOWITZ</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>2125357945</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>911 PARK AVENUE</AddressLine1>
+          <City>NEW YORK</City>
+          <State>NY</State>
+          <ZIPCode>10021</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MICHAEL BROOME</PersonName>
+          <USAddress>
+            <AddressLine1>3300 47th Avenue</AddressLine1>
+            <City>Long Island City</City>
+            <State>NY</State>
+            <ZIPCode>11101</ZIPCode>
+          </USAddress>
+          <Title>Secretary</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ALLAN RABINOWITZ</PersonName>
+          <USAddress>
+            <AddressLine1>911 PARK AVENUE</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10021</ZIPCode>
+          </USAddress>
+          <Title>Treasurer</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DANIEL BROOME</PersonName>
+          <USAddress>
+            <AddressLine1>3300 47th Avenue</AddressLine1>
+            <City>Long Island City</City>
+            <State>NY</State>
+            <ZIPCode>11101</ZIPCode>
+          </USAddress>
+          <Title>President</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>93086</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>9600</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>102686</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>102686</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>1540</CashDeemedCharitable>
+        <NetNoncharitableAssets>101146</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>5057</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>5057</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>48</TaxBasedOnInvestmentIncome>
+        <TotalTax>48</TotalTax>
+        <DistributableAmountBeforeAdj>5009</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>5009</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>5009</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>8500</ExpensesAndContributions>
+        <QualifyingDistributions>8500</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>48</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>8452</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>5009</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear4>8157</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>836</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>1134</ExcessDistriCarryoverYear2>
+        <TotalExcessDistriCarryover>10127</TotalExcessDistriCarryover>
+        <QualifyingDistributions>8500</QualifyingDistributions>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>5009</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>3491</RemainingDistriFromCorpus>
+        <TotalCorpus>13618</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>13618</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>8157</ExcessFromYear4>
+        <ExcessFromYear3>836</ExcessFromYear3>
+        <ExcessFromYear2>1134</ExcessFromYear2>
+        <ExcessFromCurrentYear>3491</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>REACHING OUT FOR SERVICE PROGRAMS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>7708 NEW UTRECHT AVENUE</AddressLine1>
+            <City>BROOKLYN</City>
+            <State>NY</State>
+            <ZIPCode>11214</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ANY EXEMPT PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>3500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>WILLIAMSBURG Y HEAD START</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>64 DIVISION STREET</AddressLine1>
+            <City>BROOKLYN</City>
+            <State>NY</State>
+            <ZIPCode>11211</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ANY EXEMPT PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>LOWER EAST SIDE SERVICE CENTER</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>7 GOUVERNEUR LANE</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10005</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ANY EXEMPT PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>TOMORROWS CHILDREN FUND</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>30 PROSPECT AVENUE</AddressLine1>
+            <City>HACKENSACK</City>
+            <State>NJ</State>
+            <ZIPCode>07601</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ANY EXEMPT PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SAVE A CHILD HEART FOUNDATION</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 724</AddressLine1>
+            <City>OWINGS MILLS</City>
+            <State>MD</State>
+            <ZIPCode>21117</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ANY EXEMPT PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CITY MEALS ON WHEELS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>355 LEXINGTON AVENUE</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10017</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ANY EXEMPT PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>THE DOE FUND</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>232 EAST 84TH STREER</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10025</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ANY EXEMPT PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>8500</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>5172</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>245</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>5172</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>245</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>5417</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <AccountingFees>
+        <Amount>510</Amount>
+        <NetInvestmentIncome>510</NetInvestmentIncome>
+        <AdjustedNetIncome>510</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="InvestmentsCorpBondsSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <InvestmentsCorpBonds>
+        <NameOfBond>15,000 GE CAPITAL</NameOfBond>
+        <EOYBookValue>14268</EOYBookValue>
+        <EOYFMV>16358</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>500 GM CORP, 7.25%, 4/14/41</NameOfBond>
+        <EOYBookValue>12579</EOYBookValue>
+        <EOYFMV>3975</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>500 FLEET CAPITAL TRUST VIII</NameOfBond>
+        <EOYBookValue>12500</EOYBookValue>
+        <EOYFMV>12350</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>5000 HOUSEHOLD FINANCE, 7.625%, 5/17/32</NameOfBond>
+        <EOYBookValue>4923</EOYBookValue>
+        <EOYFMV>5185</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>5000 HSBC FINANCE, 7%, 6/15/12</NameOfBond>
+        <EOYBookValue>5097</EOYBookValue>
+        <EOYFMV>5365</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <InvestmentsCorpStock>
+        <NameOfStock>488 BLACKROCK EQUITY FUND</NameOfStock>
+        <EOYBookValue>7677</EOYBookValue>
+        <EOYFMV>8504</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>400 MERRILL LYNCH PFD CAPITAL TR III</NameOfStock>
+        <EOYBookValue>10000</EOYBookValue>
+        <EOYFMV>10032</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1000 SLM CORP</NameOfStock>
+        <EOYBookValue>25000</EOYBookValue>
+        <EOYFMV>18910</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1200 GABELLI DIVIDEND &amp; INCOME TRUST</NameOfStock>
+        <EOYBookValue>21742</EOYBookValue>
+        <EOYFMV>18432</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherExpenses>
+        <Description>NYS FILING FEES</Description>
+        <RevenueAndExpensesPerBooks>50</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>50</NetInvestmentIncome>
+        <AdjustedNetIncome>50</AdjustedNetIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK CHARGES</Description>
+        <RevenueAndExpensesPerBooks>65</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>65</NetInvestmentIncome>
+        <AdjustedNetIncome>65</AdjustedNetIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherLiabilitiesSchedule documentId="OtherLiabilitiesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherLiabilities>
+        <Description>Rounding</Description>
+        <EOYBookValue>1</EOYBookValue>
+      </OtherLiabilities>
+    </OtherLiabilitiesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <Taxes>
+        <Category>FEDERAL EXCISE TAX</Category>
+        <Amount>98</Amount>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

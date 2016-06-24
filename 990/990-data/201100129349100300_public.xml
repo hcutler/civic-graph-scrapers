@@ -1,0 +1,736 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-01-10T12:36:36-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-08-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>STEVE T SHELTON CPA INC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>540 PARMALEE AVE SUITE 420</AddressLine1>
+        <City>YOUNGSTOWN</City>
+        <State>OH</State>
+        <ZIPCode>445101645</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-09-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>341451287</EIN>
+      <Name>
+        <BusinessNameLine1>DEPARTMENT OF SURGERY RESEARCH &amp;</BusinessNameLine1>
+        <BusinessNameLine2>EDUCATION FUND</BusinessNameLine2>
+      </Name>
+      <NameControl>DEPA</NameControl>
+      <Phone>3307467211</Phone>
+      <USAddress>
+        <AddressLine1>540 PARMALEE AVENUE</AddressLine1>
+        <AddressLine2>ROOM/SUITE 420</AddressLine2>
+        <City>YOUNGSTOWN</City>
+        <State>OH</State>
+        <ZIPCode>445101605</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>RICHARD A MEMO MD</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>3307467211</Phone>
+      <DateSigned>2011-01-10</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>STEVE T SHELTON CPA</Name>
+      <Phone>3307476575</Phone>
+      <DatePrepared>2011-01-10</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>152275</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>1650</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>1769</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>1769</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>1769</InterestOnSavingsAdjNetIncm>
+        <DividendsRevAndExpnss>2839</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>2839</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>2839</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="RetDoc3">64</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>5400</GrossSalesPrice>
+        <TotalRevenueAndExpenses>6322</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>4608</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>4608</TotalAdjustedNetIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">1175</AccountingFeesRevAndExpnss>
+        <AccountingFeesAdjNetIncm>1057</AccountingFeesAdjNetIncm>
+        <AccountingFeesDsbrsChrtblPrps>118</AccountingFeesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc6">2062</OtherExpensesRevAndExpnss>
+        <OtherExpensesAdjNetIncm>1856</OtherExpensesAdjNetIncm>
+        <OtherExpensesDsbrsChrtblPrps>206</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>3237</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>2913</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>324</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>16693</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>16693</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>19930</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>2913</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>17017</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-13608</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>4608</NetInvestmentIncome>
+        <AdjustedNetIncome>1695</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>7322</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>986</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>986</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsGovtObligBOY>124601</InvestmentsGovtObligBOY>
+        <InvestmentsGovtObligEOY referenceDocumentId="RetDoc5">117329</InvestmentsGovtObligEOY>
+        <InvestmentsGovtObligEOYFMV>117880</InvestmentsGovtObligEOYFMV>
+        <InvestmentsCorpStockBOY>41274</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc4">41274</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>33409</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>173197</TotalAssetsBOY>
+        <TotalAssetsEOY>159589</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>152275</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>173197</RetainedEarningsBOY>
+        <RetainedEarningsEOY>159589</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>173197</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>159589</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>173197</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>159589</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>173197</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-13608</ExcessOfRevenueOverExpenses>
+        <Subtotal>159589</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>159589</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>12457</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>153540</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.081132</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>16936</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>211719</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.079993</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>18500</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>227665</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.081260</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>10503</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>214220</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.049029</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>16815</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>218730</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.076876</DistributionRatioYear5>
+        <TotalDistributionRatio>0.368290</TotalDistributionRatio>
+        <AverageDistributionRatio>0.073658</AverageDistributionRatio>
+        <NetNoncharitableAssets>160774</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>11842</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>46</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>11888</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>17017</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>46</InvestmentIncomeExciseTax>
+        <Subtotal>46</Subtotal>
+        <TaxBasedOnInvestmentIncome>46</TaxBasedOnInvestmentIncome>
+        <TaxDue>46</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>OH</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>NONE</WebsiteAddress>
+        <BooksInCareOfPersonName>STEVE T SHELTON CPA INC</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>3307476575</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>540 PARMALEE AVENUE</AddressLine1>
+          <AddressLine2>SUITE 420</AddressLine2>
+          <City>YOUNGSTOWN</City>
+          <State>OH</State>
+          <ZIPCode>445101605</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>RICHARD MEMO MD</PersonName>
+          <USAddress>
+            <AddressLine1>2530 TIMOTHY KNOLL DRIVE</AddressLine1>
+            <AddressLine2>2530 TIMOTHY KNOLL DRIVE</AddressLine2>
+            <City>POLAND</City>
+            <State>OH</State>
+            <ZIPCode>44514</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>3.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>RONALD RHODES MD</PersonName>
+          <USAddress>
+            <AddressLine1>386 MOCCASIN TRAIL</AddressLine1>
+            <AddressLine2>386 MOCCASIN TRAIL</AddressLine2>
+            <City>GIRARD</City>
+            <State>OH</State>
+            <ZIPCode>44420</ZIPCode>
+          </USAddress>
+          <Title>VICE PRESIDE</Title>
+          <AvgHoursPerWkDevotedToPosition>3.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>NANCY L GRANT MD</PersonName>
+          <USAddress>
+            <AddressLine1>1669 WALKER MILL ROAD</AddressLine1>
+            <AddressLine2>1669 WALKER MILL ROAD</AddressLine2>
+            <City>POLAND</City>
+            <State>OH</State>
+            <ZIPCode>44514</ZIPCode>
+          </USAddress>
+          <Title>AT LARGE</Title>
+          <AvgHoursPerWkDevotedToPosition>3.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BRIAN GRUBER MD</PersonName>
+          <USAddress>
+            <AddressLine1>302 OXFORD DRIVE</AddressLine1>
+            <AddressLine2>302 OXFORD DRIVE</AddressLine2>
+            <City>NEW CASTLE</City>
+            <State>PA</State>
+            <ZIPCode>16105</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>3.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>CONDUCT EDUCATIONAL CONFERENCES &amp; SEMINARS</Description1>
+        <Expenses1>12697</Expenses1>
+        <Description2>RESEARCH PROJECT EXPENSE, BOOKS, MEDICAL EQUIPMENT BOOKS</Description2>
+        <Expenses2>2096</Expenses2>
+        <Description3>SUPPORT THE SERVICES OF THE FOUNDATION STAFF</Description3>
+        <Expenses3>1200</Expenses3>
+        <Description4>CHARITABLE CONTRIBUTIONS GIFTS AWARDS &amp; GRANT GIFTS</Description4>
+        <Expenses4>700</Expenses4>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>160098</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>3124</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>163222</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>163222</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>2448</CashDeemedCharitable>
+        <NetNoncharitableAssets>160774</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>8039</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>8039</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>46</TaxBasedOnInvestmentIncome>
+        <TotalTax>46</TotalTax>
+        <DistributableAmountBeforeAdj>7993</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>7993</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>7993</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>17017</ExpensesAndContributions>
+        <QualifyingDistributions>17017</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>46</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>16971</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>7993</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>6046</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear3>7317</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>6568</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>4902</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>24833</TotalExcessDistriCarryover>
+        <QualifyingDistributions>17017</QualifyingDistributions>
+        <AppliedToCurrentYear>7993</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>9024</RemainingDistriFromCorpus>
+        <TotalCorpus>33857</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>6046</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>27811</ExcessDistriCyovToNextYear>
+        <ExcessFromYear3>7317</ExcessFromYear3>
+        <ExcessFromYear2>6568</ExcessFromYear2>
+        <ExcessFromYear1>4902</ExcessFromYear1>
+        <ExcessFromCurrentYear>9024</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <AppicationSubmissionInfo>
+          <RestrictionsOnAwards>GRANTS WILL BE LIMITED TO MEDICAL PROFESSIONALS AUTHORIZED TO EXTEND MEDICAL CARE AT ST ELIZABETH MEDICAL CENTER IN YOUNGSTOWN, OHIO.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TIPPECANOE COUNTRY</BusinessNameLine1>
+            <BusinessNameLine2>TIPPECANOE COUNTRY CLUB</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5780 TIPPECANOE RD</AddressLine1>
+            <AddressLine2>5780 TIPPECANOE RD</AddressLine2>
+            <City>CANFIELD</City>
+            <State>OH</State>
+            <ZIPCode>44406</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <PurposeOfGrantOrContribution>GRADUATE DINNER</PurposeOfGrantOrContribution>
+          <Amount>4138</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>NEAL CARTER</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>3526 WELLINGTON DRIVE</AddressLine1>
+            <AddressLine2>3526 WELLINGTON DRIVE</AddressLine2>
+            <City>PEARLAND</City>
+            <State>TX</State>
+            <ZIPCode>77584</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <PurposeOfGrantOrContribution>ADMIN GRANT</PurposeOfGrantOrContribution>
+          <Amount>600</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>PRATHEEK KAKKASSERIL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1029 N WOLCOTT ST B</AddressLine1>
+            <AddressLine2>1029 N WOLCOTT ST B</AddressLine2>
+            <City>CHICAGO</City>
+            <State>IL</State>
+            <ZIPCode>60622</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <PurposeOfGrantOrContribution>ADMIN GRANT</PurposeOfGrantOrContribution>
+          <Amount>600</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JONATHAN FERRARI</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>60 N RACCOON RD APT 35</AddressLine1>
+            <AddressLine2>60 N RACCOON RD APT 35</AddressLine2>
+            <City>AUSTINTOWN</City>
+            <State>OH</State>
+            <ZIPCode>44515</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <PurposeOfGrantOrContribution>AWARDS</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JONATHAN HOLMES</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>107 JAMES STREET</AddressLine1>
+            <AddressLine2>107 JAMES STREET</AddressLine2>
+            <City>BEAVER FALLS</City>
+            <State>PA</State>
+            <ZIPCode>15010</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <PurposeOfGrantOrContribution>AWARDS</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JOSEPH MARTIN</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>3240 CARDINAL DRIVE</AddressLine1>
+            <AddressLine2>3240 CARDINAL DRIVE</AddressLine2>
+            <City>YOUNGSTOWN</City>
+            <State>OH</State>
+            <ZIPCode>44505</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <PurposeOfGrantOrContribution>AWARDS</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>PRATHEEK KAKKASSERIL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1029 N WOLCOTT ST B</AddressLine1>
+            <AddressLine2>1029 N WOLCOTT ST B</AddressLine2>
+            <City>CHICAGO</City>
+            <State>IL</State>
+            <ZIPCode>60622</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <PurposeOfGrantOrContribution>AWARDS</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>NEAL CARTER</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>3526 WELLINGTON DRIVE</AddressLine1>
+            <AddressLine2>3526 WELLINGTON DRIVE</AddressLine2>
+            <City>PEARLAND</City>
+            <State>TX</State>
+            <ZIPCode>77584</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <PurposeOfGrantOrContribution>AWARDS</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>THOMAS CHIRICHELLA</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1821 S RACCOON ROAD 6</AddressLine1>
+            <AddressLine2>1821 S RACCOON ROAD 6</AddressLine2>
+            <City>AUSTINTOWN</City>
+            <State>OH</State>
+            <ZIPCode>44515</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <PurposeOfGrantOrContribution>AWARDS</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>TIFFANY MARCHAND</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1100 BOARDMAN-CANFIELD RD</AddressLine1>
+            <AddressLine2>1100 BOARDMAN-CANFIELD RD</AddressLine2>
+            <City>BOARDMAN</City>
+            <State>OH</State>
+            <ZIPCode>44512</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <PurposeOfGrantOrContribution>AWARDS</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>NEAL CARTER</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>3526 WELLINGTON DRIVE</AddressLine1>
+            <AddressLine2>3526 WELLINGTON DRIVE</AddressLine2>
+            <City>PEARLAND</City>
+            <State>TX</State>
+            <ZIPCode>77584</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <PurposeOfGrantOrContribution>MEDICAL BOOKS</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>IGOR MILOSEVIC</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>472 ARBOR CIRCLE</AddressLine1>
+            <AddressLine2>472 ARBOR CIRCLE</AddressLine2>
+            <City>YOUNGSTOWN</City>
+            <State>OH</State>
+            <ZIPCode>44505</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <PurposeOfGrantOrContribution>MEDICAL BOOKS</PurposeOfGrantOrContribution>
+          <Amount>400</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>NEAL CARTER</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>3526 WELLINGTON DRIVE</AddressLine1>
+            <AddressLine2>3526 WELLINGTON DRIVE</AddressLine2>
+            <City>PEARLAND</City>
+            <State>TX</State>
+            <ZIPCode>77584</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <PurposeOfGrantOrContribution>GRADUATION GIFT</PurposeOfGrantOrContribution>
+          <Amount>558</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>PRATHEEK KAKKASSERIL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1029 N WOLCOTT ST B</AddressLine1>
+            <AddressLine2>1029 N WOLCOTT ST B</AddressLine2>
+            <City>CHICAGO</City>
+            <State>IL</State>
+            <ZIPCode>60622</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <PurposeOfGrantOrContribution>MEDICAL BOOKS</PurposeOfGrantOrContribution>
+          <Amount>319</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>RACHEL REEDER</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1303 AVALON CREEK BLVD</AddressLine1>
+            <AddressLine2>1303 AVALON CREEK BLVD</AddressLine2>
+            <City>VIENNA</City>
+            <State>OH</State>
+            <ZIPCode>44473</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <PurposeOfGrantOrContribution>MEDICAL BOOKS</PurposeOfGrantOrContribution>
+          <Amount>319</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SEMC NUTRITION SYMPOSIUM</BusinessNameLine1>
+            <BusinessNameLine2>SEMC NUTRITION SYMPOSIUM</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1044 BELMONT AVENUE</AddressLine1>
+            <AddressLine2>1044 BELMONT AVENUE</AddressLine2>
+            <City>YOUNGSTOWN</City>
+            <State>OH</State>
+            <ZIPCode>44501</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <PurposeOfGrantOrContribution>SEMINAR EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>300</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HMHP DEVELOPMENT FOUNDATI</BusinessNameLine1>
+            <BusinessNameLine2>HMHP DEVELOPMENT FOUNDATION</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1790</AddressLine1>
+            <AddressLine2>PO BOX 1790</AddressLine2>
+            <City>YOUNGSTOWN</City>
+            <State>OH</State>
+            <ZIPCode>44501</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <PurposeOfGrantOrContribution>SPONSOR GOLF OUTING</PurposeOfGrantOrContribution>
+          <Amount>3500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>PRATHEEK KAKKASSERIL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1029 N WOLCOTT ST B</AddressLine1>
+            <AddressLine2>1029 N WOLCOTT ST B</AddressLine2>
+            <City>CHICAGO</City>
+            <State>IL</State>
+            <ZIPCode>60622</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <PurposeOfGrantOrContribution>MEETING ALLOWANCE</PurposeOfGrantOrContribution>
+          <Amount>1967</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>NEAL CARTER</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>3526 WELLINGTON DRIVE</AddressLine1>
+            <AddressLine2>3526 WELLINGTON DRIVE</AddressLine2>
+            <City>PEARLAND</City>
+            <State>TX</State>
+            <ZIPCode>77584</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <PurposeOfGrantOrContribution>MEETING ALLOWANCE</PurposeOfGrantOrContribution>
+          <Amount>1967</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SEMC TRAUMA SYMPOSIUM</BusinessNameLine1>
+            <BusinessNameLine2>SEHC TRAUMA SYMPOSIUM</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1044 BELMONT AVENUE</AddressLine1>
+            <AddressLine2>1044 BELMONT AVENUE</AddressLine2>
+            <City>YOUNGSTOWN</City>
+            <State>OH</State>
+            <ZIPCode>44501</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <PurposeOfGrantOrContribution>SEMINAR EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>210</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TRADITIONAL CHAIRS</BusinessNameLine1>
+            <BusinessNameLine2>TRADITIONAL CHAIRS</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>7545 FOXCHASE DRIVE</AddressLine1>
+            <AddressLine2>7545 FOXCHASE DRIVE</AddressLine2>
+            <City>WEST CHESTER</City>
+            <State>OH</State>
+            <ZIPCode>45069</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <PurposeOfGrantOrContribution>RETIREMENT DINNER</PurposeOfGrantOrContribution>
+          <Amount>615</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>16693</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>1769</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>2839</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>64</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>4672</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>4672</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>FINANCIAL COMPILATION &amp; 990PF PR</Category>
+        <Amount>1175</Amount>
+        <AdjustedNetIncome>1057</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>118</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc3">
+      <GainLossSaleOtherAsset>
+        <Name>210.006 SHS AMERICAN BALANCED FUND</Name>
+        <DateAcquired>2003-06</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-06</DateSold>
+        <GrossSalesPrice>3400</GrossSalesPrice>
+        <Basis>3328</Basis>
+        <TotalNet>72</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>126.662 SHS AMERICAN BALANCED FUND</Name>
+        <DateAcquired>2003-06</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-07</DateSold>
+        <GrossSalesPrice>2000</GrossSalesPrice>
+        <Basis>2008</Basis>
+        <TotalNet>-8</TotalNet>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpStockSchedule documentId="RetDoc4">
+      <InvestmentsCorpStock>
+        <NameOfStock>CISCO SYSTEMS</NameOfStock>
+        <EOYBookValue>8806</EOYBookValue>
+        <EOYFMV>5996</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CITIGROUP, INC.</NameOfStock>
+        <EOYBookValue>6177</EOYBookValue>
+        <EOYFMV>742</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>GENERAL ELECTRIC</NameOfStock>
+        <EOYBookValue>7628</EOYBookValue>
+        <EOYFMV>2896</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MICROSOFT CORP</NameOfStock>
+        <EOYBookValue>8729</EOYBookValue>
+        <EOYFMV>4693</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>NATIONAL FUEL GAS COMPANY</NameOfStock>
+        <EOYBookValue>5001</EOYBookValue>
+        <EOYFMV>8596</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CONOCO PHILLIPS</NameOfStock>
+        <EOYBookValue>4933</EOYBookValue>
+        <EOYFMV>10486</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="RetDoc5">
+      <USGovtSecuritiesEOYBookValue>117329</USGovtSecuritiesEOYBookValue>
+      <USGovtSecuritiesEOYFMV>117880</USGovtSecuritiesEOYFMV>
+    </InvestmentsGovtObligationsSch>
+    <OtherExpensesSchedule documentId="RetDoc6">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OFFICE EXPENSE</Description>
+        <RevenueAndExpensesPerBooks>1900</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>1710</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>190</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK SERVICE CHARGES</Description>
+        <RevenueAndExpensesPerBooks>1</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>1</AdjustedNetIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>LICENSE AND PERMITS</Description>
+        <RevenueAndExpensesPerBooks>100</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>90</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>10</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>FEDERAL INCOME TAX</Description>
+        <RevenueAndExpensesPerBooks>61</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>55</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>6</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

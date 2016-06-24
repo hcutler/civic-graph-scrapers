@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-01-30T12:20:19-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-08-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>MADER TSCHACHER PETERSON &amp; CO LLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>505 SOUTH 3RD AVE 100</AddressLine1>
+        <City>LARAMIE</City>
+        <State>WY</State>
+        <ZIPCode>82070</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-09-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>830239195</EIN>
+      <Name>
+        <BusinessNameLine1>MURIEL E SPACHT MEMORIAL TRUST</BusinessNameLine1>
+        <BusinessNameLine2>C/O ROBERT E PFISTER</BusinessNameLine2>
+      </Name>
+      <NameControl>MURI</NameControl>
+      <USAddress>
+        <AddressLine1>PO BOX 1077</AddressLine1>
+        <City>LUSK</City>
+        <State>WY</State>
+        <ZIPCode>82225</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>ROBERT PFISTER</Name>
+      <Title>TRUSTEE</Title>
+      <DateSigned>2010-12-02</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>MARK J MADER</Name>
+      <Phone>3077551040</Phone>
+      <DatePrepared>2011-01-04</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>438988</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>2130</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>2130</InterestOnSavingsNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc6">48829</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>48829</OtherIncomeNetInvstIncm>
+        <TotalRevenueAndExpenses>50959</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>50959</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">730</AccountingFeesRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc5">17</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>747</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>40500</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>40500</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>41247</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>40500</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>9712</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>50959</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>215108</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>188988</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>188988</SavingsAndTempCashInvstEOYFMV>
+        <OtherAssetsEOYFMV referenceDocumentId="RetDoc3">250000</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>215108</TotalAssetsBOY>
+        <TotalAssetsEOY>188988</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>438988</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>74152</CapitalStockBOY>
+        <CapitalStockEOY>74152</CapitalStockEOY>
+        <RetainedEarningsBOY>140956</RetainedEarningsBOY>
+        <RetainedEarningsEOY>114836</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>215108</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>188988</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>215108</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>188988</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>215108</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>9712</ExcessOfRevenueOverExpenses>
+        <Subtotal>224820</Subtotal>
+        <OtherDecreases referenceDocumentId="RetDoc4">35832</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>188988</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>52950</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>262082</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.202036</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>68414</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>227662</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.300507</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>127461</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>176147</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.723606</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>8650</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>64124</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.134895</DistributionRatioYear4>
+        <NoncharitableAssetsYear5>89771</NoncharitableAssetsYear5>
+        <TotalDistributionRatio>1.361044</TotalDistributionRatio>
+        <AverageDistributionRatio>0.340261</AverageDistributionRatio>
+        <NetNoncharitableAssets>441078</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>150082</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>510</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>150592</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>40500</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>1019</InvestmentIncomeExciseTax>
+        <Subtotal>1019</Subtotal>
+        <TaxBasedOnInvestmentIncome>1019</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>1400</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>1400</TotalCreditsAndPayments>
+        <Overpayment>381</Overpayment>
+        <AmountCreditedToNextYear>381</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>WY</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>ROBERT PFISTER</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>3073342177</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>PO BOX 1077</AddressLine1>
+          <City>LUSK</City>
+          <State>WY</State>
+          <ZIPCode>822251077</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JAY E HAMMOND</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 456</AddressLine1>
+            <City>LUSK</City>
+            <State>WY</State>
+            <ZIPCode>82225</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.60</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ROBERT PFISTER</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 1077</AddressLine1>
+            <City>LUSK</City>
+            <State>WY</State>
+            <ZIPCode>82225</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>2.30</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>KERI THOMPSON</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 1202</AddressLine1>
+            <City>LUSK</City>
+            <State>WY</State>
+            <ZIPCode>82225</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.40</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>TO ASSIST RESIDENTS IN NEED IN NIOBRARA COUNTY, WY.</Description1>
+        <Expenses1>40500</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>197795</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>250000</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>447795</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>447795</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>6717</CashDeemedCharitable>
+        <NetNoncharitableAssets>441078</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>22054</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>22054</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>1019</TaxBasedOnInvestmentIncome>
+        <TotalTax>1019</TotalTax>
+        <DistributableAmountBeforeAdj>21035</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>21035</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>21035</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>40500</ExpensesAndContributions>
+        <QualifyingDistributions>40500</QualifyingDistributions>
+        <AdjQualifyingDistributions>40500</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>21035</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear4>7562</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>121048</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>58197</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>41216</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>228023</TotalExcessDistriCarryover>
+        <QualifyingDistributions>40500</QualifyingDistributions>
+        <AppliedToCurrentYear>21035</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>19465</RemainingDistriFromCorpus>
+        <TotalCorpus>247488</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>247488</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>7562</ExcessFromYear4>
+        <ExcessFromYear3>121048</ExcessFromYear3>
+        <ExcessFromYear2>58197</ExcessFromYear2>
+        <ExcessFromYear1>41216</ExcessFromYear1>
+        <ExcessFromCurrentYear>19465</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>ROBERT PFISTER</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1077</AddressLine1>
+            <City>LUSK</City>
+            <State>WY</State>
+            <ZIPCode>82225</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>3073342177</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>WRITTEN APPLICATIONS INCLUDING STATEMENT OF FINCANCIAL NEED, STATUS, AND HOW FUNDS WILL BE USED. ORAL RECOMMENDATIONS MAY BE MADE.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>RECIPIENT MUST NEED FUNDING TO ATTEND COLLEGE, BE A NEEDY FAMILY OR BONA FIDE RESIDENT OF NIOBRARA COUNTY, WY. RECIPIENT MAY ALSO BE AN ORGANIZATION LOCATED IN AND PERFORMING CHARITABLE SERVICES IN NIOBRARA COUNTY, WY.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>NIOBRARA COUNTY MEDICAL F</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 727</AddressLine1>
+            <City>LUSK</City>
+            <State>WY</State>
+            <ZIPCode>82225</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>FOUNDATION</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ASSISTANCE TO THE FOUNDATION</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>TOWN OF LUSK</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>342 S MAIN STREET</AddressLine1>
+            <City>LUSK</City>
+            <State>WY</State>
+            <ZIPCode>82225</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>GOVERNMENT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UTILITY ASSISTANCE FOR THE NEEDY</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>NIOBRARA COUNTY SCHOOL DI</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>619 WEST FIFTH STREET</AddressLine1>
+            <City>LUSK</City>
+            <State>WY</State>
+            <ZIPCode>82225</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>SCHOOL DISTR</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>MERIT SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>DIANE TADEWALD</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1077</AddressLine1>
+            <City>LUSK</City>
+            <State>WY</State>
+            <ZIPCode>82225</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>CITIZEN</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>MEDICAL ASSISTANCE</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CARL LASHMETT</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 308</AddressLine1>
+            <City>LUSK</City>
+            <State>WY</State>
+            <ZIPCode>82225</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>CITIZEN</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>MEDICAL ASSISTANCE</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CHEYENNE RISING</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 840</AddressLine1>
+            <City>LUSK</City>
+            <State>WY</State>
+            <ZIPCode>82225</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>CITIZEN</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RADIOLOGY SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>NIOBRARA SENIOR CENTER</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>611 EAST 6</AddressLine1>
+            <City>LUSK</City>
+            <State>WY</State>
+            <ZIPCode>82225</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>ORGANIZATION</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ASSISTANCE WITH BUDGET SHORTFALL</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>TOWN OF LUSK</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>342 S MAIN STREET</AddressLine1>
+            <City>LUSK</City>
+            <State>WY</State>
+            <ZIPCode>82225</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>GOVERNMENT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>MERIT SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>7000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>40500</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>2130</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <OtherInvestmentIncomePartVII>
+          <ExclusionCode>15</ExclusionCode>
+          <ExclusionAmount>48829</ExclusionAmount>
+        </OtherInvestmentIncomePartVII>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>50959</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>50959</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>MADER TSCHACHER PETERSON &amp; CO</Category>
+        <Amount>730</Amount>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <OtherAssetsSchedule documentId="RetDoc3">
+      <OtherAssets>
+        <Description>INVESTMENTS- MINERALS</Description>
+        <BOYBookValue>55000</BOYBookValue>
+        <EOYBookValue>55000</EOYBookValue>
+        <EOYFMV>250000</EOYFMV>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>ACCUM DEPL- MINERALS</Description>
+        <BOYBookValue>-55000</BOYBookValue>
+        <EOYBookValue>-55000</EOYBookValue>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc4">
+      <OtherDecreases>
+        <Description>PRIOR PERIOD ADJUSTMENT</Description>
+        <Amount>34262</Amount>
+      </OtherDecreases>
+      <OtherDecreases>
+        <Description>INCOME TAX EXPENSE</Description>
+        <Amount>1570</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc5">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MISCELLANEOUS</Description>
+        <RevenueAndExpensesPerBooks>17</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc6">
+      <OtherIncome>
+        <Description>ROYALTIES</Description>
+        <RevenueAndExpensesPerBooks>48829</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>48829</NetInvestmentIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+  </ReturnData>
+</Return>

@@ -1,0 +1,479 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-08-17T09:16:25-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>LAUREN DAVIS &amp; CO CPAS PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>425 PARK PLACE CIR 100</AddressLine1>
+        <City>MISHAWAKA</City>
+        <State>IN</State>
+        <ZIPCode>465453512</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>311220336</EIN>
+      <Name>
+        <BusinessNameLine1>MUNN FOUNDATION INC</BusinessNameLine1>
+      </Name>
+      <NameControl>MUNN</NameControl>
+      <Phone>5742721680</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 773232</AddressLine1>
+        <City>STEAMBOAT SPRINGS</City>
+        <State>CO</State>
+        <ZIPCode>80477</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>JOHN MUNN</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>5742721680</Phone>
+      <DateSigned>2010-07-28</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>LAUREN S DAVIS</Name>
+      <Phone>5742721680</Phone>
+      <DatePrepared>2010-07-30</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="10">
+    <IRS990PF documentId="RetDoc2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>1719934</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>14400</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>67</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>67</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>5707</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>5707</DividendsNetInvstIncm>
+        <GrossRentsRevAndExpnss>17790</GrossRentsRevAndExpnss>
+        <GrossRentsNetInvstIncm>17790</GrossRentsNetInvstIncm>
+        <NetRentalIncomeOrLoss>-45958</NetRentalIncomeOrLoss>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="RetDoc5">3142</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>13754</GrossSalesPrice>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc11">33</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>33</OtherIncomeNetInvstIncm>
+        <TotalRevenueAndExpenses>41139</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>23597</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc3">1385</AccountingFeesRevAndExpnss>
+        <AccountingFeesDsbrsChrtblPrps>277</AccountingFeesDsbrsChrtblPrps>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId="RetDoc4">55950</DeprecAndDepletionRevAndExpnss>
+        <DeprecAndDepletionNetInvstIncm>55950</DeprecAndDepletionNetInvstIncm>
+        <OccupancyRevAndExpnss>11999</OccupancyRevAndExpnss>
+        <OccupancyNetInvstIncm>11999</OccupancyNetInvstIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc10">120</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>120</OtherExpensesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>69454</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>68069</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>277</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>0</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>69454</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>68069</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>277</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-28315</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>5619</CashBOY>
+        <CashEOY>15082</CashEOY>
+        <CashEOYFMV>15082</CashEOYFMV>
+        <InvestmentsCorpStockBOY>91609</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc7">79679</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>101684</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsEOY referenceDocumentId="RetDoc6">15201</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>15168</InvestmentsCorpBondsEOYFMV>
+        <LandBuildingAndEquipmentBasis>1320126</LandBuildingAndEquipmentBasis>
+        <AccumDeprecLandBldgAndEquip>176642</AccumDeprecLandBldgAndEquip>
+        <LandBuildingAndEquipmentBOY>1185158</LandBuildingAndEquipmentBOY>
+        <LandBuildingAndEquipmentEOY referenceDocumentId="RetDoc8">1143484</LandBuildingAndEquipmentEOY>
+        <LandBuildingAndEquipmentEOYFMV>1588000</LandBuildingAndEquipmentEOYFMV>
+        <TotalAssetsBOY>1282386</TotalAssetsBOY>
+        <TotalAssetsEOY>1253446</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>1719934</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>1282386</CapitalStockBOY>
+        <CapitalStockEOY>1253446</CapitalStockEOY>
+        <TotalNetAssetsBOY>1282386</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>1253446</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>1282386</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>1253446</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>1282386</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-28315</ExcessOfRevenueOverExpenses>
+        <Subtotal>1254071</Subtotal>
+        <OtherDecreases referenceDocumentId="RetDoc9">625</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>1253446</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>15101</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>1668498</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.009051</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>34445</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>1708191</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.020165</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>204551</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>1053374</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.194186</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>164894</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>369814</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.445884</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>136639</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>499274</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.273675</DistributionRatioYear5>
+        <TotalDistributionRatio>0.942961</TotalDistributionRatio>
+        <AverageDistributionRatio>0.188592</AverageDistributionRatio>
+        <NetNoncharitableAssets>1686505</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>318061</AdjustedNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>318061</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>277</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>IN</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>LAUREN DAVIS CO CPAS PC</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>5742721680</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>425 PARK PLACE CIR STE 100</AddressLine1>
+          <City>MISHAWAKA</City>
+          <State>IN</State>
+          <ZIPCode>46545</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOHN MUNN</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 773232</AddressLine1>
+            <City>STEAMBOAT SPRINGS</City>
+            <State>CO</State>
+            <ZIPCode>80477</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>10.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>SUZANNE MUNN</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 773232</AddressLine1>
+            <City>STEAMBOAT SPRINGS</City>
+            <State>CO</State>
+            <ZIPCode>80477</ZIPCode>
+          </USAddress>
+          <Title>SEC/TREAS</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>LAUREN DAVIS</PersonName>
+          <USAddress>
+            <AddressLine1>425 PARK PLACE CIR STE 100</AddressLine1>
+            <City>MISHAWAKA</City>
+            <State>IN</State>
+            <ZIPCode>46545</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>LAURA SEAGRAM</PersonName>
+          <USAddress>
+            <AddressLine1>8832 WEBSTER HILLS</AddressLine1>
+            <City>DEXTER</City>
+            <State>MI</State>
+            <ZIPCode>48130</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>114710</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>9478</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>1588000</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>1712188</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>1712188</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>25683</CashDeemedCharitable>
+        <NetNoncharitableAssets>1686505</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>84325</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>84325</MinimumInvestmentReturn>
+        <DistributableAmountBeforeAdj>84325</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>84325</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>84325</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>277</ExpensesAndContributions>
+        <QualifyingDistributions>277</QualifyingDistributions>
+        <AdjQualifyingDistributions>277</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>84325</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>112707</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>147149</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>152508</ExcessDistriCarryoverYear3>
+        <TotalExcessDistriCarryover>412364</TotalExcessDistriCarryover>
+        <QualifyingDistributions>277</QualifyingDistributions>
+        <AppliedToCurrentYear>277</AppliedToCurrentYear>
+        <ExcessDistriCyovAppCYCorpus>84048</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>84048</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>328316</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>28659</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>299657</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>147149</ExcessFromYear4>
+        <ExcessFromYear3>152508</ExcessFromYear3>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>JOHN MUNN</ContributingManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>MUNN FOUNDATION JOHN MUNN</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>425 PARK PLACE CIR</AddressLine1>
+            <AddressLine2>STE 100</AddressLine2>
+            <City>MISHAWAKA</City>
+            <State>IN</State>
+            <ZIPCode>46545</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>5742721680</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>NO FORM FOR APPLICATION BUT MUST STATE PURPOSE OF EXEMPT ORGANIZATION.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>THE FOUNDATION IS ORGANIZED FOR CHARITABLE, RELIGIOUS, SCIENTIFIC, LITERARY AND EDUCATIONAL PURPOSES, INCLUDING FOR SUCH PURPOSES, THE MAKING OF DISTRIBUTIONS TO ORGANIZATIONS THAT QUALIFY UNDER SECTION 501(C)(3) OF THE INTERNAL REVENUE CODE.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>67</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>5707</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <NetRntlIncmReNotDebtFincdProp>
+          <ExclusionCode>16</ExclusionCode>
+          <ExclusionAmount>-45958</ExclusionAmount>
+        </NetRntlIncmReNotDebtFincdProp>
+        <OtherInvestmentIncomePartVII>
+          <ExclusionCode>1</ExclusionCode>
+          <ExclusionAmount>33</ExclusionAmount>
+        </OtherInvestmentIncomePartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>3142</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>-37009</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>-37009</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc3">
+      <AccountingFees>
+        <Category>INDIRECT ACCOUNTING FEES</Category>
+        <Amount>1385</Amount>
+        <DisbursementsCharitablePrps>277</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="RetDoc4">
+      <Depreciation>
+        <DescriptionOfProperty>BUILDING</DescriptionOfProperty>
+        <DateAcquired>2006-12-21</DateAcquired>
+        <CostOrOtherBasis>1305850</CostOrOtherBasis>
+        <PriorYearsDepreciation>120692</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>27.5000</Life>
+        <CurrentYearExpense>47486</CurrentYearExpense>
+        <NetInvestmentIncome>47486</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>DECK</DescriptionOfProperty>
+        <DateAcquired>2009-08-26</DateAcquired>
+        <CostOrOtherBasis>1219</CostOrOtherBasis>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>15.0000</Life>
+        <CurrentYearExpense>630</CurrentYearExpense>
+        <NetInvestmentIncome>630</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>CARPETING</DescriptionOfProperty>
+        <DateAcquired>2009-08-30</DateAcquired>
+        <CostOrOtherBasis>13057</CostOrOtherBasis>
+        <ComputationMethod>200DB</ComputationMethod>
+        <Life>5.0000</Life>
+        <CurrentYearExpense>7834</CurrentYearExpense>
+        <NetInvestmentIncome>7834</NetInvestmentIncome>
+      </Depreciation>
+    </DepreciationSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc5">
+      <GainLossSaleOtherAsset>
+        <Name>BP PLC ADR F</Name>
+        <DateAcquired>2003-05</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-06</DateSold>
+        <GrossSalesPrice>4042</GrossSalesPrice>
+        <Basis>5078</Basis>
+        <TotalNet>-1036</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>TOMKINS PLC ADR</Name>
+        <DateAcquired>2008-11</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-06</DateSold>
+        <GrossSalesPrice>6956</GrossSalesPrice>
+        <Basis>2988</Basis>
+        <TotalNet>3968</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>WHIRLPOOL CORP</Name>
+        <DateAcquired>2005-04</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-06</DateSold>
+        <GrossSalesPrice>2756</GrossSalesPrice>
+        <Basis>2546</Basis>
+        <TotalNet>210</TotalNet>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc6">
+      <InvestmentsCorpBonds>
+        <NameOfBond>SEE ATTACHED</NameOfBond>
+        <EOYBookValue>15201</EOYBookValue>
+        <EOYFMV>15168</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc7">
+      <InvestmentsCorpStock>
+        <NameOfStock>SEE ATTACHMENT</NameOfStock>
+        <EOYBookValue>79679</EOYBookValue>
+        <EOYFMV>101684</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <LandEtcSchedule2 documentId="RetDoc8">
+      <LandEtc>
+        <CostOrOtherBasis>1320126</CostOrOtherBasis>
+        <AccumulatedDepreciation>176642</AccumulatedDepreciation>
+        <BookValue>1143484</BookValue>
+        <EOYFMV>1588000</EOYFMV>
+      </LandEtc>
+    </LandEtcSchedule2>
+    <OtherDecreasesSchedule documentId="RetDoc9">
+      <OtherDecreases>
+        <Description>PASSIVE ACTIVITY LOSS FROM PARTNERSHIP</Description>
+        <Amount>625</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc10">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MISCELLANEOUS</Description>
+        <RevenueAndExpensesPerBooks>18</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>18</NetInvestmentIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PASS THROUGH INVESTMENT EXPEN</Description>
+        <RevenueAndExpensesPerBooks>20</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>20</NetInvestmentIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PASS THROUGH SEC.59(E)(2) EXP</Description>
+        <RevenueAndExpensesPerBooks>82</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>82</NetInvestmentIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc11">
+      <OtherIncome>
+        <Description>INVESTMENT INCOME</Description>
+        <RevenueAndExpensesPerBooks>31</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>31</NetInvestmentIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>SECT 1231 GAIN FROM PARTNERSH</Description>
+        <RevenueAndExpensesPerBooks>2</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>2</NetInvestmentIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+  </ReturnData>
+</Return>

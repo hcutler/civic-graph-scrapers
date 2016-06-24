@@ -1,0 +1,1162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-09T18:49:46-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>SEAN T SULLIVAN CPA PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>513 Lincoln Avenue</AddressLine1>
+        <City>Erie</City>
+        <State>PA</State>
+        <ZIPCode>165052451</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>251548657</EIN>
+      <Name>
+        <BusinessNameLine1>BREVILLIER VILLAGE FOUNDATION INC</BusinessNameLine1>
+      </Name>
+      <NameControl>BREV</NameControl>
+      <Phone>8148998600</Phone>
+      <USAddress>
+        <AddressLine1>5416 East Lake Road</AddressLine1>
+        <City>Erie</City>
+        <State>PA</State>
+        <ZIPCode>16510</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>George W Hunter II</Name>
+      <Title>President</Title>
+      <Phone>8148998600</Phone>
+      <DateSigned>2011-02-09</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Sean T Sullivan</Name>
+      <Phone>8144553089</Phone>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="16">
+    <IRS990PF documentId="RetDoc1235000001">
+      <NECT>X</NECT>
+      <FMVAssetsEOY>8600085</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>55633</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>334</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>334</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>30394</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>30394</DividendsNetInvstIncm>
+        <GrossRentsRevAndExpnss>8400</GrossRentsRevAndExpnss>
+        <GrossRentsNetInvstIncm>8400</GrossRentsNetInvstIncm>
+        <NetRentalIncomeOrLoss>-8577</NetRentalIncomeOrLoss>
+        <NetGainSaleAssetsRevAndExpnss>4658</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>10003</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>4658</CapitalGainNetIncmNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc2001500001">1180848</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>1835</OtherIncomeNetInvstIncm>
+        <OtherIncomeAdjNetIncm>1179013</OtherIncomeAdjNetIncm>
+        <TotalRevenueAndExpenses>1280267</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>45621</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>1179013</TotalAdjustedNetIncome>
+        <CompOfcrDirTrstRevAndExpnss>113237</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstAdjNetIncm>113237</CompOfcrDirTrstAdjNetIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>113237</CompOfcrDirTrstDsbrsChrtblPrps>
+        <OthEmplSlrsWgsRevAndExpnss>407545</OthEmplSlrsWgsRevAndExpnss>
+        <OthEmplSlrsWgsNetInvstIncm>0</OthEmplSlrsWgsNetInvstIncm>
+        <OthEmplSlrsWgsAdjNetIncm>0</OthEmplSlrsWgsAdjNetIncm>
+        <OthEmplSlrsWgsDsbrsChrtblPrps>407245</OthEmplSlrsWgsDsbrsChrtblPrps>
+        <PensionEmplBnftRevAndExpnss>75520</PensionEmplBnftRevAndExpnss>
+        <PensionEmplBnftNetInvstIncm>0</PensionEmplBnftNetInvstIncm>
+        <PensionEmplBnftAdjNetIncm>0</PensionEmplBnftAdjNetIncm>
+        <PensionEmplBnftDsbrsChrtblPrps>75520</PensionEmplBnftDsbrsChrtblPrps>
+        <LegalFeesRevAndExpnss referenceDocumentId="RetDoc2002100001">2435</LegalFeesRevAndExpnss>
+        <LegalFeesNetInvstIncm>0</LegalFeesNetInvstIncm>
+        <LegalFeesAdjNetIncm>0</LegalFeesAdjNetIncm>
+        <LegalFeesDsbrsChrtblPrps>2435</LegalFeesDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">9200</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>0</AccountingFeesNetInvstIncm>
+        <AccountingFeesAdjNetIncm>0</AccountingFeesAdjNetIncm>
+        <AccountingFeesDsbrsChrtblPrps>9200</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc2002300001">1044</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>0</OtherProfFeesNetInvstIncm>
+        <OtherProfFeesAdjNetIncm>0</OtherProfFeesAdjNetIncm>
+        <OtherProfFeesDsbrsChrtblPrps>1044</OtherProfFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">57788</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>7520</TaxesNetInvstIncm>
+        <TaxesAdjNetIncm>0</TaxesAdjNetIncm>
+        <TaxesDsbrsChrtblPrps>50268</TaxesDsbrsChrtblPrps>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId="RetDoc2203000001">109206</DeprecAndDepletionRevAndExpnss>
+        <DeprecAndDepletionNetInvstIncm>2443</DeprecAndDepletionNetInvstIncm>
+        <DeprecAndDepletionAdjNetIncm>109206</DeprecAndDepletionAdjNetIncm>
+        <OccupancyRevAndExpnss>17046</OccupancyRevAndExpnss>
+        <OccupancyNetInvstIncm>7045</OccupancyNetInvstIncm>
+        <OccupancyAdjNetIncm>0</OccupancyAdjNetIncm>
+        <OccupancyDsbrsChrtblPrps>10001</OccupancyDsbrsChrtblPrps>
+        <PrintingAndPubRevAndExpnss>9461</PrintingAndPubRevAndExpnss>
+        <PrintingAndPubNetInvstIncm>0</PrintingAndPubNetInvstIncm>
+        <PrintingAndPubAdjNetIncm>0</PrintingAndPubAdjNetIncm>
+        <PrintingAndPubDsbrsChrtblPrps>9461</PrintingAndPubDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">178711</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>-31</OtherExpensesNetInvstIncm>
+        <OtherExpensesAdjNetIncm>0</OtherExpensesAdjNetIncm>
+        <OtherExpensesDsbrsChrtblPrps>178742</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>981193</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>16977</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>222443</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>857153</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>22193</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>22193</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>1003386</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>16977</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>222443</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>879346</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>276881</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>28644</NetInvestmentIncome>
+        <AdjustedNetIncome>956570</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>125843</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>153941</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>153941</SavingsAndTempCashInvstEOYFMV>
+        <AccountsReceivable>2943</AccountsReceivable>
+        <AccountsReceivableBOY>3131</AccountsReceivableBOY>
+        <AccountsReceivableEOY>2943</AccountsReceivableEOY>
+        <AccountsReceivableEOYFMV>2943</AccountsReceivableEOYFMV>
+        <OtherNotesAndLoansReceivable>52519</OtherNotesAndLoansReceivable>
+        <OtherNotesAndLoansRcvblBOY>65357</OtherNotesAndLoansRcvblBOY>
+        <OtherNotesAndLoansRcvblEOY>52519</OtherNotesAndLoansRcvblEOY>
+        <OtherNotesAndLoansRcvblEOYFMV>52519</OtherNotesAndLoansRcvblEOYFMV>
+        <PrepaidExpensesBOY>87748</PrepaidExpensesBOY>
+        <PrepaidExpensesEOY>94784</PrepaidExpensesEOY>
+        <PrepaidExpensesEOYFMV>94784</PrepaidExpensesEOYFMV>
+        <InvestmentsCorpStockBOY>394267</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2018900001">466310</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>466310</InvestmentsCorpStockEOYFMV>
+        <InvestmentsLandEtcBasis>86784</InvestmentsLandEtcBasis>
+        <AccumDeprecInvestmentsLandEtc>6719</AccumDeprecInvestmentsLandEtc>
+        <InvestmentsLandEtcBOY>82508</InvestmentsLandEtcBOY>
+        <InvestmentsLandEtcEOY referenceDocumentId="RetDoc2059100001">80065</InvestmentsLandEtcEOY>
+        <InvestmentsLandEtcEOYFMV>80065</InvestmentsLandEtcEOYFMV>
+        <InvestmentsOtherBOY>866433</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc2018100001">945997</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>945997</InvestmentsOtherEOYFMV>
+        <LandBuildingAndEquipmentBasis>2041606</LandBuildingAndEquipmentBasis>
+        <AccumDeprecLandBldgAndEquip>554058</AccumDeprecLandBldgAndEquip>
+        <LandBuildingAndEquipmentBOY>1590277</LandBuildingAndEquipmentBOY>
+        <LandBuildingAndEquipmentEOY referenceDocumentId="RetDoc2059000001">1487548</LandBuildingAndEquipmentEOY>
+        <LandBuildingAndEquipmentEOYFMV>1487548</LandBuildingAndEquipmentEOYFMV>
+        <OtherAssetsBOY referenceDocumentId="RetDoc2046600001">4756035</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId="RetDoc2046600001">5315978</OtherAssetsEOY>
+        <OtherAssetsEOYFMV referenceDocumentId="RetDoc2046600001">5315978</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>7971599</TotalAssetsBOY>
+        <TotalAssetsEOY>8600085</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>8600085</TotalAssetsEOYFMV>
+        <AccountsPayableBOY>134715</AccountsPayableBOY>
+        <AccountsPayableEOY>352353</AccountsPayableEOY>
+        <DeferredRevenueBOY>700</DeferredRevenueBOY>
+        <DeferredRevenueEOY>700</DeferredRevenueEOY>
+        <OtherLiabilitiesBOY referenceDocumentId="RetDoc2065700001">1545146</OtherLiabilitiesBOY>
+        <OtherLiabilitiesEOY referenceDocumentId="RetDoc2065700001">1570337</OtherLiabilitiesEOY>
+        <TotalLiabilitiesBOY>1680561</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>1923390</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>6021682</UnrestrictedBOY>
+        <UnrestrictedEOY>6388784</UnrestrictedEOY>
+        <PermanentlyRestrictedBOY>269356</PermanentlyRestrictedBOY>
+        <PermanentlyRestrictedEOY>287911</PermanentlyRestrictedEOY>
+        <TotalNetAssetsBOY>6291038</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>6676695</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>7971599</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>8600085</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>6291038</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>276881</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="RetDoc2049700001">108776</OtherIncreases>
+        <Subtotal>6676695</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>6676695</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Net loss from PNC trust account</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-06-30</DateAcquired>
+          <DateSold>2010-06-30</DateSold>
+          <CostOrOtherBasis>5345</CostOrOtherBasis>
+          <GainOrLoss>-5345</GainOrLoss>
+          <GainsMinusExcessOrLosses>-5345</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Net income from Mellon trust account</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-06-30</DateAcquired>
+          <DateSold>2010-06-30</DateSold>
+          <GrossSalesPrice>10003</GrossSalesPrice>
+          <GainOrLoss>10003</GainOrLoss>
+          <GainsMinusExcessOrLosses>10003</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>4658</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>825351</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>1441616</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.572518</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>751785</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>2847795</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.263988</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>766116</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>2618783</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.292547</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>734375</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>2653358</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.276772</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>803430</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>2334569</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.344145</DistributionRatioYear5>
+        <TotalDistributionRatio>1.749970</TotalDistributionRatio>
+        <AverageDistributionRatio>0.349994</AverageDistributionRatio>
+        <NetNoncharitableAssets>1535467</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>537404</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>286</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>537690</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>879346</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>286</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>286</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>286</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>240</EstTaxPaymentsAndOverpayment>
+        <TaxPaidWithExtension>1000</TaxPaidWithExtension>
+        <TotalCreditsAndPayments>1240</TotalCreditsAndPayments>
+        <Overpayment>954</Overpayment>
+        <AmountCreditedToNextYear>320</AmountCreditedToNextYear>
+        <AmountToBeRefunded>634</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>PA</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>www.brevillier.org</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>George W Hunter II</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>8148998600</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>5416 East Lake Road</AddressLine1>
+          <City>Erie</City>
+          <State>PA</State>
+          <ZIPCode>16511</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>1</BusinessHoldings>
+        <ExcessBusinessHoldings>0</ExcessBusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>George W Hunter II</PersonName>
+          <USAddress>
+            <AddressLine1>7489 N Shore Drive</AddressLine1>
+            <City>Erie</City>
+            <State>PA</State>
+            <ZIPCode>16511</ZIPCode>
+          </USAddress>
+          <Title>President</Title>
+          <AvgHoursPerWkDevotedToPosition>40.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>113237</Compensation>
+          <ContriToEmplBenefitPlansEtc>15919</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Reverend John P Downey</PersonName>
+          <USAddress>
+            <AddressLine1>134 West Seventh Street</AddressLine1>
+            <City>Erie</City>
+            <State>PA</State>
+            <ZIPCode>16501</ZIPCode>
+          </USAddress>
+          <Title>Secretary</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>James Martin</PersonName>
+          <USAddress>
+            <AddressLine1>800 State Street Suite 300</AddressLine1>
+            <City>Erie</City>
+            <State>PA</State>
+            <ZIPCode>16501</ZIPCode>
+          </USAddress>
+          <Title>Treasurer</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Carly Rowe</PersonName>
+          <USAddress>
+            <AddressLine1>1870 Henly Place</AddressLine1>
+            <City>Fairview</City>
+            <State>PA</State>
+            <ZIPCode>16415</ZIPCode>
+          </USAddress>
+          <Title>Vice-Chair</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Richard James</PersonName>
+          <USAddress>
+            <AddressLine1>2218 East 30 Street</AddressLine1>
+            <City>Erie</City>
+            <State>PA</State>
+            <ZIPCode>16510</ZIPCode>
+          </USAddress>
+          <Title>Board member</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Alan Gregg</PersonName>
+          <USAddress>
+            <AddressLine1>6831 West Haskell Drive</AddressLine1>
+            <City>Erie</City>
+            <State>PA</State>
+            <ZIPCode>16415</ZIPCode>
+          </USAddress>
+          <Title>Board member</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Julie Breski</PersonName>
+          <USAddress>
+            <AddressLine1>728 Burkhart Avenue</AddressLine1>
+            <City>Erie</City>
+            <State>PA</State>
+            <ZIPCode>16511</ZIPCode>
+          </USAddress>
+          <Title>Board member</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Joyce Jones</PersonName>
+          <USAddress>
+            <AddressLine1>7555 Buckingham Place</AddressLine1>
+            <City>Fairview</City>
+            <State>PA</State>
+            <ZIPCode>16415</ZIPCode>
+          </USAddress>
+          <Title>Board member</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Marcy Nickerson</PersonName>
+          <USAddress>
+            <AddressLine1>646 Irvine Drive</AddressLine1>
+            <City>Erie</City>
+            <State>PA</State>
+            <ZIPCode>16511</ZIPCode>
+          </USAddress>
+          <Title>Chair</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Donald Van Slyke</PersonName>
+          <USAddress>
+            <AddressLine1>189 Harbor Road</AddressLine1>
+            <City>Erie</City>
+            <State>PA</State>
+            <ZIPCode>16511</ZIPCode>
+          </USAddress>
+          <Title>Board member</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Carrie Beckman</PersonName>
+          <USAddress>
+            <AddressLine1>4725 Clinton Street</AddressLine1>
+            <City>Erie</City>
+            <State>PA</State>
+            <ZIPCode>16509</ZIPCode>
+          </USAddress>
+          <Title>Board member</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Peggy McCarthy</PersonName>
+          <USAddress>
+            <AddressLine1>4861 South Wayside Drive</AddressLine1>
+            <City>Erie</City>
+            <State>PA</State>
+            <ZIPCode>16505</ZIPCode>
+          </USAddress>
+          <Title>Board member</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompensationOfHighestPaidEmpl>
+          <Name>Jeffrey F Wieser</Name>
+          <USAddress>
+            <AddressLine1>2704 Greengarden Boulevard</AddressLine1>
+            <City>Erie</City>
+            <State>PA</State>
+            <ZIPCode>16509</ZIPCode>
+          </USAddress>
+          <Title>Director of Finance</Title>
+          <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+          <Compensation>75525</Compensation>
+          <EmployeeBenefits>10617</EmployeeBenefits>
+          <ExpenseAccount>0</ExpenseAccount>
+        </CompensationOfHighestPaidEmpl>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>Provide support and administrative services to affiliated tax-exempt organizations - Conrad House, Ball Pavilion</Description1>
+        <Expenses1>879346</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>1326854</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>231996</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>1558850</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>1558850</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>23383</CashDeemedCharitable>
+        <NetNoncharitableAssets>1535467</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>76773</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>76773</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>286</TaxBasedOnInvestmentIncome>
+        <TotalTax>286</TotalTax>
+        <DistributableAmountBeforeAdj>76487</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>76487</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>76487</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>879346</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>879346</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>286</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>879060</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>76487</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear5>688938</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>605498</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>641439</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>612592</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>753720</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>3302187</TotalExcessDistriCarryover>
+        <QualifyingDistributions>879346</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>76487</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>802859</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>4105046</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>688938</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>3416108</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>605498</ExcessFromYear4>
+        <ExcessFromYear3>641439</ExcessFromYear3>
+        <ExcessFromYear2>612592</ExcessFromYear2>
+        <ExcessFromYear1>753720</ExcessFromYear1>
+        <ExcessFromCurrentYear>802859</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>George W Hunter II President</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>5416 East Lake Road</AddressLine1>
+            <City>Erie</City>
+            <State>PA</State>
+            <ZIPCode>16510</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>8148998600</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>Application for participation in nursing training program. Prior education. Agreement to future employment in return for earning of tuition cost scholarship.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>None</SubmissionDeadlines>
+          <RestrictionsOnAwards>No limitation on amount of scholarship. Agreement to provide employment services in exchange for non-repayment of scholarship.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Barb McGuigan</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>454 Orchard Beach Park Road</AddressLine1>
+            <City>North East</City>
+            <State>PA</State>
+            <ZIPCode>16428</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>No relationship</RecipientRelationship>
+          <RecipientFoundationStatus>NA</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Nursing tuition loan repayment</PurposeOfGrantOrContribution>
+          <Amount>6902</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Ashlee Forsythe</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>482 Ledwick Drive</AddressLine1>
+            <City>Erie</City>
+            <State>PA</State>
+            <ZIPCode>16510</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>No relationship</RecipientRelationship>
+          <RecipientFoundationStatus>NA</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Nursing tuition loan repayment</PurposeOfGrantOrContribution>
+          <Amount>2451</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Cassandra Sherry</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1067 Sillman Avenue</AddressLine1>
+            <City>Erie</City>
+            <State>PA</State>
+            <ZIPCode>16511</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>No relationship</RecipientRelationship>
+          <RecipientFoundationStatus>NA</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Nursing tuition loan repayment</PurposeOfGrantOrContribution>
+          <Amount>4233</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Jackie Beerbower</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>620 East Sixth Street</AddressLine1>
+            <City>Erie</City>
+            <State>PA</State>
+            <ZIPCode>16504</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>No relationship</RecipientRelationship>
+          <RecipientFoundationStatus>NA</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Nursing tuition loan repayment</PurposeOfGrantOrContribution>
+          <Amount>3562</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Sara Ditrich</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>13 West Street</AddressLine1>
+            <City>North East</City>
+            <State>PA</State>
+            <ZIPCode>16428</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>No relationship</RecipientRelationship>
+          <RecipientFoundationStatus>NA</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Nursing tuition loan repayment</PurposeOfGrantOrContribution>
+          <Amount>5045</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>22193</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <ProgramServiceRevenuePartVII>
+          <Description>Outreach meals</Description>
+          <RelatedOrExemptFunctionIncome>60736</RelatedOrExemptFunctionIncome>
+        </ProgramServiceRevenuePartVII>
+        <ProgramServiceRevenuePartVII>
+          <Description>Management fees</Description>
+          <RelatedOrExemptFunctionIncome>652903</RelatedOrExemptFunctionIncome>
+        </ProgramServiceRevenuePartVII>
+        <ProgramServiceRevenuePartVII>
+          <Description>Financial service fees</Description>
+          <RelatedOrExemptFunctionIncome>397475</RelatedOrExemptFunctionIncome>
+        </ProgramServiceRevenuePartVII>
+        <ProgramServiceRevenuePartVII>
+          <Description>Transportation income</Description>
+          <RelatedOrExemptFunctionIncome>9410</RelatedOrExemptFunctionIncome>
+        </ProgramServiceRevenuePartVII>
+        <ProgramServiceRevenuePartVII>
+          <Description>Beauty shop income</Description>
+          <RelatedOrExemptFunctionIncome>22032</RelatedOrExemptFunctionIncome>
+        </ProgramServiceRevenuePartVII>
+        <ProgramServiceRevenuePartVII>
+          <Description>Home health income</Description>
+          <RelatedOrExemptFunctionIncome>19050</RelatedOrExemptFunctionIncome>
+        </ProgramServiceRevenuePartVII>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>334</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>30394</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <NetRntlIncmReNotDebtFincdProp>
+          <ExclusionCode>16</ExclusionCode>
+          <ExclusionAmount>-8577</ExclusionAmount>
+        </NetRntlIncmReNotDebtFincdProp>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>4658</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <OtherRevenueDescribed>
+          <Description>Miscellaneous</Description>
+          <RelatedOrExemptFunctionIncome>10855</RelatedOrExemptFunctionIncome>
+        </OtherRevenueDescribed>
+        <OtherRevenueDescribed>
+          <Description>Vending</Description>
+          <RelatedOrExemptFunctionIncome>6552</RelatedOrExemptFunctionIncome>
+        </OtherRevenueDescribed>
+        <OtherRevenueDescribed>
+          <Description>Federal net investment tax</Description>
+          <RelatedOrExemptFunctionIncome>1835</RelatedOrExemptFunctionIncome>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>22151</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>1185506</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>1207657</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>1</LineNumber>
+          <RelationshipStatement>Program service fees and other revenue represent fees paid by</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>8</LineNumber>
+          <RelationshipStatement>affiliated tax-exempt organizations and residents of those affiliated</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>11</LineNumber>
+          <RelationshipStatement>organizations for administration of their charitable activities and sundry services of the exempt affiliates to their residents.</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization4947a1TreatedAsPF>X</Organization4947a1TreatedAsPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>Clarion University</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>840 Wood Street</AddressLine1>
+          <City>Clarion</City>
+          <State>PA</State>
+          <ZIPCode>16214</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>11440</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>2</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>PNC Bank (Swanson Trust)</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>901 State Street</AddressLine1>
+          <City>Erie</City>
+          <State>PA</State>
+          <ZIPCode>16501</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>5500</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>3</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>Mellon Bank (Gertrude Sutton Trust)</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>100 State Street Suite 200</AddressLine1>
+          <City>Erie</City>
+          <State>PA</State>
+          <ZIPCode>16501</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>12317</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>Accounting</Category>
+        <Amount>9200</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>9200</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="RetDoc2203000001">
+      <Depreciation>
+        <DescriptionOfProperty>Fixed equipment - BT</DescriptionOfProperty>
+        <CostOrOtherBasis>216150</CostOrOtherBasis>
+        <PriorYearsDepreciation>152698</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>10.000000000000</Life>
+        <CurrentYearExpense>9743</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>9743</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Major moveable equipment - BVF</DescriptionOfProperty>
+        <CostOrOtherBasis>310101</CostOrOtherBasis>
+        <PriorYearsDepreciation>200039</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>10.000000000000</Life>
+        <CurrentYearExpense>16697</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>16697</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Land improvements - BT</DescriptionOfProperty>
+        <CostOrOtherBasis>91933</CostOrOtherBasis>
+        <PriorYearsDepreciation>36890</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>20.000000000000</Life>
+        <CurrentYearExpense>5958</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>5958</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>building - BVF</DescriptionOfProperty>
+        <DateAcquired>2008-06-30</DateAcquired>
+        <CostOrOtherBasis>1418780</CostOrOtherBasis>
+        <PriorYearsDepreciation>56868</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>20.000000000000</Life>
+        <CurrentYearExpense>74056</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>74056</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Major moveable equipment - BT</DescriptionOfProperty>
+        <CostOrOtherBasis>4642</CostOrOtherBasis>
+        <PriorYearsDepreciation>800</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>10.000000000000</Life>
+        <CurrentYearExpense>309</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>309</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Building - BVF - 5435 East Lake Road - Erie, PA</DescriptionOfProperty>
+        <DateAcquired>2007-09-24</DateAcquired>
+        <CostOrOtherBasis>61084</CostOrOtherBasis>
+        <PriorYearsDepreciation>4276</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>25.000000000000</Life>
+        <CurrentYearExpense>2443</CurrentYearExpense>
+        <NetInvestmentIncome>2443</NetInvestmentIncome>
+        <AdjustedNetIncome>2443</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Land - BVF - 5435 East Lake Road - Erie, PA</DescriptionOfProperty>
+        <DateAcquired>2007-09-24</DateAcquired>
+        <CostOrOtherBasis>25700</CostOrOtherBasis>
+        <ComputationMethod>L</ComputationMethod>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </Depreciation>
+    </DepreciationSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorpStock>
+        <NameOfStock>Corporate stocks</NameOfStock>
+        <EOYBookValue>392810</EOYBookValue>
+        <EOYFMV>392810</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>Healthcare Ventures Alliance, Inc.</NameOfStock>
+        <EOYBookValue>73500</EOYBookValue>
+        <EOYFMV>73500</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsLandSchedule2 documentId="RetDoc2059100001">
+      <InvestmentLand>
+        <CategoryOrItem>Building - BVF - 5435 East Lake Road - Erie, PA</CategoryOrItem>
+        <CostOrOtherBasis>61084</CostOrOtherBasis>
+        <AccumulatedDepreciation>6719</AccumulatedDepreciation>
+        <BookValue>54365</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentLand>
+      <InvestmentLand>
+        <CategoryOrItem>Land - BVF - 5435 East Lake Road - Erie, PA</CategoryOrItem>
+        <CostOrOtherBasis>25700</CostOrOtherBasis>
+        <AccumulatedDepreciation>0</AccumulatedDepreciation>
+        <BookValue>25700</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentLand>
+    </InvestmentsLandSchedule2>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOther>
+        <CategoryOrItem>Common equity funds</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>494611</BookValue>
+        <EOYFMV>494611</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>Common fixed income funds</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>440269</BookValue>
+        <EOYFMV>440269</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>Money market</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>11117</BookValue>
+        <EOYFMV>11117</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <LandEtcSchedule2 documentId="RetDoc2059000001">
+      <LandEtc>
+        <CategoryOrItem>Fixed equipment - BT</CategoryOrItem>
+        <CostOrOtherBasis>216150</CostOrOtherBasis>
+        <AccumulatedDepreciation>162441</AccumulatedDepreciation>
+        <BookValue>53709</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Major moveable equipment - BVF</CategoryOrItem>
+        <CostOrOtherBasis>310101</CostOrOtherBasis>
+        <AccumulatedDepreciation>216736</AccumulatedDepreciation>
+        <BookValue>93365</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Land improvements - BT</CategoryOrItem>
+        <CostOrOtherBasis>91933</CostOrOtherBasis>
+        <AccumulatedDepreciation>42848</AccumulatedDepreciation>
+        <BookValue>49085</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>building - BVF</CategoryOrItem>
+        <CostOrOtherBasis>1418780</CostOrOtherBasis>
+        <AccumulatedDepreciation>130924</AccumulatedDepreciation>
+        <BookValue>1287856</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Major moveable equipment - BT</CategoryOrItem>
+        <CostOrOtherBasis>4642</CostOrOtherBasis>
+        <AccumulatedDepreciation>1109</AccumulatedDepreciation>
+        <BookValue>3533</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+    </LandEtcSchedule2>
+    <LegalFeesSchedule documentId="RetDoc2002100001">
+      <LegalFees>
+        <Category>Legal</Category>
+        <Amount>2435</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>2435</DisbursementsCharitablePrps>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="RetDoc2046600001">
+      <OtherAssets>
+        <Description>Resident funds</Description>
+        <BOYBookValue>7619</BOYBookValue>
+        <EOYBookValue>8780</EOYBookValue>
+        <EOYFMV>8780</EOYFMV>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>Affiliated entities receivable</Description>
+        <BOYBookValue>4748416</BOYBookValue>
+        <EOYBookValue>5307198</EOYBookValue>
+        <EOYFMV>5307198</EOYFMV>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>Food</Description>
+        <RevenueAndExpensesPerBooks>42559</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>42559</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Other supplies</Description>
+        <RevenueAndExpensesPerBooks>16912</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>16912</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Insurance</Description>
+        <RevenueAndExpensesPerBooks>13888</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>13888</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Dues and meetings</Description>
+        <RevenueAndExpensesPerBooks>8442</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>8442</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Telephone</Description>
+        <RevenueAndExpensesPerBooks>1109</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>1109</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Office expense</Description>
+        <RevenueAndExpensesPerBooks>20104</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>20104</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Investment fees</Description>
+        <RevenueAndExpensesPerBooks>16179</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>16179</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Maintenance and supplies</Description>
+        <RevenueAndExpensesPerBooks>40980</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>40980</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Fundraising expenses</Description>
+        <RevenueAndExpensesPerBooks>18569</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>18569</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Repairs</Description>
+        <RevenueAndExpensesPerBooks>5</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>5</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Ground care</Description>
+        <RevenueAndExpensesPerBooks>-36</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>-36</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc2001500001">
+      <OtherIncome>
+        <Description>Outreach meals</Description>
+        <RevenueAndExpensesPerBooks>60736</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>60736</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>Management fees</Description>
+        <RevenueAndExpensesPerBooks>652903</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>652903</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>Financial service fees</Description>
+        <RevenueAndExpensesPerBooks>397475</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>397475</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>Transportation income</Description>
+        <RevenueAndExpensesPerBooks>9410</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>9410</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>Beauty shop income</Description>
+        <RevenueAndExpensesPerBooks>22032</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>22032</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>Home health income</Description>
+        <RevenueAndExpensesPerBooks>19050</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>19050</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>Miscellaneous</Description>
+        <RevenueAndExpensesPerBooks>10855</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>10855</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>Vending</Description>
+        <RevenueAndExpensesPerBooks>6552</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>6552</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>Federal net investment tax</Description>
+        <RevenueAndExpensesPerBooks>1835</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>1835</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="RetDoc2049700001">
+      <OtherIncreases>
+        <Description>Unrealized appreciation in investments - UBSPaineWebber</Description>
+        <Amount>822</Amount>
+      </OtherIncreases>
+      <OtherIncreases>
+        <Description>Unrealized appreciation in investments - Mellon Bank</Description>
+        <Amount>73517</Amount>
+      </OtherIncreases>
+      <OtherIncreases>
+        <Description>Unrealized appreciation in investments - PNC Bank</Description>
+        <Amount>34437</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <OtherLiabilitiesSchedule documentId="RetDoc2065700001">
+      <OtherLiabilities>
+        <Description>Accrued payroll and payroll withholdings</Description>
+        <BOYBookValue>510711</BOYBookValue>
+        <EOYBookValue>518397</EOYBookValue>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>Resident funds</Description>
+        <BOYBookValue>7619</BOYBookValue>
+        <EOYBookValue>8780</EOYBookValue>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>Affiliated entities receivable</Description>
+        <BOYBookValue>1026816</BOYBookValue>
+        <EOYBookValue>1043160</EOYBookValue>
+      </OtherLiabilities>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFees>
+        <Category>Other professional fees</Category>
+        <Amount>1044</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>1044</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>Real estate</Category>
+        <Amount>7732</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>7732</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>Payroll</Category>
+        <Amount>42536</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>42536</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>Real estate taxes</Category>
+        <Amount>7520</Amount>
+        <NetInvestmentIncome>7520</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

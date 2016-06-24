@@ -1,0 +1,382 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.3" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-01-31T02:59:53-08:00</Timestamp>
+    <TaxPeriodEndDate>2010-09-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>M &amp; I TRUST CO NA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>11270 WEST PARK PLACE SUITE 400</AddressLine1>
+        <City>MILWAUKEE</City>
+        <State>WI</State>
+        <ZIPCode>53224</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-10-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>930834256</EIN>
+      <Name>
+        <BusinessNameLine1>WALTERS SCHOLARSHIP FUND</BusinessNameLine1>
+      </Name>
+      <NameControl>WALT</NameControl>
+      <Phone>4148153602</Phone>
+      <USAddress>
+        <AddressLine1>C/O MARSHALL ILSLEY TRUST CO NA PO</AddressLine1>
+        <City>MILWAUKEE</City>
+        <State>WI</State>
+        <ZIPCode>53201</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>MICHAEL FECISKONIN</Name>
+      <Title>ASSISTANT VICE PRESIDENT</Title>
+      <Phone>4148153602</Phone>
+      <DateSigned>2011-01-28</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>MICHAEL FECISKONIN EA</Name>
+      <Phone>4148153500</Phone>
+      <DatePrepared>2011-01-31</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="4">
+    <IRS990PF documentId="00000001" referenceDocumentId="00000002" referenceDocumentName="ReasonableCauseExplanation GeneralExplanationAttachment">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>257081</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>5702</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>5702</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>-3497</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>8744</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="00000003" referenceDocumentName="OtherIncomeSchedule2">37</OtherIncomeRevAndExpnss>
+        <TotalRevenueAndExpenses>2242</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>5702</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>3156</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>3156</CompOfcrDirTrstNetInvstIncm>
+        <OtherProfFeesRevAndExpnss>500</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>500</OtherProfFeesNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId="00000004" referenceDocumentName="TaxesSchedule">200</TaxesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>3856</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>3656</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>10516</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>10516</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>14372</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>3656</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>10516</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-12130</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>2046</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>987</CashBOY>
+        <CashEOY>1306</CashEOY>
+        <CashEOYFMV>1306</CashEOYFMV>
+        <InvestmentsCorpBondsBOY>267894</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY>255653</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>255397</InvestmentsCorpBondsEOYFMV>
+        <OtherAssetsBOY>586</OtherAssetsBOY>
+        <OtherAssetsEOY>378</OtherAssetsEOY>
+        <OtherAssetsEOYFMV>378</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>269467</TotalAssetsBOY>
+        <TotalAssetsEOY>257337</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>257081</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>269467</CapitalStockBOY>
+        <CapitalStockEOY>257337</CapitalStockEOY>
+        <TotalNetAssetsBOY>269467</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>257337</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>269467</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>257337</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>269467</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-12130</ExcessOfRevenueOverExpenses>
+        <Subtotal>257337</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>257337</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>SEE ATTACHED SCHEDULE-LT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-01-01</DateAcquired>
+          <DateSold>2010-09-30</DateSold>
+          <GrossSalesPrice>8744</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>12241</CostOrOtherBasis>
+          <GainOrLoss>-3497</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-3497</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>-3497</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <NoncharitableAssetsYear1>227427</NoncharitableAssetsYear1>
+        <QualifyingDistributionsYear2>12000</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>265896</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.045130</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>19881</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>281026</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.070744</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>13447</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>273237</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.049214</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>13295</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>272609</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.048769</DistributionRatioYear5>
+        <TotalDistributionRatio>0.213857</TotalDistributionRatio>
+        <AverageDistributionRatio>0.053464</AverageDistributionRatio>
+        <NetNoncharitableAssets>254828</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>13624</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>20</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>13644</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>10516</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>41</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>41</Subtotal>
+        <TaxBasedOnInvestmentIncome>41</TaxBasedOnInvestmentIncome>
+        <TaxPaidOriginalReturn>0</TaxPaidOriginalReturn>
+        <TaxDue>41</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>true</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>false</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>M&amp;I TRUST COMPANY</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>7158474604</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>500 THIRD STREET</AddressLine1>
+          <City>WAUSAU</City>
+          <State>WI</State>
+          <ZIPCode>54402</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <BusinessName>
+            <BusinessNameLine1>MARSHALL &amp; ILSLEY TRUST CO NA</BusinessNameLine1>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1>PO BOX 2980</AddressLine1>
+            <City>MILW</City>
+            <State>WI</State>
+            <ZIPCode>53201</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>3156</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>258709</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>258709</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>258709</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>3881</CashDeemedCharitable>
+        <NetNoncharitableAssets>254828</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>12741</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>12741</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>41</TaxBasedOnInvestmentIncome>
+        <TotalTax>41</TotalTax>
+        <DistributableAmountBeforeAdj>12700</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>12700</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>12700</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>10516</ExpensesAndContributions>
+        <QualifyingDistributions>10516</QualifyingDistributions>
+        <AdjQualifyingDistributions>10516</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>12700</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>10516</UndistributedIncomePriorYear>
+        <QualifyingDistributions>10516</QualifyingDistributions>
+        <AppliedToYear1>10516</AppliedToYear1>
+        <UndistributedIncomeCY>12700</UndistributedIncomeCY>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>NONE</ContributingManager>
+        <ShareholderManager>NONE</ShareholderManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>SEE ATTACHED ADDITIONAL INFORMATION</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>500 THIRD STREET</AddressLine1>
+            <City>WAUSAU</City>
+            <State>WI</State>
+            <ZIPCode>54402</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>7158474604</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>SEE ATTACHED ADDITIONAL INFORMATION</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>SEE ATTACHED ADDITIONAL INFORMATION</SubmissionDeadlines>
+          <RestrictionsOnAwards>SEE ATTACHED ADDITIONAL INFORMATION</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NORTHCENTRAL TECHNICAL COLLEGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1000 CAMPUS DR</AddressLine1>
+            <City>WAUSAU</City>
+            <State>WI</State>
+            <ZIPCode>54401</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>EDUCATIONAL</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP FDN</PurposeOfGrantOrContribution>
+          <Amount>1516</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>MICHIGAN TECHNOLOGICAL UNIV</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1400 TOWNSEND DR</AddressLine1>
+            <City>HOUGHTON</City>
+            <State>MI</State>
+            <ZIPCode>49931</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EDUCATIONAL</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIPALEX PUESTOW</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>UW-MADISON</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>716 LANGDON ST</AddressLine1>
+            <City>MADISON</City>
+            <State>WI</State>
+            <ZIPCode>537061481</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EDUCATIONAL</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIPTYDE TERZINSKI</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>UNIVERSITY OF MINNESOTA</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1425 UNIVERSITY AVE SE</AddressLine1>
+            <City>MINNEAPOLIS</City>
+            <State>MN</State>
+            <ZIPCode>55455</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EDUCATIONAL</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIPKYLE Q KRACHT</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>10516</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>5702</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>-3497</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>2205</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>2205</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <GeneralExplanationAttachment documentId="00000002">
+      <GeneralExplanation>
+        <Identifier>FORM 990-PF, PART XV, LINE 2 (a, b, c, d)</Identifier>
+        <Explanation>THE WALTERS SCHOLARSHIP FUND SCHOLARSHIP GRANT PROGRAM AWARDS GRANTS TO PERSONS IN THE TOP 25% OF THE RHINELANDER HIGH SCHOOL GRADUATING CLASS WHO INTEND TO PURSUE A FULL TIME ENGINEERING COURSE OF STUDY IN COLLEGE. IT IS THE FUND'S INTENTION THAT A MINIMUM OF $1,000 PER YEAR GRANT WILL BE MADE TO A GRADUATE IN EACH CLASS. THE AMOUNT OF THE AWARDS WILL VARY WITH INCOME AVAILABLE. THERE ARE NO RESTRICTIONS AS TO THE COLLEGE THE STUDENT IS PLANNING ON ATTENDING. APPLICATIONS SHOULD BE SENT TO: MARSHALL &amp; ILSLEY TRUST CO 500 THIRD ST WAUSAU, WI 54402 ATTN: CAROLINE B. KUEHN</Explanation>
+      </GeneralExplanation>
+    </GeneralExplanationAttachment>
+    <OtherIncomeSchedule2 documentId="00000003">
+      <OtherIncome>
+        <Description>EXCISE TAX REFUNDS</Description>
+        <RevenueAndExpensesPerBooks>37</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="00000004">
+      <Taxes>
+        <Category>EXCISE TAXES</Category>
+      </Taxes>
+      <Taxes>
+        <Category>ESTIMATED TAXES PAID</Category>
+        <Amount>200</Amount>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

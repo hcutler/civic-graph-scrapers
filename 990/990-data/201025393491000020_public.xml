@@ -1,0 +1,633 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-09-10T11:52:28-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-04-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Mt Royal Management Company LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>1233 W Mount Royal Ave</AddressLine1>
+        <City>Baltimore</City>
+        <State>MD</State>
+        <ZIPCode>212174133</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-05-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>521679498</EIN>
+      <Name>
+        <BusinessNameLine1>Carroll A Weinberg MD and</BusinessNameLine1>
+        <BusinessNameLine2>Charlotte Cohen Weinberg Foundation Inc</BusinessNameLine2>
+      </Name>
+      <NameControl>CARR</NameControl>
+      <Phone>4107274586</Phone>
+      <USAddress>
+        <AddressLine1>1233 W Mount Royal Ave</AddressLine1>
+        <City>Baltimore</City>
+        <State>MD</State>
+        <ZIPCode>212174133</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>John C Davison</Name>
+      <Title>Vice-President</Title>
+      <Phone>4107274586</Phone>
+      <DateSigned>2010-09-09</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Beth-Ann Blatnick</Name>
+      <Phone>4107274586</Phone>
+      <DatePrepared>2010-09-09</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>1553776</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>0</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>36899</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>36899</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>-863</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>1975</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc2001500001">70</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>0</OtherIncomeNetInvstIncm>
+        <TotalRevenueAndExpenses>36106</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>36899</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">184</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>184</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>0</TaxesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>184</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>184</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>64983</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>64983</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>65167</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>184</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>64983</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-29061</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>36715</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>17516</CashBOY>
+        <CashEOY>17603</CashEOY>
+        <CashEOYFMV>17603</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>59188</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>32075</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>32075</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>85088</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2018900001">82250</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>1416645</InvestmentsCorpStockEOYFMV>
+        <InvestmentsOtherBOY>79028</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc2018100001">79831</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>87453</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>240820</TotalAssetsBOY>
+        <TotalAssetsEOY>211759</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>1553776</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>0</CapitalStockBOY>
+        <CapitalStockEOY>0</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>240820</RetainedEarningsBOY>
+        <RetainedEarningsEOY>211759</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>240820</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>211759</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>240820</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>211759</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>240820</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-29061</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>211759</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>211759</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>250 3Com</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>1997-02-05</DateAcquired>
+          <DateSold>2010-04-12</DateSold>
+          <GrossSalesPrice>1975</GrossSalesPrice>
+          <CostOrOtherBasis>2838</CostOrOtherBasis>
+          <GainOrLoss>-863</GainOrLoss>
+          <GainsMinusExcessOrLosses>-863</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>-863</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>65546</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>1391619</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.047101</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>82247</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>1565892</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.052524</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>65059</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>1409246</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.046166</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>68277</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>1230736</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.055477</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>59783</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>1077280</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.055494</DistributionRatioYear5>
+        <TotalDistributionRatio>0.256762</TotalDistributionRatio>
+        <AverageDistributionRatio>0.051352</AverageDistributionRatio>
+        <NetNoncharitableAssets>1319868</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>67778</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>367</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>68145</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>64983</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>734</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>734</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>734</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>1778</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>1778</TotalCreditsAndPayments>
+        <Form2220Attached referenceDocumentId="RetDoc1192000001">X</Form2220Attached>
+        <Overpayment>1044</Overpayment>
+        <AmountCreditedToNextYear>1044</AmountCreditedToNextYear>
+        <AmountToBeRefunded>0</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>MD</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>n/a</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>The Foundation</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>4107274586</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>1233 W Mount Royal Ave</AddressLine1>
+          <City>Baltimore</City>
+          <State>MD</State>
+          <ZIPCode>212174133</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Carroll A Weinberg MD</PersonName>
+          <USAddress>
+            <AddressLine1>1233 W Mount Royal Ave</AddressLine1>
+            <City>Baltimore</City>
+            <State>MD</State>
+            <ZIPCode>212174133</ZIPCode>
+          </USAddress>
+          <Title>President/Treasurer</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Charlotte C Weinberg</PersonName>
+          <USAddress>
+            <AddressLine1>1233 W Mount Royal Ave</AddressLine1>
+            <City>Baltimore</City>
+            <State>MD</State>
+            <ZIPCode>212174133</ZIPCode>
+          </USAddress>
+          <Title>Vice-President/Secretary</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Gwynne A Weinberg</PersonName>
+          <USAddress>
+            <AddressLine1>1233 W Mount Royal Ave</AddressLine1>
+            <City>Baltimore</City>
+            <State>MD</State>
+            <ZIPCode>212174133</ZIPCode>
+          </USAddress>
+          <Title>Vice-President</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>John C Davison</PersonName>
+          <USAddress>
+            <AddressLine1>1233 W Mount Royal Ave</AddressLine1>
+            <City>Baltimore</City>
+            <State>MD</State>
+            <ZIPCode>212174133</ZIPCode>
+          </USAddress>
+          <Title>Vice-President</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>1200658</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>63191</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>76119</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>1339968</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>1339968</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>20100</CashDeemedCharitable>
+        <NetNoncharitableAssets>1319868</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>65993</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>65993</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>734</TaxBasedOnInvestmentIncome>
+        <TotalTax>734</TotalTax>
+        <DistributableAmountBeforeAdj>65259</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>65259</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>65259</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>64983</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>64983</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>64983</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>65259</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>19270</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <TotalExcessDistriCarryover>0</TotalExcessDistriCarryover>
+        <QualifyingDistributions>64983</QualifyingDistributions>
+        <AppliedToYear1>19270</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>45713</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>0</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>19546</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>0</ExcessDistriCyovToNextYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>Carroll A Weinberg MD</ContributingManager>
+        <ContributingManager>Charlotte C Weinberg</ContributingManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>Dr and Mrs Carroll A Weinberg</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>261 Indian Creek Rd</AddressLine1>
+            <City>Wynnewood</City>
+            <State>PA</State>
+            <ZIPCode>19096</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>4107274586</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>Letter should include all relevant information about person/organization requesting award, purpose of award, etc.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>There are no submission deadlines.</SubmissionDeadlines>
+          <RestrictionsOnAwards>There are no restrictions or limitations on awards.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>American Associates of Ben Gurion University</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>P O Box 1128</AddressLine1>
+            <City>Jenkintown</City>
+            <State>PA</State>
+            <ZIPCode>19046</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>n/a</RecipientRelationship>
+          <RecipientFoundationStatus>public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>educational</PurposeOfGrantOrContribution>
+          <Amount>1710</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>American Jewish Committee</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>30 S 15th St Suite 801</AddressLine1>
+            <City>Phila</City>
+            <State>PA</State>
+            <ZIPCode>19102</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>n/a</RecipientRelationship>
+          <RecipientFoundationStatus>public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>religious</PurposeOfGrantOrContribution>
+          <Amount>1100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Duke University</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>614 Chapel Drive Annex</AddressLine1>
+            <City>Durham</City>
+            <State>NC</State>
+            <ZIPCode>277080581</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>n/a</RecipientRelationship>
+          <RecipientFoundationStatus>public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>educational</PurposeOfGrantOrContribution>
+          <Amount>1045</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Foreign Policy Research Institute</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1528 Walnut St</AddressLine1>
+            <City>Phila</City>
+            <State>PA</State>
+            <ZIPCode>19102</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>n/a</RecipientRelationship>
+          <RecipientFoundationStatus>public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>educational</PurposeOfGrantOrContribution>
+          <Amount>2540</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Jewish Federation of Greater Philadelphia</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2100 Arch St</AddressLine1>
+            <City>Phila</City>
+            <State>PA</State>
+            <ZIPCode>19103</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>n/a</RecipientRelationship>
+          <RecipientFoundationStatus>public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>religious</PurposeOfGrantOrContribution>
+          <Amount>6095</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Jewish Museum of Maryland</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>15 Lloyd St</AddressLine1>
+            <City>Baltimore</City>
+            <State>MD</State>
+            <ZIPCode>21202</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>n/a</RecipientRelationship>
+          <RecipientFoundationStatus>public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>educational</PurposeOfGrantOrContribution>
+          <Amount>20040</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Main Line Reform Temple</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>410 Montgomery Ave</AddressLine1>
+            <City>Wynnewood</City>
+            <State>PA</State>
+            <ZIPCode>19096</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>n/a</RecipientRelationship>
+          <RecipientFoundationStatus>public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>religious</PurposeOfGrantOrContribution>
+          <Amount>2182</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>The Middle East Forum</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1500 Walnut St</AddressLine1>
+            <City>Phila</City>
+            <State>PA</State>
+            <ZIPCode>191023523</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>n/a</RecipientRelationship>
+          <RecipientFoundationStatus>public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>educational</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>National Museum of American Jewish History</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>101 South Independence Mall East</AddressLine1>
+            <City>Phila</City>
+            <State>PA</State>
+            <ZIPCode>191062517</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>n/a</RecipientRelationship>
+          <RecipientFoundationStatus>public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>educational</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Philadelphia Museum of Art</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>P O Box 7646</AddressLine1>
+            <City>Phila</City>
+            <State>PA</State>
+            <ZIPCode>191017646</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>n/a</RecipientRelationship>
+          <RecipientFoundationStatus>public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>educational</PurposeOfGrantOrContribution>
+          <Amount>2050</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Temple Oheb Shalom</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>7310 Park Heights Ave</AddressLine1>
+            <City>Baltimore</City>
+            <State>MD</State>
+            <ZIPCode>212085491</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>n/a</RecipientRelationship>
+          <RecipientFoundationStatus>public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>religious</PurposeOfGrantOrContribution>
+          <Amount>2242</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>University of VA Medical School</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>Box 491</AddressLine1>
+            <City>Charlottesville</City>
+            <State>VA</State>
+            <ZIPCode>22908</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>n/a</RecipientRelationship>
+          <RecipientFoundationStatus>public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>educational</PurposeOfGrantOrContribution>
+          <Amount>2300</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>various organized charities individually no more than 1000</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>various addresses</AddressLine1>
+            <City>various cities</City>
+            <State>MD</State>
+            <ZIPCode>00000</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>n/a</RecipientRelationship>
+          <RecipientFoundationStatus>public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>various</PurposeOfGrantOrContribution>
+          <Amount>1679</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>64983</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>36899</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <OtherInvestmentIncomePartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>70</ExclusionAmount>
+        </OtherInvestmentIncomePartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>-863</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>36106</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>36106</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorpStock>
+        <NameOfStock>Various stocks held at Bank of America</NameOfStock>
+        <EOYBookValue>82250</EOYBookValue>
+        <EOYFMV>1416645</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOther>
+        <CategoryOrItem>Columbia International Value Fund</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>54831</BookValue>
+        <EOYFMV>48629</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>Columbia Small Cap Index Fund</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>25000</BookValue>
+        <EOYFMV>38824</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherIncomeSchedule2 documentId="RetDoc2001500001">
+      <OtherIncome>
+        <Description>BOA nontaxable</Description>
+        <RevenueAndExpensesPerBooks>51</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>51</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>Bank charge refund</Description>
+        <RevenueAndExpensesPerBooks>19</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>19</AdjustedNetIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>Foreign taxes</Category>
+        <Amount>184</Amount>
+        <NetInvestmentIncome>184</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

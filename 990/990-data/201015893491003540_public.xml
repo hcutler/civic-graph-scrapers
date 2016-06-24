@@ -1,0 +1,519 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-06-07T12:15:21-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-01-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Leone Morrissey Henriksen &amp; Synan PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>80 Washington St Building S</AddressLine1>
+        <City>Norwell</City>
+        <State>MA</State>
+        <ZIPCode>02061</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-02-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>300504623</EIN>
+      <Name>
+        <BusinessNameLine1>GORDON FAMILY FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>GORD</NameControl>
+      <Phone>7812354751</Phone>
+      <USAddress>
+        <AddressLine1>32 MONADNOCK ROAD</AddressLine1>
+        <City>WELLESLEY HILLS</City>
+        <State>MA</State>
+        <ZIPCode>02181</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>MELVIN J GORDON</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>7812354751</Phone>
+      <DateSigned>2010-06-04</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>Bruce W Henriksen</Name>
+      <Phone>7818789111</Phone>
+      <DatePrepared>2010-06-04</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="8">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>597558</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>10987</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>10987</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>17011</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>105363</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>17011</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>27998</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>27998</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">3800</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>3800</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>0</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">202</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>103</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>0</TaxesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">2848</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>2848</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>0</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>6850</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>6751</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>25000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>25000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>31850</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>6751</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>25000</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-3852</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>21247</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>20000</CashBOY>
+        <CashEOY>29001</CashEOY>
+        <CashEOYFMV>29001</CashEOYFMV>
+        <InvestmentsCorpStockBOY>403220</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2018900001">374013</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>545444</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>0</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="RetDoc2044400001">20025</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>23113</InvestmentsCorpBondsEOYFMV>
+        <TotalAssetsBOY>423220</TotalAssetsBOY>
+        <TotalAssetsEOY>423039</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>597558</TotalAssetsEOYFMV>
+        <OtherLiabilitiesBOY referenceDocumentId="RetDoc2065700001">5547</OtherLiabilitiesBOY>
+        <OtherLiabilitiesEOY referenceDocumentId="RetDoc2065700001">0</OtherLiabilitiesEOY>
+        <TotalLiabilitiesBOY>5547</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>0</CapitalStockBOY>
+        <CapitalStockEOY>0</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>0</RetainedEarningsBOY>
+        <RetainedEarningsEOY>0</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>417673</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>423039</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>423220</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>423039</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>417673</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-3852</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="RetDoc2049700001">9218</OtherIncreases>
+        <Subtotal>423039</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>423039</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>BANK AMER NA CHARLOTTE NC CTF DEP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-01-28</DateAcquired>
+          <DateSold>2009-08-04</DateSold>
+          <GrossSalesPrice>20000</GrossSalesPrice>
+          <CostOrOtherBasis>20000</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>TRIMAS CORP COM NEW</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-11-18</DateAcquired>
+          <DateSold>2009-08-17</DateSold>
+          <GrossSalesPrice>4674</GrossSalesPrice>
+          <CostOrOtherBasis>1519</CostOrOtherBasis>
+          <GainOrLoss>3155</GainOrLoss>
+          <GainsMinusExcessOrLosses>3155</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CBS CORP CL B COM</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-11-18</DateAcquired>
+          <DateSold>2009-10-22</DateSold>
+          <GrossSalesPrice>6744</GrossSalesPrice>
+          <CostOrOtherBasis>3063</CostOrOtherBasis>
+          <GainOrLoss>3681</GainOrLoss>
+          <GainsMinusExcessOrLosses>3681</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>BANK OF AMERICA CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-12-04</DateAcquired>
+          <DateSold>2009-11-18</DateSold>
+          <GrossSalesPrice>20862</GrossSalesPrice>
+          <CostOrOtherBasis>20108</CostOrOtherBasis>
+          <GainOrLoss>754</GainOrLoss>
+          <GainsMinusExcessOrLosses>754</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>SUNTRUST BANK</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-12-09</DateAcquired>
+          <DateSold>2009-12-04</DateSold>
+          <GrossSalesPrice>10351</GrossSalesPrice>
+          <CostOrOtherBasis>9995</CostOrOtherBasis>
+          <GainOrLoss>356</GainOrLoss>
+          <GainsMinusExcessOrLosses>356</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>DEERE JOHN CAP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-12-19</DateAcquired>
+          <DateSold>2009-12-28</DateSold>
+          <GrossSalesPrice>10306</GrossSalesPrice>
+          <CostOrOtherBasis>10274</CostOrOtherBasis>
+          <GainOrLoss>32</GainOrLoss>
+          <GainsMinusExcessOrLosses>32</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>TRIMAS CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-12-08</DateAcquired>
+          <DateSold>2009-12-29</DateSold>
+          <GrossSalesPrice>15304</GrossSalesPrice>
+          <CostOrOtherBasis>7900</CostOrOtherBasis>
+          <GainOrLoss>7404</GainOrLoss>
+          <GainsMinusExcessOrLosses>7404</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>SOUTHERN CALIF GAS CO</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-12-11</DateAcquired>
+          <DateSold>2010-01-21</DateSold>
+          <GrossSalesPrice>16505</GrossSalesPrice>
+          <CostOrOtherBasis>15493</CostOrOtherBasis>
+          <GainOrLoss>1012</GainOrLoss>
+          <GainsMinusExcessOrLosses>1012</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>MUTUAL FUND DISTRIBUTION</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-12-31</DateAcquired>
+          <DateSold>2009-12-31</DateSold>
+          <GrossSalesPrice>617</GrossSalesPrice>
+          <GainOrLoss>617</GainOrLoss>
+          <GainsMinusExcessOrLosses>617</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>17011</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>5547</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>307042</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.018066</DistributionRatioYear1>
+        <TotalDistributionRatio>0.018066</TotalDistributionRatio>
+        <AverageDistributionRatio>0.018066</AverageDistributionRatio>
+        <NetNoncharitableAssets>521474</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>9421</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>212</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>9633</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>25000</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>212</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>212</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>212</TaxBasedOnInvestmentIncome>
+        <TotalCreditsAndPayments>0</TotalCreditsAndPayments>
+        <TaxDue>212</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>0</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>MA</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>MELVIN J GORDON TRUSTEE</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>7812354751</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>32 MONADNOCK ROAD</AddressLine1>
+          <City>WELLESLEY HILLS</City>
+          <State>MA</State>
+          <ZIPCode>02181</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MELVIN J GORDON</PersonName>
+          <USAddress>
+            <AddressLine1>275 NEWMAN ROAD PO BOX 706</AddressLine1>
+            <City>CENTER HARBOR</City>
+            <State>NH</State>
+            <ZIPCode>03226</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ELLEN R GORDON</PersonName>
+          <USAddress>
+            <AddressLine1>275 NEWMAN ROAD PO BOX 706</AddressLine1>
+            <City>CENTER HARBOR</City>
+            <State>NH</State>
+            <ZIPCode>03226</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>511237</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>18178</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>529415</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>529415</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>7941</CashDeemedCharitable>
+        <NetNoncharitableAssets>521474</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>26074</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>26074</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>212</TaxBasedOnInvestmentIncome>
+        <TotalTax>212</TotalTax>
+        <DistributableAmountBeforeAdj>25862</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>25862</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>25862</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>25000</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>25000</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>212</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>24788</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>25862</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>67</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <TotalExcessDistriCarryover>0</TotalExcessDistriCarryover>
+        <QualifyingDistributions>25000</QualifyingDistributions>
+        <AppliedToYear1>67</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>24933</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>0</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>929</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>0</ExcessDistriCyovToNextYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>THE FOUNDATION CO JOSEPH SAEGH</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>32 MONADNOCK ROAD</AddressLine1>
+            <City>WELLESLEY HILLS</City>
+            <State>MA</State>
+            <ZIPCode>02181</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>7812354751</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>NOT SPECIFIED</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>NONE</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>COMBINED JEWISH PHILANTHROPIES</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>126 HIGH STREET</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02110</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PRIVATE</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RELIGIOUS</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>25000</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>10987</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>17011</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>10987</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>17011</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>27998</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>8</LineNumber>
+          <RelationshipStatement>GAIN ON SALE OF STOCKS</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>3800</Amount>
+        <NetInvestmentIncome>3800</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc2044400001">
+      <InvestmentsCorpBonds>
+        <NameOfBond>GOLDMAN SACHS</NameOfBond>
+        <EOYBookValue>20025</EOYBookValue>
+        <EOYFMV>23113</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorpStock>
+        <NameOfStock>GOLDMAN SACHS</NameOfStock>
+        <EOYBookValue>374013</EOYBookValue>
+        <EOYFMV>545444</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>WIRE IN FEE</Description>
+        <RevenueAndExpensesPerBooks>15</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>15</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>ADVERTISING</Description>
+        <RevenueAndExpensesPerBooks>107</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>107</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>INVESTMENT MANAGEMENT FEES</Description>
+        <RevenueAndExpensesPerBooks>2726</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>2726</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="RetDoc2049700001">
+      <OtherIncreases>
+        <Description>TRANSFER FROM PRIOR FOUNDATION</Description>
+        <Amount>9218</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <OtherLiabilitiesSchedule documentId="RetDoc2065700001">
+      <OtherLiabilities>
+        <Description>DUE TO J.S. &amp; SADYE Z. GORDON FAMILY FOUNDATION</Description>
+        <BOYBookValue>5547</BOYBookValue>
+        <EOYBookValue>0</EOYBookValue>
+      </OtherLiabilities>
+    </OtherLiabilitiesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>COMM OF MASS</Category>
+        <Amount>35</Amount>
+        <NetInvestmentIncome>35</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>FOREIGN TAX PAID</Category>
+        <Amount>68</Amount>
+        <NetInvestmentIncome>68</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>FEDERAL TAXES</Category>
+        <Amount>99</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

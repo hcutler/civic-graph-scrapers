@@ -1,0 +1,483 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-03-01T07:31:04-08:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Grant &amp; Pottackal PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>31 Washington St</AddressLine1>
+        <City>Wellesley</City>
+        <State>MA</State>
+        <ZIPCode>02481</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>046054237</EIN>
+      <Name>
+        <BusinessNameLine1>SCOTS CHARITABLE SOCIETY BOSTON -</BusinessNameLine1>
+        <BusinessNameLine2>WOMANS AUXILIARY BOARD</BusinessNameLine2>
+      </Name>
+      <NameControl>SCOT</NameControl>
+      <Phone>5086530461</Phone>
+      <USAddress>
+        <AddressLine1>c/o BOSULLIVAN - 10 WEDGEWOOD RD</AddressLine1>
+        <City>NATICK</City>
+        <State>MA</State>
+        <ZIPCode>01760</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>MRS BARBARA O'SULLIVAN</Name>
+      <Title>TREASURER</Title>
+      <DateSigned>2011-03-01</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>George J Pottackal</Name>
+      <Phone>7814317211</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>0</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>2000</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>1381</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>1381</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>1381</InterestOnSavingsAdjNetIncm>
+        <DividendsRevAndExpnss>11827</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>11827</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>11827</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss>-44605</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>4330</GrossSalesPrice>
+        <NetSTCGAdjNetIncm>7</NetSTCGAdjNetIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId=" OtherIncomeSchedule2">180</OtherIncomeRevAndExpnss>
+        <TotalRevenueAndExpenses>-29217</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>13208</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>13215</TotalAdjustedNetIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId=" AccountingFeesSchedule">2000</AccountingFeesRevAndExpnss>
+        <TaxesRevAndExpnss referenceDocumentId=" TaxesSchedule">270</TaxesRevAndExpnss>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">134</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>2404</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>12200</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>12200</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>14604</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>12200</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-43821</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>13208</NetInvestmentIncome>
+        <AdjustedNetIncome>13215</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>6829</CashBOY>
+        <CashEOY>7802</CashEOY>
+        <SavingsAndTempCashInvstBOY>19084</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>23224</SavingsAndTempCashInvstEOY>
+        <InvestmentsCorpStockBOY>274898</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY>225964</InvestmentsCorpStockEOY>
+        <InvestmentsOtherBOY>68000</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY>68000</InvestmentsOtherEOY>
+        <OtherAssetsBOY referenceDocumentId=" OtherAssetsSchedule">1</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId=" OtherAssetsSchedule">1</OtherAssetsEOY>
+        <TotalAssetsBOY>368812</TotalAssetsBOY>
+        <TotalAssetsEOY>324991</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>0</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>59128</UnrestrictedBOY>
+        <UnrestrictedEOY>13307</UnrestrictedEOY>
+        <PermanentlyRestrictedBOY>309684</PermanentlyRestrictedBOY>
+        <PermanentlyRestrictedEOY>311684</PermanentlyRestrictedEOY>
+        <TotalNetAssetsBOY>368812</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>324991</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>368812</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>324991</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>368812</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-43821</ExcessOfRevenueOverExpenses>
+        <Subtotal>324991</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>324991</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainNetIncome>-44605</CapitalGainNetIncome>
+        <NetShortTermCapitalGainOrLoss>7</NetShortTermCapitalGainOrLoss>
+      </CapitalGainsAndLosses>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>264</InvestmentIncomeExciseTax>
+        <Subtotal>264</Subtotal>
+        <TaxBasedOnInvestmentIncome>264</TaxBasedOnInvestmentIncome>
+        <TaxDue>264</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>MA</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>BARBARA OSULLIVAN</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>5086530461</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>10 WEDGEWOOD RD</AddressLine1>
+          <City>NATICK</City>
+          <State>MA</State>
+          <ZIPCode>01760</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MRS JEAN THOMPSON</PersonName>
+          <USAddress>
+            <AddressLine1>4 HANNA ROAD</AddressLine1>
+            <City>FRAMINGHAM</City>
+            <State>MA</State>
+            <ZIPCode>01701</ZIPCode>
+          </USAddress>
+          <Title>FIN. SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MRSCHRISTINE PELLETIER</PersonName>
+          <USAddress>
+            <AddressLine1>24 MILLER AVENUE</AddressLine1>
+            <City>FRAMINGHAM</City>
+            <State>MA</State>
+            <ZIPCode>01702</ZIPCode>
+          </USAddress>
+          <Title>VICE PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MRS BARBARA O'SULLIVAN</PersonName>
+          <USAddress>
+            <AddressLine1>10 WEDGEWOOD RD</AddressLine1>
+            <City>NATICK</City>
+            <State>MA</State>
+            <ZIPCode>01760</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MRS ETHEL MWYRWAS</PersonName>
+          <USAddress>
+            <AddressLine1>29 MIDLAND ROAD</AddressLine1>
+            <City>LYNNFIELD</City>
+            <State>MA</State>
+            <ZIPCode>01940</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>SCHOLARSHIPS GIVEN TO SEVEN STUDENTS</Description1>
+        <Expenses1>11300</Expenses1>
+        <Description2>CONTRIBUTION GIVEN TO SCOTS' CHARITABLE SOCIETY SCHOLARSHIP FUND</Description2>
+        <Expenses2>900</Expenses2>
+      </SummaryOfDirectCharitableActy>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>0</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>0</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>0</CashDeemedCharitable>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>0</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <TaxBasedOnInvestmentIncome>264</TaxBasedOnInvestmentIncome>
+        <TotalTax>264</TotalTax>
+        <DistributableAmountBeforeAdj>264</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>264</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>12200</ExpensesAndContributions>
+        <QualifyingDistributions>12200</QualifyingDistributions>
+        <AdjQualifyingDistributions>12200</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear4>3500</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>5300</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>9800</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>10000</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>28600</TotalExcessDistriCarryover>
+        <QualifyingDistributions>12200</QualifyingDistributions>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <RemainingDistriFromCorpus>12200</RemainingDistriFromCorpus>
+        <TotalCorpus>40800</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>40800</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>3500</ExcessFromYear4>
+        <ExcessFromYear3>5300</ExcessFromYear3>
+        <ExcessFromYear2>9800</ExcessFromYear2>
+        <ExcessFromYear1>10000</ExcessFromYear1>
+        <ExcessFromCurrentYear>12200</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>BARBARA O'SULLIVAN</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>10 WEDGEWOOD ROAD</AddressLine1>
+            <City>NATICK</City>
+            <State>MA</State>
+            <ZIPCode>01760</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>5086530461</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>PRINTED APPLICATION FORM WITH APPLICANTS NAME,ADDRESS,SOCIAL SECURITY NUMBER,NAME OF THE SPONSOR.NAME OF THE PERSON WHO HAS SCOTISH BACKGROUND,BIRTHPLACE OF THE PERSON AND THE RELATIONSHIP TO THE APPLICANT.NAME OF THE COLLEGE ADMITTED AND THE ADDRESS.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>MAY 30TH FOR THE FALL ADMISSION</SubmissionDeadlines>
+          <RestrictionsOnAwards>NO RESTRICTION EXCEPT THEY HAVE TO BE SCOTISH BACKGROUND.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CASSANDRA SHOCKLEY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>59 MARRON AVENUE</AddressLine1>
+            <City>STOUGHTON</City>
+            <State>MA</State>
+            <ZIPCode>02072</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PAID</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>1300</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>NANCY SCANLON</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>6 KING PHILIP PATH</AddressLine1>
+            <City>MENDON</City>
+            <State>MA</State>
+            <ZIPCode>01756</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PAID</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>2200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>KARA MACDONALD</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>65 BERKELEY STREET</AddressLine1>
+            <City>READING</City>
+            <State>MA</State>
+            <ZIPCode>01867</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PAID</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>1300</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JENNIFER LANNIGAN</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>22 ESSEX STREET</AddressLine1>
+            <City>NORFOLK</City>
+            <State>MA</State>
+            <ZIPCode>02056</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PAID</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>2200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>ALEXANDRA KOULOPOLIS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>77 HIGLEY ROAD</AddressLine1>
+            <City>ASHLAND</City>
+            <State>MA</State>
+            <ZIPCode>01721</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PAID</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>1300</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>ASHLEY CUNNINGHAM</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>176 FOREST STREET</AddressLine1>
+            <City>MELROSE</City>
+            <State>MA</State>
+            <ZIPCode>02176</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PAID</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>NICOLE AUGER</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>64 HIGH STREET</AddressLine1>
+            <City>BARRE</City>
+            <State>MA</State>
+            <ZIPCode>01005</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PAID</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SCOTS' CHARITABLE SOCIETY SCHOLARSH</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>5 OLD CENTER ROAD SOUTH</AddressLine1>
+            <City>DEERFIELD</City>
+            <State>NH</State>
+            <ZIPCode>03037</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PAID</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>900</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>12200</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <MembershipDuesAndAssessments>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>180</ExclusionAmount>
+        </MembershipDuesAndAssessments>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>1381</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>11827</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>-44605</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>13568</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>-44605</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>-31037</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>2</LineNumber>
+          <RelationshipStatement>TO HELP DEFRAY OPERATING &amp; ADMINISTRATIVE EXPENSES.</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <AccountingFees>
+        <Amount>2000</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherExpenses>
+        <Description>POSTAGE</Description>
+        <RevenueAndExpensesPerBooks>33</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OFFICE SUPPLIES</Description>
+        <RevenueAndExpensesPerBooks>48</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MISCELLANEOUS</Description>
+        <RevenueAndExpensesPerBooks>18</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>ANNUAL REPORTS</Description>
+        <RevenueAndExpensesPerBooks>35</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherIncome>
+        <Description>Membership Dues &amp; Assessments</Description>
+        <RevenueAndExpensesPerBooks>180</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <Taxes>
+        <Category>FEDERAL EXCISE ON INVESTMENT INCOME</Category>
+        <Amount>270</Amount>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

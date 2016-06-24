@@ -1,0 +1,467 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.3" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-01-13T13:47:34-08:00</Timestamp>
+    <TaxPeriodEndDate>2010-08-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>ROCKSTAR CPA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>117 N JEFFERSON ST STE 303</AddressLine1>
+        <City>CHICAGO</City>
+        <State>IL</State>
+        <ZIPCode>60661</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-09-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>946117979</EIN>
+      <Name>
+        <BusinessNameLine1>THE DISTRIBUTION FUND</BusinessNameLine1>
+      </Name>
+      <NameControl>DIST</NameControl>
+      <Phone>7735835553</Phone>
+      <USAddress>
+        <AddressLine1>2556 W BERTEAU</AddressLine1>
+        <City>CHICAGO</City>
+        <State>IL</State>
+        <ZIPCode>60618</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>PAUL KLEIN</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>7735835553</Phone>
+      <DateSigned>2011-01-13</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>MARTIN KAMENSKI</Name>
+      <Phone>3122812091</Phone>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="4">
+    <IRS990PF documentId="00000001" referenceDocumentName="ReasonableCauseExplanation GeneralExplanationAttachment">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>33835</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>439</DividendsRevAndExpnss>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>439</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>0</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss>3600</AccountingFeesRevAndExpnss>
+        <OtherProfFeesRevAndExpnss>15</OtherProfFeesRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="00000004" referenceDocumentName="AmortizationSchedule OtherExpensesSchedule">281</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>3896</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>9325</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>13221</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>0</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-12782</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>4241</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>1811</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>1811</SavingsAndTempCashInvstEOYFMV>
+        <PrepaidExpensesBOY>1840</PrepaidExpensesBOY>
+        <InvestmentsCorpStockBOY>30246</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="00000003" referenceDocumentName="InvestmentsCorpStockSchedule">33102</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>32024</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>36327</TotalAssetsBOY>
+        <TotalAssetsEOY>34913</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>33835</TotalAssetsEOYFMV>
+        <OtherLiabilitiesEOY>11368</OtherLiabilitiesEOY>
+        <TotalLiabilitiesEOY>11368</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>36327</RetainedEarningsBOY>
+        <RetainedEarningsEOY>23545</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>36327</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>23545</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>36327</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>34913</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>36327</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-12782</ExcessOfRevenueOverExpenses>
+        <Subtotal>23545</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>23545</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear2>33942</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>109423</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.310191</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>41350</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>136162</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.303682</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>46276</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>162237</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.285237</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>54717</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>182152</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.300392</DistributionRatioYear5>
+        <TotalDistributionRatio>1.199502</TotalDistributionRatio>
+        <AverageDistributionRatio>0.299876</AverageDistributionRatio>
+        <AdjNonchrtblAssetsAndOnePct>0</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>0</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <TaxBasedOnInvestmentIncome>0</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>1590</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>1590</TotalCreditsAndPayments>
+        <OriginalReturnOverpayment>-1590</OriginalReturnOverpayment>
+        <Overpayment>1590</Overpayment>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+        <AmountToBeRefunded>1590</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>IL</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>PAUL KLEIN</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>7735835553</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>2556 W BERTEAU</AddressLine1>
+          <City>CHICAGO</City>
+          <State>IL</State>
+          <ZIPCode>60618</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>PAUL KLEIN</PersonName>
+          <USAddress>
+            <AddressLine1>2556 W BERTEAU</AddressLine1>
+            <City>CHICAGO</City>
+            <State>IL</State>
+            <ZIPCode>60618</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>10.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>KATHERINE KLEIN</PersonName>
+          <USAddress>
+            <AddressLine1>3751 JENNIFER ST NW</AddressLine1>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20115</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>HENRY KLEIN</PersonName>
+          <USAddress>
+            <AddressLine1>643 EAST LAKE</AddressLine1>
+            <City>REDMOND</City>
+            <State>WA</State>
+            <ZIPCode>98053</ZIPCode>
+          </USAddress>
+          <Title>SEC/TREAS</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>SANDRA FRUM</PersonName>
+          <USAddress>
+            <AddressLine1>3211 GLENBROOK DR</AddressLine1>
+            <City>NORTHBROOK</City>
+            <State>IL</State>
+            <ZIPCode>60062</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>0</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>0</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>0</CashDeemedCharitable>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>0</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>0</ExpensesAndContributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>46175</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>46350</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>34746</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>28787</ExcessDistriCarryoverYear2>
+        <TotalExcessDistriCarryover>156058</TotalExcessDistriCarryover>
+        <TotalCorpus>156058</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>46175</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>109883</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>46350</ExcessFromYear4>
+        <ExcessFromYear3>34746</ExcessFromYear3>
+        <ExcessFromYear2>28787</ExcessFromYear2>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>NONE</ContributingManager>
+        <ShareholderManager>NONE</ShareholderManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>PAUL KLEIN</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>2556 BERTEAU</AddressLine1>
+            <City>CHICAGO</City>
+            <State>IL</State>
+            <ZIPCode>60618</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>7735835553</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>A SHORT LETTER</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>NONE</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SOCIETY FOR CONTEMPORARY ART</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>111 S MICHIGAN AVE</AddressLine1>
+            <City>CHICAGO</City>
+            <State>IL</State>
+            <ZIPCode>60603</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ARTS</PurposeOfGrantOrContribution>
+          <Amount>800</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ART INSTITUTE OF CHICAGO</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>111 S MICHIGAN AVE</AddressLine1>
+            <City>CHICAGO</City>
+            <State>IL</State>
+            <ZIPCode>60603</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ARTS</PurposeOfGrantOrContribution>
+          <Amount>325</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>COLLABORACTION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1850 W HUBBARD ST</AddressLine1>
+            <City>CHICAGO</City>
+            <State>IL</State>
+            <ZIPCode>60622</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ARTS</PurposeOfGrantOrContribution>
+          <Amount>4800</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HYDE PARK ARTS CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5020 S CORNELL AVE</AddressLine1>
+            <City>CHICAGO</City>
+            <State>IL</State>
+            <ZIPCode>60615</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ARTS</PurposeOfGrantOrContribution>
+          <Amount>1250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MUSEUM OF CONTEMPORARY ART</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>220 E CHICAGO AVE</AddressLine1>
+            <City>CHICAGO</City>
+            <State>IL</State>
+            <ZIPCode>60611</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ARTS</PurposeOfGrantOrContribution>
+          <Amount>750</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>EVANSTON ARTS CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2603 SHERIDAN RD</AddressLine1>
+            <City>EVANSTON</City>
+            <State>IL</State>
+            <ZIPCode>60201</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ARTS</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PUBLIC MEDIA INSTITUTE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>960 W 31ST ST</AddressLine1>
+            <City>CHICAGO</City>
+            <State>IL</State>
+            <ZIPCode>60608</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ARTS</PurposeOfGrantOrContribution>
+          <Amount>300</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CO-OP IMAGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1337 N MAPLEWOOD</AddressLine1>
+            <City>CHICAGO</City>
+            <State>IL</State>
+            <ZIPCode>60622</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ARTS</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>9325</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <RelatedOrExemptFunctionIncome>439</RelatedOrExemptFunctionIncome>
+        </DividendsAndIntFromSecPartVII>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>439</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>439</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>4</LineNumber>
+          <RelationshipStatement>DIVIDENDS EARNED HAVE BEEN DISTRIBUTED TO ORGANIZATIONS IN ACCORDANCE WITH THE FOUNDATIONS MISSION.</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AllOthProgRltdInvestmentsSch documentId="00000002">
+      <AllOthProgRltdInvestments>
+        <Description>NONE</Description>
+      </AllOthProgRltdInvestments>
+    </AllOthProgRltdInvestmentsSch>
+    <InvestmentsCorpStockSchedule documentId="00000003">
+      <InvestmentsCorpStock>
+        <NameOfStock>ISHARES S&amp;P GLOBAL TELECOM</NameOfStock>
+        <EOYBookValue>2425</EOYBookValue>
+        <EOYFMV>2582</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>SPIDER TRUST SHORT TERM MUNICIPAL</NameOfStock>
+        <EOYBookValue>10039</EOYBookValue>
+        <EOYFMV>10222</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>SCHWAB SM/MID IDX INST</NameOfStock>
+        <EOYBookValue>5000</EOYBookValue>
+        <EOYFMV>6321</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>HARRIS ASSOC INVT OAKMARK INTERNATIONAL</NameOfStock>
+        <EOYBookValue>12782</EOYBookValue>
+        <EOYFMV>10354</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>SCHWAB STRATEGIC US LARGE CAP ETF</NameOfStock>
+        <EOYBookValue>2856</EOYBookValue>
+        <EOYFMV>2545</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="00000004">
+      <OtherExpenses>
+        <Description>SEC HOLDING MNGT FEE</Description>
+        <RevenueAndExpensesPerBooks>281</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

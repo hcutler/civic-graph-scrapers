@@ -1,0 +1,410 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-06-08T11:50:59-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-01-31</TaxPeriodEndDate>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-02-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>236691452</EIN>
+      <Name>
+        <BusinessNameLine1>EVELYN LENNON STEIDLER TRUST</BusinessNameLine1>
+      </Name>
+      <NameControl>STEI</NameControl>
+      <Phone>4127623779</Phone>
+      <USAddress>
+        <AddressLine1>c/o PNC BANK 620 LIBERTY AVENUE No</AddressLine1>
+        <AddressLine2>10THFL</AddressLine2>
+        <City>PITTSBURGH</City>
+        <State>PA</State>
+        <ZIPCode>152222705</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>DALE WKOHSER</Name>
+      <Title>ASSISTANT VICE PRESIDENT</Title>
+      <Phone>4127623779</Phone>
+      <DateSigned>2010-06-08</DateSigned>
+    </Officer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="RetDoc1235000001">
+      <NECT>X</NECT>
+      <FMVAssetsEOY>310663</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>3</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>3</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>8989</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>8989</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>3245</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>9450</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>2650</CapitalGainNetIncmNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc2001500001">82</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>0</OtherIncomeNetInvstIncm>
+        <TotalRevenueAndExpenses>12319</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>11642</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>3394</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>2579</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>815</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">700</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>0</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>700</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">40</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>0</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>0</TaxesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>4134</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>2579</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>1515</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>13492</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>13492</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>17626</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>2579</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>15007</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-5307</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>9063</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>978</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>1426</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>1426</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsOtherBOY>282376</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc2018100001">276621</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>309237</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>283354</TotalAssetsBOY>
+        <TotalAssetsEOY>278047</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>310663</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>283354</CapitalStockBOY>
+        <CapitalStockEOY>278047</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>0</RetainedEarningsBOY>
+        <RetainedEarningsEOY>0</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>283354</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>278047</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>283354</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>278047</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>283354</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-5307</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>278047</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>278047</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>ST CAPITAL GAIN DIVIDENDS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>450</GrossSalesPrice>
+          <GainOrLoss>450</GainOrLoss>
+          <GainsMinusExcessOrLosses>450</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>SALES OF PUBLICLY TRADED SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>9000</GrossSalesPrice>
+          <CostOrOtherBasis>6800</CostOrOtherBasis>
+          <GainOrLoss>2200</GainOrLoss>
+          <GainsMinusExcessOrLosses>2200</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>2650</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>20110</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>327892</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.061331</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>19334</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>392851</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.049215</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>17706</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>372644</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.047515</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>17484</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>359577</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.048624</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>17296</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>352960</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.049003</DistributionRatioYear5>
+        <TotalDistributionRatio>0.255688</TotalDistributionRatio>
+        <AverageDistributionRatio>0.051138</AverageDistributionRatio>
+        <NetNoncharitableAssets>288503</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>14753</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>91</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>14844</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>15007</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>91</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>91</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>91</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>80</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>80</TotalCreditsAndPayments>
+        <TaxDue>11</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>PA</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>PNC BANKNA</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>4127623779</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>620 LIBERTY AVENUE 10TH FLOOR</AddressLine1>
+          <City>PITTSBURGH</City>
+          <State>PA</State>
+          <ZIPCode>152222705</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <NECTFilingInLieuOFForm1041>X</NECTFilingInLieuOFForm1041>
+        <TaxExemptInterestReceived>0</TaxExemptInterestReceived>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>1</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>0</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>PNC BANKNA</PersonName>
+          <USAddress>
+            <AddressLine1>620 LIBERTY AVENUE</AddressLine1>
+            <City>PITTSBURGH</City>
+            <State>PA</State>
+            <ZIPCode>152222705</ZIPCode>
+          </USAddress>
+          <Title>CO-TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>2715</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>GILBERT P HIGH JR ESQ</PersonName>
+          <USAddress>
+            <AddressLine1>40 EAST AIRY STREET</AddressLine1>
+            <City>NORRISTOWN</City>
+            <State>PA</State>
+            <ZIPCode>19404</ZIPCode>
+          </USAddress>
+          <Title>CO-TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>679</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>N/A</Description1>
+        <Expenses1>0</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+        <Amount1>0</Amount1>
+        <AllOthProgRltdInvestmentsTotal referenceDocumentId="RetDoc2063500001">0</AllOthProgRltdInvestmentsTotal>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>292896</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>292896</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>292896</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>4393</CashDeemedCharitable>
+        <NetNoncharitableAssets>288503</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>14425</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>14425</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>91</TaxBasedOnInvestmentIncome>
+        <TotalTax>91</TotalTax>
+        <DistributableAmountBeforeAdj>14334</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>14334</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>14334</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>15007</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>15007</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>91</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>14916</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>14334</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>12816</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <TotalExcessDistriCarryover>0</TotalExcessDistriCarryover>
+        <QualifyingDistributions>15007</QualifyingDistributions>
+        <AppliedToYear1>12816</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>2191</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>0</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>12143</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>0</ExcessDistriCyovToNextYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NOTRE DAME HOME FOR THE AGED</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>32 court street</AddressLine1>
+            <City>brooklyn</City>
+            <State>NY</State>
+            <ZIPCode>11201</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CURRENT EXPENSES</PurposeOfGrantOrContribution>
+          <Amount>13492</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>13492</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>3</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>8989</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>3245</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <OtherRevenueDescribed>
+          <Description>EXCISE TAX REFUND</Description>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>82</ExclusionAmount>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>12319</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>12319</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>PREPARATION AND FILING FEE</Category>
+        <Amount>700</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>700</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <AllOthProgRltdInvestmentsSch documentId="RetDoc2063500001">
+      <AllOthProgRltdInvestments>
+        <Description>N/A</Description>
+        <Amount>0</Amount>
+      </AllOthProgRltdInvestments>
+    </AllOthProgRltdInvestmentsSch>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOther>
+        <CategoryOrItem>MUTUAL FUNDS- FIXED</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>161907</BookValue>
+        <EOYFMV>154659</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>MUTUAL FUNDS- EQUITY</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>114714</BookValue>
+        <EOYFMV>154578</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherIncomeSchedule2 documentId="RetDoc2001500001">
+      <OtherIncome>
+        <Description>EXCISE TAX REFUND</Description>
+        <RevenueAndExpensesPerBooks>82</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>82</AdjustedNetIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>ESTIMATED 2010 FEDERAL EXCISE TAX</Category>
+        <Amount>40</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

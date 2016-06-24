@@ -1,0 +1,835 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-09-01T14:41:31-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-05-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>PRADERE MOHATT &amp; RINALDO LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>PO BOX 603</AddressLine1>
+        <City>SHERIDAN</City>
+        <State>WY</State>
+        <ZIPCode>828010603</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-06-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>841409098</EIN>
+      <Name>
+        <BusinessNameLine1>ANNE &amp; SCOTT NICKERSON FAMILY</BusinessNameLine1>
+        <BusinessNameLine2>FOUNDATION</BusinessNameLine2>
+      </Name>
+      <NameControl>ANNE</NameControl>
+      <Phone>3076749875</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 278</AddressLine1>
+        <City>BIG HORN</City>
+        <State>WY</State>
+        <ZIPCode>82833</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>ANNE NICKERSON</Name>
+      <Title>SECRETARY</Title>
+      <Phone>3076749875</Phone>
+      <DateSigned>2010-08-20</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>EVERETT J MOHATT</Name>
+      <Phone>3076726494</Phone>
+      <DatePrepared>2010-09-01</DatePrepared>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="9">
+    <IRS990PF documentId="RetDoc2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>3486271</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>210666</ContriReceivedRevAndExpnss>
+        <DividendsRevAndExpnss>82575</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>82575</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>13037</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>29587</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>13037</CapitalGainNetIncmNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc8">150</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>150</OtherIncomeNetInvstIncm>
+        <TotalRevenueAndExpenses>306428</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>95762</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc3">1500</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>1125</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>375</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc9">11878</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>9316</TaxesNetInvstIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc6">128</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>52</OtherExpensesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>13506</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>10493</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>375</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>157900</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>157900</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>171406</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>10493</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>158275</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>135022</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>85269</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>172956</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>56214</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>56214</SavingsAndTempCashInvstEOYFMV>
+        <PrepaidExpensesBOY>5623</PrepaidExpensesBOY>
+        <PrepaidExpensesEOY>25765</PrepaidExpensesEOY>
+        <InvestmentsCorpStockBOY>2524835</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc4">2823976</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>2823976</InvestmentsCorpStockEOYFMV>
+        <InvestmentsOtherBOY>281100</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc5">606081</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>606081</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>2984514</TotalAssetsBOY>
+        <TotalAssetsEOY>3512036</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>3486271</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>2984514</UnrestrictedBOY>
+        <UnrestrictedEOY>3512036</UnrestrictedEOY>
+        <TotalNetAssetsBOY>2984514</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>3512036</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>2984514</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>3512036</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>2984514</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>135022</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="RetDoc7">392500</OtherIncreases>
+        <Subtotal>3512036</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>3512036</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>600 HALIBURTON</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2000-04-05</DateAcquired>
+          <DateSold>2010-05-03</DateSold>
+          <GrossSalesPrice>17752</GrossSalesPrice>
+          <CostOrOtherBasis>12415</CostOrOtherBasis>
+          <GainOrLoss>5337</GainOrLoss>
+          <GainsMinusExcessOrLosses>5337</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>400 HALIBURTON</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2002-12-17</DateAcquired>
+          <DateSold>2010-05-03</DateSold>
+          <GrossSalesPrice>11835</GrossSalesPrice>
+          <CostOrOtherBasis>4135</CostOrOtherBasis>
+          <GainOrLoss>7700</GainOrLoss>
+          <GainsMinusExcessOrLosses>7700</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>13037</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>144365</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>2840635</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.050821</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>150805</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>3253788</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.046348</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>151300</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>2760727</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.054804</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>98425</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>1886442</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.052175</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>79336</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>1234700</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.064255</DistributionRatioYear5>
+        <TotalDistributionRatio>0.268403</TotalDistributionRatio>
+        <AverageDistributionRatio>0.053681</AverageDistributionRatio>
+        <NetNoncharitableAssets>3157645</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>169506</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>853</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>170359</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>158275</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>1705</InvestmentIncomeExciseTax>
+        <Subtotal>1705</Subtotal>
+        <TaxBasedOnInvestmentIncome>1705</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>5105</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>5105</TotalCreditsAndPayments>
+        <Overpayment>3400</Overpayment>
+        <AmountCreditedToNextYear>3400</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>WY</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>PRADERE MOHATT &amp; RINALDO LLP</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>3076726494</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>2 N MAIN STE 301</AddressLine1>
+          <City>SHERIDAN</City>
+          <State>WY</State>
+          <ZIPCode>82801</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>SCOTT NICKERSON</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 278</AddressLine1>
+            <City>BIG HORN</City>
+            <State>WY</State>
+            <ZIPCode>82833</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ANNE NICKERSON</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 278</AddressLine1>
+            <City>BIG HORN</City>
+            <State>WY</State>
+            <ZIPCode>82833</ZIPCode>
+          </USAddress>
+          <Title>SECY/TREAS</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DAVID NICKERSON</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 278</AddressLine1>
+            <City>BIG HORN</City>
+            <State>WY</State>
+            <ZIPCode>82833</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>GREGORY NICKERSON</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 278</AddressLine1>
+            <City>BIG HORN</City>
+            <State>WY</State>
+            <ZIPCode>82833</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>PHILLIP NICKERSON</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 278</AddressLine1>
+            <City>BIG HORN</City>
+            <State>WY</State>
+            <ZIPCode>82833</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>2654782</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>126013</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>424936</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>3205731</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>3205731</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>48086</CashDeemedCharitable>
+        <NetNoncharitableAssets>3157645</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>157882</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>157882</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>1705</TaxBasedOnInvestmentIncome>
+        <TotalTax>1705</TotalTax>
+        <DistributableAmountBeforeAdj>156177</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>156177</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>156177</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>158275</ExpensesAndContributions>
+        <QualifyingDistributions>158275</QualifyingDistributions>
+        <AdjQualifyingDistributions>158275</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>156177</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>18089</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>8980</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>15767</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear1>2438</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>45274</TotalExcessDistriCarryover>
+        <QualifyingDistributions>158275</QualifyingDistributions>
+        <AppliedToCurrentYear>156177</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>2098</RemainingDistriFromCorpus>
+        <TotalCorpus>47372</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>18089</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>29283</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>8980</ExcessFromYear4>
+        <ExcessFromYear3>15767</ExcessFromYear3>
+        <ExcessFromYear1>2438</ExcessFromYear1>
+        <ExcessFromCurrentYear>2098</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>ANNE SCOTT NICKERSON</ContributingManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>ANNE SCOTT NICKERSON FAMILY FOUND</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 278</AddressLine1>
+            <City>BIG HORN</City>
+            <State>WY</State>
+            <ZIPCode>82833</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>3076749875</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>GRANT APPLICATION, INCLUDING: GENERAL APPLICANT INFORMATION, PROOF OF TAX EXEMPT STATUS UNDER SECTION 501(C)(3), MOST RECENT FINANCIAL REPORT IN THE FORM PROVIDED BY THE IRC OR TREASURY REGULATIONS, AMOUNT REQUESTED, AND PURPOSE (INCLUDING ANTICIPATED BUDGET AND OTHER FINANCIAL RESOURCES). ILLUSTRATIONS, EXHIBITS, OR OTHER WRITTEN EXPLANATORY INFORMATION TO OTHERWISE COMPLETE THE GRANT APPLICATION MAY ALSO BE ATTACHED.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>FOR RELIGIOUS, CHARITABLE, OR SCIENTIFIC PURPOSES RELATED TO PUBLIC SAFETY, LITERARY CONCERNS, CHILDREN, AND/OR ANIMALS.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>ALTERNATIVE ELDERCARE INC</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 444</AddressLine1>
+            <City>SHERIDAN</City>
+            <State>WY</State>
+            <ZIPCode>82801</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ELDER CARE PROJECT</PurposeOfGrantOrContribution>
+          <Amount>77000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>BIG HORN CITY HISTORICAL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 566</AddressLine1>
+            <City>BIG HORN</City>
+            <State>WY</State>
+            <ZIPCode>82833</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ELSA PROJECT</PurposeOfGrantOrContribution>
+          <Amount>3500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>BIG HORN EDUCATION</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 615</AddressLine1>
+            <City>BIG HORN</City>
+            <State>WY</State>
+            <ZIPCode>82833</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIPS</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CENTER FOR A VITAL COMMUN</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 6328</AddressLine1>
+            <City>SHERIDAN</City>
+            <State>WY</State>
+            <ZIPCode>82801</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CIVIC PROJECTS</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>BIG HORN MIDDLE SCHOOL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 490</AddressLine1>
+            <City>BIG HORN</City>
+            <State>WY</State>
+            <ZIPCode>82833</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>DESTINATION IMAGINATION</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>NICKERSON FAMILY ASSOC</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 296</AddressLine1>
+            <City>NORTH CHATHAM</City>
+            <State>MA</State>
+            <ZIPCode>02650</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENEALOGY PROGRAM</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SHERIDAN COUNTY SCHOOL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 819</AddressLine1>
+            <City>RANCHESTER</City>
+            <State>WY</State>
+            <ZIPCode>82839</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RAM RIVER WRITING PROJECT</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SHERIDAN CTY HISTORICAL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 73</AddressLine1>
+            <City>SHERIDAN</City>
+            <State>WY</State>
+            <ZIPCode>82801</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATIONAL PROGRAMMING</PurposeOfGrantOrContribution>
+          <Amount>6000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SHERIDAN COUNTY MEM</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 391</AddressLine1>
+            <City>SHERIDAN</City>
+            <State>WY</State>
+            <ZIPCode>82801</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SHERIDAN COUNTY YMCA</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>417 NORTH JEFFERSON</AddressLine1>
+            <City>SHERIDAN</City>
+            <State>WY</State>
+            <ZIPCode>82801</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>YMCA CAMP</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SHERIDAN COUNTY YMCA</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>417 NORTH JEFFERSON</AddressLine1>
+            <City>SHERIDAN</City>
+            <State>WY</State>
+            <ZIPCode>82801</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>COMMUNITY GARDEN PROJECT</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>VOLUNTEERS OF AMERICA</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1309 COFFEEN AVE</AddressLine1>
+            <City>SHERIDAN</City>
+            <State>WY</State>
+            <ZIPCode>82801</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>WORLD LEARNING</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 676</AddressLine1>
+            <City>BRATTLEBORO</City>
+            <State>VT</State>
+            <ZIPCode>05302</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIPS</PurposeOfGrantOrContribution>
+          <Amount>4000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>TONGUE RIVER VALLEY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 792</AddressLine1>
+            <City>RANCHESTER</City>
+            <State>WY</State>
+            <ZIPCode>82839</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>7500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>UNIVERSITY OF WYOMING</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1200 EAST IVINSON</AddressLine1>
+            <City>LARAMIE</City>
+            <State>WY</State>
+            <ZIPCode>82070</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>INT'L STUDIES PROGRAM</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>WYOMING WILDERNESS ASSOC</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 6588</AddressLine1>
+            <City>SHERIDAN</City>
+            <State>WY</State>
+            <ZIPCode>82801</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>WRITERS RETREAT</PurposeOfGrantOrContribution>
+          <Amount>1400</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>WYO THEATER</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 528</AddressLine1>
+            <City>SHERIDAN</City>
+            <State>WY</State>
+            <ZIPCode>82801</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SPECIAL PROJECTS</PurposeOfGrantOrContribution>
+          <Amount>5500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SHERIDAN COMMUNITY LAND</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>306 N MAIN</AddressLine1>
+            <City>SHERIDAN</City>
+            <State>WY</State>
+            <ZIPCode>82801</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>157900</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>82575</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>13037</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <OtherRevenueDescribed>
+          <Description>REFUND INVESTMENT FEES</Description>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>150</ExclusionAmount>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>95762</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>95762</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>ANNE SCOTT NICKERSON</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>PO BOX 278</AddressLine1>
+          <City>BIG HORN</City>
+          <State>WY</State>
+          <ZIPCode>82833</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>210666</AggregateContributions>
+        <NoncashContributionType>X</NoncashContributionType>
+      </ContributorInfo>
+      <NoncashProperty>
+        <ContributorNumberFromPartI>1</ContributorNumberFromPartI>
+        <NoncashPropertyDescription>6 KILOGRAMS GOLD BULLION</NoncashPropertyDescription>
+        <FairMarketValue>210666</FairMarketValue>
+        <DateReceived>2009-12-30</DateReceived>
+      </NoncashProperty>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc3">
+      <AccountingFees>
+        <Category>INDIRECT ACCOUNTING FEES</Category>
+        <Amount>1500</Amount>
+        <NetInvestmentIncome>1125</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>375</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc4">
+      <InvestmentsCorpStock>
+        <NameOfStock>BEGINNING OF YEAR</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>3000-ARC ENERGY TRUST</NameOfStock>
+        <EOYBookValue>59190</EOYBookValue>
+        <EOYFMV>59190</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1428 BP AMOCO</NameOfStock>
+        <EOYBookValue>61333</EOYBookValue>
+        <EOYFMV>61333</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1000 - CENOVUS ENERGY INC</NameOfStock>
+        <EOYBookValue>26940</EOYBookValue>
+        <EOYFMV>26940</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>29800-CENTRAL FUND CANADA LTD</NameOfStock>
+        <EOYBookValue>448192</EOYBookValue>
+        <EOYFMV>448192</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>600-CHEVRON CORP.</NameOfStock>
+        <EOYBookValue>44322</EOYBookValue>
+        <EOYFMV>44322</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>800-COCA COLA</NameOfStock>
+        <EOYBookValue>41120</EOYBookValue>
+        <EOYFMV>41120</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1000-ENCANA CORP</NameOfStock>
+        <EOYBookValue>30850</EOYBookValue>
+        <EOYFMV>30850</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>10600-ENERPLUS RES FD TR UT NEW</NameOfStock>
+        <EOYBookValue>233624</EOYBookValue>
+        <EOYFMV>233624</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>2000-EXXON MOBIL CORP</NameOfStock>
+        <EOYBookValue>120920</EOYBookValue>
+        <EOYFMV>120920</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>6000-GOLDCORP INC COM. NEW</NameOfStock>
+        <EOYBookValue>258540</EOYBookValue>
+        <EOYFMV>258540</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>7200-HECLA MINING CO.</NameOfStock>
+        <EOYBookValue>38736</EOYBookValue>
+        <EOYFMV>38736</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1000-JOHNSON &amp; JOHNSON</NameOfStock>
+        <EOYBookValue>58300</EOYBookValue>
+        <EOYFMV>58300</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>2300-KINDER MORGAN ENERGY PTRS LP</NameOfStock>
+        <EOYBookValue>146050</EOYBookValue>
+        <EOYFMV>146050</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1000-LIHIR GOLD LTD ADR</NameOfStock>
+        <EOYBookValue>33440</EOYBookValue>
+        <EOYFMV>33440</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>8000-MARKET VECTORS GOLD MINERS</NameOfStock>
+        <EOYBookValue>398880</EOYBookValue>
+        <EOYFMV>398880</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>2000 - MARKET VECTORS JR GOLD MINES</NameOfStock>
+        <EOYBookValue>54300</EOYBookValue>
+        <EOYFMV>54300</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>500-MERCK &amp; CO</NameOfStock>
+        <EOYBookValue>16845</EOYBookValue>
+        <EOYFMV>16845</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>10000-PARAMOUNT ENG TR UT</NameOfStock>
+        <EOYBookValue>46705</EOYBookValue>
+        <EOYFMV>46705</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>8000-PEMBINA PPLN INCM FD TR UT</NameOfStock>
+        <EOYBookValue>132248</EOYBookValue>
+        <EOYFMV>132248</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>8975-PENN WEST ENERGY TR</NameOfStock>
+        <EOYBookValue>172320</EOYBookValue>
+        <EOYFMV>172320</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>700-PEPSICO INC NC</NameOfStock>
+        <EOYBookValue>44023</EOYBookValue>
+        <EOYFMV>44023</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1200-PROCTOR &amp; GAMBLE</NameOfStock>
+        <EOYBookValue>73308</EOYBookValue>
+        <EOYFMV>73308</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>3000-ROYAL GOLD, INC.</NameOfStock>
+        <EOYBookValue>150420</EOYBookValue>
+        <EOYFMV>150420</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1000-SPROTT PHYSICAL GOLD TRUST</NameOfStock>
+        <EOYBookValue>11530</EOYBookValue>
+        <EOYFMV>11530</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>4000-SUNCOR ENERGY</NameOfStock>
+        <EOYBookValue>121840</EOYBookValue>
+        <EOYFMV>121840</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc5">
+      <InvestmentsOther>
+        <CategoryOrItem>300 S. AFRICAN KRUGGERANDS</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>371476</BookValue>
+        <EOYFMV>371476</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>192.9 OZ GOLD BULLION</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>234605</BookValue>
+        <EOYFMV>234605</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc6">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PTP PASSTHROUGH - NON DEDUCTI</Description>
+        <RevenueAndExpensesPerBooks>76</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>INVESTMENT EXPENSES</Description>
+        <RevenueAndExpensesPerBooks>52</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>52</NetInvestmentIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc8">
+      <OtherIncome>
+        <Description>REFUND INVESTMENT FEES</Description>
+        <RevenueAndExpensesPerBooks>150</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>150</NetInvestmentIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="RetDoc7">
+      <OtherIncreases>
+        <Description>UNREALIZED APPRECIATION IN ASSETS</Description>
+        <Amount>392500</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <TaxesSchedule documentId="RetDoc9">
+      <Taxes>
+        <Category>FOREIGN TAXES</Category>
+        <Amount>9316</Amount>
+        <NetInvestmentIncome>9316</NetInvestmentIncome>
+      </Taxes>
+      <Taxes>
+        <Category>EXCISE TAXES</Category>
+        <Amount>2562</Amount>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

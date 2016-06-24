@@ -1,0 +1,858 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2007v2.10">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-08-30T10:01:20-05:00</Timestamp>
+    <TaxPeriodEndDate>2008-09-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>EIDE BAILLY LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>2424 E 21st ST SUITE 200</AddressLine1>
+        <City>TULSA</City>
+        <State>OK</State>
+        <ZIPCode>74114</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2007-10-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>237314364</EIN>
+      <Name>
+        <BusinessNameLine1>Navajo Health Foundation</BusinessNameLine1>
+        <BusinessNameLine2>Sage Memorial Hospital Inc</BusinessNameLine2>
+      </Name>
+      <NameControl>NAVA</NameControl>
+      <Phone>9287554602</Phone>
+      <USAddress>
+        <AddressLine1>PO Box 457</AddressLine1>
+        <City>Ganado</City>
+        <State>AZ</State>
+        <ZIPCode>86505</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>CHARITY L ASKIE</Name>
+      <Title>FINANCE DIRECTOR</Title>
+      <Phone>9287554602</Phone>
+      <DateSigned>2010-08-30</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>STEVEN L TROUTMAN</Name>
+      <Phone>9187485000</Phone>
+      <DatePrepared>2010-08-23</DatePrepared>
+    </Preparer>
+    <TaxYear>2007</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="3">
+    <IRS990 documentId="RetDoc0001">
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <WebSite>sagememorial.org</WebSite>
+      <GroupReturn>0</GroupReturn>
+      <SepReturnFiledByMemberOfGroup>0</SepReturnFiledByMemberOfGroup>
+      <Organization501c typeOf501cOrganization="3" referenceDocumentId="RetDoc0002">X</Organization501c>
+      <GrossReceipts>21437163</GrossReceipts>
+      <DirectPublicSupport>1012312</DirectPublicSupport>
+      <GovernmentContributions>196101</GovernmentContributions>
+      <TotalCashContributions>1095863</TotalCashContributions>
+      <TotalNoncashContributions>112550</TotalNoncashContributions>
+      <TotalContributions>1208413</TotalContributions>
+      <ProgramServiceRevenue>19971147</ProgramServiceRevenue>
+      <DividendsAndIntFromSecurities>104380</DividendsAndIntFromSecurities>
+      <GrossRents>93693</GrossRents>
+      <NetRentalIncomeLoss>93693</NetRentalIncomeLoss>
+      <OtherRevenue>59530</OtherRevenue>
+      <TotalRevenue>21437163</TotalRevenue>
+      <ProgramServicesExpenses>16577410</ProgramServicesExpenses>
+      <ManagementAndGeneralExpenses>6265744</ManagementAndGeneralExpenses>
+      <FundraisingExpenses>13897</FundraisingExpenses>
+      <TotalExpenses>22857051</TotalExpenses>
+      <ExcessOrDeficitForYear>-1419888</ExcessOrDeficitForYear>
+      <NetAssetsOrFundBalancesBOY>10081415</NetAssetsOrFundBalancesBOY>
+      <OtherChangesInNetAssets referenceDocumentId="RetDoc0004">28099</OtherChangesInNetAssets>
+      <NetAssetsOrFundBalancesEOY>8689626</NetAssetsOrFundBalancesEOY>
+      <CompCurrentOfficersDirectors>
+        <Total>665173</Total>
+        <ProgramServices>303961</ProgramServices>
+        <ManagementAndGeneral>361212</ManagementAndGeneral>
+      </CompCurrentOfficersDirectors>
+      <OtherSalariesAndWages>
+        <Total>5708507</Total>
+        <ProgramServices>4091415</ProgramServices>
+        <ManagementAndGeneral>1615589</ManagementAndGeneral>
+        <Fundraising>1503</Fundraising>
+      </OtherSalariesAndWages>
+      <PensionPlanContributions>
+        <Total>71797</Total>
+        <ProgramServices>71797</ProgramServices>
+      </PensionPlanContributions>
+      <OtherEmployeeBenefits>
+        <Total>2261532</Total>
+        <ProgramServices>1628303</ProgramServices>
+        <ManagementAndGeneral>633229</ManagementAndGeneral>
+      </OtherEmployeeBenefits>
+      <Supplies>
+        <Total>381691</Total>
+        <ProgramServices>141359</ProgramServices>
+        <ManagementAndGeneral>236109</ManagementAndGeneral>
+        <Fundraising>4223</Fundraising>
+      </Supplies>
+      <Telephone>
+        <Total>329083</Total>
+        <ProgramServices>20425</ProgramServices>
+        <ManagementAndGeneral>308658</ManagementAndGeneral>
+      </Telephone>
+      <PostageAndShipping>
+        <Total>27603</Total>
+        <ProgramServices>265</ProgramServices>
+        <ManagementAndGeneral>25622</ManagementAndGeneral>
+        <Fundraising>1716</Fundraising>
+      </PostageAndShipping>
+      <Occupancy>
+        <Total>453563</Total>
+        <ProgramServices>15823</ProgramServices>
+        <ManagementAndGeneral>437740</ManagementAndGeneral>
+      </Occupancy>
+      <EquipmentRentalAndMaintenance>
+        <Total>469581</Total>
+        <ProgramServices>301664</ProgramServices>
+        <ManagementAndGeneral>165990</ManagementAndGeneral>
+        <Fundraising>1927</Fundraising>
+      </EquipmentRentalAndMaintenance>
+      <Travel>
+        <Total>679784</Total>
+        <ProgramServices>437065</ProgramServices>
+        <ManagementAndGeneral>239608</ManagementAndGeneral>
+        <Fundraising>3111</Fundraising>
+      </Travel>
+      <ConferencesConventionsMeetings>
+        <Total>16345</Total>
+        <ProgramServices>1234</ProgramServices>
+        <ManagementAndGeneral>15111</ManagementAndGeneral>
+      </ConferencesConventionsMeetings>
+      <Interest>
+        <Total>26552</Total>
+        <ManagementAndGeneral>26552</ManagementAndGeneral>
+      </Interest>
+      <DepreciationDepletionEtc referenceDocumentId="RetDoc0005">
+        <Total>647231</Total>
+        <ManagementAndGeneral>647231</ManagementAndGeneral>
+      </DepreciationDepletionEtc>
+      <OtherExpenses>
+        <Description>Bad debt</Description>
+        <Total>188265</Total>
+        <ProgramServices>188265</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Insurance</Description>
+        <Total>726252</Total>
+        <ProgramServices>1463</ProgramServices>
+        <ManagementAndGeneral>724789</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Pharmaceuticals</Description>
+        <Total>2318602</Total>
+        <ProgramServices>2305344</ProgramServices>
+        <ManagementAndGeneral>13253</ManagementAndGeneral>
+        <Fundraising>5</Fundraising>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Purchased Services</Description>
+        <Total>7307410</Total>
+        <ProgramServices>6952778</ProgramServices>
+        <ManagementAndGeneral>354632</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Education</Description>
+        <Total>67735</Total>
+        <ProgramServices>42391</ProgramServices>
+        <ManagementAndGeneral>25344</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Miscellaneous</Description>
+        <Total>320089</Total>
+        <ProgramServices>64108</ProgramServices>
+        <ManagementAndGeneral>255940</ManagementAndGeneral>
+        <Fundraising>41</Fundraising>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>DUES &amp; SUBSCRIPTIONS</Description>
+        <Total>25329</Total>
+        <ProgramServices>7168</ProgramServices>
+        <ManagementAndGeneral>16790</ManagementAndGeneral>
+        <Fundraising>1371</Fundraising>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK CHARGES</Description>
+        <Total>75660</Total>
+        <ManagementAndGeneral>75660</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>SCHOLARSHIPS</Description>
+        <Total>6988</Total>
+        <ManagementAndGeneral>6988</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>LINEN &amp; BEDDING</Description>
+        <Total>21907</Total>
+        <ManagementAndGeneral>21907</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>FOOD</Description>
+        <Total>-3447</Total>
+        <ManagementAndGeneral>-3447</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>ADVERTISING</Description>
+        <Total>61237</Total>
+        <ManagementAndGeneral>61237</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PUBLIC RELATIONS</Description>
+        <Total>2582</Total>
+        <ProgramServices>2582</ProgramServices>
+      </OtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>22857051</Total>
+        <ProgramServices>16577410</ProgramServices>
+        <ManagementAndGeneral>6265744</ManagementAndGeneral>
+        <Fundraising>13897</Fundraising>
+      </TotalFunctionalExpenses>
+      <PrimaryExemptPurpose>NAVAJO HEALTH FOUNDATION OPERATES A 25 BED ACUTE CARE FACILITY, FOUR OUTPATIENT CLINICS, THREE DENTAL CLINICS, AND A COMMUNITY HEALTH NURSING SERVICE AND SERVES THE NAVAJO NATION.</PrimaryExemptPurpose>
+      <ProgramServiceAccomplishments>
+        <DescriptionProgramServiceAccom>NAVAJO HEALTH FOUNDATION-SAGE MEMORIAL HOSPITAL PROVIDED CARE TO APPROXIMATELY 600 INPATIENTS AND 36,500 OUTPATIENTS, AS WELL AS PROVIDING EMERGENCY CARE AND DENTAL CARE SERVICES. SAGE MEMORIAL HOSPITAL SERVES PRIMARILY MEMBERS OF THE NAVAJO NATION. SAGE MEMORIAL HOSPITAL ADMINISTERED SPECIAL DIABETES PREVENTION AND TREATMENT PROJECTS FOR NAVAJOS. DEVELOPED PUBLIC HEALTH AND SOCIAL SERVICES EMERGENCY RESPONSE PLAN.</DescriptionProgramServiceAccom>
+        <ProgramServiceExpenses>16577410</ProgramServiceExpenses>
+      </ProgramServiceAccomplishments>
+      <TotalProgramServicesExpenses>16577410</TotalProgramServicesExpenses>
+      <CashNonInterestBearing>
+        <BOY>1460959</BOY>
+        <EOY>709781</EOY>
+      </CashNonInterestBearing>
+      <AccountsReceivable>5922833</AccountsReceivable>
+      <ArAllowanceDoubtfulAccounts>2450095</ArAllowanceDoubtfulAccounts>
+      <AccountsReceivableNet>
+        <BOY>3323554</BOY>
+        <EOY>3472738</EOY>
+      </AccountsReceivableNet>
+      <PrepaidExpensesDeferredCharges>
+        <BOY>102677</BOY>
+      </PrepaidExpensesDeferredCharges>
+      <LandBuildingsEquipmentBasis>17664731</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>13006611</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>4470536</BOY>
+        <EOY referenceDocumentId="RetDoc0006">4658120</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <OtherAssetsTotal>
+        <BOY>4353386</BOY>
+        <EOY referenceDocumentId="RetDoc0007">3169062</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>13711112</BOY>
+        <EOY>12009701</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>2905739</BOY>
+        <EOY>2686337</EOY>
+      </AccountsPayableAccruedExpenses>
+      <MortgagesAndNotesPayable>
+        <BOY>575882</BOY>
+        <EOY referenceDocumentId="RetDoc0008">431742</EOY>
+      </MortgagesAndNotesPayable>
+      <OtherLiabilitiesTotal>
+        <BOY>148076</BOY>
+        <EOY referenceDocumentId="RetDoc0009">201996</EOY>
+      </OtherLiabilitiesTotal>
+      <TotalLiabilities>
+        <BOY>3629697</BOY>
+        <EOY>3320075</EOY>
+      </TotalLiabilities>
+      <OrgFollowsSFAS117>X</OrgFollowsSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>8488254</BOY>
+        <EOY>7096465</EOY>
+      </UnrestrictedNetAssets>
+      <TemporarilyRestrictedNetAssets>
+        <BOY>935161</BOY>
+        <EOY>935161</EOY>
+      </TemporarilyRestrictedNetAssets>
+      <PermanentlyRestrictedNetAssets>
+        <BOY>658000</BOY>
+        <EOY>658000</EOY>
+      </PermanentlyRestrictedNetAssets>
+      <TotalNetAssetsOrFundBalances>
+        <BOY>10081415</BOY>
+        <EOY>8689626</EOY>
+      </TotalNetAssetsOrFundBalances>
+      <TotalLiabilitiesAndNetAssets>
+        <BOY>13711112</BOY>
+        <EOY>12009701</EOY>
+      </TotalLiabilitiesAndNetAssets>
+      <TotRevenueEtcAuditedFinclStmt>21465257</TotRevenueEtcAuditedFinclStmt>
+      <NetUnrealizedGainsInvestments>28094</NetUnrealizedGainsInvestments>
+      <TotAmtIncldOnLnaButNotOnLn12>28094</TotAmtIncldOnLnaButNotOnLn12>
+      <PartIVALineaMinusLineb>21437163</PartIVALineaMinusLineb>
+      <TotalRevenuePerLine12>21437163</TotalRevenuePerLine12>
+      <TotExpensesEtcAuditedFinclStmt>22857051</TotExpensesEtcAuditedFinclStmt>
+      <PartIVBLineaMinusLineb>22857051</PartIVBLineaMinusLineb>
+      <TotalExpensesPerLine17>22857051</TotalExpensesPerLine17>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>RAZAGHIAHMAD- Mgmt Company</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 457</AddressLine1>
+          <City>GANADO</City>
+          <State>AZ</State>
+          <ZIPCode>86505</ZIPCode>
+        </AddressUS>
+        <Title>CHIEF EXECUTIVE OFFICER</Title>
+        <AvgHoursPerWkDevotedToPosition>40.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>15815</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>RAZAGHIKORY- Mgmt Company</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 457</AddressLine1>
+          <City>GANADO</City>
+          <State>AZ</State>
+          <ZIPCode>86505</ZIPCode>
+        </AddressUS>
+        <Title>CHIEF FINANCIAL OFFICER</Title>
+        <AvgHoursPerWkDevotedToPosition>40.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>15453</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>COUSENSTIMOTHY- Mgmt Company</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 457</AddressLine1>
+          <City>GANADO</City>
+          <State>AZ</State>
+          <ZIPCode>86505</ZIPCode>
+        </AddressUS>
+        <Title>CHIEF OPERATING OFFICER</Title>
+        <AvgHoursPerWkDevotedToPosition>40.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>FOWLERPERPHELIA- Mgmt Company</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 457</AddressLine1>
+          <City>GANADO</City>
+          <State>AZ</State>
+          <ZIPCode>86505</ZIPCode>
+        </AddressUS>
+        <Title>DIRECTOR OF HUMAN RESOURCES</Title>
+        <AvgHoursPerWkDevotedToPosition>40.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>2657</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>ASKIECHARITY- Mgmt Company</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 457</AddressLine1>
+          <City>GANADO</City>
+          <State>AZ</State>
+          <ZIPCode>86505</ZIPCode>
+        </AddressUS>
+        <Title>DIRECTOR OF FINANCE</Title>
+        <AvgHoursPerWkDevotedToPosition>40.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>491</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>3024</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>ANDEMICHAELMERON</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 457</AddressLine1>
+          <City>GANADO</City>
+          <State>AZ</State>
+          <ZIPCode>86505</ZIPCode>
+        </AddressUS>
+        <Title>DIRECTOR OF DENTAL</Title>
+        <AvgHoursPerWkDevotedToPosition>40.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>181450</Compensation>
+        <ContriToEmplBenefitPlansEtc>16006</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>3432</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>OFFOMAHNARIEL CHIKE</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 457</AddressLine1>
+          <City>GANADO</City>
+          <State>AZ</State>
+          <ZIPCode>86505</ZIPCode>
+        </AddressUS>
+        <Title>MEDICAL STAFF DIRECTOR</Title>
+        <AvgHoursPerWkDevotedToPosition>40.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>161171</Compensation>
+        <ContriToEmplBenefitPlansEtc>15500</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>2072</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>BEGAYWANDA A</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 457</AddressLine1>
+          <City>GANADO</City>
+          <State>AZ</State>
+          <ZIPCode>86505</ZIPCode>
+        </AddressUS>
+        <Title>DIRECTOR OF NURSING</Title>
+        <AvgHoursPerWkDevotedToPosition>40.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>82330</Compensation>
+        <ContriToEmplBenefitPlansEtc>4357</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>822</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>GORMANTOMICITA</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 457</AddressLine1>
+          <City>GANADO</City>
+          <State>AZ</State>
+          <ZIPCode>86505</ZIPCode>
+        </AddressUS>
+        <Title>BOARD OF DIRECTORS</Title>
+        <AvgHoursPerWkDevotedToPosition>8.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>22750</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>11590</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>BALDWIN DOROTHY</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 457</AddressLine1>
+          <City>GANADO</City>
+          <State>AZ</State>
+          <ZIPCode>86505</ZIPCode>
+        </AddressUS>
+        <Title>BOARD OF DIRECTORS</Title>
+        <AvgHoursPerWkDevotedToPosition>8.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>18000</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>7677</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>KELEWOODMAYBELLE</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 457</AddressLine1>
+          <City>GANADO</City>
+          <State>AZ</State>
+          <ZIPCode>86505</ZIPCode>
+        </AddressUS>
+        <Title>BOARD OF DIRECTORS</Title>
+        <AvgHoursPerWkDevotedToPosition>8.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>18000</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>7341</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>DEDMAN APRIL N</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 457</AddressLine1>
+          <City>GANADO</City>
+          <State>AZ</State>
+          <ZIPCode>86505</ZIPCode>
+        </AddressUS>
+        <Title>BOARD OF DIRECTORS</Title>
+        <AvgHoursPerWkDevotedToPosition>8.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>8500</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>2239</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>HALERONALD</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 457</AddressLine1>
+          <City>GANADO</City>
+          <State>AZ</State>
+          <ZIPCode>86505</ZIPCode>
+        </AddressUS>
+        <Title>BOARD OF DIRECTORS</Title>
+        <AvgHoursPerWkDevotedToPosition>8.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>8500</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>2631</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>SHEPHERDAMBROSE</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 457</AddressLine1>
+          <City>GANADO</City>
+          <State>AZ</State>
+          <ZIPCode>86505</ZIPCode>
+        </AddressUS>
+        <Title>BOARD OF DIRECTORS</Title>
+        <AvgHoursPerWkDevotedToPosition>8.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>8500</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>2086</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>TALIMANCHARLIE</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 457</AddressLine1>
+          <City>GANADO</City>
+          <State>AZ</State>
+          <ZIPCode>86505</ZIPCode>
+        </AddressUS>
+        <Title>BOARD OF DIRECTORS</Title>
+        <AvgHoursPerWkDevotedToPosition>8.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>8202</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>2330</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>SIMPSONANDREW</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 457</AddressLine1>
+          <City>GANADO</City>
+          <State>AZ</State>
+          <ZIPCode>86505</ZIPCode>
+        </AddressUS>
+        <Title>BOARD OF DIRECTORS</Title>
+        <AvgHoursPerWkDevotedToPosition>8.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>7797</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>2707</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>NEZ SR RICHIE</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 457</AddressLine1>
+          <City>GANADO</City>
+          <State>AZ</State>
+          <ZIPCode>86505</ZIPCode>
+        </AddressUS>
+        <Title>BOARD OF DIRECTORS</Title>
+        <AvgHoursPerWkDevotedToPosition>8.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>7750</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>3852</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <OfcrDirTrusteesOrKeyEmployee>
+        <PersonName>SPENCERBILL</PersonName>
+        <AddressUS>
+          <AddressLine1>PO BOX 457</AddressLine1>
+          <City>GANADO</City>
+          <State>AZ</State>
+          <ZIPCode>86505</ZIPCode>
+        </AddressUS>
+        <Title>BOARD OF DIRECTORS</Title>
+        <AvgHoursPerWkDevotedToPosition>8.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>7750</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>2391</ExpenseAccountOtherAllowances>
+      </OfcrDirTrusteesOrKeyEmployee>
+      <NumberOfOfficers>10</NumberOfOfficers>
+      <AreAnyRelated>0</AreAnyRelated>
+      <CompensationFromRelatedOrg>0</CompensationFromRelatedOrg>
+      <ConflictOfInterestPolicy>0</ConflictOfInterestPolicy>
+      <ActivitiesNotPreviouslyRpt>0</ActivitiesNotPreviouslyRpt>
+      <MadeChangesToOrgnzngEtcDoc>0</MadeChangesToOrgnzngEtcDoc>
+      <OrganizationHadUBI>0</OrganizationHadUBI>
+      <OrganizationDissolvedEtc>0</OrganizationDissolvedEtc>
+      <OrgIsRelatedToAnotherOrg>0</OrgIsRelatedToAnotherOrg>
+      <DidOrgFileForm1120POLThisYear>0</DidOrgFileForm1120POLThisYear>
+      <OrgReceivedDonatedServicesEtc>0</OrgReceivedDonatedServicesEtc>
+      <OrgCompliedWithPublicInspRqr>1</OrgCompliedWithPublicInspRqr>
+      <OrgCompliedWithDisclosureRqr>1</OrgCompliedWithDisclosureRqr>
+      <NondeductibleContribSoliciated>0</NondeductibleContribSoliciated>
+      <OwnershipOfTaxableCorporation>0</OwnershipOfTaxableCorporation>
+      <InterestControlledEntity>0</InterestControlledEntity>
+      <TaxImposedUnderIRC4911>0</TaxImposedUnderIRC4911>
+      <TaxImposedUnderIRC4912>0</TaxImposedUnderIRC4912>
+      <TaxImposedUnderIRC4955>0</TaxImposedUnderIRC4955>
+      <EngagedInExcessBenefitTrans>0</EngagedInExcessBenefitTrans>
+      <AmountOfTaxImposedOnOrgMgr>0</AmountOfTaxImposedOnOrgMgr>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+      <ExcessBusinessHoldings>0</ExcessBusinessHoldings>
+      <StatesWhereCopyOfReturnIsFiled>AZ</StatesWhereCopyOfReturnIsFiled>
+      <NumberOfEmployees>43</NumberOfEmployees>
+      <TheBooksAreInCareOf>
+        <NamePerson>CHARITY L ASKIE</NamePerson>
+        <AddressUS>
+          <AddressLine1>PO BOX 457</AddressLine1>
+          <City>GANADO</City>
+          <State>AZ</State>
+          <ZIPCode>86505</ZIPCode>
+        </AddressUS>
+        <TelephoneNumber>9257554615</TelephoneNumber>
+      </TheBooksAreInCareOf>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ForeignOffice>0</ForeignOffice>
+      <ProgramServiceRevenuePartVII>
+        <Description>Capitation Revenue</Description>
+        <RelatedOrExemptFunctionIncome>10720130</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenuePartVII>
+      <ProgramServiceRevenuePartVII>
+        <Description>Patient Service Revenue</Description>
+        <RelatedOrExemptFunctionIncome>9251017</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenuePartVII>
+      <DividendsAndIntFromSecPartVII>
+        <ExclusionCode>14</ExclusionCode>
+        <ExclusionAmount>104380</ExclusionAmount>
+      </DividendsAndIntFromSecPartVII>
+      <NetRntlIncmReNotDebtFincdProp>
+        <ExclusionCode>16</ExclusionCode>
+        <ExclusionAmount>93693</ExclusionAmount>
+      </NetRntlIncmReNotDebtFincdProp>
+      <OtherRevenueDescribed>
+        <Description>Other Revenue</Description>
+        <ExclusionCode>03</ExclusionCode>
+        <ExclusionAmount>59530</ExclusionAmount>
+      </OtherRevenueDescribed>
+      <SubtotalsPartVII>
+        <ExclusionAmount>257603</ExclusionAmount>
+        <RelatedOrExemptFunctionIncome>19971147</RelatedOrExemptFunctionIncome>
+      </SubtotalsPartVII>
+      <TotalPartVII>20228750</TotalPartVII>
+      <RlnOfActyToAccomOfExemptPrps>
+        <LineNumber>103A</LineNumber>
+        <RelationshipStatement>MISCELLANEOUS INCOME FROM LAB, PHARMACY, WELLNEESS AND OTHER MEDICAL</RelationshipStatement>
+      </RlnOfActyToAccomOfExemptPrps>
+      <OrgReceivedFundsToPayPremiums>0</OrgReceivedFundsToPayPremiums>
+      <OrganizationPaidPremiums>0</OrganizationPaidPremiums>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc0002">
+      <CompensationOfHighestPaidEmpl>
+        <Name>JULIA MONROE</Name>
+        <AddressUS>
+          <AddressLine1>PO BOX 457</AddressLine1>
+          <City>GANADO</City>
+          <State>AZ</State>
+          <ZIPCode>86505</ZIPCode>
+        </AddressUS>
+        <Title>REGISTERED NURSE</Title>
+        <AverageHoursPerWeek>80.00</AverageHoursPerWeek>
+        <Compensation>130460</Compensation>
+        <EmployeeBenefits>6501</EmployeeBenefits>
+        <ExpenseAccount>1044</ExpenseAccount>
+      </CompensationOfHighestPaidEmpl>
+      <CompensationOfHighestPaidEmpl>
+        <Name>JEREMY WRAY</Name>
+        <AddressUS>
+          <AddressLine1>PO BOX 457</AddressLine1>
+          <City>GANADO</City>
+          <State>AZ</State>
+          <ZIPCode>86505</ZIPCode>
+        </AddressUS>
+        <Title>ER PHYSICIAN</Title>
+        <AverageHoursPerWeek>80.00</AverageHoursPerWeek>
+        <Compensation>170972</Compensation>
+        <EmployeeBenefits>0</EmployeeBenefits>
+        <ExpenseAccount>1843</ExpenseAccount>
+      </CompensationOfHighestPaidEmpl>
+      <CompensationOfHighestPaidEmpl>
+        <Name>marsha taylor</Name>
+        <AddressUS>
+          <AddressLine1>PO BOX 457</AddressLine1>
+          <City>GANADO</City>
+          <State>AZ</State>
+          <ZIPCode>86505</ZIPCode>
+        </AddressUS>
+        <Title>staff dentist</Title>
+        <AverageHoursPerWeek>80.00</AverageHoursPerWeek>
+        <Compensation>125358</Compensation>
+        <EmployeeBenefits>14225</EmployeeBenefits>
+        <ExpenseAccount>257</ExpenseAccount>
+      </CompensationOfHighestPaidEmpl>
+      <CompensationOfHighestPaidEmpl>
+        <Name>SARA VALLADOLID</Name>
+        <AddressUS>
+          <AddressLine1>PO BOX 457</AddressLine1>
+          <City>GANADO</City>
+          <State>AZ</State>
+          <ZIPCode>86505</ZIPCode>
+        </AddressUS>
+        <Title>PEDIATRICIAN</Title>
+        <AverageHoursPerWeek>80.00</AverageHoursPerWeek>
+        <Compensation>159557</Compensation>
+        <EmployeeBenefits>0</EmployeeBenefits>
+        <ExpenseAccount>7996</ExpenseAccount>
+      </CompensationOfHighestPaidEmpl>
+      <CompensationOfHighestPaidEmpl>
+        <Name>MILES ERICKSON</Name>
+        <AddressUS>
+          <AddressLine1>PO BOX 457</AddressLine1>
+          <City>GANADO</City>
+          <State>AZ</State>
+          <ZIPCode>86505</ZIPCode>
+        </AddressUS>
+        <Title>PSYCHIATRIST</Title>
+        <AverageHoursPerWeek>80.00</AverageHoursPerWeek>
+        <Compensation>154006</Compensation>
+        <EmployeeBenefits>0</EmployeeBenefits>
+        <ExpenseAccount>814</ExpenseAccount>
+      </CompensationOfHighestPaidEmpl>
+      <TotNumberOfOthEmplPaidOver50k>23</TotNumberOfOthEmplPaidOver50k>
+      <CompOfHghstPaidCntrctProfSer>
+        <NamePerson>DEPENDABLE STAFFING SERVICES LLC</NamePerson>
+        <AddressUS>
+          <AddressLine1>PO BOX 16006</AddressLine1>
+          <City>PHOENIX</City>
+          <State>AZ</State>
+          <ZIPCode>85011</ZIPCode>
+        </AddressUS>
+        <TypeOfService>pharmacist staffing</TypeOfService>
+        <Compensation>980351</Compensation>
+      </CompOfHghstPaidCntrctProfSer>
+      <CompOfHghstPaidCntrctProfSer>
+        <NamePerson>APG LLC</NamePerson>
+        <AddressUS>
+          <AddressLine1>7500 W LAKE MEAD BLVD SUITE 9104</AddressLine1>
+          <City>LAS VEGAS</City>
+          <State>NV</State>
+          <ZIPCode>89128</ZIPCode>
+        </AddressUS>
+        <TypeOfService>professional staffing</TypeOfService>
+        <Compensation>870755</Compensation>
+      </CompOfHghstPaidCntrctProfSer>
+      <CompOfHghstPaidCntrctProfSer>
+        <NamePerson>RK ENTERPRISE LLC</NamePerson>
+        <AddressUS>
+          <AddressLine1>702 N MAIN STREET</AddressLine1>
+          <City>HARRISON</City>
+          <State>AR</State>
+          <ZIPCode>72601</ZIPCode>
+        </AddressUS>
+        <TypeOfService>professional staffing</TypeOfService>
+        <Compensation>378337</Compensation>
+      </CompOfHghstPaidCntrctProfSer>
+      <CompOfHghstPaidCntrctProfSer>
+        <NamePerson>AMN HEALTHCARE INC</NamePerson>
+        <AddressUS>
+          <AddressLine1>FILE 56157</AddressLine1>
+          <City>LOS ANGELES</City>
+          <State>CA</State>
+          <ZIPCode>90074</ZIPCode>
+        </AddressUS>
+        <TypeOfService>physician staffing</TypeOfService>
+        <Compensation>342650</Compensation>
+      </CompOfHghstPaidCntrctProfSer>
+      <CompOfHghstPaidCntrctProfSer>
+        <NamePerson>nationwide nurses llc</NamePerson>
+        <AddressUS>
+          <AddressLine1>po box 21228 dept 115</AddressLine1>
+          <City>tulsa</City>
+          <State>OK</State>
+          <ZIPCode>74121</ZIPCode>
+        </AddressUS>
+        <TypeOfService>nurse staffing</TypeOfService>
+        <Compensation>187951</Compensation>
+      </CompOfHghstPaidCntrctProfSer>
+      <TotNumOfCntrctPdOver50kProfSer>10</TotNumOfCntrctPdOver50kProfSer>
+      <CompOfHghstPaidCntrctOthSer>
+        <NamePerson>morgan associates</NamePerson>
+        <AddressUS>
+          <AddressLine1>1048 irvine ave suite 710</AddressLine1>
+          <City>new port beach</City>
+          <State>CA</State>
+          <ZIPCode>92660</ZIPCode>
+        </AddressUS>
+        <TypeOfService>other services</TypeOfService>
+        <Compensation>823871</Compensation>
+      </CompOfHghstPaidCntrctOthSer>
+      <CompOfHghstPaidCntrctOthSer>
+        <NamePerson>abf consulting design group</NamePerson>
+        <AddressUS>
+          <AddressLine1>2370 w hwy 89a suite 11 pmb 416</AddressLine1>
+          <City>sedona</City>
+          <State>AZ</State>
+          <ZIPCode>86336</ZIPCode>
+        </AddressUS>
+        <TypeOfService>other services</TypeOfService>
+        <Compensation>225774</Compensation>
+      </CompOfHghstPaidCntrctOthSer>
+      <CompOfHghstPaidCntrctOthSer>
+        <NamePerson>tricore reference laboratories</NamePerson>
+        <AddressUS>
+          <AddressLine1>po box 27935</AddressLine1>
+          <City>albuquerque</City>
+          <State>NM</State>
+          <ZIPCode>87125</ZIPCode>
+        </AddressUS>
+        <TypeOfService>laboratory</TypeOfService>
+        <Compensation>135338</Compensation>
+      </CompOfHghstPaidCntrctOthSer>
+      <CompOfHghstPaidCntrctOthSer>
+        <NamePerson>action medical service inc</NamePerson>
+        <AddressUS>
+          <AddressLine1>1200 e second street</AddressLine1>
+          <City>winslow</City>
+          <State>AZ</State>
+          <ZIPCode>86047</ZIPCode>
+        </AddressUS>
+        <TypeOfService>other services</TypeOfService>
+        <Compensation>104854</Compensation>
+      </CompOfHghstPaidCntrctOthSer>
+      <CompOfHghstPaidCntrctOthSer>
+        <NamePerson>owens minor</NamePerson>
+        <AddressUS>
+          <AddressLine1>file no 53523</AddressLine1>
+          <City>los ANGELES</City>
+          <State>CA</State>
+          <ZIPCode>90074</ZIPCode>
+        </AddressUS>
+        <TypeOfService>other services</TypeOfService>
+        <Compensation>97596</Compensation>
+      </CompOfHghstPaidCntrctOthSer>
+      <TotNumOfCntrctPdOver50kOthSer>7</TotNumOfCntrctPdOver50kOthSer>
+      <AnyLobbyingActivitiesDuringYr>0</AnyLobbyingActivitiesDuringYr>
+      <SelfDealingActivities>
+        <AnySaleOfProperty>0</AnySaleOfProperty>
+        <AnyLending>0</AnyLending>
+        <AnyGoodsOrServices>0</AnyGoodsOrServices>
+        <AnyCompensation note="SEE 990/990EZ">1</AnyCompensation>
+        <AnyTransferOfAssets>0</AnyTransferOfAssets>
+      </SelfDealingActivities>
+      <AwardScholarshipsEtc referenceDocumentId="RetDoc0010">1</AwardScholarshipsEtc>
+      <AnnuityPlan403bForEmployees>1</AnnuityPlan403bForEmployees>
+      <RealPropertyInterestContrib>0</RealPropertyInterestContrib>
+      <ProvideCreditDebtMgmtServices>0</ProvideCreditDebtMgmtServices>
+      <MaintainSeparateAccount>0</MaintainSeparateAccount>
+      <NumberFundsHeld>0</NumberFundsHeld>
+      <AggregateFundValue>0</AggregateFundValue>
+      <Hospital170b1Aiii>X</Hospital170b1Aiii>
+      <OrgDescribedOnLines10or11>
+        <SumOfExcessContributions>0</SumOfExcessContributions>
+      </OrgDescribedOnLines10or11>
+      <OrgDescribedOnLine12></OrgDescribedOnLine12>
+      <IRS990ScheduleAPartVIA></IRS990ScheduleAPartVIA>
+      <IRS990ScheduleAPartVIB></IRS990ScheduleAPartVIB>
+      <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+      <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+      <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+      <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+      <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+      <ReimbursementArrangements>0</ReimbursementArrangements>
+      <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+      <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+      <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+      <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="RetDoc0003">
+      <ContributorInfo>
+        <ContributorNumber>RESTRICTED</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>RESTRICTED</AggregateContributions>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+  </ReturnData>
+</Return>

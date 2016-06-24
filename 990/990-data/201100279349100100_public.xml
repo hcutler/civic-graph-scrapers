@@ -1,0 +1,2313 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-01-27T08:30:34-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Wiltshire Whitley Richardson English PA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>5249 Summerlin Commons Blvd Suite 1</AddressLine1>
+        <City>Fort Myers</City>
+        <State>FL</State>
+        <ZIPCode>33907</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>591088536</EIN>
+      <Name>
+        <BusinessNameLine1>COMMUNITY HEALTH ASSOCIATION INC</BusinessNameLine1>
+      </Name>
+      <NameControl>COMM</NameControl>
+      <Phone>2393687070</Phone>
+      <USAddress>
+        <AddressLine1>1262 WINGS WAY SUITE 201</AddressLine1>
+        <City>LEHIGH ACRES</City>
+        <State>FL</State>
+        <ZIPCode>339366043</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Hugh VANHOOSE</Name>
+      <Title>Executive Director</Title>
+      <Phone>2393687070</Phone>
+      <DateSigned>2011-01-20</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Joseph C English</Name>
+      <Phone>2393349191</Phone>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="13">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>4437369</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>0</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>10826</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>10826</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>84630</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>84630</DividendsNetInvstIncm>
+        <GrossRentsRevAndExpnss>36000</GrossRentsRevAndExpnss>
+        <GrossRentsNetInvstIncm>36000</GrossRentsNetInvstIncm>
+        <NetRentalIncomeOrLoss>36000</NetRentalIncomeOrLoss>
+        <NetGainSaleAssetsRevAndExpnss>30742</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>168200</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>30742</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>162198</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>162198</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>74374</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>18593</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>55781</CompOfcrDirTrstDsbrsChrtblPrps>
+        <OthEmplSlrsWgsRevAndExpnss>17850</OthEmplSlrsWgsRevAndExpnss>
+        <OthEmplSlrsWgsNetInvstIncm>0</OthEmplSlrsWgsNetInvstIncm>
+        <OthEmplSlrsWgsDsbrsChrtblPrps>17850</OthEmplSlrsWgsDsbrsChrtblPrps>
+        <PensionEmplBnftRevAndExpnss>6200</PensionEmplBnftRevAndExpnss>
+        <PensionEmplBnftNetInvstIncm>1550</PensionEmplBnftNetInvstIncm>
+        <PensionEmplBnftDsbrsChrtblPrps>4650</PensionEmplBnftDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">11470</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>5735</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>5735</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc2002300001">22109</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>22109</OtherProfFeesNetInvstIncm>
+        <OtherProfFeesDsbrsChrtblPrps>0</OtherProfFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">8799</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>1673</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>5020</TaxesDsbrsChrtblPrps>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId="RetDoc2203000001">45550</DeprecAndDepletionRevAndExpnss>
+        <DeprecAndDepletionNetInvstIncm>0</DeprecAndDepletionNetInvstIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">61022</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>7252</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>53770</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>247374</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>56912</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>142806</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>4947</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>58500</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>252321</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>56912</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>201306</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-90123</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>105286</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>303479</CashBOY>
+        <CashEOY>380176</CashEOY>
+        <CashEOYFMV>380176</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>415920</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>293287</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>293287</SavingsAndTempCashInvstEOYFMV>
+        <AccountsReceivable>5424</AccountsReceivable>
+        <AccountsReceivableBOY>11897</AccountsReceivableBOY>
+        <AccountsReceivableEOY>5424</AccountsReceivableEOY>
+        <AccountsReceivableEOYFMV>5424</AccountsReceivableEOYFMV>
+        <PrepaidExpensesBOY>14611</PrepaidExpensesBOY>
+        <PrepaidExpensesEOY>16400</PrepaidExpensesEOY>
+        <PrepaidExpensesEOYFMV>16400</PrepaidExpensesEOYFMV>
+        <InvestmentsGovtObligBOY>449064</InvestmentsGovtObligBOY>
+        <InvestmentsGovtObligEOY referenceDocumentId="RetDoc2210400001">349347</InvestmentsGovtObligEOY>
+        <InvestmentsGovtObligEOYFMV>349347</InvestmentsGovtObligEOYFMV>
+        <InvestmentsCorpStockBOY>2398706</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2018900001">2792475</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>2669941</InvestmentsCorpStockEOYFMV>
+        <LandBuildingAndEquipmentBasis>1571534</LandBuildingAndEquipmentBasis>
+        <AccumDeprecLandBldgAndEquip>850312</AccumDeprecLandBldgAndEquip>
+        <LandBuildingAndEquipmentBOY>762890</LandBuildingAndEquipmentBOY>
+        <LandBuildingAndEquipmentEOY referenceDocumentId="RetDoc2059000001">721222</LandBuildingAndEquipmentEOY>
+        <LandBuildingAndEquipmentEOYFMV>721222</LandBuildingAndEquipmentEOYFMV>
+        <OtherAssetsBOY referenceDocumentId="RetDoc2046600001">4598</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId="RetDoc2046600001">1572</OtherAssetsEOY>
+        <OtherAssetsEOYFMV referenceDocumentId="RetDoc2046600001">1572</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>4361165</TotalAssetsBOY>
+        <TotalAssetsEOY>4559903</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>4437369</TotalAssetsEOYFMV>
+        <AccountsPayableBOY>11645</AccountsPayableBOY>
+        <AccountsPayableEOY>18376</AccountsPayableEOY>
+        <GrantsPayableBOY>203000</GrantsPayableBOY>
+        <GrantsPayableEOY>150000</GrantsPayableEOY>
+        <OtherLiabilitiesBOY referenceDocumentId="RetDoc2065700001">2744</OtherLiabilitiesBOY>
+        <OtherLiabilitiesEOY referenceDocumentId="RetDoc2065700001">2749</OtherLiabilitiesEOY>
+        <TotalLiabilitiesBOY>217389</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>171125</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>4143776</UnrestrictedBOY>
+        <UnrestrictedEOY>4388778</UnrestrictedEOY>
+        <TotalNetAssetsBOY>4143776</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>4388778</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>4361165</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>4559903</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>4143776</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-90123</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="RetDoc2049700001">335125</OtherIncreases>
+        <Subtotal>4388778</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>4388778</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1615 ing group</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-01-29</DateAcquired>
+          <DateSold>2009-12-22</DateSold>
+          <GrossSalesPrice>3952</GrossSalesPrice>
+          <GainOrLoss>3952</GainOrLoss>
+          <GainsMinusExcessOrLosses>3952</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>AOL</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-12-10</DateAcquired>
+          <DateSold>2009-12-10</DateSold>
+          <GrossSalesPrice>11</GrossSalesPrice>
+          <CostOrOtherBasis>8</CostOrOtherBasis>
+          <GainOrLoss>3</GainOrLoss>
+          <GainsMinusExcessOrLosses>3</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>AOL</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-12-10</DateAcquired>
+          <DateSold>2010-03-19</DateSold>
+          <GrossSalesPrice>1301</GrossSalesPrice>
+          <CostOrOtherBasis>866</CostOrOtherBasis>
+          <GainOrLoss>435</GainOrLoss>
+          <GainsMinusExcessOrLosses>435</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>430 CHINA MOBILE</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2006-03-29</DateAcquired>
+          <DateSold>2009-10-28</DateSold>
+          <GrossSalesPrice>20614</GrossSalesPrice>
+          <CostOrOtherBasis>11328</CostOrOtherBasis>
+          <GainOrLoss>9286</GainOrLoss>
+          <GainsMinusExcessOrLosses>9286</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>395 CHINA MOBILE</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2006-03-29</DateAcquired>
+          <DateSold>2010-04-30</DateSold>
+          <GrossSalesPrice>19478</GrossSalesPrice>
+          <CostOrOtherBasis>10406</CostOrOtherBasis>
+          <GainOrLoss>9072</GainOrLoss>
+          <GainsMinusExcessOrLosses>9072</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>500 CONOCO PHILLIPS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2002-09-17</DateAcquired>
+          <DateSold>2009-09-15</DateSold>
+          <GrossSalesPrice>23158</GrossSalesPrice>
+          <CostOrOtherBasis>12636</CostOrOtherBasis>
+          <GainOrLoss>10522</GainOrLoss>
+          <GainsMinusExcessOrLosses>10522</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>325 Devon</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2006-01-04</DateAcquired>
+          <DateSold>2010-06-24</DateSold>
+          <GrossSalesPrice>20771</GrossSalesPrice>
+          <CostOrOtherBasis>21202</CostOrOtherBasis>
+          <GainOrLoss>-431</GainOrLoss>
+          <GainsMinusExcessOrLosses>-431</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1150 Electronic arts</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-02-05</DateAcquired>
+          <DateSold>2010-05-10</DateSold>
+          <GrossSalesPrice>20798</GrossSalesPrice>
+          <CostOrOtherBasis>21406</CostOrOtherBasis>
+          <GainOrLoss>-608</GainOrLoss>
+          <GainsMinusExcessOrLosses>-608</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1615 ing group</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2002-09-17</DateAcquired>
+          <DateSold>2010-04-12</DateSold>
+          <GrossSalesPrice>16605</GrossSalesPrice>
+          <CostOrOtherBasis>20160</CostOrOtherBasis>
+          <GainOrLoss>-3555</GainOrLoss>
+          <GainsMinusExcessOrLosses>-3555</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>545 intesa</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2002-09-12</DateAcquired>
+          <DateSold>2010-04-12</DateSold>
+          <GrossSalesPrice>12298</GrossSalesPrice>
+          <CostOrOtherBasis>8307</CostOrOtherBasis>
+          <GainOrLoss>3991</GainOrLoss>
+          <GainsMinusExcessOrLosses>3991</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>600 merck</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2006-01-18</DateAcquired>
+          <DateSold>2010-05-12</DateSold>
+          <GrossSalesPrice>20214</GrossSalesPrice>
+          <CostOrOtherBasis>20874</CostOrOtherBasis>
+          <GainOrLoss>-660</GainOrLoss>
+          <GainsMinusExcessOrLosses>-660</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>525 UBS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2002-09-19</DateAcquired>
+          <DateSold>2010-04-12</DateSold>
+          <GrossSalesPrice>9000</GrossSalesPrice>
+          <CostOrOtherBasis>10265</CostOrOtherBasis>
+          <GainOrLoss>-1265</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1265</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>30742</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>225065</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>3671006</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.061309</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>170190</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>5046883</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.033722</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>1617967</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>4767587</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.339368</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>154495</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>4439878</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.034797</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>172593</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>4183634</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.041254</DistributionRatioYear5>
+        <TotalDistributionRatio>0.510450</TotalDistributionRatio>
+        <AverageDistributionRatio>0.102090</AverageDistributionRatio>
+        <NetNoncharitableAssets>4049804</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>413444</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>1053</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>414497</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>205187</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>2106</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>2106</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>2106</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>3678</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>3678</TotalCreditsAndPayments>
+        <Form2220Attached referenceDocumentId="RetDoc1192000001">X</Form2220Attached>
+        <Overpayment>1572</Overpayment>
+        <AmountCreditedToNextYear>1572</AmountCreditedToNextYear>
+        <AmountToBeRefunded>0</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>FL</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>H A VANHOOSE EXECUTIVE DIRECTOR</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>2393687070</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>1262 Wings Way Suite 201</AddressLine1>
+          <City>Lehigh Acres</City>
+          <State>FL</State>
+          <ZIPCode>33936</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>1</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>0</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>LARRY TURBEVILLE</PersonName>
+          <USAddress>
+            <AddressLine1>642 PARKDALE BLVD</AddressLine1>
+            <City>LEHIGH ACRES</City>
+            <State>FL</State>
+            <ZIPCode>33974</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JON R OLLIFF DDS</PersonName>
+          <USAddress>
+            <AddressLine1>210 LAKE AVENUE N</AddressLine1>
+            <City>LEHIGH ACRES</City>
+            <State>FL</State>
+            <ZIPCode>33936</ZIPCode>
+          </USAddress>
+          <Title>treasurer</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DARWIN RICHARDS</PersonName>
+          <USAddress>
+            <AddressLine1>214 LINCOLN AVE SE</AddressLine1>
+            <City>LEHIGH ACRES</City>
+            <State>FL</State>
+            <ZIPCode>33936</ZIPCode>
+          </USAddress>
+          <Title>CHAIRMAN</Title>
+          <AvgHoursPerWkDevotedToPosition>20.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>17850</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>James M Jacob</PersonName>
+          <USAddress>
+            <AddressLine1>116 Ortona St</AddressLine1>
+            <City>LEHIGH ACRES</City>
+            <State>FL</State>
+            <ZIPCode>33936</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ORVILLE KURTZ</PersonName>
+          <USAddress>
+            <AddressLine1>306 MCARTHUR AVE</AddressLine1>
+            <City>LEHIGH ACRES</City>
+            <State>FL</State>
+            <ZIPCode>33936</ZIPCode>
+          </USAddress>
+          <Title>1ST VICE CHAIRMAN</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Hugh VANHOOSE</PersonName>
+          <USAddress>
+            <AddressLine1>19002 Cypress View Drive</AddressLine1>
+            <City>Fort Myers</City>
+            <State>FL</State>
+            <ZIPCode>33967</ZIPCode>
+          </USAddress>
+          <Title>EXECUTIVE DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>32.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>74374</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>COMMUNITY HEALTH CARE CENTER THAT PROVIDES BELOW MARKET RATE OR NOMINAL RENT TO FOUR 501(C)(3) ORGANIZATIONS</Description1>
+        <Expenses1>142806</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>3409910</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>677796</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>23770</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>4111476</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>4111476</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>61672</CashDeemedCharitable>
+        <NetNoncharitableAssets>4049804</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>202490</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>202490</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>2106</TaxBasedOnInvestmentIncome>
+        <TotalTax>2106</TotalTax>
+        <DistributableAmountBeforeAdj>200384</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>553</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>200937</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>200937</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>201306</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <AmountsPaidAcqCharitableAssets>3881</AmountsPaidAcqCharitableAssets>
+        <QualifyingDistributions>205187</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>205187</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>200937</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear3>1372112</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear1>43405</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>1415517</TotalExcessDistriCarryover>
+        <QualifyingDistributions>205187</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus referenceDocumentId="RetDoc10082100000">205187</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>0</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>200937</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>200937</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>1419767</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>1419767</ExcessDistriCyovToNextYear>
+        <ExcessFromYear3>1171175</ExcessFromYear3>
+        <ExcessFromYear1>43405</ExcessFromYear1>
+        <ExcessFromCurrentYear>205187</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>H A VANHOOSE EXECUTIVE DIRECTOR</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>1262 Wings Way SUITE 201</AddressLine1>
+            <City>LEHIGH ACRES</City>
+            <State>FL</State>
+            <ZIPCode>33936</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>2393687070</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>SIMPLE LETTER REQUEST.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>-NONE-</SubmissionDeadlines>
+          <RestrictionsOnAwards>-NONE-</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Hope Hospice of Southwest Florida</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>9470 Health Park Dr</AddressLine1>
+            <City>FORT MYERS</City>
+            <State>FL</State>
+            <ZIPCode>33908</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NonE</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Exempt purpose</PurposeOfGrantOrContribution>
+          <Amount>50000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Lee County High Tech Central</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3800 Michigan Avenue</AddressLine1>
+            <City>ForT MYERS</City>
+            <State>FL</State>
+            <ZIPCode>33916</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>nonE</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Exempt purpose</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNITED WAY OF LEE COUNTY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>7275 CONCOURSE DR</AddressLine1>
+            <City>FORT MYERS</City>
+            <State>FL</State>
+            <ZIPCode>33908</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Exempt purpose</PurposeOfGrantOrContribution>
+          <Amount>5500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>58500</TotGrantOrContriPaidDuringYear>
+        <GrantOrContriApprovedForFuture>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HOpe Hospice of Southwest Florida</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>9470 Healthpark Dr</AddressLine1>
+            <City>FORT MYERS</City>
+            <State>FL</State>
+            <ZIPCode>33908</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EXempt purpose</PurposeOfGrantOrContribution>
+          <Amount>150000</Amount>
+        </GrantOrContriApprovedForFuture>
+        <TotGrantOrContriApprovedFuture>150000</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>10826</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>84630</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <NetRntlIncmReNotDebtFincdProp>
+          <ExclusionCode>16</ExclusionCode>
+          <ExclusionAmount>36000</ExclusionAmount>
+        </NetRntlIncmReNotDebtFincdProp>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>30742</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>162198</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>162198</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>11470</Amount>
+        <NetInvestmentIncome>5735</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>5735</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="RetDoc2203000001">
+      <Depreciation>
+        <DescriptionOfProperty>OFFICE FURNITURE</DescriptionOfProperty>
+        <DateAcquired>1987-12-11</DateAcquired>
+        <CostOrOtherBasis>820</CostOrOtherBasis>
+        <PriorYearsDepreciation>820</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>COUCH/COFFEE TABLE</DescriptionOfProperty>
+        <DateAcquired>1988-02-08</DateAcquired>
+        <CostOrOtherBasis>569</CostOrOtherBasis>
+        <PriorYearsDepreciation>569</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>TELEPHONE EQUIPMENT</DescriptionOfProperty>
+        <DateAcquired>1990-05-08</DateAcquired>
+        <CostOrOtherBasis>4236</CostOrOtherBasis>
+        <PriorYearsDepreciation>4236</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>COOLERS</DescriptionOfProperty>
+        <DateAcquired>1991-06-03</DateAcquired>
+        <CostOrOtherBasis>696</CostOrOtherBasis>
+        <PriorYearsDepreciation>696</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>DOOR HARDWARE</DescriptionOfProperty>
+        <DateAcquired>1991-11-14</DateAcquired>
+        <CostOrOtherBasis>722</CostOrOtherBasis>
+        <PriorYearsDepreciation>405</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>31.500000000000</Life>
+        <CurrentYearExpense>23</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>WATER METER &amp; BOX</DescriptionOfProperty>
+        <DateAcquired>1993-05-19</DateAcquired>
+        <CostOrOtherBasis>976</CostOrOtherBasis>
+        <PriorYearsDepreciation>498</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>31.500000000000</Life>
+        <CurrentYearExpense>31</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>COMPLETE CENTER</DescriptionOfProperty>
+        <DateAcquired>1989-06-30</DateAcquired>
+        <CostOrOtherBasis>301</CostOrOtherBasis>
+        <PriorYearsDepreciation>301</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>FILE CABINET</DescriptionOfProperty>
+        <DateAcquired>1989-09-25</DateAcquired>
+        <CostOrOtherBasis>217</CostOrOtherBasis>
+        <PriorYearsDepreciation>217</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>FILE CABINETS (2)</DescriptionOfProperty>
+        <DateAcquired>1989-11-13</DateAcquired>
+        <CostOrOtherBasis>200</CostOrOtherBasis>
+        <PriorYearsDepreciation>200</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>FIRE SAFE</DescriptionOfProperty>
+        <DateAcquired>1991-06-30</DateAcquired>
+        <CostOrOtherBasis>829</CostOrOtherBasis>
+        <PriorYearsDepreciation>829</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>PARTITIONS</DescriptionOfProperty>
+        <DateAcquired>1992-09-01</DateAcquired>
+        <CostOrOtherBasis>10221</CostOrOtherBasis>
+        <PriorYearsDepreciation>10221</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>VERTICLES</DescriptionOfProperty>
+        <DateAcquired>1992-09-01</DateAcquired>
+        <CostOrOtherBasis>956</CostOrOtherBasis>
+        <PriorYearsDepreciation>956</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>CONFERENCE TABLES</DescriptionOfProperty>
+        <DateAcquired>1992-09-01</DateAcquired>
+        <CostOrOtherBasis>2090</CostOrOtherBasis>
+        <PriorYearsDepreciation>2090</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>SHED (1/2)</DescriptionOfProperty>
+        <DateAcquired>1994-02-18</DateAcquired>
+        <CostOrOtherBasis>324</CostOrOtherBasis>
+        <PriorYearsDepreciation>324</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>OFFICE FURNITURE- 15 CHAIRS</DescriptionOfProperty>
+        <DateAcquired>1997-05-07</DateAcquired>
+        <CostOrOtherBasis>3121</CostOrOtherBasis>
+        <PriorYearsDepreciation>3121</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>OFFICE FURNITURE- ACUSTI PANELS</DescriptionOfProperty>
+        <DateAcquired>1997-06-30</DateAcquired>
+        <CostOrOtherBasis>652</CostOrOtherBasis>
+        <PriorYearsDepreciation>652</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>FAX MACHINE</DescriptionOfProperty>
+        <DateAcquired>1997-09-01</DateAcquired>
+        <CostOrOtherBasis>424</CostOrOtherBasis>
+        <PriorYearsDepreciation>424</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>5.000000000000</Life>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>COMPAQ 5240</DescriptionOfProperty>
+        <DateAcquired>1999-02-02</DateAcquired>
+        <CostOrOtherBasis>1272</CostOrOtherBasis>
+        <PriorYearsDepreciation>1272</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>5.000000000000</Life>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>KITCHEN EQUIPMENT</DescriptionOfProperty>
+        <DateAcquired>1990-05-08</DateAcquired>
+        <CostOrOtherBasis>39110</CostOrOtherBasis>
+        <PriorYearsDepreciation>39110</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>LAUNDRY EUQIPMENT</DescriptionOfProperty>
+        <DateAcquired>1990-05-08</DateAcquired>
+        <CostOrOtherBasis>6890</CostOrOtherBasis>
+        <PriorYearsDepreciation>6890</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>BUILDING BETH STACEY</DescriptionOfProperty>
+        <DateAcquired>1990-05-08</DateAcquired>
+        <CostOrOtherBasis>679227</CostOrOtherBasis>
+        <PriorYearsDepreciation>413528</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>31.500000000000</Life>
+        <CurrentYearExpense>21563</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>BUILDING- MASONRY</DescriptionOfProperty>
+        <DateAcquired>1990-07-09</DateAcquired>
+        <CostOrOtherBasis>800</CostOrOtherBasis>
+        <PriorYearsDepreciation>483</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>31.500000000000</Life>
+        <CurrentYearExpense>25</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>WELL</DescriptionOfProperty>
+        <DateAcquired>1993-06-14</DateAcquired>
+        <CostOrOtherBasis>1144</CostOrOtherBasis>
+        <PriorYearsDepreciation>584</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>31.500000000000</Life>
+        <CurrentYearExpense>36</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>DRIVEWAY</DescriptionOfProperty>
+        <DateAcquired>1997-10-24</DateAcquired>
+        <CostOrOtherBasis>2375</CostOrOtherBasis>
+        <PriorYearsDepreciation>880</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>31.500000000000</Life>
+        <CurrentYearExpense>75</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>CONCRETE</DescriptionOfProperty>
+        <DateAcquired>1999-06-01</DateAcquired>
+        <CostOrOtherBasis>1450</CostOrOtherBasis>
+        <PriorYearsDepreciation>464</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>31.500000000000</Life>
+        <CurrentYearExpense>46</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>LAND ACCT 175</DescriptionOfProperty>
+        <DateAcquired>1990-09-05</DateAcquired>
+        <CostOrOtherBasis>159155</CostOrOtherBasis>
+        <ComputationMethod>NC</ComputationMethod>
+        <Rate>0.000000000000</Rate>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>BUILDING</DescriptionOfProperty>
+        <DateAcquired>1992-09-01</DateAcquired>
+        <CostOrOtherBasis>489110</CostOrOtherBasis>
+        <PriorYearsDepreciation>261407</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>31.500000000000</Life>
+        <CurrentYearExpense>15529</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>WELL</DescriptionOfProperty>
+        <DateAcquired>1993-06-14</DateAcquired>
+        <CostOrOtherBasis>1195</CostOrOtherBasis>
+        <PriorYearsDepreciation>610</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>31.500000000000</Life>
+        <CurrentYearExpense>38</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>PATIO SENIOR FRIENDSHIP</DescriptionOfProperty>
+        <DateAcquired>1996-06-30</DateAcquired>
+        <CostOrOtherBasis>739</CostOrOtherBasis>
+        <PriorYearsDepreciation>334</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>31.500000000000</Life>
+        <CurrentYearExpense>23</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>PATIO SENIOR FRIENDSHIP</DescriptionOfProperty>
+        <DateAcquired>1996-08-31</DateAcquired>
+        <CostOrOtherBasis>18697</CostOrOtherBasis>
+        <PriorYearsDepreciation>7750</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>31.000000000000</Life>
+        <CurrentYearExpense>603</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>TRENCH IN CURB</DescriptionOfProperty>
+        <DateAcquired>1997-07-22</DateAcquired>
+        <CostOrOtherBasis>3173</CostOrOtherBasis>
+        <PriorYearsDepreciation>1200</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>31.500000000000</Life>
+        <CurrentYearExpense>101</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>CONCRETE D L HUDSON</DescriptionOfProperty>
+        <DateAcquired>1999-08-31</DateAcquired>
+        <CostOrOtherBasis>2980</CostOrOtherBasis>
+        <PriorYearsDepreciation>755</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>39.000000000000</Life>
+        <CurrentYearExpense>76</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>AIR CONDITIONER</DescriptionOfProperty>
+        <DateAcquired>2000-09-01</DateAcquired>
+        <CostOrOtherBasis>2200</CostOrOtherBasis>
+        <PriorYearsDepreciation>2200</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>JANOTROL (6)</DescriptionOfProperty>
+        <DateAcquired>2001-04-12</DateAcquired>
+        <CostOrOtherBasis>8990</CostOrOtherBasis>
+        <PriorYearsDepreciation>8990</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>LIGHT FIXTURES</DescriptionOfProperty>
+        <DateAcquired>2001-02-23</DateAcquired>
+        <CostOrOtherBasis>1870</CostOrOtherBasis>
+        <PriorYearsDepreciation>495</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>31.500000000000</Life>
+        <CurrentYearExpense>59</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>CANON COPIER</DescriptionOfProperty>
+        <DateAcquired>2001-10-15</DateAcquired>
+        <CostOrOtherBasis>742</CostOrOtherBasis>
+        <PriorYearsDepreciation>742</PriorYearsDepreciation>
+        <ComputationMethod>200SL</ComputationMethod>
+        <Life>5.000000000000</Life>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>AIRCONDITIONER</DescriptionOfProperty>
+        <DateAcquired>2002-05-08</DateAcquired>
+        <CostOrOtherBasis>2591</CostOrOtherBasis>
+        <PriorYearsDepreciation>2591</PriorYearsDepreciation>
+        <ComputationMethod>200SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>AIR CONDITIONER</DescriptionOfProperty>
+        <DateAcquired>2002-05-08</DateAcquired>
+        <CostOrOtherBasis>2023</CostOrOtherBasis>
+        <PriorYearsDepreciation>2023</PriorYearsDepreciation>
+        <ComputationMethod>200SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Air Conditioner</DescriptionOfProperty>
+        <DateAcquired>2002-08-21</DateAcquired>
+        <CostOrOtherBasis>1723</CostOrOtherBasis>
+        <PriorYearsDepreciation>1682</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>41</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Air Conditioner</DescriptionOfProperty>
+        <DateAcquired>2002-10-10</DateAcquired>
+        <CostOrOtherBasis>1522</CostOrOtherBasis>
+        <PriorYearsDepreciation>1468</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>54</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Air Conditioner</DescriptionOfProperty>
+        <DateAcquired>2002-08-21</DateAcquired>
+        <CostOrOtherBasis>2077</CostOrOtherBasis>
+        <PriorYearsDepreciation>2028</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>49</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Air Conditioner</DescriptionOfProperty>
+        <DateAcquired>2003-04-23</DateAcquired>
+        <CostOrOtherBasis>2077</CostOrOtherBasis>
+        <PriorYearsDepreciation>1829</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>247</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Water Meter</DescriptionOfProperty>
+        <DateAcquired>2003-02-21</DateAcquired>
+        <CostOrOtherBasis>3765</CostOrOtherBasis>
+        <PriorYearsDepreciation>757</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>31.500000000000</Life>
+        <CurrentYearExpense>120</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Air Compressor</DescriptionOfProperty>
+        <DateAcquired>2003-07-25</DateAcquired>
+        <CostOrOtherBasis>530</CostOrOtherBasis>
+        <PriorYearsDepreciation>494</PriorYearsDepreciation>
+        <ComputationMethod>200SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>24</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Fire Extinguishers</DescriptionOfProperty>
+        <DateAcquired>2004-07-09</DateAcquired>
+        <CostOrOtherBasis>518</CostOrOtherBasis>
+        <PriorYearsDepreciation>364</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>74</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Fire Monitoring Board</DescriptionOfProperty>
+        <DateAcquired>2004-07-27</DateAcquired>
+        <CostOrOtherBasis>2957</CostOrOtherBasis>
+        <PriorYearsDepreciation>2077</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>422</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Panel Replacement</DescriptionOfProperty>
+        <DateAcquired>2004-08-31</DateAcquired>
+        <CostOrOtherBasis>214</CostOrOtherBasis>
+        <PriorYearsDepreciation>148</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>31</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Pump Control Box</DescriptionOfProperty>
+        <DateAcquired>2004-11-12</DateAcquired>
+        <CostOrOtherBasis>2294</CostOrOtherBasis>
+        <PriorYearsDepreciation>1529</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>328</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Condensor</DescriptionOfProperty>
+        <DateAcquired>2005-05-02</DateAcquired>
+        <CostOrOtherBasis>2419</CostOrOtherBasis>
+        <PriorYearsDepreciation>1440</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>346</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Fire Alarm Panel</DescriptionOfProperty>
+        <DateAcquired>2005-05-13</DateAcquired>
+        <CostOrOtherBasis>377</CostOrOtherBasis>
+        <PriorYearsDepreciation>224</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>54</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>LCS Air Handler</DescriptionOfProperty>
+        <DateAcquired>2005-05-16</DateAcquired>
+        <CostOrOtherBasis>2020</CostOrOtherBasis>
+        <PriorYearsDepreciation>1178</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>289</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Freezer Compressor</DescriptionOfProperty>
+        <DateAcquired>2005-02-23</DateAcquired>
+        <CostOrOtherBasis>1225</CostOrOtherBasis>
+        <PriorYearsDepreciation>758</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>175</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Surge Protector</DescriptionOfProperty>
+        <DateAcquired>2005-05-19</DateAcquired>
+        <CostOrOtherBasis>589</CostOrOtherBasis>
+        <PriorYearsDepreciation>344</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>84</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Hot Water Heater</DescriptionOfProperty>
+        <DateAcquired>2005-11-01</DateAcquired>
+        <CostOrOtherBasis>655</CostOrOtherBasis>
+        <PriorYearsDepreciation>343</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>94</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Air Conditioner</DescriptionOfProperty>
+        <DateAcquired>2006-06-02</DateAcquired>
+        <CostOrOtherBasis>2869</CostOrOtherBasis>
+        <PriorYearsDepreciation>1264</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>410</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Telephone System</DescriptionOfProperty>
+        <DateAcquired>2006-07-11</DateAcquired>
+        <CostOrOtherBasis>2193</CostOrOtherBasis>
+        <PriorYearsDepreciation>1316</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>5.000000000000</Life>
+        <CurrentYearExpense>439</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Apple I Mac (2)</DescriptionOfProperty>
+        <DateAcquired>2007-05-01</DateAcquired>
+        <CostOrOtherBasis>3016</CostOrOtherBasis>
+        <PriorYearsDepreciation>1307</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>5.000000000000</Life>
+        <CurrentYearExpense>603</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>400 Watt Fixture on Pole</DescriptionOfProperty>
+        <DateAcquired>2007-01-19</DateAcquired>
+        <CostOrOtherBasis>750</CostOrOtherBasis>
+        <PriorYearsDepreciation>58</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>31.500000000000</Life>
+        <CurrentYearExpense>24</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Air Conditioning Compressor</DescriptionOfProperty>
+        <DateAcquired>2008-09-23</DateAcquired>
+        <CostOrOtherBasis>2704</CostOrOtherBasis>
+        <PriorYearsDepreciation>290</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>386</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Computer- Office Depot</DescriptionOfProperty>
+        <DateAcquired>2009-02-18</DateAcquired>
+        <CostOrOtherBasis>534</CostOrOtherBasis>
+        <PriorYearsDepreciation>36</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>5.000000000000</Life>
+        <CurrentYearExpense>107</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>New Gutters</DescriptionOfProperty>
+        <DateAcquired>2008-08-07</DateAcquired>
+        <CostOrOtherBasis>1220</CostOrOtherBasis>
+        <PriorYearsDepreciation>37</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>30.000000000000</Life>
+        <CurrentYearExpense>41</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Landscaping</DescriptionOfProperty>
+        <DateAcquired>2008-09-03</DateAcquired>
+        <CostOrOtherBasis>3651</CostOrOtherBasis>
+        <PriorYearsDepreciation>203</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>15.000000000000</Life>
+        <CurrentYearExpense>243</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Roof 11 BETH sTACY</DescriptionOfProperty>
+        <DateAcquired>2008-04-25</DateAcquired>
+        <CostOrOtherBasis>39200</CostOrOtherBasis>
+        <PriorYearsDepreciation>1215</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>39.000000000000</Life>
+        <CurrentYearExpense>1005</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Bullseye Sprinklers</DescriptionOfProperty>
+        <DateAcquired>2008-05-28</DateAcquired>
+        <CostOrOtherBasis>1500</CostOrOtherBasis>
+        <PriorYearsDepreciation>232</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>214</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Sidewalk</DescriptionOfProperty>
+        <DateAcquired>2008-06-25</DateAcquired>
+        <CostOrOtherBasis>1500</CostOrOtherBasis>
+        <PriorYearsDepreciation>38</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>39.000000000000</Life>
+        <CurrentYearExpense>38</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Air Conditioner</DescriptionOfProperty>
+        <DateAcquired>2007-07-31</DateAcquired>
+        <CostOrOtherBasis>1875</CostOrOtherBasis>
+        <PriorYearsDepreciation>513</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>268</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Roof-9 Beth Stacey</DescriptionOfProperty>
+        <DateAcquired>2007-10-25</DateAcquired>
+        <CostOrOtherBasis>24100</CostOrOtherBasis>
+        <PriorYearsDepreciation>1030</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>39.000000000000</Life>
+        <CurrentYearExpense>618</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Landscaping</DescriptionOfProperty>
+        <DateAcquired>2008-05-21</DateAcquired>
+        <CostOrOtherBasis>2390</CostOrOtherBasis>
+        <PriorYearsDepreciation>173</PriorYearsDepreciation>
+        <ComputationMethod>150DB</ComputationMethod>
+        <Life>15.000000000000</Life>
+        <CurrentYearExpense>102</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Chas Screen- Screen Room</DescriptionOfProperty>
+        <DateAcquired>2008-06-10</DateAcquired>
+        <CostOrOtherBasis>2102</CostOrOtherBasis>
+        <PriorYearsDepreciation>325</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>300</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>Central Aire Conditioning, Inc</DescriptionOfProperty>
+        <DateAcquired>2010-05-04</DateAcquired>
+        <CostOrOtherBasis>3881</CostOrOtherBasis>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>7.000000000000</Life>
+        <CurrentYearExpense>92</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </Depreciation>
+    </DepreciationSchedule>
+    <DistributionFromCorpusElection documentId="RetDoc10082100000">
+      <Election>The organization elects to treat the current year distributions as being made out of corpus.</Election>
+    </DistributionFromCorpusElection>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorpStock>
+        <NameOfStock>ABB LTD SPON ADR</NameOfStock>
+        <EOYBookValue>15416</EOYBookValue>
+        <EOYFMV>22464</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ABB LTD SPON ADR</NameOfStock>
+        <EOYBookValue>13839</EOYBookValue>
+        <EOYFMV>7344</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ADOBE SYSTEMS INC</NameOfStock>
+        <EOYBookValue>20258</EOYBookValue>
+        <EOYFMV>15726</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>AMERICA MOVIL S.A.B.DE</NameOfStock>
+        <EOYBookValue>23381</EOYBookValue>
+        <EOYFMV>19000</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ANADARKO PETROLEUM CORP</NameOfStock>
+        <EOYBookValue>12090</EOYBookValue>
+        <EOYFMV>19850</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ANADARKO PETROLEUM CORP</NameOfStock>
+        <EOYBookValue>17179</EOYBookValue>
+        <EOYFMV>8120</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ANGLO AMERN PLC SPON ADR</NameOfStock>
+        <EOYBookValue>16386</EOYBookValue>
+        <EOYFMV>14787</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>APPLIED MATERIALS INC</NameOfStock>
+        <EOYBookValue>16760</EOYBookValue>
+        <EOYFMV>20434</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>APPLIED MATERIALS INC</NameOfStock>
+        <EOYBookValue>21849</EOYBookValue>
+        <EOYFMV>19232</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>AXA ADR</NameOfStock>
+        <EOYBookValue>28009</EOYBookValue>
+        <EOYFMV>12489</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>BAIDU INC ADS</NameOfStock>
+        <EOYBookValue>21359</EOYBookValue>
+        <EOYFMV>36763</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>BANCO SANTANDER CENTL</NameOfStock>
+        <EOYBookValue>13625</EOYBookValue>
+        <EOYFMV>24150</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>BANCO SANTANDER CENTL</NameOfStock>
+        <EOYBookValue>390</EOYBookValue>
+        <EOYFMV>263</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>BANK OF NOVA SCOTIA</NameOfStock>
+        <EOYBookValue>29832</EOYBookValue>
+        <EOYFMV>30833</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>BASF AG SPON ADR</NameOfStock>
+        <EOYBookValue>14192</EOYBookValue>
+        <EOYFMV>41525</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>BHP BILLITON LTD SPON</NameOfStock>
+        <EOYBookValue>19687</EOYBookValue>
+        <EOYFMV>30995</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>BNP PARIBASSA ADR</NameOfStock>
+        <EOYBookValue>22824</EOYBookValue>
+        <EOYFMV>11653</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>BOEING COMPANY</NameOfStock>
+        <EOYBookValue>28416</EOYBookValue>
+        <EOYFMV>26355</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CARNIVAL CORP NEW</NameOfStock>
+        <EOYBookValue>14816</EOYBookValue>
+        <EOYFMV>21168</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CATERPILLAR INC</NameOfStock>
+        <EOYBookValue>11216</EOYBookValue>
+        <EOYFMV>31537</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CATERPILLAR INC</NameOfStock>
+        <EOYBookValue>8220</EOYBookValue>
+        <EOYFMV>6007</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CENOVUS ENERGY INC</NameOfStock>
+        <EOYBookValue>9096</EOYBookValue>
+        <EOYFMV>10316</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CHEUNG KONG HOLDINGS LTD</NameOfStock>
+        <EOYBookValue>17834</EOYBookValue>
+        <EOYFMV>14511</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CHEVRON CORP</NameOfStock>
+        <EOYBookValue>18200</EOYBookValue>
+        <EOYFMV>16965</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CISCO SYSTEMS INC</NameOfStock>
+        <EOYBookValue>53920</EOYBookValue>
+        <EOYFMV>41555</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CORNING INC</NameOfStock>
+        <EOYBookValue>16390</EOYBookValue>
+        <EOYFMV>30685</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CREDIT SUISSE GROUP</NameOfStock>
+        <EOYBookValue>28290</EOYBookValue>
+        <EOYFMV>29008</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>DEERE AND CO</NameOfStock>
+        <EOYBookValue>22200</EOYBookValue>
+        <EOYFMV>26448</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>DOVER CORP</NameOfStock>
+        <EOYBookValue>18173</EOYBookValue>
+        <EOYFMV>26119</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>E ON AG SPON ADR SPON</NameOfStock>
+        <EOYBookValue>11705</EOYBookValue>
+        <EOYFMV>20432</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>EMC CORP MASS</NameOfStock>
+        <EOYBookValue>35524</EOYBookValue>
+        <EOYFMV>34313</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>EMERSON ELECTRIC</NameOfStock>
+        <EOYBookValue>19540</EOYBookValue>
+        <EOYFMV>17694</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ENCANA CORP</NameOfStock>
+        <EOYBookValue>9658</EOYBookValue>
+        <EOYFMV>12136</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>FORTUNE BRANDS INC</NameOfStock>
+        <EOYBookValue>21374</EOYBookValue>
+        <EOYFMV>26447</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>FREEPORT-MCMORAN COPPER &amp; GOLD INC CL B</NameOfStock>
+        <EOYBookValue>31906</EOYBookValue>
+        <EOYFMV>30570</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>GENERAL ELECTRIC</NameOfStock>
+        <EOYBookValue>44735</EOYBookValue>
+        <EOYFMV>18386</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>GLAXO SMITHKLINE PLC ADR</NameOfStock>
+        <EOYBookValue>16487</EOYBookValue>
+        <EOYFMV>15305</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>HEWLETT PACKARD</NameOfStock>
+        <EOYBookValue>35608</EOYBookValue>
+        <EOYFMV>31378</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>HONDA MOTOR CO ADR JAPAN</NameOfStock>
+        <EOYBookValue>21084</EOYBookValue>
+        <EOYFMV>25875</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>HONEYWELL INTL INC</NameOfStock>
+        <EOYBookValue>18626</EOYBookValue>
+        <EOYFMV>18539</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>INTEL CORP</NameOfStock>
+        <EOYBookValue>27157</EOYBookValue>
+        <EOYFMV>25771</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ISHARES MSCI EMERGING MARKETS INDEX FUND</NameOfStock>
+        <EOYBookValue>64506</EOYBookValue>
+        <EOYFMV>72774</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>JOHNSON AND JOHNSON</NameOfStock>
+        <EOYBookValue>30661</EOYBookValue>
+        <EOYFMV>26577</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MICROSOFT</NameOfStock>
+        <EOYBookValue>39216</EOYBookValue>
+        <EOYFMV>31063</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MITSUBISHI TOKYO</NameOfStock>
+        <EOYBookValue>17055</EOYBookValue>
+        <EOYFMV>10488</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>NESTLE SA SPONSORED</NameOfStock>
+        <EOYBookValue>36530</EOYBookValue>
+        <EOYFMV>35676</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>NOMURA HOLDINGS INC</NameOfStock>
+        <EOYBookValue>16966</EOYBookValue>
+        <EOYFMV>5722</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>NUCOR CORP</NameOfStock>
+        <EOYBookValue>21046</EOYBookValue>
+        <EOYFMV>19140</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>OCCIDENTAL PETROLEUM</NameOfStock>
+        <EOYBookValue>14844</EOYBookValue>
+        <EOYFMV>50147</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ORACLE CORP</NameOfStock>
+        <EOYBookValue>38792</EOYBookValue>
+        <EOYFMV>39164</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>PANASONIC CORP (MATSUSHITA ELEC IND ADR NAME CHG) 1,350</NameOfStock>
+        <EOYBookValue>15616</EOYBookValue>
+        <EOYFMV>16916</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>PENNEY JC CO INC</NameOfStock>
+        <EOYBookValue>21121</EOYBookValue>
+        <EOYFMV>15573</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>PNC FINANCIAL SERVICES</NameOfStock>
+        <EOYBookValue>32277</EOYBookValue>
+        <EOYFMV>27968</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>PPG INDUSTRIES INC</NameOfStock>
+        <EOYBookValue>23625</EOYBookValue>
+        <EOYFMV>33226</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>PROCTER AND GAMBLE</NameOfStock>
+        <EOYBookValue>11151</EOYBookValue>
+        <EOYFMV>14995</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>RIO TINTO PLC SPON ADR</NameOfStock>
+        <EOYBookValue>30452</EOYBookValue>
+        <EOYFMV>20928</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ROCHE HLDG LTD SPONS ADR</NameOfStock>
+        <EOYBookValue>53393</EOYBookValue>
+        <EOYFMV>41480</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>SCHLUMBERGER LTD NETHERLANDS ANTILLES</NameOfStock>
+        <EOYBookValue>32693</EOYBookValue>
+        <EOYFMV>37355</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>SIEMENS A G SPON ADR</NameOfStock>
+        <EOYBookValue>39019</EOYBookValue>
+        <EOYFMV>38498</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>SONY CORP ADR NEW</NameOfStock>
+        <EOYBookValue>14320</EOYBookValue>
+        <EOYFMV>8671</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>SUMITOMO MITSUI FINANCIAL GROUP</NameOfStock>
+        <EOYBookValue>25716</EOYBookValue>
+        <EOYFMV>8604</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>TARGET CORP</NameOfStock>
+        <EOYBookValue>17890</EOYBookValue>
+        <EOYFMV>23356</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>TIFFANY AND CO NEW</NameOfStock>
+        <EOYBookValue>21368</EOYBookValue>
+        <EOYFMV>26537</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>TIME WARNER CABLE INC</NameOfStock>
+        <EOYBookValue>16177</EOYBookValue>
+        <EOYFMV>23758</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>TOTAL S.A. FRANCE SPON</NameOfStock>
+        <EOYBookValue>24227</EOYBookValue>
+        <EOYFMV>26784</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>TRANSOCEAN LTD</NameOfStock>
+        <EOYBookValue>16860</EOYBookValue>
+        <EOYFMV>11536</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>UNILEVER NV N Y SHS NEW NETHERLANDS SPONS</NameOfStock>
+        <EOYBookValue>45786</EOYBookValue>
+        <EOYFMV>38248</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>UNION PACIFIC CORP</NameOfStock>
+        <EOYBookValue>21303</EOYBookValue>
+        <EOYFMV>27804</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>UNTD TECHNOLOGIES CRP</NameOfStock>
+        <EOYBookValue>19103</EOYBookValue>
+        <EOYFMV>32455</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>VALE SA-SP PREF (PREV: COMPANHIA VALE DO RIO)</NameOfStock>
+        <EOYBookValue>21602</EOYBookValue>
+        <EOYFMV>21915</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>WALMART</NameOfStock>
+        <EOYBookValue>23756</EOYBookValue>
+        <EOYFMV>20430</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>Vanguard 500 Index</NameOfStock>
+        <EOYBookValue>1138153</EOYBookValue>
+        <EOYFMV>969005</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="RetDoc2210400001">
+      <USGovtSecuritiesEOYBookValue>349347</USGovtSecuritiesEOYBookValue>
+      <USGovtSecuritiesEOYFMV>349347</USGovtSecuritiesEOYFMV>
+      <StateLocalSecuritiesEOYBookVal>0</StateLocalSecuritiesEOYBookVal>
+      <StateLocalSecuritiesEOYFMV>0</StateLocalSecuritiesEOYFMV>
+    </InvestmentsGovtObligationsSch>
+    <LandEtcSchedule2 documentId="RetDoc2059000001">
+      <LandEtc>
+        <CategoryOrItem>OFFICE FURNITURE</CategoryOrItem>
+        <CostOrOtherBasis>820</CostOrOtherBasis>
+        <AccumulatedDepreciation>820</AccumulatedDepreciation>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>COUCH/COFFEE TABLE</CategoryOrItem>
+        <CostOrOtherBasis>569</CostOrOtherBasis>
+        <AccumulatedDepreciation>569</AccumulatedDepreciation>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>TELEPHONE EQUIPMENT</CategoryOrItem>
+        <CostOrOtherBasis>4236</CostOrOtherBasis>
+        <AccumulatedDepreciation>4236</AccumulatedDepreciation>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>COOLERS</CategoryOrItem>
+        <CostOrOtherBasis>696</CostOrOtherBasis>
+        <AccumulatedDepreciation>696</AccumulatedDepreciation>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>DOOR HARDWARE</CategoryOrItem>
+        <CostOrOtherBasis>722</CostOrOtherBasis>
+        <AccumulatedDepreciation>428</AccumulatedDepreciation>
+        <BookValue>294</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>WATER METER &amp; BOX</CategoryOrItem>
+        <CostOrOtherBasis>976</CostOrOtherBasis>
+        <AccumulatedDepreciation>529</AccumulatedDepreciation>
+        <BookValue>447</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>COMPLETE CENTER</CategoryOrItem>
+        <CostOrOtherBasis>301</CostOrOtherBasis>
+        <AccumulatedDepreciation>301</AccumulatedDepreciation>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>FILE CABINET</CategoryOrItem>
+        <CostOrOtherBasis>217</CostOrOtherBasis>
+        <AccumulatedDepreciation>217</AccumulatedDepreciation>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>FILE CABINETS (2)</CategoryOrItem>
+        <CostOrOtherBasis>200</CostOrOtherBasis>
+        <AccumulatedDepreciation>200</AccumulatedDepreciation>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>FIRE SAFE</CategoryOrItem>
+        <CostOrOtherBasis>829</CostOrOtherBasis>
+        <AccumulatedDepreciation>829</AccumulatedDepreciation>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>PARTITIONS</CategoryOrItem>
+        <CostOrOtherBasis>10221</CostOrOtherBasis>
+        <AccumulatedDepreciation>10221</AccumulatedDepreciation>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>VERTICLES</CategoryOrItem>
+        <CostOrOtherBasis>956</CostOrOtherBasis>
+        <AccumulatedDepreciation>956</AccumulatedDepreciation>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>CONFERENCE TABLES</CategoryOrItem>
+        <CostOrOtherBasis>2090</CostOrOtherBasis>
+        <AccumulatedDepreciation>2090</AccumulatedDepreciation>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>SHED (1/2)</CategoryOrItem>
+        <CostOrOtherBasis>324</CostOrOtherBasis>
+        <AccumulatedDepreciation>324</AccumulatedDepreciation>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>OFFICE FURNITURE- 15 CHAIRS</CategoryOrItem>
+        <CostOrOtherBasis>3121</CostOrOtherBasis>
+        <AccumulatedDepreciation>3121</AccumulatedDepreciation>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>OFFICE FURNITURE- ACUSTI PANELS</CategoryOrItem>
+        <CostOrOtherBasis>652</CostOrOtherBasis>
+        <AccumulatedDepreciation>652</AccumulatedDepreciation>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>FAX MACHINE</CategoryOrItem>
+        <CostOrOtherBasis>424</CostOrOtherBasis>
+        <AccumulatedDepreciation>424</AccumulatedDepreciation>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>COMPAQ 5240</CategoryOrItem>
+        <CostOrOtherBasis>1272</CostOrOtherBasis>
+        <AccumulatedDepreciation>1272</AccumulatedDepreciation>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>KITCHEN EQUIPMENT</CategoryOrItem>
+        <CostOrOtherBasis>39110</CostOrOtherBasis>
+        <AccumulatedDepreciation>39110</AccumulatedDepreciation>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>LAUNDRY EUQIPMENT</CategoryOrItem>
+        <CostOrOtherBasis>6890</CostOrOtherBasis>
+        <AccumulatedDepreciation>6890</AccumulatedDepreciation>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>BUILDING BETH STACEY</CategoryOrItem>
+        <CostOrOtherBasis>679227</CostOrOtherBasis>
+        <AccumulatedDepreciation>435091</AccumulatedDepreciation>
+        <BookValue>244136</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>BUILDING- MASONRY</CategoryOrItem>
+        <CostOrOtherBasis>800</CostOrOtherBasis>
+        <AccumulatedDepreciation>508</AccumulatedDepreciation>
+        <BookValue>292</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>WELL</CategoryOrItem>
+        <CostOrOtherBasis>1144</CostOrOtherBasis>
+        <AccumulatedDepreciation>620</AccumulatedDepreciation>
+        <BookValue>524</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>DRIVEWAY</CategoryOrItem>
+        <CostOrOtherBasis>2375</CostOrOtherBasis>
+        <AccumulatedDepreciation>955</AccumulatedDepreciation>
+        <BookValue>1420</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>CONCRETE</CategoryOrItem>
+        <CostOrOtherBasis>1450</CostOrOtherBasis>
+        <AccumulatedDepreciation>510</AccumulatedDepreciation>
+        <BookValue>940</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>LAND ACCT 175</CategoryOrItem>
+        <CostOrOtherBasis>159155</CostOrOtherBasis>
+        <AccumulatedDepreciation>0</AccumulatedDepreciation>
+        <BookValue>159155</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>BUILDING</CategoryOrItem>
+        <CostOrOtherBasis>489110</CostOrOtherBasis>
+        <AccumulatedDepreciation>276936</AccumulatedDepreciation>
+        <BookValue>212174</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>WELL</CategoryOrItem>
+        <CostOrOtherBasis>1195</CostOrOtherBasis>
+        <AccumulatedDepreciation>648</AccumulatedDepreciation>
+        <BookValue>547</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>PATIO SENIOR FRIENDSHIP</CategoryOrItem>
+        <CostOrOtherBasis>739</CostOrOtherBasis>
+        <AccumulatedDepreciation>357</AccumulatedDepreciation>
+        <BookValue>382</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>PATIO SENIOR FRIENDSHIP</CategoryOrItem>
+        <CostOrOtherBasis>18697</CostOrOtherBasis>
+        <AccumulatedDepreciation>8353</AccumulatedDepreciation>
+        <BookValue>10344</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>TRENCH IN CURB</CategoryOrItem>
+        <CostOrOtherBasis>3173</CostOrOtherBasis>
+        <AccumulatedDepreciation>1301</AccumulatedDepreciation>
+        <BookValue>1872</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>CONCRETE D L HUDSON</CategoryOrItem>
+        <CostOrOtherBasis>2980</CostOrOtherBasis>
+        <AccumulatedDepreciation>831</AccumulatedDepreciation>
+        <BookValue>2149</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>AIR CONDITIONER</CategoryOrItem>
+        <CostOrOtherBasis>2200</CostOrOtherBasis>
+        <AccumulatedDepreciation>2200</AccumulatedDepreciation>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>JANOTROL (6)</CategoryOrItem>
+        <CostOrOtherBasis>8990</CostOrOtherBasis>
+        <AccumulatedDepreciation>8990</AccumulatedDepreciation>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>LIGHT FIXTURES</CategoryOrItem>
+        <CostOrOtherBasis>1870</CostOrOtherBasis>
+        <AccumulatedDepreciation>554</AccumulatedDepreciation>
+        <BookValue>1316</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>CANON COPIER</CategoryOrItem>
+        <CostOrOtherBasis>742</CostOrOtherBasis>
+        <AccumulatedDepreciation>742</AccumulatedDepreciation>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>AIRCONDITIONER</CategoryOrItem>
+        <CostOrOtherBasis>2591</CostOrOtherBasis>
+        <AccumulatedDepreciation>2591</AccumulatedDepreciation>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>AIR CONDITIONER</CategoryOrItem>
+        <CostOrOtherBasis>2023</CostOrOtherBasis>
+        <AccumulatedDepreciation>2023</AccumulatedDepreciation>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Air Conditioner</CategoryOrItem>
+        <CostOrOtherBasis>1723</CostOrOtherBasis>
+        <AccumulatedDepreciation>1723</AccumulatedDepreciation>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Air Conditioner</CategoryOrItem>
+        <CostOrOtherBasis>1522</CostOrOtherBasis>
+        <AccumulatedDepreciation>1522</AccumulatedDepreciation>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Air Conditioner</CategoryOrItem>
+        <CostOrOtherBasis>2077</CostOrOtherBasis>
+        <AccumulatedDepreciation>2077</AccumulatedDepreciation>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Air Conditioner</CategoryOrItem>
+        <CostOrOtherBasis>2077</CostOrOtherBasis>
+        <AccumulatedDepreciation>2076</AccumulatedDepreciation>
+        <BookValue>1</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Water Meter</CategoryOrItem>
+        <CostOrOtherBasis>3765</CostOrOtherBasis>
+        <AccumulatedDepreciation>877</AccumulatedDepreciation>
+        <BookValue>2888</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Air Compressor</CategoryOrItem>
+        <CostOrOtherBasis>530</CostOrOtherBasis>
+        <AccumulatedDepreciation>518</AccumulatedDepreciation>
+        <BookValue>12</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Fire Extinguishers</CategoryOrItem>
+        <CostOrOtherBasis>518</CostOrOtherBasis>
+        <AccumulatedDepreciation>438</AccumulatedDepreciation>
+        <BookValue>80</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Fire Monitoring Board</CategoryOrItem>
+        <CostOrOtherBasis>2957</CostOrOtherBasis>
+        <AccumulatedDepreciation>2499</AccumulatedDepreciation>
+        <BookValue>458</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Panel Replacement</CategoryOrItem>
+        <CostOrOtherBasis>214</CostOrOtherBasis>
+        <AccumulatedDepreciation>179</AccumulatedDepreciation>
+        <BookValue>35</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Pump Control Box</CategoryOrItem>
+        <CostOrOtherBasis>2294</CostOrOtherBasis>
+        <AccumulatedDepreciation>1857</AccumulatedDepreciation>
+        <BookValue>437</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Condensor</CategoryOrItem>
+        <CostOrOtherBasis>2419</CostOrOtherBasis>
+        <AccumulatedDepreciation>1786</AccumulatedDepreciation>
+        <BookValue>633</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Fire Alarm Panel</CategoryOrItem>
+        <CostOrOtherBasis>377</CostOrOtherBasis>
+        <AccumulatedDepreciation>278</AccumulatedDepreciation>
+        <BookValue>99</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>LCS Air Handler</CategoryOrItem>
+        <CostOrOtherBasis>2020</CostOrOtherBasis>
+        <AccumulatedDepreciation>1467</AccumulatedDepreciation>
+        <BookValue>553</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Freezer Compressor</CategoryOrItem>
+        <CostOrOtherBasis>1225</CostOrOtherBasis>
+        <AccumulatedDepreciation>933</AccumulatedDepreciation>
+        <BookValue>292</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Surge Protector</CategoryOrItem>
+        <CostOrOtherBasis>589</CostOrOtherBasis>
+        <AccumulatedDepreciation>428</AccumulatedDepreciation>
+        <BookValue>161</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Hot Water Heater</CategoryOrItem>
+        <CostOrOtherBasis>655</CostOrOtherBasis>
+        <AccumulatedDepreciation>437</AccumulatedDepreciation>
+        <BookValue>218</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Air Conditioner</CategoryOrItem>
+        <CostOrOtherBasis>2869</CostOrOtherBasis>
+        <AccumulatedDepreciation>1674</AccumulatedDepreciation>
+        <BookValue>1195</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Telephone System</CategoryOrItem>
+        <CostOrOtherBasis>2193</CostOrOtherBasis>
+        <AccumulatedDepreciation>1755</AccumulatedDepreciation>
+        <BookValue>438</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Apple I Mac (2)</CategoryOrItem>
+        <CostOrOtherBasis>3016</CostOrOtherBasis>
+        <AccumulatedDepreciation>1910</AccumulatedDepreciation>
+        <BookValue>1106</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>400 Watt Fixture on Pole</CategoryOrItem>
+        <CostOrOtherBasis>750</CostOrOtherBasis>
+        <AccumulatedDepreciation>82</AccumulatedDepreciation>
+        <BookValue>668</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Air Conditioning Compressor</CategoryOrItem>
+        <CostOrOtherBasis>2704</CostOrOtherBasis>
+        <AccumulatedDepreciation>676</AccumulatedDepreciation>
+        <BookValue>2028</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Computer- Office Depot</CategoryOrItem>
+        <CostOrOtherBasis>534</CostOrOtherBasis>
+        <AccumulatedDepreciation>143</AccumulatedDepreciation>
+        <BookValue>391</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>New Gutters</CategoryOrItem>
+        <CostOrOtherBasis>1220</CostOrOtherBasis>
+        <AccumulatedDepreciation>78</AccumulatedDepreciation>
+        <BookValue>1142</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Landscaping</CategoryOrItem>
+        <CostOrOtherBasis>3651</CostOrOtherBasis>
+        <AccumulatedDepreciation>446</AccumulatedDepreciation>
+        <BookValue>3205</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Roof 11 BETH sTACY</CategoryOrItem>
+        <CostOrOtherBasis>39200</CostOrOtherBasis>
+        <AccumulatedDepreciation>2220</AccumulatedDepreciation>
+        <BookValue>36980</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Bullseye Sprinklers</CategoryOrItem>
+        <CostOrOtherBasis>1500</CostOrOtherBasis>
+        <AccumulatedDepreciation>446</AccumulatedDepreciation>
+        <BookValue>1054</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Sidewalk</CategoryOrItem>
+        <CostOrOtherBasis>1500</CostOrOtherBasis>
+        <AccumulatedDepreciation>76</AccumulatedDepreciation>
+        <BookValue>1424</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Air Conditioner</CategoryOrItem>
+        <CostOrOtherBasis>1875</CostOrOtherBasis>
+        <AccumulatedDepreciation>781</AccumulatedDepreciation>
+        <BookValue>1094</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Roof-9 Beth Stacey</CategoryOrItem>
+        <CostOrOtherBasis>24100</CostOrOtherBasis>
+        <AccumulatedDepreciation>1648</AccumulatedDepreciation>
+        <BookValue>22452</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Landscaping</CategoryOrItem>
+        <CostOrOtherBasis>2390</CostOrOtherBasis>
+        <AccumulatedDepreciation>1470</AccumulatedDepreciation>
+        <BookValue>920</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Chas Screen- Screen Room</CategoryOrItem>
+        <CostOrOtherBasis>2102</CostOrOtherBasis>
+        <AccumulatedDepreciation>625</AccumulatedDepreciation>
+        <BookValue>1477</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Central Aire Conditioning, Inc</CategoryOrItem>
+        <CostOrOtherBasis>3881</CostOrOtherBasis>
+        <AccumulatedDepreciation>92</AccumulatedDepreciation>
+        <BookValue>3789</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+    </LandEtcSchedule2>
+    <OtherAssetsSchedule documentId="RetDoc2046600001">
+      <OtherAssets>
+        <Description>Prepaid FED EXCISE TAX</Description>
+        <BOYBookValue>4598</BOYBookValue>
+        <EOYBookValue>1572</EOYBookValue>
+        <EOYFMV>1572</EOYFMV>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>POSTAGE &amp; SHIPPING</Description>
+        <RevenueAndExpensesPerBooks>113</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>113</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>INVESTMENT EXPENSES</Description>
+        <RevenueAndExpensesPerBooks>3343</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>3343</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>EQUIPMENT RENTAL</Description>
+        <RevenueAndExpensesPerBooks>475</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>71</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>404</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MEALS AND FOOD</Description>
+        <RevenueAndExpensesPerBooks>228</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>57</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>171</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>DUES AND SUBSCRIPTIONS</Description>
+        <RevenueAndExpensesPerBooks>289</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>289</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OFFICE SUPPLIES</Description>
+        <RevenueAndExpensesPerBooks>822</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>123</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>699</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>UTILITIES</Description>
+        <RevenueAndExpensesPerBooks>9564</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>861</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>8703</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>REPAIRs</Description>
+        <RevenueAndExpensesPerBooks>6017</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>371</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>5646</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Maintenance</Description>
+        <RevenueAndExpensesPerBooks>21198</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>2196</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>19002</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>TELEPHONE AND FAX</Description>
+        <RevenueAndExpensesPerBooks>1201</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>180</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>1021</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>other</Description>
+        <RevenueAndExpensesPerBooks>201</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>50</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>151</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>AWARDS &amp; RECOGNITION</Description>
+        <RevenueAndExpensesPerBooks>32</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>32</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>INSURANCE</Description>
+        <RevenueAndExpensesPerBooks>17539</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>17539</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="RetDoc2049700001">
+      <OtherIncreases>
+        <Description>FMV ADJUSTMENT SECURITIES</Description>
+        <Amount>335125</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <OtherLiabilitiesSchedule documentId="RetDoc2065700001">
+      <OtherLiabilities>
+        <Description>WITHHELD INCOME TAXES</Description>
+        <BOYBookValue>1144</BOYBookValue>
+        <EOYBookValue>1194</EOYBookValue>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>ACCRUED PROPERTY TAXES</Description>
+        <BOYBookValue>1600</BOYBookValue>
+        <EOYBookValue>1555</EOYBookValue>
+      </OtherLiabilities>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFees>
+        <Category>INVESTMENT MANAGEMENT FEES</Category>
+        <Amount>22109</Amount>
+        <NetInvestmentIncome>22109</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>PAYROLL TAXES</Category>
+        <Amount>6693</Amount>
+        <NetInvestmentIncome>1673</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>5020</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>EXCISE TAX</Category>
+        <Amount>2106</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

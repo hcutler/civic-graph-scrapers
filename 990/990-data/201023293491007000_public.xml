@@ -1,0 +1,627 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-08-20T11:00:42-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>NEIDICH &amp; COMPANY</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>1163 ROUTE 22 EAST</AddressLine1>
+        <City>MOUNTAINSIDE</City>
+        <State>NJ</State>
+        <ZIPCode>07092</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>222430208</EIN>
+      <Name>
+        <BusinessNameLine1>SCHWARZ FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>SCHW</NameControl>
+      <Phone>9086547010</Phone>
+      <USAddress>
+        <AddressLine1>1163 RT 22 E</AddressLine1>
+        <City>MOUNTAINSIDE</City>
+        <State>NJ</State>
+        <ZIPCode>07092</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>HENRYK SCHWARZ</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>9086547010</Phone>
+      <DateSigned>2010-08-13</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>MICHAEL BECK</Name>
+      <Phone>9086547010</Phone>
+      <DatePrepared>2010-08-16</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="9">
+    <IRS990PF documentId="RetDoc2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>18071341</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>2690000</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>276616</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>276616</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>307188</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>307188</DividendsNetInvstIncm>
+        <TotalRevenueAndExpenses>3273804</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>583804</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc3">1500</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>1500</AccountingFeesNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc9">25</TaxesRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc8">19</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>1544</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>1500</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>699500</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>699500</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>701044</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>1500</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>699500</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>2572760</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>582304</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>2258476</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>1999409</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>1999409</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsGovtObligBOY>8135776</InvestmentsGovtObligBOY>
+        <InvestmentsGovtObligEOY referenceDocumentId="RetDoc6">11458953</InvestmentsGovtObligEOY>
+        <InvestmentsGovtObligEOYFMV>11500000</InvestmentsGovtObligEOYFMV>
+        <InvestmentsCorpStockBOY>9392604</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc5">9392604</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>4274432</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>1507505</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="RetDoc4">1007505</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>297500</InvestmentsCorpBondsEOYFMV>
+        <TotalAssetsBOY>21294361</TotalAssetsBOY>
+        <TotalAssetsEOY>23858471</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>18071341</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>21294361</UnrestrictedBOY>
+        <UnrestrictedEOY>23858471</UnrestrictedEOY>
+        <TotalNetAssetsBOY>21294361</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>23858471</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>21294361</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>23858471</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>21294361</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>2572760</ExcessOfRevenueOverExpenses>
+        <Subtotal>23867121</Subtotal>
+        <OtherDecreases referenceDocumentId="RetDoc7">8650</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>23858471</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>703500</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>15734194</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.044712</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>658712</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>16807067</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.039193</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>894080</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>15338988</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.058288</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>740781</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>13053094</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.056751</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>784985</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>13049564</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.060154</DistributionRatioYear5>
+        <TotalDistributionRatio>0.259098</TotalDistributionRatio>
+        <AverageDistributionRatio>0.051820</AverageDistributionRatio>
+        <NetNoncharitableAssets>16615371</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>861009</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>5823</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>866832</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>699500</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>11646</InvestmentIncomeExciseTax>
+        <Subtotal>11646</Subtotal>
+        <TaxBasedOnInvestmentIncome>11646</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>12813</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>12813</TotalCreditsAndPayments>
+        <Overpayment>1167</Overpayment>
+        <AmountCreditedToNextYear>1167</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>NJ</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>NEIDICH COMPANY</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>9086547010</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>1163 ROUTE 22 EAST</AddressLine1>
+          <City>MOUNTAINSIDE</City>
+          <State>NJ</State>
+          <ZIPCode>07092</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>STEVEN SCHWARZ</PersonName>
+          <USAddress>
+            <AddressLine1>200 CENTRAL AVENUE</AddressLine1>
+            <AddressLine2>200 CENTRAL AVENUE</AddressLine2>
+            <City>MOUNTAINSIDE</City>
+            <State>NJ</State>
+            <ZIPCode>07092</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>HENRYK SCHWARZ</PersonName>
+          <USAddress>
+            <AddressLine1>200 CENTRAL AVENUE</AddressLine1>
+            <AddressLine2>200 CENTRAL AVENUE</AddressLine2>
+            <City>MOUNTAINSIDE</City>
+            <State>NJ</State>
+            <ZIPCode>07092</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>14739454</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>2128943</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>16868397</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>16868397</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>253026</CashDeemedCharitable>
+        <NetNoncharitableAssets>16615371</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>830769</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>830769</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>11646</TaxBasedOnInvestmentIncome>
+        <TotalTax>11646</TotalTax>
+        <DistributableAmountBeforeAdj>819123</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>819123</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>819123</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>699500</ExpensesAndContributions>
+        <QualifyingDistributions>699500</QualifyingDistributions>
+        <AdjQualifyingDistributions>699500</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>819123</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear4>10126</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>140971</ExcessDistriCarryoverYear3>
+        <TotalExcessDistriCarryover>151097</TotalExcessDistriCarryover>
+        <QualifyingDistributions>699500</QualifyingDistributions>
+        <AppliedToCurrentYear>699500</AppliedToCurrentYear>
+        <ExcessDistriCyovAppCYCorpus>119623</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>119623</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>31474</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>31474</ExcessDistriCyovToNextYear>
+        <ExcessFromYear3>31474</ExcessFromYear3>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>STEVEN SCHWARZ</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JEWISH FAMILY SERVICE</BusinessNameLine1>
+            <BusinessNameLine2>JEWISH FAMILY SERVICE</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>655 WESTFIELD AVENUE</AddressLine1>
+            <AddressLine2>655 WESTFIELD AVENUE</AddressLine2>
+            <City>ELIZABETH</City>
+            <State>NJ</State>
+            <ZIPCode>07208</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNITED JEWISH APPEAL</BusinessNameLine1>
+            <BusinessNameLine2>UNITED JEWISH APPEAL</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>130 EAST 59TH STREET</AddressLine1>
+            <AddressLine2>130 EAST 59TH STREET</AddressLine2>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10022</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>115000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ANTI-DEFAMATION LEAGUE</BusinessNameLine1>
+            <BusinessNameLine2>ANTI-DEFAMATION LEAGUE FOUNDATION</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>605 THIRD AVENUE</AddressLine1>
+            <AddressLine2>605 THIRD AVENUE</AddressLine2>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10158</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SIMON WIESENTHAL CENTER</BusinessNameLine1>
+            <BusinessNameLine2>SIMON WIESENTHAL CENTER</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>50 EAST 42ND STREET 1600</AddressLine1>
+            <AddressLine2>50 EAST 42ND STREET 1600</AddressLine2>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>100175405</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WORLD JEWISH CONGRESS</BusinessNameLine1>
+            <BusinessNameLine2>WORLD JEWISH CONGRESS</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>501 MADISON AVENUE</AddressLine1>
+            <AddressLine2>501 MADISON AVENUE</AddressLine2>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10022</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PEF ISRAEL ENDOW FUNDS</BusinessNameLine1>
+            <BusinessNameLine2>PEF ISRAEL ENDOWMENT FUNDS</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>317 MADISON AVENUE</AddressLine1>
+            <AddressLine2>317 MADISON AVENUE</AddressLine2>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10017</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>400000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BETH ISRAEL DEACONESS MED</BusinessNameLine1>
+            <BusinessNameLine2>BETH ISRAEL DEACONESS MEDICAL CENTER</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>330 BROOKLINE AVENUE</AddressLine1>
+            <AddressLine2>330 BROOKLINE AVENUE</AddressLine2>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02215</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>100000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AMERICAN SOC FOR YAD VASH</BusinessNameLine1>
+            <BusinessNameLine2>AMERICAN SOCIETY FOR YAD VASHEM</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>500 5TH AVENUE 42</AddressLine1>
+            <AddressLine2>500 5TH AVENUE 42</AddressLine2>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>101104299</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HARLEM CHILDREN'S ZONE</BusinessNameLine1>
+            <BusinessNameLine2>HARLEM CHILDREN'S ZONE</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>35 EAST 125TH STREET</AddressLine1>
+            <AddressLine2>35 EAST 125TH STREET</AddressLine2>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10035</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>B'NAI BRITH INTERNATIONAL</BusinessNameLine1>
+            <BusinessNameLine2>B'NAI BRITH INTERNATIONAL</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>801 2ND AVENUE</AddressLine1>
+            <AddressLine2>801 2ND AVENUE</AddressLine2>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>100178639</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JEWISH DISRIBUTION COMM</BusinessNameLine1>
+            <BusinessNameLine2>JEWISH DISTRIBUTION COMM HAITI EARTHQUAKE RELIEF</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>132 EAST 43RD STREET</AddressLine1>
+            <AddressLine2>132 EAST 43RD STREET</AddressLine2>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10017</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>50000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>699500</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>276616</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>307188</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>583804</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>583804</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>HENSYNINC</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>200 CENTRAL AVENUE</AddressLine1>
+          <City>MOUNTAINSIDE</City>
+          <State>NJ</State>
+          <ZIPCode>07092</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>700000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>2</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>EAGLE ROCK VILLAGE INC</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>200 CENTRAL AVENUE</AddressLine1>
+          <City>MOUNTAINSIDE</City>
+          <State>NJ</State>
+          <ZIPCode>07092</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>600000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>3</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>GREENWOOD GARDENSINC</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>200 CENTRAL AVENUE</AddressLine1>
+          <City>MOUNTAINSIDE</City>
+          <State>NJ</State>
+          <ZIPCode>07092</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>40000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>4</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>BROOKLAWN GARDENS INC</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>200 CENTRAL AVENUE</AddressLine1>
+          <City>MOUNTAINSIDE</City>
+          <State>NJ</State>
+          <ZIPCode>07092</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>850000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>5</ContributorNumber>
+        <ContributorNameIndividual>STEVEN SCHWARZ</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>200 CENTRAL AVENUE</AddressLine1>
+          <City>MOUNTAINSIDE</City>
+          <State>NJ</State>
+          <ZIPCode>07092</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>500000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc3">
+      <AccountingFees>
+        <Category>NEIDICH &amp; COMPANY</Category>
+        <Amount>1500</Amount>
+        <NetInvestmentIncome>1500</NetInvestmentIncome>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc4">
+      <InvestmentsCorpBonds>
+        <NameOfBond>STATE OF ISRAEL BONDS</NameOfBond>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>GENERAL MOTORS BONDS</NameOfBond>
+        <EOYBookValue>1007505</EOYBookValue>
+        <EOYFMV>297500</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc5">
+      <InvestmentsCorpStock>
+        <NameOfStock>55,000 SHS. - GENERAL MOTORS CORP.</NameOfStock>
+        <EOYBookValue>2812178</EOYBookValue>
+        <EOYFMV>23733</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>5,000 SHS. - MERCK &amp; CO.</NameOfStock>
+        <EOYBookValue>241205</EOYBookValue>
+        <EOYFMV>174850</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>140,000 SHS. - VERIZON COMM.</NameOfStock>
+        <EOYBookValue>4716479</EOYBookValue>
+        <EOYFMV>3922800</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>5,973 SHS. - WELLS FARGO &amp; CO.</NameOfStock>
+        <EOYBookValue>1421717</EOYBookValue>
+        <EOYFMV>152909</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>7,000 SHS. - IDEARC INC.</NameOfStock>
+        <EOYBookValue>180276</EOYBookValue>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>2,640 SHS. - FAIRPOINT COMM.</NameOfStock>
+        <EOYBookValue>20749</EOYBookValue>
+        <EOYFMV>140</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="RetDoc6">
+      <USGovtSecuritiesEOYBookValue>11458953</USGovtSecuritiesEOYBookValue>
+      <USGovtSecuritiesEOYFMV>11500000</USGovtSecuritiesEOYFMV>
+    </InvestmentsGovtObligationsSch>
+    <OtherDecreasesSchedule documentId="RetDoc7">
+      <OtherDecreases>
+        <Description>EXCISE TAX PAID</Description>
+        <Amount>8650</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc8">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OFFICE EXPENSE</Description>
+        <RevenueAndExpensesPerBooks>19</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="RetDoc9">
+      <Taxes>
+        <Category>NJ ANNUAL REPORT</Category>
+        <Amount>25</Amount>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

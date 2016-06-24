@@ -1,0 +1,731 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-03-02T12:11:00-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>KSM BUSINESS SERVICES INC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>PO BOX 40857</AddressLine1>
+        <City>INDIANAPOLIS</City>
+        <State>IN</State>
+        <ZIPCode>462400857</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>352121831</EIN>
+      <Name>
+        <BusinessNameLine1>J D BYRIDER FOUNDATION INCORPORATED</BusinessNameLine1>
+      </Name>
+      <NameControl>JDBY</NameControl>
+      <Phone>3172493000</Phone>
+      <USAddress>
+        <AddressLine1>12802 HAMILTON CROSSING BLVD</AddressLine1>
+        <City>CARMEL</City>
+        <State>IN</State>
+        <ZIPCode>46032</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>JEFF HIGGINS</Name>
+      <Title>DIRECTOR</Title>
+      <Phone>3172493052</Phone>
+      <DateSigned>2011-02-19</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>JEFFREY D TAYLOR</Name>
+      <Phone>3175802000</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="4">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>1765</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>119500</ContriReceivedRevAndExpnss>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>119500</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>0</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">1290</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>0</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>0</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc2002300001">327</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>0</OtherProfFeesNetInvstIncm>
+        <OtherProfFeesDsbrsChrtblPrps>0</OtherProfFeesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>1617</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>118812</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>118812</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>120429</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>118812</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-929</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>2694</CashBOY>
+        <CashEOY>1765</CashEOY>
+        <TotalAssetsBOY>2694</TotalAssetsBOY>
+        <TotalAssetsEOY>1765</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>1765</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>2694</UnrestrictedBOY>
+        <UnrestrictedEOY>1765</UnrestrictedEOY>
+        <TotalNetAssetsBOY>2694</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>1765</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>2694</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>1765</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>2694</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-929</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>1765</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>1765</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>88475</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>2804</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>31.553138</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>70850</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>2820</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>25.124113</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>119450</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>5820</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>20.524055</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>96460</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>9622</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>10.024943</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>156607</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>37833</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>4.139429</DistributionRatioYear5>
+        <TotalDistributionRatio>91.365678</TotalDistributionRatio>
+        <AverageDistributionRatio>18.273136</AverageDistributionRatio>
+        <NetNoncharitableAssets>1849</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>33787</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>0</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>33787</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>118812</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>0</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>0</TaxBasedOnInvestmentIncome>
+        <TotalCreditsAndPayments>0</TotalCreditsAndPayments>
+        <TaxDue>0</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>0</AtLeast5000InAssets>
+        <StatesFiledWith>IN</StatesFiledWith>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>NA</WebsiteAddress>
+        <BooksInCareOfPersonName>JEFF HIGGINS</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>3172493000</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>12802 HAMILTON CROSSING BLVD</AddressLine1>
+          <City>CARMEL</City>
+          <State>IN</State>
+          <ZIPCode>46032</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>0</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ANDREA L DEVOE</PersonName>
+          <USAddress>
+            <AddressLine1>12802 HAMILTON CROSSING BLVD</AddressLine1>
+            <City>CARMEL</City>
+            <State>IN</State>
+            <ZIPCode>46032</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR AND PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JEFFREY B HIGGINS</PersonName>
+          <USAddress>
+            <AddressLine1>12802 HAMILTON CROSSING BLVD</AddressLine1>
+            <City>CARMEL</City>
+            <State>IN</State>
+            <ZIPCode>46032</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR AND SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BRAD MALOTT</PersonName>
+          <USAddress>
+            <AddressLine1>12802 HAMILTON CROSSING BLVD</AddressLine1>
+            <City>CARMEL</City>
+            <State>IN</State>
+            <ZIPCode>46032</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR AND TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>PJ TURNER</PersonName>
+          <USAddress>
+            <AddressLine1>12802 HAMILTON CROSSING BLVD</AddressLine1>
+            <City>CARMEL</City>
+            <State>IN</State>
+            <ZIPCode>46032</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+        <Amount1>0</Amount1>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>1877</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>1877</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>1877</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>28</CashDeemedCharitable>
+        <NetNoncharitableAssets>1849</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>92</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>92</MinimumInvestmentReturn>
+        <TotalTax>0</TotalTax>
+        <DistributableAmountBeforeAdj>92</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>92</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>92</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>118812</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>118812</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>118812</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>92</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear5>154715</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>95979</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>119159</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>70709</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>88335</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>528897</TotalExcessDistriCarryover>
+        <QualifyingDistributions>118812</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>92</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>118720</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>647617</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>154715</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>492902</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>95979</ExcessFromYear4>
+        <ExcessFromYear3>119159</ExcessFromYear3>
+        <ExcessFromYear2>70709</ExcessFromYear2>
+        <ExcessFromYear1>88335</ExcessFromYear1>
+        <ExcessFromCurrentYear>118720</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>MR JEFFREY B HIGGINS</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>12802 HAMILTON CROSSING BLVD</AddressLine1>
+            <City>CARMEL</City>
+            <State>IN</State>
+            <ZIPCode>46032</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>3172493000</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>A COMPLETED J.D. BYRIDER FOUNDATION, INC. REQUEST FOR CONSIDERATION APPLICATION COMPLETED AND MAILED OR FAXED TO THE FOUNDATION.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>NONE</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AMERICAN CANCER SOCIETY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5110 S SPRINKLE RD</AddressLine1>
+            <City>PORTAGE</City>
+            <State>MI</State>
+            <ZIPCode>49002</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUND</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AMERICAN HEART ASSOCIATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>6100 W 96TH STREET SUITE 200</AddressLine1>
+            <City>INDIANAPOLIS</City>
+            <State>IN</State>
+            <ZIPCode>46278</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUND</PurposeOfGrantOrContribution>
+          <Amount>75000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JUST SAY NODARE FUNDINDIANA CRIME PREVENTION COALITION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4120 HEYWARD PLACE</AddressLine1>
+            <City>INDIANAPOLIS</City>
+            <State>IN</State>
+            <ZIPCode>46250</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUND</PurposeOfGrantOrContribution>
+          <Amount>200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CAMPTOWN INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>13446 DUNES DR</AddressLine1>
+            <City>CARMEL</City>
+            <State>IN</State>
+            <ZIPCode>46032</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIPS</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ST MARY'S CHILD CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>901 DR MARTIN LUTHER KING JR ST</AddressLine1>
+            <City>INDIANAPOLIS</City>
+            <State>IN</State>
+            <ZIPCode>46202</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUND</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FRATERNAL ORDER OF POLICE- INDIANAPOLIS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1431 E WASHINGTON ST</AddressLine1>
+            <City>INDIANAPOLIS</City>
+            <State>IN</State>
+            <ZIPCode>46201</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUND</PurposeOfGrantOrContribution>
+          <Amount>200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FRATERNAL ORDER OF POLICE- ST JOSEPH COUNTY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 4806</AddressLine1>
+            <City>SOUTH BEND</City>
+            <State>IN</State>
+            <ZIPCode>46684</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUND</PurposeOfGrantOrContribution>
+          <Amount>200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KINGDOM BUILDERS MINISTRIES</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>14485 E EVANS</AddressLine1>
+            <City>AURORA</City>
+            <State>CO</State>
+            <ZIPCode>80014</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>CHURCH</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUND</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>RILEY CHILDREN'S FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>30 S MERIDIAN ST SUITE 200</AddressLine1>
+            <City>INDIANAPOLIS</City>
+            <State>IN</State>
+            <ZIPCode>46204</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUND</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SPORTSMAN'S BENEVOLENCE FUND ACCOUNT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>402 W WASHINGTON ST RM W-255D</AddressLine1>
+            <City>INDIANAPOLIS</City>
+            <State>IN</State>
+            <ZIPCode>46204</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>GOVERNMENT AGENCY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUND</PurposeOfGrantOrContribution>
+          <Amount>62</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TRINITY FREE CLINIC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>835 WINTER CT</AddressLine1>
+            <City>CARMEL</City>
+            <State>IN</State>
+            <ZIPCode>46032</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUND</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JUVENILE DIABETES RESEARCH FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5000 ROCKSIDE RD SUITE 310</AddressLine1>
+            <City>CLEVELAND</City>
+            <State>OH</State>
+            <ZIPCode>44131</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUND</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DISABILITY LEGAL SERVICES OF IN INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5954 N COLLEGE AVE</AddressLine1>
+            <City>INDIANAPOLIS</City>
+            <State>IN</State>
+            <ZIPCode>46220</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUND</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TPM ENTERPRISES - JOY'S HOUSE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2028 E BROAD RIPPLE AVE</AddressLine1>
+            <City>INDIANAPOLIS</City>
+            <State>IN</State>
+            <ZIPCode>46220</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUND</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MEALS ON WHEELS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1099 NORTH MERIDIAN ST SUITE 650</AddressLine1>
+            <City>INDIANAPOLIS</City>
+            <State>IN</State>
+            <ZIPCode>46204</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUND</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LEUKEMIA &amp; LYMPHOMA SOCIETY IN CHAPTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>941 E 86TH STREET SUITE 100</AddressLine1>
+            <City>INDIANAPOLIS</City>
+            <State>IN</State>
+            <ZIPCode>46240</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUND</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHILDREN'S BUREAU INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1575 DR MARTIN LUTHER KING JR ST</AddressLine1>
+            <City>INDIANAPOLIS</City>
+            <State>IN</State>
+            <ZIPCode>46202</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUND</PurposeOfGrantOrContribution>
+          <Amount>3500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LITTLE STAR CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>12726 HAMILTON CROSSING BLVD</AddressLine1>
+            <City>CARMEL</City>
+            <State>IN</State>
+            <ZIPCode>46032</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUND</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PEOPLE TO PEOPLE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 34902</AddressLine1>
+            <City>SEATTLE</City>
+            <State>WA</State>
+            <ZIPCode>98124</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>CHURCH</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUND</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FITNESS CHALLENGE FOUNDATION- RIDE 2 RECOVERY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>23679 CALABASAS RD 402</AddressLine1>
+            <City>CALABASAS</City>
+            <State>CA</State>
+            <ZIPCode>91302</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUND</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SOUTHEAST CHRISTIAN CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>920 BLANKENBAKER PARKWAY</AddressLine1>
+            <City>LOUISVILLE</City>
+            <State>KY</State>
+            <ZIPCode>40243</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>CHURCH</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUND</PurposeOfGrantOrContribution>
+          <Amount>2800</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ST JOHN'S CATHEDRAL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>413 W CUMBERLAND AVE</AddressLine1>
+            <City>KNOXVILLE</City>
+            <State>TN</State>
+            <ZIPCode>37902</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>CHURCH</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUND</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE AUTISM PROJECT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>615 RESERVIOR AVE</AddressLine1>
+            <City>CRANSTON</City>
+            <State>RI</State>
+            <ZIPCode>02910</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUND</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>118812</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>0</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>0</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>BYRIDER FRANCHISING INC</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>12802 HAMILTON CROSSING BLVD</AddressLine1>
+          <City>CARMEL</City>
+          <State>IN</State>
+          <ZIPCode>46032</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>119500</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>1290</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFees>
+        <Category>BANK SERVICE FEES</Category>
+        <Amount>327</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+  </ReturnData>
+</Return>

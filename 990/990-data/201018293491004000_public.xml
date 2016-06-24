@@ -1,0 +1,1054 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return returnVersion="2009v1.3" xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-07-01T13:38:47Z</Timestamp>
+    <TaxPeriodEndDate>2010-05-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>M &amp; I TRUST CO NA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>11270 WEST PARK PLACE SUITE 400</AddressLine1>
+        <City>MILWAUKEE</City>
+        <State>WI</State>
+        <ZIPCode>53224</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-06-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>396716441</EIN>
+      <Name>
+        <BusinessNameLine1>THE CLIFFORD G AND GRACE A FERRIS FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>CLIF</NameControl>
+      <Phone>4148153775</Phone>
+      <USAddress>
+        <AddressLine1>C/O M I TRUST CO NA 11270 W PARK PL</AddressLine1>
+        <City>MILWAUKEE</City>
+        <State>WI</State>
+        <ZIPCode>53224</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>TRACY STRIZIC</Name>
+      <Title>OFFICER</Title>
+      <Phone>4148153775</Phone>
+      <DateSigned>2010-06-28</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>TRACY STRIZIC EA</Name>
+      <Phone>4148153500</Phone>
+      <DatePrepared>2010-07-01</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="00000001" referenceDocumentName="ReasonableCauseExplanation GeneralExplanationAttachment">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>184988</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>6189</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>6189</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="00000002" referenceDocumentName="GainLossFromSaleOtherAssetsSchedule">-34861</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>271288</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="00000005" referenceDocumentName="OtherIncomeSchedule2">1028</OtherIncomeRevAndExpnss>
+        <TotalRevenueAndExpenses>-27644</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>6189</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>2286</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>2286</CompOfcrDirTrstNetInvstIncm>
+        <AccountingFeesRevAndExpnss>675</AccountingFeesRevAndExpnss>
+        <AccountingFeesDsbrsChrtblPrps>675</AccountingFeesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>2961</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>2286</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>675</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>12000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>12000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>14961</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>2286</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>12675</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-42605</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>3903</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>4758</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>13899</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>13899</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>59706</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="00000004" referenceDocumentName="InvestmentsCorpStockSchedule">93723</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>83642</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>171152</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="00000003" referenceDocumentName="InvestmentsCorpBondsSchedule">85398</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>87445</InvestmentsCorpBondsEOYFMV>
+        <OtherAssetsBOY>5</OtherAssetsBOY>
+        <OtherAssetsEOY>2</OtherAssetsEOY>
+        <OtherAssetsEOYFMV>2</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>235621</TotalAssetsBOY>
+        <TotalAssetsEOY>193022</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>184988</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>235621</CapitalStockBOY>
+        <CapitalStockEOY>193022</CapitalStockEOY>
+        <TotalNetAssetsBOY>235621</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>193022</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>235621</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>193022</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>235621</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-42605</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="00000006" referenceDocumentName="OtherIncreasesSchedule">6</OtherIncreases>
+        <Subtotal>193022</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>193022</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>76.403 SHS DODGE &amp; COX INTERNATIONAL STOCK FD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-04-10</DateAcquired>
+          <DateSold>2009-08-18</DateSold>
+          <GrossSalesPrice>2175</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>3227</CostOrOtherBasis>
+          <GainOrLoss>-1052</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-1052</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>246.098 SHS DODGE &amp; COX INTERNATIONAL STOCK FD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-04-10</DateAcquired>
+          <DateSold>2009-10-22</DateSold>
+          <GrossSalesPrice>8129</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>10393</CostOrOtherBasis>
+          <GainOrLoss>-2264</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-2264</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1675.069 SHS FEDERATED INSTITUTIONAL HIGH YD BD FD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-01-06</DateAcquired>
+          <DateSold>2010-05-18</DateSold>
+          <GrossSalesPrice>16097</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>16081</CostOrOtherBasis>
+          <GainOrLoss>16</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>16</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>58.65 SHS HARBOR FD INTL FD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-04-10</DateAcquired>
+          <DateSold>2009-08-18</DateSold>
+          <GrossSalesPrice>2801</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>4031</CostOrOtherBasis>
+          <GainOrLoss>-1230</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-1230</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>188.695 SHS HARBOR FD INTL FD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-04-10</DateAcquired>
+          <DateSold>2009-10-22</DateSold>
+          <GrossSalesPrice>10465</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>12969</CostOrOtherBasis>
+          <GainOrLoss>-2504</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-2504</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>380 SHS ISHARES TR IBOXX USD INVT GRADE CORP BD FD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-10-27</DateAcquired>
+          <DateSold>2009-11-12</DateSold>
+          <GrossSalesPrice>40096</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>38786</CostOrOtherBasis>
+          <GainOrLoss>1310</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>1310</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>70 SHS ISHARES TR IBOXX USD INVT GRADE CORP BD FD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-11-18</DateAcquired>
+          <DateSold>2010-05-21</DateSold>
+          <GrossSalesPrice>7440</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>6350</CostOrOtherBasis>
+          <GainOrLoss>1090</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>1090</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>300 SHS ISHARES TR BARCLAYS 1-3 YR TREAS BD FD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-08-18</DateAcquired>
+          <DateSold>2009-10-27</DateSold>
+          <GrossSalesPrice>25143</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>25127</CostOrOtherBasis>
+          <GainOrLoss>16</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>16</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>150 SHS ISHARES TR BARCLAYS 1-3 YR TREAS BD FD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-11-12</DateAcquired>
+          <DateSold>2010-04-01</DateSold>
+          <GrossSalesPrice>12489</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>12600</CostOrOtherBasis>
+          <GainOrLoss>-111</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-111</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>186.847 SHS MARSHALL SMALL CAP GROWTH FD I #964</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-12-06</DateAcquired>
+          <DateSold>2009-08-18</DateSold>
+          <GrossSalesPrice>2169</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>3125</CostOrOtherBasis>
+          <GainOrLoss>-956</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-956</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>599.635 SHS MARSHALL SMALL CAP GROWTH FD I #964</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2002-08-05</DateAcquired>
+          <DateSold>2009-10-22</DateSold>
+          <GrossSalesPrice>8125</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>5718</CostOrOtherBasis>
+          <GainOrLoss>2407</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>2407</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>130.655 SHS MARSHALL MID CAP GROWTH FD CL I #963</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2000-12-07</DateAcquired>
+          <DateSold>2009-08-18</DateSold>
+          <GrossSalesPrice>1616</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>2057</CostOrOtherBasis>
+          <GainOrLoss>-441</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-441</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>417.871 SHS MARSHALL MID CAP GROWTH FD CL I #963</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2002-08-05</DateAcquired>
+          <DateSold>2009-10-22</DateSold>
+          <GrossSalesPrice>5825</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>4779</CostOrOtherBasis>
+          <GainOrLoss>1046</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>1046</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>258.435 SHS MARSHALL MID CAP VALUE FD CL I #931</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-12-06</DateAcquired>
+          <DateSold>2009-08-18</DateSold>
+          <GrossSalesPrice>2393</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>3551</CostOrOtherBasis>
+          <GainOrLoss>-1158</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-1158</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>827.765 SHS MARSHALL MID CAP VALUE FD CL I #931</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2001-10-08</DateAcquired>
+          <DateSold>2009-10-22</DateSold>
+          <GrossSalesPrice>8675</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>9149</CostOrOtherBasis>
+          <GainOrLoss>-474</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-474</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1068.919 SHS MARSHALL LARGE CAP GROWTH CL I #927</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>1999-07-20</DateAcquired>
+          <DateSold>2009-08-18</DateSold>
+          <GrossSalesPrice>10069</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>19422</CostOrOtherBasis>
+          <GainOrLoss>-9353</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-9353</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>3408.193 SHS MARSHALL LARGE CAP GROWTH CL I #927</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2001-07-23</DateAcquired>
+          <DateSold>2009-10-22</DateSold>
+          <GrossSalesPrice>36263</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>45233</CostOrOtherBasis>
+          <GainOrLoss>-8970</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-8970</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>927.218 SHS MARSHALL LARGE CAP VALUE FD I #926</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>1999-07-20</DateAcquired>
+          <DateSold>2009-08-18</DateSold>
+          <GrossSalesPrice>8428</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>16208</CostOrOtherBasis>
+          <GainOrLoss>-7780</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-7780</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2953.582 SHS MARSHALL LARGE CAP VALUE FD I #926</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2003-09-26</DateAcquired>
+          <DateSold>2009-10-22</DateSold>
+          <GrossSalesPrice>30097</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>40135</CostOrOtherBasis>
+          <GainOrLoss>-10038</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-10038</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>400 SHS POWERSHARES GLOBAL EXCHANGE TRADED FD AGGREGATE PFD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-04-29</DateAcquired>
+          <DateSold>2009-08-18</DateSold>
+          <GrossSalesPrice>5281</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>4241</CostOrOtherBasis>
+          <GainOrLoss>1040</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>1040</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>400 SHS POWERSHARES GLOBAL EXCHANGED TRADED FD AGGREGATE PFD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-04-29</DateAcquired>
+          <DateSold>2009-09-30</DateSold>
+          <GrossSalesPrice>5389</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>4238</CostOrOtherBasis>
+          <GainOrLoss>1151</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>1151</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>600 SHS POWERSHARES GLOBAL EXCHANGE TRADED FD AGGREGATE PFD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-04-29</DateAcquired>
+          <DateSold>2009-10-29</DateSold>
+          <GrossSalesPrice>8046</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>6356</CostOrOtherBasis>
+          <GainOrLoss>1690</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>1690</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>600 SHS POWERSHARES GLOBAL EXCHANGE TRADED FD AGGREGATE PFD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-04-29</DateAcquired>
+          <DateSold>2009-10-22</DateSold>
+          <GrossSalesPrice>7980</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>6352</CostOrOtherBasis>
+          <GainOrLoss>1628</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>1628</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>140 SHS VANGUARD INTL EQUITY INDEX FDS VANGUARD EMERGING MKTS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-04-01</DateAcquired>
+          <DateSold>2010-04-10</DateSold>
+          <GrossSalesPrice>6028</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>6021</CostOrOtherBasis>
+          <GainOrLoss>7</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>7</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>ISHARES TR BARCLAYS 1-3 YR TREAS BD FD LONG TERM CAP GAIN</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-01-01</DateAcquired>
+          <DateSold>2010-05-31</DateSold>
+          <GrossSalesPrice>60</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>0</CostOrOtherBasis>
+          <GainOrLoss>60</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>60</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>VANGUARD BD INDEX FD INC SHORT TERM BD ETF LONG TERM CAP GAIN</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-01-01</DateAcquired>
+          <DateSold>2010-05-31</DateSold>
+          <GrossSalesPrice>9</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>0</CostOrOtherBasis>
+          <GainOrLoss>9</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>9</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>-34861</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>15648</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>183742</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.085163</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>16480</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>253873</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.064914</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>13675</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>252895</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.054074</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>12675</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>244415</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.051859</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>8000</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>233268</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.034295</DistributionRatioYear5>
+        <TotalDistributionRatio>0.290305</TotalDistributionRatio>
+        <AverageDistributionRatio>0.058061</AverageDistributionRatio>
+        <NetNoncharitableAssets>187724</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>10899</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>39</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>10938</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>12675</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>39</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>39</Subtotal>
+        <TaxBasedOnInvestmentIncome>39</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>27</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>27</TotalCreditsAndPayments>
+        <TaxPaidOriginalReturn>27</TaxPaidOriginalReturn>
+        <TaxDue>12</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>WI</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>MARSHALL &amp; ILSLEY TR CO NA</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>7158453121</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>500 THIRD ST PO BOX 209</AddressLine1>
+          <City>WAUSAU</City>
+          <State>WI</State>
+          <ZIPCode>54402</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <BusinessName>
+            <BusinessNameLine1>MARSHALL &amp; ILSLEY TRUST CO NA</BusinessNameLine1>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1>PO BOX 209</AddressLine1>
+            <City>WAUSAU</City>
+            <State>WI</State>
+            <ZIPCode>54402</ZIPCode>
+          </USAddress>
+          <Title>trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>2286</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>190583</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>190583</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>190583</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>2859</CashDeemedCharitable>
+        <NetNoncharitableAssets>187724</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>9386</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>9386</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>39</TaxBasedOnInvestmentIncome>
+        <TotalTax>39</TotalTax>
+        <DistributableAmountBeforeAdj>9347</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>9347</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>9347</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>12675</ExpensesAndContributions>
+        <QualifyingDistributions>12675</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>39</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>12636</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>9347</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear4>848</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>1323</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>4176</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>6515</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>12862</TotalExcessDistriCarryover>
+        <QualifyingDistributions>12675</QualifyingDistributions>
+        <AppliedToCurrentYear>9347</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>3328</RemainingDistriFromCorpus>
+        <TotalCorpus>16190</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>16190</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>848</ExcessFromYear4>
+        <ExcessFromYear3>1323</ExcessFromYear3>
+        <ExcessFromYear2>4176</ExcessFromYear2>
+        <ExcessFromYear1>6515</ExcessFromYear1>
+        <ExcessFromCurrentYear>3328</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>MARSHALL ILSLEY TRUST CO NA CO DAVI</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>500 THIRD STREET PO BOX 209</AddressLine1>
+            <City>WAUSAU</City>
+            <State>WI</State>
+            <ZIPCode>54402</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>7158453121</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>WRITTEN FORM</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>MUST BE A GRADUATING SENIOR OF A PUBLIC HIGH SCHOOL LOCATED IN THE RHINELANDER AREA PUBLIC SCHOOL DISTRICT,</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <AppicationSubmissionInfo>
+          <RecipientName>MARSHALL ILSLEY TRUST CO NA CO DAVI</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>500 THIRD STREET PO BOX 209</AddressLine1>
+            <City>WAUSAU</City>
+            <State>WI</State>
+            <ZIPCode>54402</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>7158453121</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>WRITTEN FORM</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>PROVIDED THE GRADUATE PLANS TO ATTEND AN ACCREDITED COLLEGE, UNIVERSITY, OR TECHNICAL SCHOOL.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JESSICA A KELLING FOR DRAKE UNIV</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>2507 UNIVERSITY AVE</AddressLine1>
+            <City>DES MOINES</City>
+            <State>IA</State>
+            <ZIPCode>50311</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>financial need &amp;Scholarship based onacademic achievement</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SAMANTHA CHAVEZ FOR CATHAGE COLLEGE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>2001 ALFORD PARK DR</AddressLine1>
+            <City>KENOSHA</City>
+            <State>WI</State>
+            <ZIPCode>53140</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>financial need &amp;Scholarship based onacademic achievement</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>BENJAMIN T NEBGEN FOR CORNELL UNIV</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>349 PINE TREE RD</AddressLine1>
+            <City>ITHACA</City>
+            <State>NY</State>
+            <ZIPCode>14850</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>financial need &amp;Scholarship based onacademic achievement</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>AMY L WILLIAMS FOR CARROLL UNIVERSI</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>100 N EAST AVE</AddressLine1>
+            <City>WAUKESHA</City>
+            <State>WI</State>
+            <ZIPCode>53186</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>financial need &amp;Scholarship based onacademic achievement</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>12000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>6189</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>-34861</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <OtherRevenueDescribed>
+          <Description>REFUND OF EXCISE TAX</Description>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>141</ExclusionAmount>
+        </OtherRevenueDescribed>
+        <OtherRevenueDescribed>
+          <Description>NONTAXABLE DIVIDENDS</Description>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>887</ExclusionAmount>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>-27644</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>-27644</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <GainLossSaleOtherAssetsSch documentId="00000002">
+      <GainLossSaleOtherAsset>
+        <Name>76.403 SHS DODGE &amp; COX INTERNATIONAL STOCK FUND</Name>
+        <DateAcquired>2008-04</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2009-08</DateSold>
+        <GrossSalesPrice>2175</GrossSalesPrice>
+        <Basis>3227</Basis>
+        <TotalNet>-1052</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>246.098 SHS DODGE &amp; COX INTERNATIONAL STOCK FUND</Name>
+        <DateAcquired>2008-04</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2009-10</DateSold>
+        <GrossSalesPrice>8129</GrossSalesPrice>
+        <Basis>10393</Basis>
+        <TotalNet>-2264</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>1675.069 SHS FEDERATED INSTITUTIONAL HIGH YIELD BOND FD</Name>
+        <DateAcquired>2010-01</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2010-05</DateSold>
+        <GrossSalesPrice>16097</GrossSalesPrice>
+        <Basis>16081</Basis>
+        <TotalNet>16</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>58.650 SHS HARBOR FD INTL FD</Name>
+        <DateAcquired>2008-04</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2009-08</DateSold>
+        <GrossSalesPrice>2801</GrossSalesPrice>
+        <Basis>4031</Basis>
+        <TotalNet>-1230</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>188.695 SHS HARBOR FD INTL FD</Name>
+        <DateAcquired>2008-04</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2009-10</DateSold>
+        <GrossSalesPrice>10465</GrossSalesPrice>
+        <Basis>12969</Basis>
+        <TotalNet>-2504</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>380 SHS ISHARES TR IBOXX USD INVT GRADE CORP BD FD</Name>
+        <DateAcquired>2009-10</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2009-11</DateSold>
+        <GrossSalesPrice>40096</GrossSalesPrice>
+        <Basis>38786</Basis>
+        <TotalNet>1310</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>70 SHS ISHARES TR IBOXX USD INVT GRADE CORP BD FD</Name>
+        <DateAcquired>2008-11</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2010-05</DateSold>
+        <GrossSalesPrice>7440</GrossSalesPrice>
+        <Basis>6350</Basis>
+        <TotalNet>1090</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>300 SHS ISHARES TR BARCLAYS 1-3 YR TREAS BD FD</Name>
+        <DateAcquired>2009-08</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2009-10</DateSold>
+        <GrossSalesPrice>25143</GrossSalesPrice>
+        <Basis>25127</Basis>
+        <TotalNet>16</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>150 SHS ISHARES TR BARCLAYS 1-3 YR TREAS BD FD</Name>
+        <DateAcquired>2009-11</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2010-04</DateSold>
+        <GrossSalesPrice>12489</GrossSalesPrice>
+        <Basis>12600</Basis>
+        <TotalNet>-111</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>186.847 SHS MARSHALL SMALL CAP GROWTH FD I #964</Name>
+        <DateAcquired>2007-12</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2009-08</DateSold>
+        <GrossSalesPrice>2169</GrossSalesPrice>
+        <Basis>3125</Basis>
+        <TotalNet>-956</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>599.635 SHS MARSHALL SMALL CAP GROWTH FD I #964</Name>
+        <DateAcquired>2002-08</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2009-10</DateSold>
+        <GrossSalesPrice>8125</GrossSalesPrice>
+        <Basis>5718</Basis>
+        <TotalNet>2407</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>130.655 SHS MARSHALL MID CAP GROWTH FD CL I #963</Name>
+        <DateAcquired>2000-12</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2009-08</DateSold>
+        <GrossSalesPrice>1616</GrossSalesPrice>
+        <Basis>2057</Basis>
+        <TotalNet>-441</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>417.871 SHS MARSHALL MID CAP GROWTH FD CL I #963</Name>
+        <DateAcquired>2002-08</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2009-10</DateSold>
+        <GrossSalesPrice>5825</GrossSalesPrice>
+        <Basis>4779</Basis>
+        <TotalNet>1046</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>258.435 SHS MARSHALL MID CAP VALUE FD CL I #963</Name>
+        <DateAcquired>2007-12</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2009-08</DateSold>
+        <GrossSalesPrice>2393</GrossSalesPrice>
+        <Basis>3551</Basis>
+        <TotalNet>-1158</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>827.765 SHS MARSHALL MID CAP VALUE FD CL I #931</Name>
+        <DateAcquired>2001-10</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2009-10</DateSold>
+        <GrossSalesPrice>8675</GrossSalesPrice>
+        <Basis>9149</Basis>
+        <TotalNet>-474</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>1068.919 SHS MARSHALL LARGE CAP GROWTH CL I #927</Name>
+        <DateAcquired>1999-07</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2009-08</DateSold>
+        <GrossSalesPrice>10069</GrossSalesPrice>
+        <Basis>19422</Basis>
+        <TotalNet>-9353</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>3408.193 SHS MARSHALL LARGE CAP GROWTH I #927</Name>
+        <DateAcquired>2001-07</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2009-10</DateSold>
+        <GrossSalesPrice>36263</GrossSalesPrice>
+        <Basis>45233</Basis>
+        <TotalNet>-8970</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>927.218 SHS MARSHALL LARGE CAP VALUE FD I #926</Name>
+        <DateAcquired>1999-07</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2009-08</DateSold>
+        <GrossSalesPrice>8428</GrossSalesPrice>
+        <Basis>16208</Basis>
+        <TotalNet>-7780</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>2953.582 SHS MARSHALL LARGE CAP VALUE FD I #926</Name>
+        <DateAcquired>2003-09</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2009-10</DateSold>
+        <GrossSalesPrice>30097</GrossSalesPrice>
+        <Basis>40135</Basis>
+        <TotalNet>-10038</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>400 SHS POWERSHARES GLOBAL EXCHANGE TRADED FD TR AGGREGATE PFD</Name>
+        <DateAcquired>2009-04</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2009-08</DateSold>
+        <GrossSalesPrice>5281</GrossSalesPrice>
+        <Basis>4241</Basis>
+        <TotalNet>1040</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>400 SHS POWERSHARES GLOBAL EXCHANGE TRADED FD TR AGGREGATE PFD</Name>
+        <DateAcquired>2009-04</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2009-09</DateSold>
+        <GrossSalesPrice>5389</GrossSalesPrice>
+        <Basis>4238</Basis>
+        <TotalNet>1151</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>600 SHS POWERSHARES GLOBAL EXCHANGE TRADED FD TR AGGREGATE PFD</Name>
+        <DateAcquired>2009-04</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2009-10</DateSold>
+        <GrossSalesPrice>8046</GrossSalesPrice>
+        <Basis>6356</Basis>
+        <TotalNet>1690</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>600 SHS POWERSHARES GLOBAL EXCHANGE TRADED FD TR AGGREGATE PFD</Name>
+        <DateAcquired>2009-04</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2009-10</DateSold>
+        <GrossSalesPrice>7980</GrossSalesPrice>
+        <Basis>6352</Basis>
+        <TotalNet>1628</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>140 SHS VANGUARD INTL EQUITY INDEX FDS VANGUARD EMERGING MKTS</Name>
+        <DateAcquired>2010-04</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2010-04</DateSold>
+        <GrossSalesPrice>6028</GrossSalesPrice>
+        <Basis>6021</Basis>
+        <TotalNet>7</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>ISHARES TR BARCLAYS 1-3 TREAS BD FD LONG TERM CAPITAL GAIN DIV</Name>
+        <DateAcquired>2007-01</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2010-05</DateSold>
+        <GrossSalesPrice>60</GrossSalesPrice>
+        <TotalNet>60</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>VANGUARD BD INDEX FD INC SHORT TERM LONG TERM CAPITAL GAIN DIV</Name>
+        <DateAcquired>2007-01</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2010-05</DateSold>
+        <GrossSalesPrice>9</GrossSalesPrice>
+        <TotalNet>9</TotalNet>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpBondsSchedule documentId="00000003">
+      <InvestmentsCorpBonds>
+        <NameOfBond>VANGUARD BD INDEX FD INC INTERNEDIATE TERM BD ETF</NameOfBond>
+        <EOYBookValue>18708</EOYBookValue>
+        <EOYFMV>19694</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>VANGUARD BD INDEX FD INC SHORT TERM BD ETF</NameOfBond>
+        <EOYBookValue>19229</EOYBookValue>
+        <EOYFMV>19289</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>ISHARES TR BARCLAYS 7-10 YR TREAS BD FD</NameOfBond>
+        <EOYBookValue>24032</EOYBookValue>
+        <EOYFMV>24206</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>ISHARES TR IBOXX USD INVT GRADE CORP BD FD</NameOfBond>
+        <EOYBookValue>23429</EOYBookValue>
+        <EOYFMV>24256</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="00000004">
+      <InvestmentsCorpStock>
+        <NameOfStock>ARTISAN MID CAP VALUE FUND</NameOfStock>
+        <EOYBookValue>8000</EOYBookValue>
+        <EOYFMV>7692</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>EATON VANCE ENHANCED EQUITY INCOME FD II</NameOfStock>
+        <EOYBookValue>54738</EOYBookValue>
+        <EOYFMV>48300</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>HARBOR FD INTL FD INST</NameOfStock>
+        <EOYBookValue>7751</EOYBookValue>
+        <EOYFMV>6634</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>INVESCO INTERNATIONAL GROWTH FD CL I</NameOfStock>
+        <EOYBookValue>7784</EOYBookValue>
+        <EOYFMV>6892</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MARSHALL SMALL CAP GROWTH FD I</NameOfStock>
+        <EOYBookValue>7712</EOYBookValue>
+        <EOYFMV>7393</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>SCOUT INTERNATIONAL FUND</NameOfStock>
+        <EOYBookValue>7738</EOYBookValue>
+        <EOYFMV>6731</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherIncomeSchedule2 documentId="00000005">
+      <OtherIncome>
+        <Description>REFUND OF EXCISE TAX</Description>
+        <RevenueAndExpensesPerBooks>141</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>NONTAXABLE DIVIDENDS</Description>
+        <RevenueAndExpensesPerBooks>887</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="00000006">
+      <OtherIncreases>
+        <Description>ROUNDING</Description>
+        <Amount>6</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+  </ReturnData>
+</Return>

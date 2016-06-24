@@ -1,0 +1,434 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-03-06T06:16:13-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>CANON CAPITAL CPA'S</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>357 MAIN ST</AddressLine1>
+        <City>SOUDERTON</City>
+        <State>PA</State>
+        <ZIPCode>18964</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>232443194</EIN>
+      <Name>
+        <BusinessNameLine1>CORAD FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>CORA</NameControl>
+      <Phone>2156796117</Phone>
+      <USAddress>
+        <AddressLine1>1122 WALTERS ROAD</AddressLine1>
+        <City>PENNSBURG</City>
+        <State>PA</State>
+        <ZIPCode>18073</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>CLARE MOYER</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>2156796117</Phone>
+      <DateSigned>2011-03-05</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>J GEORGE SWEENEY</Name>
+      <Phone>2157234881</Phone>
+      <DatePrepared>2011-03-05</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="RetDoc2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>546719</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>159225</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>5995</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>5995</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>5995</InterestOnSavingsAdjNetIncm>
+        <DividendsRevAndExpnss>25</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>25</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>25</DividendsAdjNetIncm>
+        <TotalRevenueAndExpenses>165245</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>6020</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>6020</TotalAdjustedNetIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc3">4200</AccountingFeesRevAndExpnss>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc6">102</TaxesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>4302</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>20000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>20000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>24302</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>20000</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>140943</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>6020</NetInvestmentIncome>
+        <AdjustedNetIncome>6020</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>405776</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>546719</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>546719</SavingsAndTempCashInvstEOYFMV>
+        <TotalAssetsBOY>405776</TotalAssetsBOY>
+        <TotalAssetsEOY>546719</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>546719</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>16317</CapitalStockBOY>
+        <CapitalStockEOY>16317</CapitalStockEOY>
+        <RetainedEarningsBOY>389459</RetainedEarningsBOY>
+        <RetainedEarningsEOY>530402</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>405776</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>546719</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>405776</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>546719</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>405776</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>140943</ExcessOfRevenueOverExpenses>
+        <Subtotal>546719</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>546719</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>19250</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>401728</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.047918</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>34126</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>379951</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.089817</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>44205</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>359134</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.123088</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>5000</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>349444</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.014308</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>52632</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>381867</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.137828</DistributionRatioYear5>
+        <TotalDistributionRatio>0.412959</TotalDistributionRatio>
+        <AverageDistributionRatio>0.082592</AverageDistributionRatio>
+        <NetNoncharitableAssets>469104</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>38744</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>60</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>38804</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>20000</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>120</InvestmentIncomeExciseTax>
+        <Subtotal>120</Subtotal>
+        <TaxBasedOnInvestmentIncome>120</TaxBasedOnInvestmentIncome>
+        <TaxDue>120</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors referenceDocumentId="RetDoc5">false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>CLARE MOYER</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>6106796117</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>1122 WALTERS ROAD</AddressLine1>
+          <City>PENNSBURG</City>
+          <State>PA</State>
+          <ZIPCode>18073</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">CLARE M MOYER</PersonName>
+          <USAddress>
+            <AddressLine1>1122 WALTERS ROAD</AddressLine1>
+            <City>PENNSBURG</City>
+            <State>PA</State>
+            <ZIPCode>18073</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc4">CHRISTINE E MOYER</PersonName>
+          <USAddress>
+            <AddressLine1>1122 WALTERS ROAD</AddressLine1>
+            <City>PENNSBURG</City>
+            <State>PA</State>
+            <ZIPCode>18073</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>476248</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>476248</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>476248</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>7144</CashDeemedCharitable>
+        <NetNoncharitableAssets>469104</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>23455</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>23455</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>120</TaxBasedOnInvestmentIncome>
+        <TotalTax>120</TotalTax>
+        <DistributableAmountBeforeAdj>23335</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>23335</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>23335</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>20000</ExpensesAndContributions>
+        <QualifyingDistributions>20000</QualifyingDistributions>
+        <AdjQualifyingDistributions>20000</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>23335</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>33875</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>2129</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>26638</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>15331</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>734</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>78707</TotalExcessDistriCarryover>
+        <QualifyingDistributions>20000</QualifyingDistributions>
+        <AppliedToCurrentYear>20000</AppliedToCurrentYear>
+        <ExcessDistriCyovAppCYCorpus>3335</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>3335</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>75372</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>30540</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>44832</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>2129</ExcessFromYear4>
+        <ExcessFromYear3>26638</ExcessFromYear3>
+        <ExcessFromYear2>15331</ExcessFromYear2>
+        <ExcessFromYear1>734</ExcessFromYear1>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>ALLENTOWN RESCUE MISSION</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 748</AddressLine1>
+            <City>ALLENTOWN</City>
+            <State>PA</State>
+            <ZIPCode>18105</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CHARITABLE CONTRIBUTIONS</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>FIRST BAPTIST CHURCH OF P</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1600 N 5TH STREET</AddressLine1>
+            <City>PERKASIE</City>
+            <State>PA</State>
+            <ZIPCode>18944</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CHARITABLE CONTRIBUTIONS</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>LIBERTY MINISTRIES</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 87</AddressLine1>
+            <City>SCHWENKSVILLE</City>
+            <State>PA</State>
+            <ZIPCode>19473</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CHARITABLE CONTRIBUTIONS</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>MORNING STAR MINISTRIES</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1383</AddressLine1>
+            <City>LANSDALE</City>
+            <State>PA</State>
+            <ZIPCode>19446</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CHARITABLE CONTRIBUTIONS</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>NEW LIFE ISLAND</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 480</AddressLine1>
+            <City>FRENCHTOWN</City>
+            <State>NJ</State>
+            <ZIPCode>08825</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CHARITABLE CONTRIBUTIONS</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SAMARITAN'S PURSE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 3000</AddressLine1>
+            <City>BOONE</City>
+            <State>NC</State>
+            <ZIPCode>28607</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CHARITABLE CONTRIBUTIONS</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>STUDENT LIFE CENTER</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>966 ROUTE 113</AddressLine1>
+            <City>SELLERSVILLE</City>
+            <State>PA</State>
+            <ZIPCode>18960</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CHARITABLE CONTRIBUTIONS</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>THE SALVATION ARMY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>701 NORTH BROAD STREET</AddressLine1>
+            <City>PHILADELPHIA</City>
+            <State>PA</State>
+            <ZIPCode>19123</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CHARITABLE CONTRIBUTIONS</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SANDY COVE MINISTRIES</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>60 SANDY COVE ROAD</AddressLine1>
+            <City>NORTH EAST</City>
+            <State>MD</State>
+            <ZIPCode>21901</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CHARITABLE CONTRIBUTIONS</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>20000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>5995</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>25</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>6020</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>6020</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>CLARE CHRISTINE MOYER</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>1122 WALTERS ROAD</AddressLine1>
+          <City>PENNSBURG</City>
+          <State>PA</State>
+          <ZIPCode>18073</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>159225</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc3">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>4200</Amount>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <CompensationExplanation documentId="RetDoc4">
+      <Compensation>
+        <PersonName>CLARE M MOYER</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>CHRISTINE E MOYER</PersonName>
+      </Compensation>
+    </CompensationExplanation>
+    <SubstantialContributorsSch documentId="RetDoc5">
+      <SubstantialContributor>
+        <PersonName>CLARE CHRISTINE MOYER</PersonName>
+        <USAddress>
+          <AddressLine1>1122 WALTERS ROAD</AddressLine1>
+          <City>PENNSBURG</City>
+          <State>PA</State>
+          <ZIPCode>18073</ZIPCode>
+        </USAddress>
+      </SubstantialContributor>
+    </SubstantialContributorsSch>
+    <TaxesSchedule documentId="RetDoc6">
+      <Taxes>
+        <Category>FEDERAL TAXES</Category>
+        <Amount>102</Amount>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

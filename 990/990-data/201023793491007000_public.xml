@@ -1,0 +1,547 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-08-25T11:29:47-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-04-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>CAPELL RUDOLPH</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>11601 WILSHIRE BLVD STE 1840</AddressLine1>
+        <City>LOS ANGELES</City>
+        <State>CA</State>
+        <ZIPCode>90025</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-05-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>957027924</EIN>
+      <Name>
+        <BusinessNameLine1>ENBERG FAMILY CHARITABLE FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>ENBE</NameControl>
+      <Phone>3102682095</Phone>
+      <USAddress>
+        <AddressLine1>11601 WILSHIRE BLVD No 1840</AddressLine1>
+        <City>LOS ANGELES</City>
+        <State>CA</State>
+        <ZIPCode>90025</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>RICHARD A ENBERG</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>3102682095</Phone>
+      <DateSigned>2010-08-19</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Stephen Coyne</Name>
+      <Phone>3102682095</Phone>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="3">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>536188</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>13623</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>13623</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>9005</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>12601</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>9005</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>22628</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>22628</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">712</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>35</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>0</TaxesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>712</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>35</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>22650</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>22650</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>23362</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>35</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>22650</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-734</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>22593</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>3260</CashBOY>
+        <CashEOY>2899</CashEOY>
+        <CashEOYFMV>2899</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>2773</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>5996</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>5996</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsOtherBOY>204045</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc2018100001">200449</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>527293</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>210078</TotalAssetsBOY>
+        <TotalAssetsEOY>209344</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>536188</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>0</CapitalStockBOY>
+        <CapitalStockEOY>0</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>210078</RetainedEarningsBOY>
+        <RetainedEarningsEOY>209344</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>210078</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>209344</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>210078</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>209344</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>210078</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-734</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>209344</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>209344</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>WEBMD HEALTH CORP</DescriptionOfAsset>
+          <HowAcquired>D</HowAcquired>
+          <DateAcquired>1999-12-23</DateAcquired>
+          <DateSold>2009-10-23</DateSold>
+          <GrossSalesPrice>28</GrossSalesPrice>
+          <CostOrOtherBasis>23</CostOrOtherBasis>
+          <GainOrLoss>5</GainOrLoss>
+          <GainsMinusExcessOrLosses>5</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>PROCTOR &amp; GAMBLE</DescriptionOfAsset>
+          <HowAcquired>D</HowAcquired>
+          <DateAcquired>1995-09-11</DateAcquired>
+          <DateSold>2010-04-21</DateSold>
+          <GrossSalesPrice>12573</GrossSalesPrice>
+          <CostOrOtherBasis>3573</CostOrOtherBasis>
+          <GainOrLoss>9000</GainOrLoss>
+          <GainsMinusExcessOrLosses>9000</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>9005</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>23600</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>521773</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.045230</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>35816</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>650571</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.055053</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>44536</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>581701</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.076562</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>11950</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>526536</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.022696</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>22000</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>521679</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.042172</DistributionRatioYear5>
+        <TotalDistributionRatio>0.241713</TotalDistributionRatio>
+        <AverageDistributionRatio>0.048343</AverageDistributionRatio>
+        <NetNoncharitableAssets>509090</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>24611</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>226</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>24837</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>22650</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>452</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>452</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>452</TaxBasedOnInvestmentIncome>
+        <TotalCreditsAndPayments>0</TotalCreditsAndPayments>
+        <TaxDue>452</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>CA</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>CAPELL RUDOLPH</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>3102682095</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>11601 WILSHIRE BLVD STE 1840</AddressLine1>
+          <City>LOS ANGELES</City>
+          <State>CA</State>
+          <ZIPCode>90025</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>RICHARD A ENBERG</PersonName>
+          <USAddress>
+            <AddressLine1>11601 WILSHIRE BLVD SUITE 1840</AddressLine1>
+            <City>LOS ANGELES</City>
+            <State>CA</State>
+            <ZIPCode>90025</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BARBARA ENBERG</PersonName>
+          <USAddress>
+            <AddressLine1>11601 WILSHIRE BLVD SUITE 1840</AddressLine1>
+            <City>LOS ANGELES</City>
+            <State>CA</State>
+            <ZIPCode>90025</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>510336</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>6507</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>516843</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>516843</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>7753</CashDeemedCharitable>
+        <NetNoncharitableAssets>509090</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>25455</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>25455</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>452</TaxBasedOnInvestmentIncome>
+        <TotalTax>452</TotalTax>
+        <DistributableAmountBeforeAdj>25003</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>25003</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>25003</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>22650</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>22650</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>22650</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>25003</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear3>224</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>3657</ExcessDistriCarryoverYear2>
+        <TotalExcessDistriCarryover>3881</TotalExcessDistriCarryover>
+        <QualifyingDistributions>22650</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>22650</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>2353</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>2353</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>1528</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>1528</ExcessDistriCyovToNextYear>
+        <ExcessFromYear2>1528</ExcessFromYear2>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>RICHARD A ENBERG</ContributingManager>
+        <ContributingManager>BARBARA ENBERG</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LA JOLLA MUSIC SOCIETY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>7946 IVANHOE AVE</AddressLine1>
+            <City>LA JOLLA</City>
+            <State>CA</State>
+            <ZIPCode>92037</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>16000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LA JOLLA PLAYHOUSE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 12039</AddressLine1>
+            <City>LA JOLLA</City>
+            <State>CA</State>
+            <ZIPCode>92039</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LOS PATRONAS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1888</AddressLine1>
+            <City>LA JOLLA</City>
+            <State>CA</State>
+            <ZIPCode>920381888</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PACIFIC RESIDENT CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 568</AddressLine1>
+            <City>VENICE</City>
+            <State>CA</State>
+            <ZIPCode>90294</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PAGE EDUCATION FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 581254</AddressLine1>
+            <City>MINNEAPOLIS</City>
+            <State>MN</State>
+            <ZIPCode>554581254</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>RITZ 2009 - ZOOLOGICAL SOCIETY OF SAN DIEGO</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 120551</AddressLine1>
+            <City>SAN DIEGO</City>
+            <State>CA</State>
+            <ZIPCode>921120551</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SAN DIEGO HOSPICE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4311 THIRD AVENUE</AddressLine1>
+            <City>SAN DIEGO</City>
+            <State>CA</State>
+            <ZIPCode>921031407</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KIDS KORPS USA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>265 SANTA HELENA SUITE 130A</AddressLine1>
+            <City>SOLANA BEACH</City>
+            <State>CA</State>
+            <ZIPCode>92075</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UTAH STATE UNIVERSITY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>7400 OLD MAIN HILL</AddressLine1>
+            <City>LOGAN</City>
+            <State>UT</State>
+            <ZIPCode>843227400</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>INDIANNA UNIVERSITY FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>SHOWALTER HOUSE BOX 500</AddressLine1>
+            <City>BLOOMINGTON</City>
+            <State>IN</State>
+            <ZIPCode>47402</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>400</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MARGARET DEMPSEY MCMANUS SCHOLARSHIP - NOTRE DAME</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4701 NORTH CHARLES STREET</AddressLine1>
+            <City>BALTIMORE</City>
+            <State>MD</State>
+            <ZIPCode>21210</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>22650</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <RelatedOrExemptFunctionIncome>13623</RelatedOrExemptFunctionIncome>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>9005</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>0</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>22628</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>22628</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>3&amp;4</LineNumber>
+          <RelationshipStatement>INCOME IS CONTRIBUTED TO QUALIFIED CHARITABLE ORGANIZATIONS</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOther>
+        <CategoryOrItem>SMITH BARNEY MANAGED ACCOUNT</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>200449</BookValue>
+        <EOYFMV>527293</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>FRANCHISE TAX BOARD</Category>
+        <Amount>10</Amount>
+        <NetInvestmentIncome>10</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>FEDERAL INVESTMENT INCOME TAX</Category>
+        <Amount>677</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>REGISTRY OF CHARITABLE TRUSTS</Category>
+        <Amount>25</Amount>
+        <NetInvestmentIncome>25</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

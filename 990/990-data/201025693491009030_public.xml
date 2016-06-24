@@ -1,0 +1,550 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return returnVersion="2009v1.3" xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-09-13T19:49:48Z</Timestamp>
+    <TaxPeriodEndDate>2010-04-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>M &amp; I TRUST CO NA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>11270 WEST PARK PLACE SUITE 400</AddressLine1>
+        <City>MILWAUKEE</City>
+        <State>WI</State>
+        <ZIPCode>53224</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-05-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>396658948</EIN>
+      <Name>
+        <BusinessNameLine1>DALUM FAMILY FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>DALU</NameControl>
+      <Phone>4145478500</Phone>
+      <USAddress>
+        <AddressLine1>31917 APPLE LANE</AddressLine1>
+        <City>HARTLAND</City>
+        <State>WI</State>
+        <ZIPCode>53029</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>THOMAS DALUM</Name>
+      <Title>OFFICER</Title>
+      <Phone>4145478500</Phone>
+      <DateSigned>2010-09-13</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>RICHARD STENDLER</Name>
+      <Phone>4148153500</Phone>
+      <DatePrepared>2010-09-13</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="00000001" referenceDocumentName="ReasonableCauseExplanation GeneralExplanationAttachment">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>288591</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>5796</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>5796</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="00000002" referenceDocumentName="GainLossFromSaleOtherAssetsSchedule">-6129</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>45594</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="00000004" referenceDocumentName="OtherIncomeSchedule2">404</OtherIncomeRevAndExpnss>
+        <TotalRevenueAndExpenses>71</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>5796</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>2890</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>2890</CompOfcrDirTrstNetInvstIncm>
+        <AccountingFeesRevAndExpnss>600</AccountingFeesRevAndExpnss>
+        <AccountingFeesDsbrsChrtblPrps>600</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="00000006" referenceDocumentName="TaxesSchedule">468</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>64</TaxesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>3958</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>2954</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>600</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>47000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>47000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>50958</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>2954</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>47600</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-50887</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>2842</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>53975</CashBOY>
+        <CashEOY>11467</CashEOY>
+        <CashEOYFMV>11467</CashEOYFMV>
+        <InvestmentsCorpStockBOY>11378</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY>204584</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>217213</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>254136</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY>54658</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>59738</InvestmentsCorpBondsEOYFMV>
+        <OtherAssetsBOY>289</OtherAssetsBOY>
+        <OtherAssetsEOY>173</OtherAssetsEOY>
+        <OtherAssetsEOYFMV>173</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>319778</TotalAssetsBOY>
+        <TotalAssetsEOY>270882</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>288591</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>319778</CapitalStockBOY>
+        <CapitalStockEOY>270882</CapitalStockEOY>
+        <TotalNetAssetsBOY>319778</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>270882</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>319778</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>270882</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>319778</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-50887</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="00000005" referenceDocumentName="OtherIncreasesSchedule">2000</OtherIncreases>
+        <Subtotal>270891</Subtotal>
+        <OtherDecreases referenceDocumentId="00000003" referenceDocumentName="OtherDecreasesSchedule">9</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>270882</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1,821.465 SHS MARSHALL GOVERNMENT INCOME FD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-02-20</DateAcquired>
+          <DateSold>2009-07-17</DateSold>
+          <GrossSalesPrice>16794</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>17248</CostOrOtherBasis>
+          <GainOrLoss>-454</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-454</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>720.511 SHS MARSHALL SMALL CAP GROWTH FD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2003-06-30</DateAcquired>
+          <DateSold>2010-02-25</DateSold>
+          <GrossSalesPrice>10577</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>11378</CostOrOtherBasis>
+          <GainOrLoss>-801</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-801</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>859.700 SHS MARSHALL LARGE CAP VALUE FD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2003-01-30</DateAcquired>
+          <DateSold>2009-11-03</DateSold>
+          <GrossSalesPrice>8313</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>10816</CostOrOtherBasis>
+          <GainOrLoss>-2503</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-2503</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>539.205 WELLS FARGO ADVANTAGE DISCOVERY FD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-03-30</DateAcquired>
+          <DateSold>2010-02-25</DateSold>
+          <GrossSalesPrice>9706</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>12281</CostOrOtherBasis>
+          <GainOrLoss>-2575</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-2575</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CAPITAL GAIN DIV-PIMCO FDS TOTAL RETURN FD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-04-30</DateAcquired>
+          <DateSold>2009-12-11</DateSold>
+          <GrossSalesPrice>79</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>0</CostOrOtherBasis>
+          <GainOrLoss>79</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>79</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CAPITAL GAIN DIV-PIMCO INVESTMENT GRADE CORP BOND FD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-04-30</DateAcquired>
+          <DateSold>2009-12-11</DateSold>
+          <GrossSalesPrice>55</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>0</CostOrOtherBasis>
+          <GainOrLoss>55</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>55</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CAPITAL GAIN DIV-WESTPORT FDS SMALL CAP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-04-30</DateAcquired>
+          <DateSold>2009-12-31</DateSold>
+          <GrossSalesPrice>70</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>0</CostOrOtherBasis>
+          <GainOrLoss>70</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>70</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>-6129</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>169090</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>296012</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.571227</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>174750</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>418356</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.417706</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>180729</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>341804</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.528750</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>77172</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>120101</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.642559</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>81926</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>107002</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.765649</DistributionRatioYear5>
+        <TotalDistributionRatio>2.925891</TotalDistributionRatio>
+        <AverageDistributionRatio>0.585178</AverageDistributionRatio>
+        <NetNoncharitableAssets>287206</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>168067</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>28</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>168095</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>47600</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>57</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>57</Subtotal>
+        <TaxBasedOnInvestmentIncome>57</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>60</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>60</TotalCreditsAndPayments>
+        <OriginalReturnOverpayment>-60</OriginalReturnOverpayment>
+        <Overpayment>3</Overpayment>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+        <AmountToBeRefunded>3</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>WI</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>false</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>THOMAS E DALUM</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>4145478500</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>N4 W22610 BLUEMOUND RD</AddressLine1>
+          <City>WAUKESHA</City>
+          <State>WI</State>
+          <ZIPCode>53186</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>THOMAS E DALUM</PersonName>
+          <USAddress>
+            <AddressLine1>31917 APPLE LN</AddressLine1>
+            <City>HARTLAND</City>
+            <State>WI</State>
+            <ZIPCode>53029</ZIPCode>
+          </USAddress>
+          <Title>TTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARY P DALUM</PersonName>
+          <USAddress>
+            <AddressLine1>31917 APPLE LN</AddressLine1>
+            <City>HARTLAND</City>
+            <State>WI</State>
+            <ZIPCode>53029</ZIPCode>
+          </USAddress>
+          <Title>TTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <BusinessName>
+            <BusinessNameLine1>M&amp;I TRUST COMPANY</BusinessNameLine1>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1>PO BOX 2980</AddressLine1>
+            <City>MILWAUKEE</City>
+            <State>WI</State>
+            <ZIPCode>53201</ZIPCode>
+          </USAddress>
+          <Title>TTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>2890</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>291580</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>291580</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>291580</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>4374</CashDeemedCharitable>
+        <NetNoncharitableAssets>287206</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>14360</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>14360</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>57</TaxBasedOnInvestmentIncome>
+        <TotalTax>57</TotalTax>
+        <DistributableAmountBeforeAdj>14303</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>14303</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>14303</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>47600</ExpensesAndContributions>
+        <QualifyingDistributions>47600</QualifyingDistributions>
+        <AdjQualifyingDistributions>47600</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>14303</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>76744</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>71223</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>163881</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>154296</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>154409</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>620553</TotalExcessDistriCarryover>
+        <QualifyingDistributions>47600</QualifyingDistributions>
+        <AppliedToCurrentYear>14303</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>33297</RemainingDistriFromCorpus>
+        <TotalCorpus>653850</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>76744</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>577106</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>71223</ExcessFromYear4>
+        <ExcessFromYear3>163881</ExcessFromYear3>
+        <ExcessFromYear2>154296</ExcessFromYear2>
+        <ExcessFromYear1>154409</ExcessFromYear1>
+        <ExcessFromCurrentYear>33297</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>THOMAS E DALUM AND MARY P DALUM AS</ContributingManager>
+        <ShareholderManager>NA</ShareholderManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SEE ATTACHED STATEMENT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>VARIOUS</AddressLine1>
+            <City>MILWAUKEE</City>
+            <State>WI</State>
+            <ZIPCode>53202</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUND</PurposeOfGrantOrContribution>
+          <Amount>47000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>47000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>5796</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>-6129</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>-333</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>-333</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <GainLossSaleOtherAssetsSch documentId="00000002">
+      <GainLossSaleOtherAsset>
+        <Name>1,821.465 SHS MARSHALL GOVERNMENT INCOME FD</Name>
+        <DateAcquired>2007-02</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2009-07</DateSold>
+        <GrossSalesPrice>16794</GrossSalesPrice>
+        <Basis>17248</Basis>
+        <TotalNet>-454</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>720.511 SHS MARSHALL SMALL CAP GROWTH FD</Name>
+        <DateAcquired>2003-06</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2010-02</DateSold>
+        <GrossSalesPrice>10577</GrossSalesPrice>
+        <Basis>11378</Basis>
+        <TotalNet>-801</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>859.700 SHS MARSHALL LARGE CAP VALUE FD</Name>
+        <DateAcquired>2003-01</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2009-11</DateSold>
+        <GrossSalesPrice>8313</GrossSalesPrice>
+        <Basis>10816</Basis>
+        <TotalNet>-2503</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>539.205 SHS WELLS FARGO ADVANTAGE DISCOVERY FD</Name>
+        <DateAcquired>2007-03</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2010-02</DateSold>
+        <GrossSalesPrice>9706</GrossSalesPrice>
+        <Basis>12281</Basis>
+        <TotalNet>-2575</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>CAPITAL GAIN DIV-PIMCO FDS TOTAL RETURN FD</Name>
+        <DateAcquired>2009-04</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2009-12</DateSold>
+        <GrossSalesPrice>79</GrossSalesPrice>
+        <TotalNet>79</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>CAPITAL GAIN DIV-PIMCO INVESTMENT GRADE CORP BOND FD</Name>
+        <DateAcquired>2009-04</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2009-12</DateSold>
+        <GrossSalesPrice>55</GrossSalesPrice>
+        <TotalNet>55</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>CAPITAL GAIN DIV-WESTPORT FDS SMALL CAP</Name>
+        <DateAcquired>2009-04</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2009-12</DateSold>
+        <GrossSalesPrice>70</GrossSalesPrice>
+        <TotalNet>70</TotalNet>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <OtherDecreasesSchedule documentId="00000003">
+      <OtherDecreases>
+        <Description>ACCRUAL ADJUSTMENT</Description>
+        <Amount>9</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherIncomeSchedule2 documentId="00000004">
+      <OtherIncome>
+        <Description>EXCISE TAX REFUND</Description>
+        <RevenueAndExpensesPerBooks>404</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="00000005">
+      <OtherIncreases>
+        <Description>RETURNED CONTRIBUTION- ST DOMINIC PARISH</Description>
+        <Amount>1000</Amount>
+      </OtherIncreases>
+      <OtherIncreases>
+        <Description>RETURNED CONTRIBUTION- BOYS WORKING CENTER</Description>
+        <Amount>500</Amount>
+      </OtherIncreases>
+      <OtherIncreases>
+        <Description>RETURNED CONTRIBUTION- HABITAT FOR HUMANITY</Description>
+        <Amount>500</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <TaxesSchedule documentId="00000006">
+      <Taxes>
+        <Category>FOREIGN TAXES</Category>
+        <Amount>64</Amount>
+        <NetInvestmentIncome>64</NetInvestmentIncome>
+      </Taxes>
+      <Taxes>
+        <Category>EXCISE TAX</Category>
+        <Amount>344</Amount>
+      </Taxes>
+      <Taxes>
+        <Category>ESTIMATED TAX</Category>
+        <Amount>60</Amount>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

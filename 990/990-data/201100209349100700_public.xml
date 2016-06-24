@@ -1,0 +1,426 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.3" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-01-20T10:07:29-08:00</Timestamp>
+    <TaxPeriodEndDate>2010-05-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Brotemarkle Davis &amp; Co LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>899 ADAMS ST STE H</AddressLine1>
+        <City>SAINT HELENA</City>
+        <State>CA</State>
+        <ZIPCode>945741160</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-06-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>942825557</EIN>
+      <Name>
+        <BusinessNameLine1>Carver Foundation</BusinessNameLine1>
+      </Name>
+      <NameControl>CARV</NameControl>
+      <Phone>7079429166</Phone>
+      <USAddress>
+        <AddressLine1>3106 Palisades Road</AddressLine1>
+        <City>Calistoga</City>
+        <State>CA</State>
+        <ZIPCode>94515</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>ANN CARVER</Name>
+      <Title>President</Title>
+      <DateSigned>2011-01-20</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>David H Brotemarkle</Name>
+      <Phone>7079634466</Phone>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="09000047" softwareVersion="2009v1.3">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>187992</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>7650</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>1</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>1</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>1638</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>1638</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>236</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>1985</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>236</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>9525</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>1875</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId=" AccountingFeesSchedule">2280</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>1340</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>940</AccountingFeesDsbrsChrtblPrps>
+        <InterestRevAndExpnss>40</InterestRevAndExpnss>
+        <InterestNetInvstIncm>40</InterestNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId=" TaxesSchedule">181</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>181</TaxesNetInvstIncm>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">314</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>314</OtherExpensesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>2815</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>1875</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>940</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>16650</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>16650</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>19465</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>1875</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>17590</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-9940</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>17898</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>8573</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>8573</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>125708</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId=" InvestmentsCorpStockSchedule">125331</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>179419</InvestmentsCorpStockEOYFMV>
+        <OtherAssetsBOY referenceDocumentId=" OtherAssetsSchedule">238</OtherAssetsBOY>
+        <TotalAssetsBOY>143844</TotalAssetsBOY>
+        <TotalAssetsEOY>133904</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>187992</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>143844</RetainedEarningsBOY>
+        <RetainedEarningsEOY>133904</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>143844</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>133904</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>143844</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>133904</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>143844</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-9940</ExcessOfRevenueOverExpenses>
+        <Subtotal>133904</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>133904</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>23.926 SH VANGUARD PRIMECAP FUND</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2002-10-08</DateAcquired>
+          <DateSold>2010-02-05</DateSold>
+          <GrossSalesPrice>1335</GrossSalesPrice>
+          <CostOrOtherBasis>1051</CostOrOtherBasis>
+          <GainOrLoss>284</GainOrLoss>
+          <GainsMinusExcessOrLosses>284</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>11.642 SH VANGUARD PRIMECAP FUND</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-12-28</DateAcquired>
+          <DateSold>2010-02-05</DateSold>
+          <GrossSalesPrice>650</GrossSalesPrice>
+          <CostOrOtherBasis>698</CostOrOtherBasis>
+          <GainOrLoss>-48</GainOrLoss>
+          <GainsMinusExcessOrLosses>-48</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>236</CapitalGainNetIncome>
+        <NetShortTermCapitalGainOrLoss>-48</NetShortTermCapitalGainOrLoss>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>true</LiableFor4942Tax>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <EstTaxPaymentsAndOverpayment>8</EstTaxPaymentsAndOverpayment>
+        <TaxPaidWithExtension>200</TaxPaidWithExtension>
+        <TotalCreditsAndPayments>208</TotalCreditsAndPayments>
+        <Overpayment>208</Overpayment>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+        <AmountToBeRefunded>208</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>CA</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>Tami Gallant</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>7072464569</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>178 Daffodil Circle</AddressLine1>
+          <City>Vallejo</City>
+          <State>CA</State>
+          <ZIPCode>94591</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Pauline Duxbury</PersonName>
+          <USAddress>
+            <AddressLine1>3106 Palisades Road</AddressLine1>
+            <City>Calistoga</City>
+            <State>CA</State>
+            <ZIPCode>94515</ZIPCode>
+          </USAddress>
+          <Title>Secretary</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Philae Dominick</PersonName>
+          <USAddress>
+            <AddressLine1>3106 Palisades Road</AddressLine1>
+            <City>Calistoga</City>
+            <State>CA</State>
+            <ZIPCode>94515</ZIPCode>
+          </USAddress>
+          <Title>Vice President</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>TAMARA GALLANT</PersonName>
+          <USAddress>
+            <AddressLine1>178 DAFFODIL CIRCLE</AddressLine1>
+            <City>VALLEJO</City>
+            <State>CA</State>
+            <ZIPCode>94590</ZIPCode>
+          </USAddress>
+          <Title>Treasurer</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Anne Carver</PersonName>
+          <USAddress>
+            <AddressLine1>3106 Palisades Road</AddressLine1>
+            <City>Calistoga</City>
+            <State>CA</State>
+            <ZIPCode>94515</ZIPCode>
+          </USAddress>
+          <Title>President</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>170259</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>14826</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>185085</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>185085</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>2776</CashDeemedCharitable>
+        <NetNoncharitableAssets>182309</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>9115</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>9115</MinimumInvestmentReturn>
+        <DistributableAmountBeforeAdj>9115</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>9115</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>9115</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>17590</ExpensesAndContributions>
+        <QualifyingDistributions>17590</QualifyingDistributions>
+        <AdjQualifyingDistributions>17590</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>9115</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>8895</UndistributedIncomePriorYear>
+        <PriorYear1>2007</PriorYear1>
+        <TotalForPriorYears>88</TotalForPriorYears>
+        <QualifyingDistributions>17590</QualifyingDistributions>
+        <AppliedToYear1>8895</AppliedToYear1>
+        <AppliedToPriorYears>88</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>8607</AppliedToCurrentYear>
+        <UndistributedIncomeCY>508</UndistributedIncomeCY>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GPS for Total Health</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2770 Baseline Avenue</AddressLine1>
+            <City>Santa Ynez</City>
+            <State>CA</State>
+            <ZIPCode>93460</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>None</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>HEALTH SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>7650</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>FOOD BANK OF SANTA BARBARA COUNTY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>4554 HOLIISTER AVENUE</AddressLine1>
+            <City>SANTA BARBARA</City>
+            <State>CA</State>
+            <ZIPCode>93110</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>n/a</RecipientRelationship>
+          <RecipientFoundationStatus>501c3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>COMMUNITY SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CALISTOGA FAMILY CENTER</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1500 CEDAR STREET</AddressLine1>
+            <City>CALISTOGA</City>
+            <State>CA</State>
+            <ZIPCode>94515</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>n/a</RecipientRelationship>
+          <RecipientFoundationStatus>501c3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Community Support</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>ST JOHNS CATHEDRAL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1350 WASHINGTON STREET</AddressLine1>
+            <City>DENVER</City>
+            <State>CO</State>
+            <ZIPCode>80203</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>n/a</RecipientRelationship>
+          <RecipientFoundationStatus>501c3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Community Support</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>16650</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>1</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>1638</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>236</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>1875</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>1875</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="09000047" softwareVersion="2009v1.3">
+      <AccountingFees>
+        <Category>BOOKKEEPING</Category>
+        <Amount>780</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>780</DisbursementsCharitablePrps>
+      </AccountingFees>
+      <AccountingFees>
+        <Category>ACCOUNTING</Category>
+        <Amount>1500</Amount>
+        <NetInvestmentIncome>1340</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>160</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSchedule" softwareId="09000047" softwareVersion="2009v1.3">
+      <InvestmentsCorpStock>
+        <NameOfStock>Vanguard PrimeCap Fund</NameOfStock>
+        <EOYBookValue>67571</EOYBookValue>
+        <EOYFMV>86925</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>Vanguard Mid Cap Index</NameOfStock>
+        <EOYBookValue>57760</EOYBookValue>
+        <EOYFMV>92494</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="09000047" softwareVersion="2009v1.3">
+      <OtherExpenses>
+        <Description>Postage</Description>
+        <RevenueAndExpensesPerBooks>48</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>48</NetInvestmentIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Miscellaneous</Description>
+        <RevenueAndExpensesPerBooks>266</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>266</NetInvestmentIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="09000047" softwareVersion="2009v1.3">
+      <Taxes>
+        <Category>LICENSES &amp; PERMITS</Category>
+        <Amount>181</Amount>
+        <NetInvestmentIncome>181</NetInvestmentIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

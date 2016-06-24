@@ -1,0 +1,998 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-10T14:41:39-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>BKD LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>910 E ST LOUIS 200/PO BOX 1190</AddressLine1>
+        <City>SPRINGFIELD</City>
+        <State>MO</State>
+        <ZIPCode>658062523</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2009-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>943351615</EIN>
+      <Name>
+        <BusinessNameLine1>ELDER CARE ALLIANCE OF SAN FRANCISCO</BusinessNameLine1>
+      </Name>
+      <NameControl>ELDE</NameControl>
+      <Phone>5107692700</Phone>
+      <USAddress>
+        <AddressLine1>1301 MARINA VILLAGE PARKWAY</AddressLine1>
+        <City>ALAMEDA</City>
+        <State>CA</State>
+        <ZIPCode>94501</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>JANICE WASHBURN</Name>
+      <Title>CHIEF FINANCIAL OFFICER</Title>
+      <DateSigned>2011-02-06</DateSigned>
+      <AuthorizeThirdParty>true</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Brian D Todd</Name>
+      <Phone>4178658701</Phone>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="8">
+    <IRS990 documentId="IRS990" referenceDocumentId="IRS990ScheduleO">
+      <DoingBusinessAs>
+        <BusinessNameLine1>ALMAVIA OF SAN FRANCISCO</BusinessNameLine1>
+      </DoingBusinessAs>
+      <NameOfPrincipalOfficerPerson>JESSE JANTZEN</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>1301 MARINA VILLAGE PKWY 210</AddressLine1>
+        <City>ALAMEDA</City>
+        <State>CA</State>
+        <ZIPCode>94501</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>4993555</GrossReceipts>
+      <GroupReturnForAffiliates>false</GroupReturnForAffiliates>
+      <Organization501c typeOf501cOrganization="3">X</Organization501c>
+      <WebSite>WWW.ALMAVIAOFSANFRANCISCO.ORG</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>2003</YearFormation>
+      <StateLegalDomicile>CA</StateLegalDomicile>
+      <ActivityOrMissionDescription>A NONPROFIT ORGANIZATION COMMITTED TO SERVING AND ENRICHING THE PHYSICAL, EMOTIONAL, AND SPIRITUAL WELL-BEING OF OLDER ADULTS THROUGH A PROFESSIONAL, FAITH-CENTERED CARE COMMUNITY AND SERVICES.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>4</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>3</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>130</TotalNbrEmployees>
+      <TotalNbrVolunteers>42</TotalNbrVolunteers>
+      <TotalGrossUBI>0</TotalGrossUBI>
+      <ContributionsGrantsPriorYear>6318</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>34333</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>8747734</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>9102661</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>1567287</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>70918</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>2000</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>-4214357</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>10323339</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>4993555</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>0</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>1000</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersPriorYear>0</BenefitsPaidToMembersPriorYear>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>3669707</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>3737562</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>0</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>0</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>7387011</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>5032313</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>11056718</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>8770875</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>-733379</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>-3777320</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>64101062</TotalAssetsBOY>
+      <TotalAssetsEOY>30075755</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>73351368</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>43126084</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>-9250306</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>-13050329</NetAssetsOrFundBalancesEOY>
+      <MissionDescription>A NONPROFIT ORGANIZATION COMMITTED TO SERVING AND ENRICHING THE PHYSICAL, EMOTIONAL, AND SPIRITUAL WELL-BEING OF OLDER ADULTS THROUGH A PROFESSIONAL, FAITH-CENTERED CARE COMMUNITY AND SERVICES.</MissionDescription>
+      <SignificantNewProgramServices>false</SignificantNewProgramServices>
+      <SignificantChange>false</SignificantChange>
+      <Expense>3210644</Expense>
+      <Grants>0</Grants>
+      <Revenue>6135054</Revenue>
+      <Description>ALMAVIA OF SAN FRANCISCO OFFERS ASSISTED LIVING SERVICES. SEE SCHEDULE O FOR FURTHER DETAIL.</Description>
+      <Activity2>
+        <Expense>1322030</Expense>
+        <Grants>0</Grants>
+        <Revenue>1284964</Revenue>
+        <Description>ALMAVIA OF SAN FRANCISCO OPERATES MEMORY CARE UNITS THROUGH ITS BRIDGEHAVEN PROGRAM. SEE SCHEDULE O FOR FURTHER DETAIL.</Description>
+      </Activity2>
+      <Activity3>
+        <Expense>1762706</Expense>
+        <Grants>0</Grants>
+        <Revenue>1682643</Revenue>
+        <Description>ALMAVIA OF SAN FRANCISCO OPERATES MEMORY CARE UNITS THROUGH ITS GARDENS PROGRAM. SEE SCHEDULE O FOR FURTHER DETAIL.</Description>
+      </Activity3>
+      <TotalOfOtherProgramServiceExp>1000</TotalOfOtherProgramServiceExp>
+      <TotalOfOtherProgramServiceGrnt>1000</TotalOfOtherProgramServiceGrnt>
+      <TotalProgramServiceExpense>6296380</TotalProgramServiceExpense>
+      <DescribedIn501C3 referenceDocumentId="IRS990ScheduleA">true</DescribedIn501C3>
+      <ScheduleBRequired referenceDocumentId="IRS990ScheduleB">true</ScheduleBRequired>
+      <PoliticalActivities referenceDocumentId="IRS990ScheduleC">false</PoliticalActivities>
+      <LobbyingActivities referenceDocumentId="IRS990ScheduleC">true</LobbyingActivities>
+      <DonorAdvisedFunds referenceDocumentId="IRS990ScheduleD">false</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="IRS990ScheduleD">false</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="IRS990ScheduleD">false</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="IRS990ScheduleD">false</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="IRS990ScheduleD">false</TermOrPermanentEndowments>
+      <BalanceSheetAmountsReported referenceDocumentId="IRS990ScheduleD">true</BalanceSheetAmountsReported>
+      <IndependentAuditFinancialStmt referenceDocumentId="IRS990ScheduleD">false</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="IRS990ScheduleD">true</ConsolidatedAuditFinancialStmt>
+      <School>false</School>
+      <ForeignOffice>false</ForeignOffice>
+      <ForeignActivities>false</ForeignActivities>
+      <MoreThan5000KToOrganizations>false</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>false</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>false</ProfessionalFundraising>
+      <FundraisingActivities>false</FundraisingActivities>
+      <Gaming>false</Gaming>
+      <Hospital>false</Hospital>
+      <GrantsToOrganizations>false</GrantsToOrganizations>
+      <GrantsToIndividuals>false</GrantsToIndividuals>
+      <ScheduleJRequired>false</ScheduleJRequired>
+      <TaxExemptBonds referenceDocumentId="IRS990ScheduleK">true</TaxExemptBonds>
+      <InvestTaxExemptBonds>false</InvestTaxExemptBonds>
+      <EscrowAccount>false</EscrowAccount>
+      <OnBehalfOfIssuer>false</OnBehalfOfIssuer>
+      <ExcessBenefitTransaction>false</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction>false</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP>false</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson>false</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization>false</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember>false</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp>false</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>false</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>false</DeductibleContributionsOfArt>
+      <Terminated>false</Terminated>
+      <PartialLiquidation>false</PartialLiquidation>
+      <DisregardedEntity referenceDocumentId="IRS990ScheduleR">false</DisregardedEntity>
+      <RelatedEntity referenceDocumentId="IRS990ScheduleR">true</RelatedEntity>
+      <RelatedOrgControlledEntity referenceDocumentId="IRS990ScheduleR">false</RelatedOrgControlledEntity>
+      <TransfersToExemptNonChrtblOrg referenceDocumentId="IRS990ScheduleR">false</TransfersToExemptNonChrtblOrg>
+      <ActivitiesConductedPartnership referenceDocumentId="IRS990ScheduleR">false</ActivitiesConductedPartnership>
+      <ScheduleORequired>true</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>36</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <ComplianceWithBackupWitholding>true</ComplianceWithBackupWitholding>
+      <NumberOfEmployees>130</NumberOfEmployees>
+      <EmploymentTaxReturnsFiled>true</EmploymentTaxReturnsFiled>
+      <UnrelatedBusinessIncome>false</UnrelatedBusinessIncome>
+      <ForeignFinancialAccount>false</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>false</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>false</TaxablePartyNotification>
+      <NonDeductibleContributions>false</NonDeductibleContributions>
+      <QuidProQuoContributions>false</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>false</Form8282PropertyDisposedOf>
+      <FundsToPayPremiums>false</FundsToPayPremiums>
+      <PremiumsPaid>false</PremiumsPaid>
+      <NbrVotingGoverningBodyMembers>4</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>3</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>false</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>true</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>false</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>false</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>true</MembersOrStockholders>
+      <ElectionOfBoardMembers>true</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>true</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>true</MinutesOfGoverningBody>
+      <MinutesOfCommittees>true</MinutesOfCommittees>
+      <OfficerMailingAddress>false</OfficerMailingAddress>
+      <LocalChapters>false</LocalChapters>
+      <Form990ProvidedToGoverningBody>true</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>true</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>true</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>true</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>true</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>true</DocumentRetentionPolicy>
+      <CompensationProcessCEO>true</CompensationProcessCEO>
+      <CompensationProcessOther>true</CompensationProcessOther>
+      <InvestmentInJointVenture>false</InvestmentInJointVenture>
+      <StatesWhereCopyOfReturnIsFiled>CA</StatesWhereCopyOfReturnIsFiled>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NamePerson>JANICE WASHBURN</NamePerson>
+        <TelephoneNumber>5107692727</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>1301 MARINA VILLAGE PARKWAY SUITE</AddressLine1>
+          <City>ALAMEDA</City>
+          <State>CA</State>
+          <ZIPCode>94501</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <Form990PartVIISectionA>
+        <NamePerson>JESSE JANTZEN</NamePerson>
+        <Title>CHIEF EXECUTIVE OFFICER</Title>
+        <AverageHoursPerWeek>40.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>REVEREND RONALD M RENTNER</NamePerson>
+        <Title>CHAIRMAN</Title>
+        <AverageHoursPerWeek>2.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ROBERT JOHNSON</NamePerson>
+        <Title>VICE CHAIR BEG. DEC. 2009</Title>
+        <AverageHoursPerWeek>2.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>SISTER TERESE MARIE PERRY</NamePerson>
+        <Title>SECRETARY BEG. MAY 2010</Title>
+        <AverageHoursPerWeek>2.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>SISTER SHERRY DOLAN RSM</NamePerson>
+        <Title>VICE CHAIR THROUGH NOV. 2009</Title>
+        <AverageHoursPerWeek>2.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>SCOTT TAYLOR</NamePerson>
+        <Title>SECRETARY THROUGH MARCH 2010</Title>
+        <AverageHoursPerWeek>2.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JANICE WASHBURN</NamePerson>
+        <Title>CHIEF FINANCIAL OFFICER</Title>
+        <AverageHoursPerWeek>40.0</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>REBECCA KURLAND</NamePerson>
+        <Title>ASSISTANT SECRETARY</Title>
+        <AverageHoursPerWeek>3.0</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>608</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>28182</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JEFFREY DILLON</NamePerson>
+        <Title>EXEC. DIR. THROUGH JAN 2010</Title>
+        <AverageHoursPerWeek>40.0</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>108639</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>4455</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>109247</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>28182</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>4455</TotalOtherCompensation>
+      <NumberIndividualsGT100K>1</NumberIndividualsGT100K>
+      <FormersListed>false</FormersListed>
+      <TotalCompGT150K>false</TotalCompGT150K>
+      <CompensationFromOtherSources>false</CompensationFromOtherSources>
+      <NumberOfContractorsGT100K>0</NumberOfContractorsGT100K>
+      <AllOtherContributions>34333</AllOtherContributions>
+      <TotalContributions>34333</TotalContributions>
+      <ProgramServiceRevenue>
+        <Description>RESIDENT SERVICES</Description>
+        <BusinessCode>623000</BusinessCode>
+        <TotalRevenueColumn>9084433</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>9084433</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>OTHER P/S REVENUE</Description>
+        <BusinessCode>623000</BusinessCode>
+        <TotalRevenueColumn>18228</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>18228</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>9102661</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>70918</TotalRevenueColumn>
+        <ExclusionAmount>70918</ExclusionAmount>
+      </InvestmentIncome>
+      <IncomeFromInvestBondProceeds>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </IncomeFromInvestBondProceeds>
+      <RoyaltiesRevenue>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </RoyaltiesRevenue>
+      <GrossRents>
+        <Real>2150</Real>
+      </GrossRents>
+      <RentalIncomeOrLoss>
+        <Real>2150</Real>
+      </RentalIncomeOrLoss>
+      <NetRentalIncomeOrLoss>
+        <TotalRevenueColumn>2150</TotalRevenueColumn>
+        <ExclusionAmount>2150</ExclusionAmount>
+      </NetRentalIncomeOrLoss>
+      <NetGainOrLossInvestments>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetGainOrLossInvestments>
+      <NetIncomeFromFundraisingEvents>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetIncomeFromFundraisingEvents>
+      <NetIncomeFromGaming>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetIncomeFromGaming>
+      <NetIncomeOrLoss>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetIncomeOrLoss>
+      <OtherRevenueMisc>
+        <Description>LOSS ON EXTINGUISHMENT OF DEBT</Description>
+        <BusinessCode>900099</BusinessCode>
+        <TotalRevenueColumn>-4216507</TotalRevenueColumn>
+        <ExclusionAmount>-4216507</ExclusionAmount>
+      </OtherRevenueMisc>
+      <TotalOtherRevenue>-4216507</TotalOtherRevenue>
+      <TotalRevenue>
+        <TotalRevenueColumn>4993555</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>9102661</RelatedOrExemptFunctionIncome>
+        <ExclusionAmount>-4143439</ExclusionAmount>
+      </TotalRevenue>
+      <GrantsToDomesticOrgs>
+        <Total>1000</Total>
+        <ProgramServices>1000</ProgramServices>
+      </GrantsToDomesticOrgs>
+      <GrantsToDomesticIndividuals>
+        <Total>0</Total>
+      </GrantsToDomesticIndividuals>
+      <ForeignGrants>
+        <Total>0</Total>
+      </ForeignGrants>
+      <BenefitsToMembers>
+        <Total>0</Total>
+      </BenefitsToMembers>
+      <CompCurrentOfficersDirectors>
+        <Total>608</Total>
+        <ManagementAndGeneral>608</ManagementAndGeneral>
+      </CompCurrentOfficersDirectors>
+      <CompDisqualPersons>
+        <Total>0</Total>
+      </CompDisqualPersons>
+      <OtherSalariesAndWages>
+        <Total>3067207</Total>
+        <ProgramServices>2346266</ProgramServices>
+        <ManagementAndGeneral>720941</ManagementAndGeneral>
+      </OtherSalariesAndWages>
+      <PensionPlanContributions>
+        <Total>25817</Total>
+        <ProgramServices>13522</ProgramServices>
+        <ManagementAndGeneral>12295</ManagementAndGeneral>
+      </PensionPlanContributions>
+      <OtherEmployeeBenefits>
+        <Total>414224</Total>
+        <ProgramServices>312028</ProgramServices>
+        <ManagementAndGeneral>102196</ManagementAndGeneral>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>229706</Total>
+        <ProgramServices>175016</ProgramServices>
+        <ManagementAndGeneral>54690</ManagementAndGeneral>
+      </PayrollTaxes>
+      <FeesForServicesManagement>
+        <Total>592513</Total>
+        <ManagementAndGeneral>592513</ManagementAndGeneral>
+      </FeesForServicesManagement>
+      <FeesForServicesLegal>
+        <Total>31892</Total>
+        <ManagementAndGeneral>31892</ManagementAndGeneral>
+      </FeesForServicesLegal>
+      <FeesForServicesAccounting>
+        <Total>23022</Total>
+        <ManagementAndGeneral>23022</ManagementAndGeneral>
+      </FeesForServicesAccounting>
+      <FeesForServicesLobbying>
+        <Total>0</Total>
+      </FeesForServicesLobbying>
+      <FeesForServicesProfFundraising>
+        <Total>0</Total>
+      </FeesForServicesProfFundraising>
+      <FeesForServicesInvstMgmntFees>
+        <Total>5803</Total>
+        <ManagementAndGeneral>5803</ManagementAndGeneral>
+      </FeesForServicesInvstMgmntFees>
+      <FeesForServicesOther>
+        <Total>60039</Total>
+        <ProgramServices>49616</ProgramServices>
+        <ManagementAndGeneral>10423</ManagementAndGeneral>
+      </FeesForServicesOther>
+      <Advertising>
+        <Total>151902</Total>
+        <ProgramServices>11928</ProgramServices>
+        <ManagementAndGeneral>139974</ManagementAndGeneral>
+      </Advertising>
+      <OfficeExpenses>
+        <Total>751239</Total>
+        <ProgramServices>665128</ProgramServices>
+        <ManagementAndGeneral>86111</ManagementAndGeneral>
+      </OfficeExpenses>
+      <InformationTechnology>
+        <Total>4537</Total>
+        <ManagementAndGeneral>4537</ManagementAndGeneral>
+      </InformationTechnology>
+      <Royalties>
+        <Total>0</Total>
+      </Royalties>
+      <Occupancy>
+        <Total>252084</Total>
+        <ProgramServices>239602</ProgramServices>
+        <ManagementAndGeneral>12482</ManagementAndGeneral>
+      </Occupancy>
+      <Travel>
+        <Total>20535</Total>
+        <ProgramServices>10109</ProgramServices>
+        <ManagementAndGeneral>10426</ManagementAndGeneral>
+      </Travel>
+      <TravelEntrtnmntPublicOfficials>
+        <Total>0</Total>
+      </TravelEntrtnmntPublicOfficials>
+      <ConferencesMeetings>
+        <Total>9613</Total>
+        <ProgramServices>2359</ProgramServices>
+        <ManagementAndGeneral>7254</ManagementAndGeneral>
+      </ConferencesMeetings>
+      <Interest>
+        <Total>2168961</Total>
+        <ProgramServices>1720849</ProgramServices>
+        <ManagementAndGeneral>448112</ManagementAndGeneral>
+      </Interest>
+      <PaymentsToAffiliates>
+        <Total>0</Total>
+      </PaymentsToAffiliates>
+      <DepreciationDepletion>
+        <Total>766883</Total>
+        <ProgramServices>608443</ProgramServices>
+        <ManagementAndGeneral>158440</ManagementAndGeneral>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>82124</Total>
+        <ProgramServices>65158</ProgramServices>
+        <ManagementAndGeneral>16966</ManagementAndGeneral>
+      </Insurance>
+      <OtherExpenses>
+        <Description>DUES &amp; SUBSCRIPTIONS</Description>
+        <Total>24264</Total>
+        <ProgramServices>2346</ProgramServices>
+        <ManagementAndGeneral>21918</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BAD DEBT</Description>
+        <Total>6819</Total>
+        <ProgramServices>6819</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>EMPLOYEE EXPENSES</Description>
+        <Total>23717</Total>
+        <ProgramServices>10390</ProgramServices>
+        <ManagementAndGeneral>13327</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MISCELLANEOUS</Description>
+        <Total>5904</Total>
+        <ProgramServices>5339</ProgramServices>
+        <ManagementAndGeneral>565</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MEDICAL SUPPLIES</Description>
+        <Total>50462</Total>
+        <ProgramServices>50462</ProgramServices>
+      </OtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>8770875</Total>
+        <ProgramServices>6296380</ProgramServices>
+        <ManagementAndGeneral>2474495</ManagementAndGeneral>
+        <Fundraising>0</Fundraising>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>1287277</BOY>
+        <EOY>166495</EOY>
+      </CashNonInterestBearing>
+      <SavingsAndTempCashInvestments>
+        <BOY>3018904</BOY>
+        <EOY>1784072</EOY>
+      </SavingsAndTempCashInvestments>
+      <AccountsReceivable>
+        <BOY>15402</BOY>
+        <EOY>10541</EOY>
+      </AccountsReceivable>
+      <InventoriesForSaleOrUse>
+        <BOY>9577</BOY>
+        <EOY>10080</EOY>
+      </InventoriesForSaleOrUse>
+      <PrepaidExpensesDeferredCharges>
+        <BOY>23135</BOY>
+        <EOY>33245</EOY>
+      </PrepaidExpensesDeferredCharges>
+      <LandBuildingsEquipmentBasis>28821820</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>5122246</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>24373607</BOY>
+        <EOY>23699574</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <InvestmentsPubTradedSecurities>
+        <BOY>33033980</BOY>
+        <EOY>2794750</EOY>
+      </InvestmentsPubTradedSecurities>
+      <OtherAssetsTotal>
+        <BOY>2339180</BOY>
+        <EOY>1576998</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>64101062</BOY>
+        <EOY>30075755</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>903608</BOY>
+        <EOY>527500</EOY>
+      </AccountsPayableAccruedExpenses>
+      <TaxExemptBondLiabilities>
+        <BOY>40945000</BOY>
+        <EOY>40355000</EOY>
+      </TaxExemptBondLiabilities>
+      <OtherLiabilities>
+        <BOY>31502760</BOY>
+        <EOY>2243584</EOY>
+      </OtherLiabilities>
+      <TotalLiabilities>
+        <BOY>73351368</BOY>
+        <EOY>43126084</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>-9257507</BOY>
+        <EOY>-13060152</EOY>
+      </UnrestrictedNetAssets>
+      <TemporarilyRestrictedNetAssets>
+        <BOY>7201</BOY>
+        <EOY>12203</EOY>
+      </TemporarilyRestrictedNetAssets>
+      <PermanentlyRestrictedNetAssets>
+        <EOY>-2380</EOY>
+      </PermanentlyRestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>-9250306</BOY>
+        <EOY>-13050329</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>64101062</BOY>
+        <EOY>30075755</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>false</AccountantCompileOrReview>
+      <FSAudited>true</FSAudited>
+      <AuditCommittee>true</AuditCommittee>
+      <FinancialStatementConsolidated>X</FinancialStatementConsolidated>
+      <FederalGrantAuditRequired>false</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleA documentId="IRS990ScheduleA">
+      <PubliclySupportedOrg509a2>X</PubliclySupportedOrg509a2>
+      <GiftsGrantsContribReceived509>
+        <CurrentTaxYearMinus4Years>7824</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>37220</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>32444</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>6318</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>34333</CurrentTaxYear>
+        <Total>118139</Total>
+      </GiftsGrantsContribReceived509>
+      <GrossReceiptsFromAdmissions>
+        <CurrentTaxYearMinus4Years>6494180</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>7478297</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>8406634</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>8747734</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>9102661</CurrentTaxYear>
+        <Total>40229506</Total>
+      </GrossReceiptsFromAdmissions>
+      <Total509>
+        <CurrentTaxYearMinus4Years>6502004</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>7515517</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>8439078</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>8754052</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>9136994</CurrentTaxYear>
+        <Total>40347645</Total>
+      </Total509>
+      <AmtsFromSubstContributors>
+        <CurrentTaxYearMinus3Years>15456</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>26073</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>28186</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>28092</CurrentTaxYear>
+        <Total>97807</Total>
+      </AmtsFromSubstContributors>
+      <SupportFromDQPsEtc>
+        <CurrentTaxYearMinus3Years>15456</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>26073</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>28186</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>28092</CurrentTaxYear>
+        <Total>97807</Total>
+      </SupportFromDQPsEtc>
+      <PublicSupportTotal509>40249838</PublicSupportTotal509>
+      <GrossInvestmentIncome509>
+        <CurrentTaxYearMinus4Years>165601</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>815312</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>1840111</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>1569287</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>73068</CurrentTaxYear>
+        <Total>4463379</Total>
+      </GrossInvestmentIncome509>
+      <InvestmentIncomeAndUBTI>
+        <CurrentTaxYearMinus4Years>165601</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>815312</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>1840111</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>1569287</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>73068</CurrentTaxYear>
+        <Total>4463379</Total>
+      </InvestmentIncomeAndUBTI>
+      <TotalSupportTotal>
+        <CurrentTaxYearMinus4Years>6667605</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>8330829</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>10279189</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>10323339</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>9210062</CurrentTaxYear>
+        <Total>44811024</Total>
+      </TotalSupportTotal>
+      <PublicSupportPercentage509>0.89821</PublicSupportPercentage509>
+      <PriorYearSupportPercentage>0.88370</PriorYearSupportPercentage>
+      <InvestmentIncomePercentage>0.09960</InvestmentIncomePercentage>
+      <PriorYrInvestIncomePercentage>0.11200</PriorYrInvestIncomePercentage>
+      <ThirtyThreePercntTestsCY509>X</ThirtyThreePercntTestsCY509>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="IRS990ScheduleB">
+      <ContributorInfo>
+        <ContributorNumber>RESTRICTED</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>RESTRICTED</AggregateContributions>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <IRS990ScheduleC documentId="IRS990ScheduleC">
+      <TotalGrassrootsLobbying />
+      <TotalDirectLobbying />
+      <TotalLobbyingExpenditures />
+      <OtherExemptPurposeExpenditures />
+      <TotalExemptPurposeExpenditures />
+      <LobbyingNontaxableAmount />
+      <GrassrootsNontaxableAmount />
+      <TotLobbyingGrassrootMinusNonTx />
+      <TotLobbyExpendMnsLobbyingNontx />
+      <Volunteers>false</Volunteers>
+      <PaidStaffOrManagement>false</PaidStaffOrManagement>
+      <MediaAdvertisements>false</MediaAdvertisements>
+      <MailingsMembers>false</MailingsMembers>
+      <PublicationsOrBroadcast>false</PublicationsOrBroadcast>
+      <GrantsOtherOrganizations>false</GrantsOtherOrganizations>
+      <DirectContactLegislators>false</DirectContactLegislators>
+      <RalliesDemonstrations>false</RalliesDemonstrations>
+      <OtherActivities>true</OtherActivities>
+      <NotDescribedIn501c3>false</NotDescribedIn501c3>
+      <Form990ScheduleCPartIV>
+        <Identifier>OTHER LOBBYING ACTIVITIES</Identifier>
+        <ReturnReference>SCHEDULE C, PART II-B, LINE 1I</ReturnReference>
+        <Explanation>THE ORGANIZATION IS A MEMBER OF SEVERAL ORGANIZATIONS WHOSE PURPOSE IS TO DIRECT, DEVELOP, OR AFFECT PUBLIC POLICY AND LEGISLATION WITH REGARDS TO HEALTHCARE ISSUES. THE AMOUNT SPENT ON DUES ALLOCABLE TO LOBBYING ACTIVITIES IS NOT SPECIFICALLY KNOWN; HOWEVER, SUCH AMOUNTS ARE INSUBSTANTIAL.</Explanation>
+      </Form990ScheduleCPartIV>
+    </IRS990ScheduleC>
+    <IRS990ScheduleD documentId="IRS990ScheduleD">
+      <ArtPublicExhibitionAmts />
+      <HeldWorksOfArtAmts />
+      <Land />
+      <Buildings>
+        <OtherCostOrOtherBasis>23620938</OtherCostOrOtherBasis>
+        <Depreciation>3386489</Depreciation>
+        <BookValue>20234449</BookValue>
+      </Buildings>
+      <LeaseholdImprovements>
+        <OtherCostOrOtherBasis>4092477</OtherCostOrOtherBasis>
+        <Depreciation>1080834</Depreciation>
+        <BookValue>3011643</BookValue>
+      </LeaseholdImprovements>
+      <Equipment>
+        <OtherCostOrOtherBasis>1108405</OtherCostOrOtherBasis>
+        <Depreciation>654923</Depreciation>
+        <BookValue>453482</BookValue>
+      </Equipment>
+      <OtherLandBuildings />
+      <TotalOfBookValueLandBuildings>23699574</TotalOfBookValueLandBuildings>
+      <OtherAssets>
+        <Description>DEFERRED FINANCING COSTS</Description>
+        <BookValue>1560456</BookValue>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>DUE FROM RELATED PARTIES</Description>
+        <BookValue>16042</BookValue>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>REFUNDABLE DEPOSITS</Description>
+        <BookValue>500</BookValue>
+      </OtherAssets>
+      <TotalBookValueOtherAssets>1576998</TotalBookValueOtherAssets>
+      <FederalIncomeTaxLiability>0</FederalIncomeTaxLiability>
+      <OtherLiabilities>
+        <Description>ASSET RETIREMENT OBLIGATIONS</Description>
+        <Amount>101804</Amount>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>INTEREST RATE SWAP AGREEMENTS</Description>
+        <Amount>2127209</Amount>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>DUE TO RELATED PARTIES</Description>
+        <Amount>14571</Amount>
+      </OtherLiabilities>
+      <TotalOfAmounts>2243584</TotalOfAmounts>
+      <TotalRevenue>4993555</TotalRevenue>
+      <TotalExpenses>8770875</TotalExpenses>
+      <ExcessOrDeficitForYear>-3777320</ExcessOrDeficitForYear>
+      <NetUnrealizedGLOnInvestments>-22703</NetUnrealizedGLOnInvestments>
+      <TotalAdjustments>-22703</TotalAdjustments>
+      <ExcessOrDeficitPerFS>-3800023</ExcessOrDeficitPerFS>
+      <TotRevenueEtcAuditedFinclStmt>4965049</TotRevenueEtcAuditedFinclStmt>
+      <NetUnrealizedGainsInvestments>-22703</NetUnrealizedGainsInvestments>
+      <RevenueNotRptdF990>-22703</RevenueNotRptdF990>
+      <RevenueSubtotal>4987752</RevenueSubtotal>
+      <InvestmentExpensesNotIncluded>5803</InvestmentExpensesNotIncluded>
+      <RevenueNotRptdOnFinStmt>5803</RevenueNotRptdOnFinStmt>
+      <TotalRevenuePerForm990>4993555</TotalRevenuePerForm990>
+      <TotExpensesEtcAuditedFinclStmt>8765072</TotExpensesEtcAuditedFinclStmt>
+      <ExpensesSubtotal>8765072</ExpensesSubtotal>
+      <InvestmentExpensesNotIncluded2>5803</InvestmentExpensesNotIncluded2>
+      <ExpensesNotRptdOnFinStmt>5803</ExpensesNotRptdOnFinStmt>
+      <TotalExpensesPerForm990>8770875</TotalExpensesPerForm990>
+      <Form990ScheduleDPartXIV>
+        <Identifier>FIN 48 DISCLOSURE</Identifier>
+        <ReturnReference>SCHEDULE D, PART X, LINE 2</ReturnReference>
+        <Explanation>THE ORGANIZATION ADOPTED THE PROVISIONS OF FINANCIAL ACCOUNTING STANDARDS BOARD (FASB) INTERPRETATION NO. 48, ACCOUNTING FOR UNCERTAINTY IN INCOME TAXES. ECA-CORPORATE AND ITS SUBORDINATE ORGANIZATIONS ARE EACH EXEMPT FROM INCOME TAXES UNDER THE INTERNAL CODE SECTION 501(C)(3) AND THE LAWS OF THE STATE IN WHICH THEY OPERATE. HOWEVER, ECA IS SUBJECT TO FEDERAL INCOME TAX ON ANY UNRELATED BUSINESS TAXABLE INCOME. EFFECTIVE IN FISCAL YEAR ENDED JUNE 30, 2010, ECA BEGAN TO DETERMINE WHETHER ANY UNCERTAIN TAX POSITIONS EXISTED IN ACCORDANCE WITH ASC TOPIC 740. UNDER ECA'S POLICY, IF AN UNCERTAIN TAX POSITION IS IDENTIFIED, ECA FIRST EVALUATES THE TAX POSITION FOR RECOGNITION BY DETERMINING IF THE WEIGHT OF THE AVAILABLE EVIDENCE INDICATED THAT IT IS MORE-LIKELY-THAN-NOT THAT THE POSITION WOULD BE SUSTAINED UPON AUDIT, INCLUDING RESOLUTION OF RELATED APPEALS OR LITIGATIONS PROCESSES, IF ANY. ECA THEN MEASURES THE TAX BENEFIT OR LIABILITY AS THE LARGEST AMOUNT THAT IS MORE THAN 50% LIKELY TO BE REALIZED OR INCURRED UPON SETTLEMENT. COMPLIANCE WITH THIS GUIDANCE HAD NO EFFECT ON ECA'S CONSOLIDATED FINANCIAL STATEMENTS.</Explanation>
+      </Form990ScheduleDPartXIV>
+    </IRS990ScheduleD>
+    <IRS990ScheduleK documentId="IRS990ScheduleK">
+      <Form990ScheduleKPartI>
+        <IssuerName>
+          <BusinessNameLine1>ABAG FINANCE AUTHORITY</BusinessNameLine1>
+        </IssuerName>
+        <IssuerEIN>943130123</IssuerEIN>
+        <CUSIPNumber>00037GAL5</CUSIPNumber>
+        <DateIssued>2006-12-06</DateIssued>
+        <IssuePrice>33895000</IssuePrice>
+        <DescriptionOfPurpose>REFUND 2002 BONDS</DescriptionOfPurpose>
+        <Defeased>false</Defeased>
+        <OnBehalfOfIssuer>false</OnBehalfOfIssuer>
+      </Form990ScheduleKPartI>
+      <Form990ScheduleKPartII>
+        <TotalProceeds>33895000</TotalProceeds>
+        <AmountDefeased>32966599</AmountDefeased>
+        <IssuanceCostsFromProceeds>928401</IssuanceCostsFromProceeds>
+        <YearOfSubstCompletion>2006</YearOfSubstCompletion>
+        <CurrentRefunding>false</CurrentRefunding>
+        <AdvanceRefunding>true</AdvanceRefunding>
+        <FinalAllocationMade>true</FinalAllocationMade>
+        <AdequateBooksAndRecdsMaintaind>true</AdequateBooksAndRecdsMaintaind>
+      </Form990ScheduleKPartII>
+      <Form990ScheduleKPartIV>
+        <Form8038TFiled>false</Form8038TFiled>
+        <VariableRateIssue>true</VariableRateIssue>
+        <HedgeIdentifiedInBooksAndRecds>false</HedgeIdentifiedInBooksAndRecds>
+        <GrossProceedsInvestedInGIC>false</GrossProceedsInvestedInGIC>
+        <GrossProceedsInvested>false</GrossProceedsInvested>
+        <ExceptionToRebate>false</ExceptionToRebate>
+      </Form990ScheduleKPartIV>
+    </IRS990ScheduleK>
+    <IRS990ScheduleO documentId="IRS990ScheduleO">
+      <GeneralExplanation>
+        <Identifier>PROGRAM SERVICE ACCOMPLISHMENTS</Identifier>
+        <ReturnReference>FORM 990, PART III, LINES 4A, 4B, 4C, &amp; 4D</ReturnReference>
+        <Explanation>NESTLED IN A QUIET SAN FRANCISCO NEIGHBORHOOD, ALMAVIA OF SAN FRANCISCO IS LOCATED IN CLOSE PROXIMITY TO ST. MARY'S MEDICAL CENTER, MEDICAL OFFICES AND STONESTOWN SHOPPING CENTER, AND IS DIRECTLY ADJACENT TO ST. THOMAS MORE CHURCH. ALMAVIA OF SAN FRANCISCO FEATURES PROGRAMS DESIGNED TO HELP OLDER ADULTS REMAIN AS INDEPENDENT AS POSSIBLE, STAY CONNECTED TO THE COMMUNITY, AND CELEBRATE ALL STAGES OF LIFE. LINE 4A ALMAVIA HAS A TOTAL OF 135 APARTMENTS SEPARATED IN THREE COMMUNITIES. AVSF'S ASSISTED LIVING PROGRAM USES A CUSTOM CARE APPROACH THAT ALLOWS RESIDENTS, STAFF, AND OTHER HEALTH CARE PROFESSIONALS TO DEVELOP A SERVICE PLAN FOR EACH RESIDENT'S INDIVIDUAL NEEDS. SERVICES INCLUDE ASSISTANCE WITH PERSONAL CARE, MEDICATION MANAGEMENT, ESCORTS TO DINING AND SOCIAL PROGRAMS, AND COORDINATION OF HEALTHCARE NEEDS. AVSF HAS NINETY-FOUR APARTMENTS DEDICATED TO ASSISTED LIVING RESIDENTS. LINE 4B ALMAVIA OF SAN FRANCISCO'S BRIDGEHAVEN PROGRAM PROVIDES A MORE STRUCTURED ENVIRONMENT FOR RESIDENTS SUFFERING FROM MILD TO MODERATE DEGREES OF MEMORY LOSS. RESIDENTS CAN CHOOSE FROM PRIVATE OR SEMI-PRIVATE ACCOMMODATIONS AND HAVE THE OPPORTUNITY TO PARTICIPATE IN SPECIALLY DESIGNED MEMORY SUPPORT PROGRAMS. AVSF HAS DEDICATED 18 APARTMENTS TO THIS PROGRAM IN A SECURED AREA OF THE COMMUNITY. AVSF ALSO OFFERS AFFORDABLE RESPITE STAYS DESIGNED TO GIVE CAREGIVERS AT HOME A BREAK FROM THE DAY-TO-DAY CHALLENGES OF CARING FOR A LOVED ONE. THIS CAN BE A RESPONSIBLE OPTION FOR A FAMILY CAREGIVER GOING ON VACATION. AVSF RESIDENTS ARE THE HEART OF THE COMMUNITY. LINE 4C ALMAVIA'S GARDENS MEMORY CARE PROGRAM COMBINES OLD-FASHIONED CARE AND COMPASSION WITH THE MOST CURRENT PROGRAMMING TECHNIQUES AND RESEARCH FINDINGS. RESIDENTS WHO SUFFER FROM ALZHEIMER'S DISEASE OR OTHER FORMS OF MEMORY LOSS BENEFIT FROM A RESIDENTIAL SETTING AND RECEIVE THE CARE AND SERVICES THEY NEED. THE GARDENS SPECIALIZES IN ALZHEIMER'S AND MEMORY CARE. EMPHASIS IS PLACED ON 24-HOUR CARE CENTERED ON THE NEEDS OF EACH INDIVIDUAL RESIDENT. STAFF INCLUDES A WELL-TRAINED SUPPORT STAFF, WHICH INCLUDES A WELLNESS DIRECTOR, CARE STAFF AND A CHAPLAIN. THEY RESTORE DIGNITY TO THOSE SUFFERING FROM MEMORY LOSS IN AN ATMOSPHERE OF KINDNESS AND RESPECT. THEY HAVE CREATED A FAITH BASED, LOVING ATMOSPHERE OF CARING, SUPPORT AND COMPASSION FOR RESIDENTS THROUGH EVERY STAGE OF THEIR MEMORY LOSS. LINE 4D THE ORGANIZATION GAVE CHARITABLE CONTRIBUTIONS TO AN ORGANIZATION. AUDITED FINANCIAL STATEMENTS FORM 990, PART IV, LINE 12 AND PART XI, LINE 2B THE ORGANIZATION RECEIVES AUDITED FINANCIAL STATEMENTS ON A CONSOLIDATED BASIS WITH THE RELATED ORGANIZATIONS LISTED ON SCHEDULE R, PART II. ELDER CARE ALLIANCE, ALMAVIA OF SAN FRANCISCO'S SOLE CORPORATE MEMBER AND MANAGEMENT COMPANY, HAS AN AUDIT COMMITTEE THAT OVERSEES THE AUDIT OF THE FINANCIAL STATEMENTS AND THE SELECTION OF THE INDEPENDENT ACCOUNTANT.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>DELEGATION OF MANAGEMENT DUTIES</Identifier>
+        <ReturnReference>FORM 990, PART VI, SECTION A, LINE 3</ReturnReference>
+        <Explanation>ALMAVIA OF SAN FRANCISCO HAS A MANAGEMENT CONTRACT WITH ELDER CARE ALLIANCE, A NON-PROFIT PUBLIC BENEFIT CORPORATION THAT IS THE SOLE CORPORATE MEMBER OF ALMAVIA OF SAN FRANCISCO, TO PROVIDE MANAGEMENT SERVICES INCLUDING, BUT NOT LIMITED TO, MARKETING, HUMAN RESOURCES, ACCOUNTING, INFORMATION TECHNOLOGY SERVICES, CLINICAL OVERSIGHT AND INSURANCE.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>MEMBERS</Identifier>
+        <ReturnReference>FORM 990, PART VI, SECTION A, LINES 6, 7A, &amp; 7B</ReturnReference>
+        <Explanation>THE ORGANIZATION'S SOLE CORPORATE MEMBER IS ELDER CARE ALLIANCE. APPOINTMENT, TERM OF OFFICE AND QUALIFICATION OF DIRECTORS: A. ALL DIRECTORS SHALL BE APPOINTED BY THE BOARD OF DIRECTORS OF ELDER CARE ALLIANCE, EXCEPT FOR THE EX OFFICIO DIRECTOR AND THE INITIAL DIRECTORS APPOINTED BY THE INCORPORATOR. B. THE PRESIDENT/CHIEF EXECUTIVE OFFICER (OR ACTING PRESIDENT/CHIEF EXECUTIVE OFFICER) OF ELDER CARE ALLIANCE SHALL SERVE ON THE BOARD AS AN EX OFFICIO DIRECTOR WITH FULL VOTING RIGHTS FOR AS LONG AS HE OR SHE HOLDS THE OFFICE OF PRESIDENT/CHIEF EXECUTIVE OFFICER OF ELDER CARE ALLIANCE. SUCH EX OFFICIO DIRECTOR SHALL CEASE TO BE A DIRECTOR AS OF THE DATE SUCH EX OFFICIO DIRECTOR CEASES TO BE PRESIDENT/CHIEF EXECUTIVE OFFICER OF ELDER CARE ALLIANCE. C. EXCEPT FOR THE INITIAL DIRECTORS APPOINTED BY THE INCORPORATOR AND THE EX OFFICIO DIRECTOR, THE TERM OF OFFICE FOR EACH DIRECTOR SHALL BE AS FOLLOWS. ANY DIRECTOR APPOINTED TO THE BOARD FOR THE FIRST TIME OR AFTER HAVING BEEN OFF THE BOARD FOR THE HIATUS PERIOD (AS HEREINAFTER DEFINED) SHALL SERVE FOR A TERM OF ONE (1) YEAR. THEREAFTER, A DIRECTOR WILL BE ELIGIBLE FOR APPOINTMENT FOR UP TO TWO (2) CONSECUTIVE THREE-YEAR TERMS; PROVIDED, HOWEVER, THAT AT THE ELECTION OF THE BOARD OF DIRECTORS OF ELDER CARE ALLIANCE, ANY SUCH TERM MAY BE FOR LESS THAN THREE (3) YEARS TO ALLOW FOR THE STAGGERING OF TERMS OR TO PERMIT A DIRECTOR TO SERVE THE MAXIMUM NUMBER OF CONSECUTIVE YEARS ALLOWED HEREUNDER. NO DIRECTOR MAY SERVE MORE THAN A MAXIMUM OF SEVEN (7) CONSECUTIVE YEARS ON THE BOARD; HOWEVER, HE OR SHE WILL AGAIN BE ELIGIBLE FOR APPOINTMENT UNDER THE PROVISIONS HEREOF ONE (1) YEAR AFTER THE CONCLUSION OF SUCH A SEVEN-YEAR PERIOD (THE "HIATUS PERIOD"). D. APPOINTMENT OF DIRECTORS APPOINTED BY ELDER CARE ALLIANCE SHALL TAKE PLACE ANNUALLY AT A REGULAR MEETING OR A SPECIAL MEETING OF THE CORPORATION. RESERVED RIGHTS OF CORPORATE MEMBER: THE FOLLOWING ACTIONS OF ELDER CARE ALLIANCE OF SAN FRANCISCO (THE "CORPORATION") SHALL NOT BE IMPLEMENTED WITHOUT THE APPROVAL OF THE CORPORATE MEMBER: (A) ADOPTION OR AMENDMENT OF PHILOSOPHY AND MISSION OF THE CORPORATION; (B) APPROVAL OF STRATEGIC AND LONG RANGE PLANS OF THE CORPORATION; (C) REORGANIZATION, MERGER, CONSOLIDATION OR CHANGE OF CONTROL OF THE CORPORATION; (D) ANY CHANGE IN THE ARTICLES OF INCORPORATION OR BYLAWS OF THE CORPORATION; (E) ADOPTION OF AND ANY CHANGE IN THE MISSION STATEMENT OR VALUES STATEMENT OF THE CORPORATION; (F) ADOPTION OF AND ANY CHANGE IN CHARITABLE CARE POLICIES OF THE CORPORATION; (G) SALE OR DISPOSITION OF ALL OR SUBSTANTIALLY ALL OF THE ASSETS OF THE CORPORATION; (H) DISSOLUTION OF THE CORPORATION; (I) ADOPTION OR APPROVAL OF OPERATING AND CAPITAL BUDGETS OF THE CORPORATION, AND ANY CAPITAL EXPENDITURES OR BORROWINGS IN EXCESS OF LIMITS ESTABLISHED BY ELDER CARE ALLIANCE POLICY; (J) CREATION OF A NEW CORPORATION, OR PARTICIPATION IN A JOINT VENTURE REQUIRING CAPITAL COMMITMENTS IN EXCESS OF LIMITS ESTABLISHED BY ELDER CARE ALLIANCE POLICY; OR (K) ANY UNBUDGETED ACQUISITION OF ASSETS WITH A PURCHASE PRICE IN EXCESS OF LIMITS ESTABLISHED BY ELDER CARE ALLIANCE POLICY.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>FORM 990 REVIEW PROCESS</Identifier>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 11A</ReturnReference>
+        <Explanation>THE FINAL FORM 990 IS PROVIDED BY E-MAIL TO ALL MEMBERS OF THE BOARD OF DIRECTORS BEFORE FILING. ELDER CARE ALLIANCE, ALMAVIA OF SAN FRANCISCO'S SOLE CORPORATE MEMBER AND MANAGEMENT COMPANY, HAS AN AUDIT COMMITTEE ON ITS BOARD OF DIRECTORS THAT REVIEWS THE FORM 990 BEFORE FILING. ALSO, THE EXECUTIVE DIRECTOR, CEO, AND CFO ALL REVIEW THE FORM 990 BEFORE FILING.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>CONFLICT OF INTEREST POLICY COMPLIANCE</Identifier>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 12C</ReturnReference>
+        <Explanation>ANNUALLY THE ASSISTANT SECRETARY OF ELDER CARE ALLIANCE, ALMAVIA OF SAN FRANCISCO'S SOLE CORPORATE MEMBER AND MANAGEMENT COMPANY, REQUESTS UPDATED CONFLICT OF INTEREST FORMS FROM THE BOARD OF DIRECTORS. THE ASSISTANT SECRETARY REVIEWS THOSE FORMS AND INFORMS THE CHAIRMAN OF THE BOARD OF DIRECTORS OF ANY APPARENT CONFLICT OF INTEREST. IF A CONFLICT OF INTEREST ARISES, THE AFFECTED BOARD MEMBER WOULD BE REQUIRED TO ABSTAIN FROM VOTING ON THE ISSUE.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>COMPENSATION DETERMINATION</Identifier>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINES 15A &amp; 15B</ReturnReference>
+        <Explanation>ALMAVIA OF SAN FRANCISCO HAS A MANAGEMENT CONTRACT WITH ELDER CARE ALLIANCE. INCLUDED IN THE SERVICES PROVIDED UNDER THIS MANAGEMENT CONTRACT ARE THE SERVICES OF THE CEO AND CFO. COMPENSATION REVIEWS OF THE CEO AND CFO WERE CONDUCTED IN FY 2010 BY THE ELDER CARE ALLIANCE BOARD OF DIRECTORS. THE COMPENSATION REVIEW OF THE EXECUTIVE DIRECTOR AND OTHER KEY EMPLOYEES WAS PERFORMED IN FY 2010 BY THE FINANCE COMMITTEE OF ELDER CARE ALLIANCE AS PART OF THE BUDGET REVIEW PROCESS. THE COMPENSATION FOR THE CEO AND CFO WAS REVIEWED AGAINST COMPARABLES PROVIDED BY THE VICE PRESIDENT OF HUMAN RESOURCES OF LIFE CARE SERVICES, ELDER CARE ALLIANCE'S MANAGEMENT COMPANY.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>GOVERNING DOCUMENT AVAILABILITY</Identifier>
+        <ReturnReference>FORM 990, PART VI, SECTION C, LINE 19</ReturnReference>
+        <Explanation>THE GOVERNING DOCUMENTS, CONFLICT OF INTEREST POLICY, AND FINANCIAL STATEMENTS ARE AVAILABLE ON WRITTEN REQUEST TO ELDER CARE ALLIANCE, ALMAVIA OF SAN FRANCISCO'S MANAGEMENT COMPANY. DOCUMENTS WILL BE PROVIDED VIA THE US MAIL OR BY FAX, IF SO REQUESTED.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>EXECUTIVE DIRECTOR</Identifier>
+        <ReturnReference>FORM 990, PART VII</ReturnReference>
+        <Explanation>PHIL ALTMAN BEGAN AS EXECUTIVE DIRECTOR IN FEBRUARY 2010.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+    <IRS990ScheduleR documentId="IRS990ScheduleR">
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>ELDER CARE ALLIANCE</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>1301 MARINA VILLAGE PKWY 210</AddressLine1>
+          <City>ALAMEDA</City>
+          <State>CA</State>
+          <ZIPCode>94501</ZIPCode>
+        </AddressUS>
+        <EIN>943260975</EIN>
+        <PrimaryActivities>MANAGEMENT</PrimaryActivities>
+        <LegalDomicileState>CA</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>11 B II</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>NA</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>MERCY RETIREMENT AND CARE CENTER</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>1301 MARINA VILLAGE PKWY 210</AddressLine1>
+          <City>ALAMEDA</City>
+          <State>CA</State>
+          <ZIPCode>94501</ZIPCode>
+        </AddressUS>
+        <EIN>941156579</EIN>
+        <PrimaryActivities>ELDERLY CARE</PrimaryActivities>
+        <LegalDomicileState>CA</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>9</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>NA</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>ELDER CARE ALLIANCE OF CAMARILLO</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>1301 MARINA VILLAGE PKWY 210</AddressLine1>
+          <City>ALAMEDA</City>
+          <State>CA</State>
+          <ZIPCode>94501</ZIPCode>
+        </AddressUS>
+        <EIN>943351613</EIN>
+        <PrimaryActivities>ELDERLY CARE</PrimaryActivities>
+        <LegalDomicileState>CA</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>9</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>NA</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>ELDER CARE ALLIANCE OF UNION CITY</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>1301 MARINA VILLAGE PKWY 210</AddressLine1>
+          <City>ALAMEDA</City>
+          <State>CA</State>
+          <ZIPCode>94501</ZIPCode>
+        </AddressUS>
+        <EIN>943377985</EIN>
+        <PrimaryActivities>ELDERLY CARE</PrimaryActivities>
+        <LegalDomicileState>CA</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>9</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>NA</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>SALEM LUTHERAN HOME ASSOC OF THE BAY CIT</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>1301 MARINA VILLAGE PKWY 210</AddressLine1>
+          <City>ALAMEDA</City>
+          <State>CA</State>
+          <ZIPCode>94501</ZIPCode>
+        </AddressUS>
+        <EIN>940831870</EIN>
+        <PrimaryActivities>ELDERLY CARE</PrimaryActivities>
+        <LegalDomicileState>CA</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>9</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>NA</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>ELDER CARE ALLIANCE OF SAN RAFAEL</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>1301 MARINA VILLAGE PKWY 210</AddressLine1>
+          <City>ALAMEDA</City>
+          <State>CA</State>
+          <ZIPCode>94501</ZIPCode>
+        </AddressUS>
+        <EIN>760730971</EIN>
+        <PrimaryActivities>ELDERLY CARE</PrimaryActivities>
+        <LegalDomicileState>CA</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>9</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>NA</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartII>
+      <ReceiptOfIntAnnRentsRoyalties>false</ReceiptOfIntAnnRentsRoyalties>
+      <GiftGrantOrCapContrToOtherOrg>false</GiftGrantOrCapContrToOtherOrg>
+      <GiftGrantOrCapContrFrOtherOrg>false</GiftGrantOrCapContrFrOtherOrg>
+      <LoansOrGuaranteesToOtherOrg>false</LoansOrGuaranteesToOtherOrg>
+      <LoansOrGuaranteesFromOtherOrg>false</LoansOrGuaranteesFromOtherOrg>
+      <SaleOfAssetsToOtherOrg>false</SaleOfAssetsToOtherOrg>
+      <PurchaseOfAssetsFromOtherOrg>false</PurchaseOfAssetsFromOtherOrg>
+      <ExchangeOfAssets>false</ExchangeOfAssets>
+      <RentalOfFacilitiesToOtherOrgs>false</RentalOfFacilitiesToOtherOrgs>
+      <RentalOfFacilitiesFrOtherOrgs>false</RentalOfFacilitiesFrOtherOrgs>
+      <PerformOfServicesForOtherOrgs>false</PerformOfServicesForOtherOrgs>
+      <PerformOfServicesByOtherOrgs>true</PerformOfServicesByOtherOrgs>
+      <SharingOfFacilities>false</SharingOfFacilities>
+      <SharingOfPaidEmployees>true</SharingOfPaidEmployees>
+      <ReimbursementPaidToOtherOrg>true</ReimbursementPaidToOtherOrg>
+      <ReimbursementPaidByOtherOrg>true</ReimbursementPaidByOtherOrg>
+      <OtherTransferToOtherOrg>false</OtherTransferToOtherOrg>
+      <OtherTransferFromOtherOrg>false</OtherTransferFromOtherOrg>
+    </IRS990ScheduleR>
+  </ReturnData>
+</Return>

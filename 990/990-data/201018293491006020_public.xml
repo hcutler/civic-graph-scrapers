@@ -1,0 +1,468 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-07-01T11:19:02-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-04-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>BAUMGARTEN &amp; COMPANY LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>1422 EUCLID AVE STE 1104</AddressLine1>
+        <City>CLEVELAND</City>
+        <State>OH</State>
+        <ZIPCode>44115</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-05-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>341835791</EIN>
+      <Name>
+        <BusinessNameLine1>LAKE ERIE MARINE TRADES ASSOCIATION</BusinessNameLine1>
+        <BusinessNameLine2>EDUCATIONAL FOUNDATION</BusinessNameLine2>
+      </Name>
+      <NameControl>LAKE</NameControl>
+      <USAddress>
+        <AddressLine1>1269 BASSETT ROAD</AddressLine1>
+        <City>WESTLAKE</City>
+        <State>OH</State>
+        <ZIPCode>441451116</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>KENNETH J ALVEY</Name>
+      <Title>TRUSTEE</Title>
+      <DateSigned>2010-06-09</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>LAWRENCE E YUNASKA CPA</Name>
+      <Phone>2167814300</Phone>
+      <DatePrepared>2010-06-25</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="2">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>11942</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>5000</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>12</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>12</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>12</InterestOnSavingsAdjNetIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc2">5049</OtherIncomeRevAndExpnss>
+        <OtherIncomeAdjNetIncm>5049</OtherIncomeAdjNetIncm>
+        <TotalRevenueAndExpenses>10061</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>12</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>5061</TotalAdjustedNetIncome>
+        <TotOprExpensesRevAndExpnss>0</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>6600</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>6600</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>6600</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>6600</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>3461</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>12</NetInvestmentIncome>
+        <AdjustedNetIncome>5061</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>8481</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>11942</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>11942</SavingsAndTempCashInvstEOYFMV>
+        <TotalAssetsBOY>8481</TotalAssetsBOY>
+        <TotalAssetsEOY>11942</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>11942</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>8481</RetainedEarningsBOY>
+        <RetainedEarningsEOY>11942</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>8481</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>11942</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>8481</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>11942</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>8481</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>3461</ExcessOfRevenueOverExpenses>
+        <Subtotal>11942</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>11942</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>10300</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>5459</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>1.886792</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>10250</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>5051</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>2.029301</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>8999</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>4994</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>1.801962</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>6598</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>4980</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>1.324900</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>9000</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>5375</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>1.674419</DistributionRatioYear5>
+        <TotalDistributionRatio>8.717374</TotalDistributionRatio>
+        <AverageDistributionRatio>1.743475</AverageDistributionRatio>
+        <NetNoncharitableAssets>5398</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>9411</AdjustedNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>9411</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>6600</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>KENNETH J ALVEY</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>4408995009</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>1269 BASSETT ROAD</AddressLine1>
+          <City>WESTLAKE</City>
+          <State>OH</State>
+          <ZIPCode>44145</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>WILLIAM G SCHAEFFER</PersonName>
+          <USAddress>
+            <AddressLine1>6101 W ERIE AVE</AddressLine1>
+            <City>LORAIN</City>
+            <State>OH</State>
+            <ZIPCode>44052</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>KENNETH J ALVEY</PersonName>
+          <USAddress>
+            <AddressLine1>1269 BASSETT ROAD</AddressLine1>
+            <City>WESTLAKE</City>
+            <State>OH</State>
+            <ZIPCode>44145</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>WILLIAM C HUFFMAN</PersonName>
+          <USAddress>
+            <AddressLine1>2441 DETROIT ROAD</AddressLine1>
+            <City>WESTLAKE</City>
+            <State>OH</State>
+            <ZIPCode>44145</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>SCHOLARSHIPS WERE AWARDED TO 13 COLLEGE STUDENTS TO ASSIST WITH THEIR EDUCATIONAL ENDEAVORS.</Description1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>5480</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>5480</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>5480</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>82</CashDeemedCharitable>
+        <NetNoncharitableAssets>5398</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>270</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>270</MinimumInvestmentReturn>
+        <DistributableAmountBeforeAdj>270</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>270</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>270</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>6600</ExpensesAndContributions>
+        <QualifyingDistributions>6600</QualifyingDistributions>
+        <AdjQualifyingDistributions>6600</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>270</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>8731</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>6353</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>8751</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>9997</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>10027</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>43859</TotalExcessDistriCarryover>
+        <QualifyingDistributions>6600</QualifyingDistributions>
+        <AppliedToCurrentYear>270</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>6330</RemainingDistriFromCorpus>
+        <TotalCorpus>50189</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>8731</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>41458</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>6353</ExcessFromYear4>
+        <ExcessFromYear3>8751</ExcessFromYear3>
+        <ExcessFromYear2>9997</ExcessFromYear2>
+        <ExcessFromYear1>10027</ExcessFromYear1>
+        <ExcessFromCurrentYear>6330</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>LAKE ERIE MARINE TRADES ASSOCIATION</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>1269 BASSETT ROAD</AddressLine1>
+            <City>WESTLAKE</City>
+            <State>OH</State>
+            <ZIPCode>44145</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>4408995009</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>LETTER REQUESTING FORMAL APPLICATION SHOULD BE SUBMITTED</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>MAY 1 ANNUALLY.</SubmissionDeadlines>
+          <RestrictionsOnAwards>AWARDS TO BE GRANTED FOR EDUCATIONAL PURPOSES IN THE FIELD OF RECREATIONAL BOATING</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>FREDRICK CAMPOGNI</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>8450 LEWIS RD</AddressLine1>
+            <City>OLMSTED FALLS</City>
+            <State>OH</State>
+            <ZIPCode>44138</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>COLLEGE TUITION</PurposeOfGrantOrContribution>
+          <Amount>600</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>KATHRYN CAMPOGNI</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>8450 LEWIS RD</AddressLine1>
+            <City>OLMSTED FALLS</City>
+            <State>OH</State>
+            <ZIPCode>44138</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>COLLEGE TUITION</PurposeOfGrantOrContribution>
+          <Amount>600</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SAM MORRISON</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>6003 ELY VISTA DR</AddressLine1>
+            <City>PARMA</City>
+            <State>OH</State>
+            <ZIPCode>44129</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>COLLEGE TUITION</PurposeOfGrantOrContribution>
+          <Amount>600</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>MEGHAN SCHAEFFER</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>441 ROCK CREEK RUN</AddressLine1>
+            <City>AMHERST</City>
+            <State>OH</State>
+            <ZIPCode>44001</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>COLLEGE TUITION</PurposeOfGrantOrContribution>
+          <Amount>600</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>ALEXANDRA YUNASKA</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>27090 COURTLAND MEADOWS</AddressLine1>
+            <City>WESTLAKE</City>
+            <State>OH</State>
+            <ZIPCode>44145</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>COLLEGE TUITION</PurposeOfGrantOrContribution>
+          <Amount>600</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>TYLER CULLINAN</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>23917 LAKE ROAD</AddressLine1>
+            <City>BAY VILLAGE</City>
+            <State>OH</State>
+            <ZIPCode>44140</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>COLLEGE TUITION</PurposeOfGrantOrContribution>
+          <Amount>400</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JEFFREY GULA</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>244 BRANDT AVE</AddressLine1>
+            <City>AMHERST</City>
+            <State>OH</State>
+            <ZIPCode>44001</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>COLLEGE TUITION</PurposeOfGrantOrContribution>
+          <Amount>400</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>ERIC HAHN</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>804 BOGART ROAD</AddressLine1>
+            <City>HURON</City>
+            <State>OH</State>
+            <ZIPCode>44839</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>COLLEGE TUITION</PurposeOfGrantOrContribution>
+          <Amount>400</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>TAMMY HRINDA</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>45349 E HAMILTON ST</AddressLine1>
+            <City>OBERLIN</City>
+            <State>OH</State>
+            <ZIPCode>44074</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>COLLEGE TUITION</PurposeOfGrantOrContribution>
+          <Amount>400</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>ANDY MARCHION</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>751 CURRAN ST</AddressLine1>
+            <City>SANDUSKY</City>
+            <State>OH</State>
+            <ZIPCode>44870</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>COLLEGE TUITION</PurposeOfGrantOrContribution>
+          <Amount>400</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JAKE PHELPS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>2529 WEST 8TH ST</AddressLine1>
+            <City>ASHTABULA</City>
+            <State>OH</State>
+            <ZIPCode>44004</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>COLLEGE TUITION</PurposeOfGrantOrContribution>
+          <Amount>600</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>DEREK RHOME</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>7278 BAYBERRY CT</AddressLine1>
+            <City>OLMSTED TWP</City>
+            <State>OH</State>
+            <ZIPCode>44138</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>COLLEGE TUITION</PurposeOfGrantOrContribution>
+          <Amount>600</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>ANTHONY TYSON</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>4999 N ST RT 2 LOT 14</AddressLine1>
+            <City>OAK HARBOR</City>
+            <State>OH</State>
+            <ZIPCode>43449</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>COLLEGE TUITION</PurposeOfGrantOrContribution>
+          <Amount>400</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>6600</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <RelatedOrExemptFunctionIncome>12</RelatedOrExemptFunctionIncome>
+        </IntOnSavingsAndTempCashInvst>
+        <OtherRevenueDescribed>
+          <Description>2009 GOLF OUTING</Description>
+          <ExclusionCode>1</ExclusionCode>
+          <ExclusionAmount>3880</ExclusionAmount>
+        </OtherRevenueDescribed>
+        <OtherRevenueDescribed>
+          <Description>2009 WINE TASTING</Description>
+          <ExclusionCode>1</ExclusionCode>
+          <ExclusionAmount>1169</ExclusionAmount>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>5049</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>12</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>5061</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <OtherIncomeSchedule2 documentId="RetDoc2">
+      <OtherIncome>
+        <Description>2009 GOLF OUTING</Description>
+        <RevenueAndExpensesPerBooks>3880</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>3880</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>2009 WINE TASTING</Description>
+        <RevenueAndExpensesPerBooks>1169</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>1169</AdjustedNetIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+  </ReturnData>
+</Return>

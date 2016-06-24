@@ -1,0 +1,1301 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-09T10:28:53-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-09-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>LAMBRIDES ARNOLD MOULTHROP LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>26 PARK ST STE 301</AddressLine1>
+        <City>MONTCLAIR</City>
+        <State>NJ</State>
+        <ZIPCode>070423443</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-10-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>136065879</EIN>
+      <Name>
+        <BusinessNameLine1>THE FINNEY FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>FINN</NameControl>
+      <Phone>9737463734</Phone>
+      <USAddress>
+        <AddressLine1>9 ERWIN PARK ROAD</AddressLine1>
+        <City>MONTCLAIR</City>
+        <State>NJ</State>
+        <ZIPCode>07042</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>JOHN FINNEY</Name>
+      <Title>VICE PRESIDENT</Title>
+      <Phone>9737463734</Phone>
+      <DateSigned>2011-02-09</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>JOYCE E MOULTHROP</Name>
+      <Phone>9737448660</Phone>
+      <DatePrepared>2011-02-09</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>298399</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>22199</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>22199</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>-1071</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>50000</GrossSalesPrice>
+        <TotalRevenueAndExpenses>21128</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>22199</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">1463</AccountingFeesRevAndExpnss>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc5">214</TaxesRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc4">128</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>1805</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>19747</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>19747</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>21552</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>19747</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-424</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>22199</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>991</CashBOY>
+        <CashEOY>583</CashEOY>
+        <CashEOYFMV>583</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>3139</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>4793</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>4793</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>320667</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc3">318997</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>293023</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>324797</TotalAssetsBOY>
+        <TotalAssetsEOY>324373</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>298399</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>324797</RetainedEarningsBOY>
+        <RetainedEarningsEOY>324373</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>324797</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>324373</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>324797</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>324373</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>324797</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-424</ExcessOfRevenueOverExpenses>
+        <Subtotal>324373</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>324373</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>PUBLIC SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2001-08-01</DateAcquired>
+          <DateSold>2009-11-30</DateSold>
+          <GrossSalesPrice>50000</GrossSalesPrice>
+          <CostOrOtherBasis>51071</CostOrOtherBasis>
+          <GainOrLoss>-1071</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1071</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>-1071</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>19215</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>185747</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.103447</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>18695</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>238102</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.078517</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>21205</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>293282</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.072302</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>25013</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>294546</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.084921</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>28458</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>319318</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.089121</DistributionRatioYear5>
+        <TotalDistributionRatio>0.428308</TotalDistributionRatio>
+        <AverageDistributionRatio>0.085662</AverageDistributionRatio>
+        <NetNoncharitableAssets>267326</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>22900</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>222</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>23122</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>19747</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>444</InvestmentIncomeExciseTax>
+        <Subtotal>444</Subtotal>
+        <TaxBasedOnInvestmentIncome>444</TaxBasedOnInvestmentIncome>
+        <TaxDue>444</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>NY</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>JOHN R FINNEY</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>9737463734</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>9 ERWIN PARK ROAD</AddressLine1>
+          <City>MONTCLAIR</City>
+          <State>NJ</State>
+          <ZIPCode>07042</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>HOWARD FINNEY III</PersonName>
+          <USAddress>
+            <AddressLine1>9 ERWIN PARK ROAD</AddressLine1>
+            <City>MONTCLAIR</City>
+            <State>NJ</State>
+            <ZIPCode>07042</ZIPCode>
+          </USAddress>
+          <Title>VICE PRES</Title>
+          <AvgHoursPerWkDevotedToPosition>0.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOHN R FINNEY</PersonName>
+          <USAddress>
+            <AddressLine1>9 ERWIN PARK ROAD</AddressLine1>
+            <City>MONTCLAIR</City>
+            <State>NJ</State>
+            <ZIPCode>07042</ZIPCode>
+          </USAddress>
+          <Title>VICE PRES</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>EDITH FINNEY</PersonName>
+          <USAddress>
+            <AddressLine1>9 ERWIN PARK ROAD</AddressLine1>
+            <City>MONTCLAIR</City>
+            <State>NJ</State>
+            <ZIPCode>07042</ZIPCode>
+          </USAddress>
+          <Title>VICE PRES</Title>
+          <AvgHoursPerWkDevotedToPosition>0.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>264055</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>7342</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>271397</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>271397</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>4071</CashDeemedCharitable>
+        <NetNoncharitableAssets>267326</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>13366</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>13366</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>444</TaxBasedOnInvestmentIncome>
+        <TotalTax>444</TotalTax>
+        <DistributableAmountBeforeAdj>12922</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>12922</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>12922</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>19747</ExpensesAndContributions>
+        <QualifyingDistributions>19747</QualifyingDistributions>
+        <AdjQualifyingDistributions>19747</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>12922</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>13032</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>10521</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>6962</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>7175</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>10356</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>48046</TotalExcessDistriCarryover>
+        <QualifyingDistributions>19747</QualifyingDistributions>
+        <AppliedToCurrentYear>12922</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>6825</RemainingDistriFromCorpus>
+        <TotalCorpus>54871</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>13032</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>41839</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>10521</ExcessFromYear4>
+        <ExcessFromYear3>6962</ExcessFromYear3>
+        <ExcessFromYear2>7175</ExcessFromYear2>
+        <ExcessFromYear1>10356</ExcessFromYear1>
+        <ExcessFromCurrentYear>6825</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AMERICAN INDIAN RELIEF</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 6200</AddressLine1>
+            <City>RAPID CITY</City>
+            <State>SD</State>
+            <ZIPCode>57709</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>129</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AMERICAN RED CROSS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>63 PARK STREET</AddressLine1>
+            <City>MONTCLAIR</City>
+            <State>NJ</State>
+            <ZIPCode>07042</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>400</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AMERICAN VETERANS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 96175</AddressLine1>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20090</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>20</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AUTISM SOCIETY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 96223</AddressLine1>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20090</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>15</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BALLET THEATRE FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>890 BROADWAY</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10003</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>450</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CARE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>650 FIRST AVE 37TH ST</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10016</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CENTRAL PRESBYTERIAN CHUR</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>46 PARK STREET</AddressLine1>
+            <City>MONTCLAIR</City>
+            <State>NJ</State>
+            <ZIPCode>07042</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>2844</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>COALITION FOR THE HOMELES</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>129 FULTON STREET</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10038</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>COPE CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>104 BLOOMFIELD AVE</AddressLine1>
+            <City>MONTCLAIR</City>
+            <State>NJ</State>
+            <ZIPCode>07042</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>400</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CROP HUNGER WALK</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>46 PARK ST</AddressLine1>
+            <City>MONTCLAIR</City>
+            <State>NJ</State>
+            <ZIPCode>07042</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>25</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DISABLED AMERICAN VETS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 14301</AddressLine1>
+            <City>CINCINNATI</City>
+            <State>OH</State>
+            <ZIPCode>45250</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DOCTORS WITHOUT BORDERS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>333 7TH AVENUE</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10001</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>EGLISE FRANCAISE DU SAINT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>111 EAST 60TH STREET</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10022</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>125</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FALMOUTH MILITARY</BusinessNameLine1>
+            <BusinessNameLine2>SUPPORT GROUP</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 2247</AddressLine1>
+            <City>TEATICKET</City>
+            <State>MA</State>
+            <ZIPCode>02536</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FIRST CONGREGATIONAL</BusinessNameLine1>
+            <BusinessNameLine2>CHURCH</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>99 SOUTH FULLERTON AVE</AddressLine1>
+            <City>MONTCLAIR</City>
+            <State>NJ</State>
+            <ZIPCode>07042</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>50</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FIRST CONGREGATIONAL</BusinessNameLine1>
+            <BusinessNameLine2>CHURCH</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>62 CENTER ST PO BOX 866</AddressLine1>
+            <City>NANTUCKET</City>
+            <State>MA</State>
+            <ZIPCode>02554</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FRIENDS OF GLEN GRAY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 43654</AddressLine1>
+            <City>UPPER MONTCLAIR</City>
+            <State>NJ</State>
+            <ZIPCode>07043</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FRIENDS OF HARVARD</BusinessNameLine1>
+            <BusinessNameLine2>FOOTBALL</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>124 MT AUBURN ST</AddressLine1>
+            <City>CAMBRIDGE</City>
+            <State>MA</State>
+            <ZIPCode>02138</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>50</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HARVARD CLUB OF NJ</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>6 MIDHURST ROAD</AddressLine1>
+            <City>SHORT HILLS</City>
+            <State>NJ</State>
+            <ZIPCode>07078</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>50</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HARVARD COLLEGE FUND</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>124 MT AUBURN ST</AddressLine1>
+            <City>CAMBRIDGE</City>
+            <State>MA</State>
+            <ZIPCode>02138</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HARVARD MAGAZINE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>7 WARE STREET</AddressLine1>
+            <City>CAMBRIDGE</City>
+            <State>MA</State>
+            <ZIPCode>02138</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>50</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HARVARD ROTC ALUMNI FD</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>124 MT AUBURN ST</AddressLine1>
+            <City>CAMBRIDGE</City>
+            <State>MA</State>
+            <ZIPCode>02138</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>50</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HELP HOSPITALIZED VETERAN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 758505</AddressLine1>
+            <City>TOPEKA</City>
+            <State>KS</State>
+            <ZIPCode>66675</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>179</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HUMAN RIGHTS WATCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>350 FIFTH AVE 34TH FL</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10118</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>10</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>INTERNATIONAL HOUSE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>500 RIVERSIDE DRIVE</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10027</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>130</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JUVENILE DIABETES</BusinessNameLine1>
+            <BusinessNameLine2>RESEARCH FOUNDATION</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>175 AMMON DRIVE</AddressLine1>
+            <City>MANCHESTER</City>
+            <State>NH</State>
+            <ZIPCode>03103</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>METROPOLITAN MUSEUM</BusinessNameLine1>
+            <BusinessNameLine2>OF ART</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1000 FIFTH AVE</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10028</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>190</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MONTCLAIR ART MUSEUM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3 SOUTH MOUNTAIN AVE</AddressLine1>
+            <City>MONTCLAIR</City>
+            <State>NJ</State>
+            <ZIPCode>07042</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>170</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MONTCLAIR COBRA FOOTBALL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>19 PARKWAY</AddressLine1>
+            <City>MONTCLAIR</City>
+            <State>NJ</State>
+            <ZIPCode>07042</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>7900</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MONTCLAIR FMBA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>588 VALLEY RD</AddressLine1>
+            <City>MONTCLAIR</City>
+            <State>NJ</State>
+            <ZIPCode>07042</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MONTCLAIR HISTORICAL</BusinessNameLine1>
+            <BusinessNameLine2>SOCIETY</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>108 ORANGE ROAD</AddressLine1>
+            <City>MONTCLAIR</City>
+            <State>NJ</State>
+            <ZIPCode>07042</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MONTCLAIR KIMBERLY</BusinessNameLine1>
+            <BusinessNameLine2>ACADEMY</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>201 VALLEY ROAD</AddressLine1>
+            <City>MONTCLAIR</City>
+            <State>NJ</State>
+            <ZIPCode>07042</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>50</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MONTCLAIR PBA LOCAL 53</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>551 VALLEY ROAD STE 53</AddressLine1>
+            <City>MONTCLAIR</City>
+            <State>NJ</State>
+            <ZIPCode>07042</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MONTCLAIR PUBLIC LIBRARY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>50 SOUTH FULLERTON AVE</AddressLine1>
+            <City>MONTCLAIR</City>
+            <State>NJ</State>
+            <ZIPCode>07042</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MONTCLAIR SCHOLARSHIP FD</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>22 VALLEY ROAD</AddressLine1>
+            <City>MONTCLAIR</City>
+            <State>NJ</State>
+            <ZIPCode>07042</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>150</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MONTCLAIR VOLUNTEER</BusinessNameLine1>
+            <BusinessNameLine2>AMBULANCE UNIT</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>95 WALNUT STREET</AddressLine1>
+            <City>MONTCLAIR</City>
+            <State>NJ</State>
+            <ZIPCode>07042</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>150</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MONTCLAIR YMCA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>25 PARK STREET</AddressLine1>
+            <City>MONTCLAIR</City>
+            <State>NJ</State>
+            <ZIPCode>07042</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MOUNTAINSIDE HEALTH FDN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1 BAY AVE</AddressLine1>
+            <City>MONTCLAIR</City>
+            <State>NJ</State>
+            <ZIPCode>07042</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>435</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NANTUCKETT HISTORICAL</BusinessNameLine1>
+            <BusinessNameLine2>ASSN</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>15 BROAD STREET</AddressLine1>
+            <City>NANTUCKET</City>
+            <State>MA</State>
+            <ZIPCode>02554</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NJ FIREMAN'S BENEVOLENT</BusinessNameLine1>
+            <BusinessNameLine2>ASSOCIATION</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>200 MOUNTAIN AVE</AddressLine1>
+            <City>SPRINGFIELD</City>
+            <State>NJ</State>
+            <ZIPCode>07081</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>35</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NY AIDS WALK</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>OLD CHELSEA PO BOX 10</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10008</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PARALYZED VETS OF AMERICA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>801 EIGHTEENTH ST NW</AddressLine1>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20006</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PARK TUDOR SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>7200 N COLLEGE AVE</AddressLine1>
+            <City>INDIANAPOLIS</City>
+            <State>IN</State>
+            <ZIPCode>46240</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PEABODY ESSEX MUSEUM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>161 ESSEX STREET</AddressLine1>
+            <City>SALEM</City>
+            <State>MA</State>
+            <ZIPCode>01970</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PRINCETON UNIVERSITY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 291</AddressLine1>
+            <City>PRINCETON</City>
+            <State>NJ</State>
+            <ZIPCode>08542</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PROJECT GRADUATION</BusinessNameLine1>
+            <BusinessNameLine2>MONTCLAIR HIGH SCHOOL</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>100 CHESTNUT ST</AddressLine1>
+            <City>MONTCLAIR</City>
+            <State>NJ</State>
+            <ZIPCode>07042</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>150</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>RUNNING STRONG FOR</BusinessNameLine1>
+            <BusinessNameLine2>AMERICAN INDIAN YOUTH</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 670</AddressLine1>
+            <City>RATON</City>
+            <State>NM</State>
+            <ZIPCode>87740</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SENIOR CARE &amp; ACTIVITIES</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>110 GREENWORTH AVE</AddressLine1>
+            <City>MONTCLAIR</City>
+            <State>NJ</State>
+            <ZIPCode>07042</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>190</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE FRESH AIR FUND</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>633 3RD AVENUE</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10017</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>210</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THIRD PRESBYTERIAN CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>RIDGE ST</AddressLine1>
+            <City>NEWARK</City>
+            <State>NJ</State>
+            <ZIPCode>07104</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THIRTEEN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>450 WEST 33RD STREET</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10001</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>150</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TRUSTEES OF PHILLIPS ACAD</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 5557</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02206</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>560</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>US FUND FOR UNICEF</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1500</AddressLine1>
+            <City>LOUISIANA</City>
+            <State>MO</State>
+            <ZIPCode>63353</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNION CONGREGATIONAL CHUR</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>100 COOPER AVE</AddressLine1>
+            <City>UPPER MONTCLAIR</City>
+            <State>NJ</State>
+            <ZIPCode>07043</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>25</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNITED WAY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>60 SOUTH FULLERTON AVE</AddressLine1>
+            <City>MONTCLAIR</City>
+            <State>NJ</State>
+            <ZIPCode>07042</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>VETERANS OF FOREIGN WARS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 8911</AddressLine1>
+            <City>TOPEKA</City>
+            <State>KS</State>
+            <ZIPCode>66608</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>135</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>VETERANS OF THE VIETNAM</BusinessNameLine1>
+            <BusinessNameLine2>WAR</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>805 SOUTH TOWNSHIP BLVD</AddressLine1>
+            <City>PITTSTON</City>
+            <State>PA</State>
+            <ZIPCode>18640</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>40</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WLIW21</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 21</AddressLine1>
+            <City>PLAINFIELD</City>
+            <State>NJ</State>
+            <ZIPCode>07061</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>60</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WORLD LEARNING</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 676</AddressLine1>
+            <City>BRATTLEBORO</City>
+            <State>VT</State>
+            <ZIPCode>05302</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>150</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WORLD WILDLIFE FUND</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1250 24TH ST PO BOX97180</AddressLine1>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20037</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUSTAINING</PurposeOfGrantOrContribution>
+          <Amount>20</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>19747</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>22199</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>-1071</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>21128</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>21128</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>1463</Amount>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc3">
+      <InvestmentsCorpStock>
+        <NameOfStock>2,000 SHARES BEAR STEARNS CAPITAL</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>2,800 SHARES FORD MOTOR CO</NameOfStock>
+        <EOYBookValue>72219</EOYBookValue>
+        <EOYFMV>72352</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1,500 SHARES GENERAL MOTORS</NameOfStock>
+        <EOYBookValue>32094</EOYBookValue>
+        <EOYFMV>34635</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>2,200 SHARES MERRILL LYNCH 7.28%</NameOfStock>
+        <EOYBookValue>56435</EOYBookValue>
+        <EOYFMV>54450</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1,950 SHARES BLACKROCK PFD OPP TR</NameOfStock>
+        <EOYBookValue>50035</EOYBookValue>
+        <EOYFMV>21938</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>2,300 SHARES MORGAN STANLEY CAP TRUS</NameOfStock>
+        <EOYBookValue>57500</EOYBookValue>
+        <EOYFMV>56948</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>OPPENHEIMER MONEY MARKET</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1000 SHARES JP MORGAN CHASE CAP XIX</NameOfStock>
+        <EOYBookValue>24939</EOYBookValue>
+        <EOYFMV>25650</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1000 SHARES WELLS FARGO CAP XII</NameOfStock>
+        <EOYBookValue>25775</EOYBookValue>
+        <EOYFMV>27050</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="RetDoc4">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>NY STATE FILING FEE</Description>
+        <RevenueAndExpensesPerBooks>50</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK FEES</Description>
+        <RevenueAndExpensesPerBooks>78</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="RetDoc5">
+      <Taxes>
+        <Category>FEDERAL EXCISE TAX</Category>
+        <Amount>214</Amount>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

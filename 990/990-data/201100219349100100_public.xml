@@ -1,0 +1,809 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-01-21T09:31:56-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-03-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>CCR LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>125 HIGH ST 21ST FLOOR</AddressLine1>
+        <City>Boston</City>
+        <State>MA</State>
+        <ZIPCode>02110</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-04-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>136136916</EIN>
+      <Name>
+        <BusinessNameLine1>HARLYN FOUNDATION INC</BusinessNameLine1>
+      </Name>
+      <NameControl>HARL</NameControl>
+      <Phone>2123555291</Phone>
+      <USAddress>
+        <AddressLine1>24 CENTRAL PARK SOUTH</AddressLine1>
+        <City>NEW YORK</City>
+        <State>NY</State>
+        <ZIPCode>10019</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>ANDREW J SILVER</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>2123555291</Phone>
+      <DateSigned>2011-01-10</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>David Desmarais</Name>
+      <Phone>6172267000</Phone>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>411844</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>23976</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>23976</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>-7416</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>1771643</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>16560</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>23976</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">8000</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>5000</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>3000</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">100</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>0</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>100</TaxesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">377</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>377</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>0</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>8477</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>5377</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>3100</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>37989</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>37989</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>46466</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>5377</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>41089</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-29906</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>18599</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>15438</CashBOY>
+        <CashEOY>19571</CashEOY>
+        <CashEOYFMV>19571</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>10373</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>2165</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>2165</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpBondsBOY>283577</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="RetDoc2044400001">0</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>0</InvestmentsCorpBondsEOYFMV>
+        <InvestmentsOtherBOY>135511</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc2018100001">393257</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>390108</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>444899</TotalAssetsBOY>
+        <TotalAssetsEOY>414993</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>411844</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>423357</CapitalStockBOY>
+        <CapitalStockEOY>423357</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>21542</RetainedEarningsBOY>
+        <RetainedEarningsEOY>-8364</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>444899</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>414993</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>444899</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>414993</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>444899</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-29906</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>414993</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>414993</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>8966.5 SHS JP MORGAN US LARGE CAP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-10-30</DateAcquired>
+          <DateSold>2010-01-11</DateSold>
+          <GrossSalesPrice>165773</GrossSalesPrice>
+          <CostOrOtherBasis>160869</CostOrOtherBasis>
+          <GainOrLoss>4904</GainOrLoss>
+          <GainsMinusExcessOrLosses>4904</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>3830.90 SHS AMER EURO PAC GROWTH</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-01-12</DateAcquired>
+          <DateSold>2010-03-08</DateSold>
+          <GrossSalesPrice>142645</GrossSalesPrice>
+          <CostOrOtherBasis>155004</CostOrOtherBasis>
+          <GainOrLoss>-12359</GainOrLoss>
+          <GainsMinusExcessOrLosses>-12359</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>15267.5 SHS GOLDMAN SACHS BAL STRAT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-10-30</DateAcquired>
+          <DateSold>2010-03-08</DateSold>
+          <GrossSalesPrice>148228</GrossSalesPrice>
+          <CostOrOtherBasis>151983</CostOrOtherBasis>
+          <GainOrLoss>-3755</GainOrLoss>
+          <GainsMinusExcessOrLosses>-3755</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>555.9 SHS BLACKROCK GLOBAL ALLOC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-11-23</DateAcquired>
+          <DateSold>2010-03-12</DateSold>
+          <GrossSalesPrice>9981</GrossSalesPrice>
+          <CostOrOtherBasis>10400</CostOrOtherBasis>
+          <GainOrLoss>-419</GainOrLoss>
+          <GainsMinusExcessOrLosses>-419</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>82.5 SHS BLACKROCK GLOBAL ALLOC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-11-23</DateAcquired>
+          <DateSold>2010-03-19</DateSold>
+          <GrossSalesPrice>1481</GrossSalesPrice>
+          <CostOrOtherBasis>1544</CostOrOtherBasis>
+          <GainOrLoss>-63</GainOrLoss>
+          <GainsMinusExcessOrLosses>-63</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>3111.5 SHS MUTUAL EUR CL A</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-03-09</DateAcquired>
+          <DateSold>2010-03-23</DateSold>
+          <GrossSalesPrice>63382</GrossSalesPrice>
+          <CostOrOtherBasis>65004</CostOrOtherBasis>
+          <GainOrLoss>-1622</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1622</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>24902.2 SHS PIMCO INT'L STOCK</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-03-09</DateAcquired>
+          <DateSold>2010-03-23</DateSold>
+          <GrossSalesPrice>224867</GrossSalesPrice>
+          <CostOrOtherBasis>230952</CostOrOtherBasis>
+          <GainOrLoss>-6085</GainOrLoss>
+          <GainsMinusExcessOrLosses>-6085</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>5315.5 SHS BLACKROCK GLOBAL ALLOC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-06-22</DateAcquired>
+          <DateSold>2010-03-25</DateSold>
+          <GrossSalesPrice>96405</GrossSalesPrice>
+          <CostOrOtherBasis>99441</CostOrOtherBasis>
+          <GainOrLoss>-3036</GainOrLoss>
+          <GainsMinusExcessOrLosses>-3036</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>50M ANADARKO 6.45% PETRO CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-01-01</DateAcquired>
+          <DateSold>2009-06-01</DateSold>
+          <GrossSalesPrice>39171</GrossSalesPrice>
+          <CostOrOtherBasis>39973</CostOrOtherBasis>
+          <GainOrLoss>-802</GainOrLoss>
+          <GainsMinusExcessOrLosses>-802</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>50M ESTEE LAUDER 6%</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-01-01</DateAcquired>
+          <DateSold>2009-06-01</DateSold>
+          <GrossSalesPrice>36121</GrossSalesPrice>
+          <CostOrOtherBasis>44231</CostOrOtherBasis>
+          <GainOrLoss>-8110</GainOrLoss>
+          <GainsMinusExcessOrLosses>-8110</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>50M ANHEUSER-BUSCH 5.5% NOTE</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-01-06</DateAcquired>
+          <DateSold>2009-05-05</DateSold>
+          <GrossSalesPrice>45084</GrossSalesPrice>
+          <CostOrOtherBasis>46899</CostOrOtherBasis>
+          <GainOrLoss>-1815</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1815</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>25M ARCHER DANIELS MID 5.935%</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-12-01</DateAcquired>
+          <DateSold>2009-05-19</DateSold>
+          <GrossSalesPrice>23496</GrossSalesPrice>
+          <CostOrOtherBasis>23692</CostOrOtherBasis>
+          <GainOrLoss>-196</GainOrLoss>
+          <GainsMinusExcessOrLosses>-196</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>50M BELL SOUTH CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-12-17</DateAcquired>
+          <DateSold>2009-06-10</DateSold>
+          <GrossSalesPrice>43746</GrossSalesPrice>
+          <CostOrOtherBasis>48724</CostOrOtherBasis>
+          <GainOrLoss>-4978</GainOrLoss>
+          <GainsMinusExcessOrLosses>-4978</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>4267 SHS BLACK ROCK GLOBAL ALLOC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-01-01</DateAcquired>
+          <DateSold>2009-10-14</DateSold>
+          <GrossSalesPrice>76831</GrossSalesPrice>
+          <CostOrOtherBasis>70323</CostOrOtherBasis>
+          <GainOrLoss>6508</GainOrLoss>
+          <GainsMinusExcessOrLosses>6508</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>45M CATERPILLAR FINL CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-12-05</DateAcquired>
+          <DateSold>2009-05-05</DateSold>
+          <GrossSalesPrice>40114</GrossSalesPrice>
+          <CostOrOtherBasis>37705</CostOrOtherBasis>
+          <GainOrLoss>2409</GainOrLoss>
+          <GainsMinusExcessOrLosses>2409</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>20668 SHS EATON VANCE INC FD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-01-01</DateAcquired>
+          <DateSold>2009-11-02</DateSold>
+          <GrossSalesPrice>111607</GrossSalesPrice>
+          <CostOrOtherBasis>94528</CostOrOtherBasis>
+          <GainOrLoss>17079</GainOrLoss>
+          <GainsMinusExcessOrLosses>17079</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>14809 SHS EATON VANCE GOV'T OBLIG</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-01-01</DateAcquired>
+          <DateSold>2009-11-18</DateSold>
+          <GrossSalesPrice>107437</GrossSalesPrice>
+          <CostOrOtherBasis>111660</CostOrOtherBasis>
+          <GainOrLoss>-4223</GainOrLoss>
+          <GainsMinusExcessOrLosses>-4223</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>25M GENENTECH INC 5.25%</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-12-01</DateAcquired>
+          <DateSold>2009-06-04</DateSold>
+          <GrossSalesPrice>20746</GrossSalesPrice>
+          <CostOrOtherBasis>23192</CostOrOtherBasis>
+          <GainOrLoss>-2446</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2446</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>16307 SHS MAINSTAT HI YLD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-01-01</DateAcquired>
+          <DateSold>2009-10-14</DateSold>
+          <GrossSalesPrice>90646</GrossSalesPrice>
+          <CostOrOtherBasis>86659</CostOrOtherBasis>
+          <GainOrLoss>3987</GainOrLoss>
+          <GainsMinusExcessOrLosses>3987</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>5618 SHS FRANKLIN MUTUAL QUEST FD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-01-01</DateAcquired>
+          <DateSold>2009-06-29</DateSold>
+          <GrossSalesPrice>86066</GrossSalesPrice>
+          <CostOrOtherBasis>85008</CostOrOtherBasis>
+          <GainOrLoss>1058</GainOrLoss>
+          <GainsMinusExcessOrLosses>1058</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>21189 SHS PIMCO COMM REAL RTN FD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-01-06</DateAcquired>
+          <DateSold>2009-11-30</DateSold>
+          <GrossSalesPrice>179695</GrossSalesPrice>
+          <CostOrOtherBasis>171946</CostOrOtherBasis>
+          <GainOrLoss>7749</GainOrLoss>
+          <GainsMinusExcessOrLosses>7749</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>25M SUNCOR ENERGY</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-12-01</DateAcquired>
+          <DateSold>2009-05-19</DateSold>
+          <GrossSalesPrice>18121</GrossSalesPrice>
+          <CostOrOtherBasis>19322</CostOrOtherBasis>
+          <GainOrLoss>-1201</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1201</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>-7416</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>34622</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>441321</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.078451</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>42301</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>499512</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.084685</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>36535</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>537189</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.068011</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>36950</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>549081</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.067294</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>39485</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>536536</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.073592</DistributionRatioYear5>
+        <TotalDistributionRatio>0.372033</TotalDistributionRatio>
+        <AverageDistributionRatio>0.074407</AverageDistributionRatio>
+        <NetNoncharitableAssets>403689</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>30037</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>186</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>30223</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>41089</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>186</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>186</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>186</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>779</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>779</TotalCreditsAndPayments>
+        <Overpayment>593</Overpayment>
+        <AmountCreditedToNextYear>593</AmountCreditedToNextYear>
+        <AmountToBeRefunded>0</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>NY</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>ANDREW J SILVER</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>2123555291</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>24 CENTRAL PARK SOUTH</AddressLine1>
+          <City>NEW YORK</City>
+          <State>NY</State>
+          <ZIPCode>10019</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ANDREW J SILVER</PersonName>
+          <USAddress>
+            <AddressLine1>260 BEACON ST</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02116</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>4.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>PATRICIA M SILVER</PersonName>
+          <USAddress>
+            <AddressLine1>901 ARLINGTON AVE</AddressLine1>
+            <City>BERKELEY</City>
+            <State>CA</State>
+            <ZIPCode>94707</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>386063</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>23774</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>409837</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>409837</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>6148</CashDeemedCharitable>
+        <NetNoncharitableAssets>403689</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>20184</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>20184</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>186</TaxBasedOnInvestmentIncome>
+        <TotalTax>186</TotalTax>
+        <DistributableAmountBeforeAdj>19998</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>19998</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>19998</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>41089</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>41089</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>186</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>40903</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>19998</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear5>13468</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>10182</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>15499</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>18633</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>13690</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>71472</TotalExcessDistriCarryover>
+        <QualifyingDistributions>41089</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>19998</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>21091</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>92563</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>13468</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>79095</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>10182</ExcessFromYear4>
+        <ExcessFromYear3>15499</ExcessFromYear3>
+        <ExcessFromYear2>18633</ExcessFromYear2>
+        <ExcessFromYear1>13690</ExcessFromYear1>
+        <ExcessFromCurrentYear>21091</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AIDS ACTION COMMITTEE (AIDS WALK)</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>75 AMORY STREET</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02119</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BOSTON SYMPHONY ORCHESTRA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>301 MASSACHUSETTS AVENUE</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02115</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>COOLIDGE CORNER THEATER FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>290 HARVARD STREET</AddressLine1>
+            <City>BROOKLINE</City>
+            <State>MA</State>
+            <ZIPCode>02446</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HARVARD BUSINESS SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>SOLDIERS FIELD</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02163</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MIT COUNCIL FOR THE ARTS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>77 MASSACHUSETTS AVENUE E15-205</AddressLine1>
+            <City>CAMBRIDGE</City>
+            <State>MA</State>
+            <ZIPCode>02139</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>2200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ROXBURY LATIN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>101 SAINT THERESA AVENUE</AddressLine1>
+            <City>WEST ROXBURY</City>
+            <State>MA</State>
+            <ZIPCode>02132</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>8889</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WORD FOR WORD</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>480 CEDAR STREET</AddressLine1>
+            <City>ST PAUL</City>
+            <State>MN</State>
+            <ZIPCode>55101</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WBUR</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>890 COMMONWEALTH AVENUE</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02215</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LONGY COLLEGE OF MUSIC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1 FOLLEN STREET</AddressLine1>
+            <City>CAMBRIDGE</City>
+            <State>MA</State>
+            <ZIPCode>02138</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>50</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GIRL SCOUTS OF EASTERN MA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>95 BERKELEY STREET</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02116</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>400</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Z SPACE STUDIO</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>450 FLORIDA STRET</AddressLine1>
+            <City>SAN FRANCISCO</City>
+            <State>CA</State>
+            <ZIPCode>94110</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WGBY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>44 HAMPDEN STREET</AddressLine1>
+            <City>SPRINGFIELD</City>
+            <State>MA</State>
+            <ZIPCode>01103</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GOTHAM OPERA CHAMBER HOUSE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>410 WEST 42ND STREET</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10036</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LOWELL HOUSE OPERA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>559 LOWELL MAIL CENTER</AddressLine1>
+            <City>CAMBRIDGE</City>
+            <State>MA</State>
+            <ZIPCode>02138</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>37989</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>23976</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>-7416</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>16560</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>16560</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>ACCOUNTING AND BOOKEEPING</Category>
+        <Amount>8000</Amount>
+        <NetInvestmentIncome>5000</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>3000</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc2044400001">
+      <InvestmentsCorpBonds>
+        <NameOfBond>CORPORATE BONDS</NameOfBond>
+        <EOYBookValue>0</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOther>
+        <CategoryOrItem>MUTUAL FUNDS</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>393257</BookValue>
+        <EOYFMV>390108</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>bank charges</Description>
+        <RevenueAndExpensesPerBooks>246</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>246</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>CHECKS, ETC.</Description>
+        <RevenueAndExpensesPerBooks>131</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>131</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>NY DEPT. OF LAW</Category>
+        <Amount>100</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>100</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

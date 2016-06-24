@@ -1,0 +1,2042 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-08-25T10:28:02-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-02-28</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>FELTMAN &amp; GARRISON PLLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>PO BOX 9280</AddressLine1>
+        <City>KETCHUM</City>
+        <State>ID</State>
+        <ZIPCode>833407163</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-03-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>943297072</EIN>
+      <Name>
+        <BusinessNameLine1>WEINSTEIN FAMILY FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>WEIN</NameControl>
+      <Phone>2087266205</Phone>
+      <USAddress>
+        <AddressLine1>ONE FERRY BUILDING</AddressLine1>
+        <AddressLine2>ROOM/SUITE 255</AddressLine2>
+        <City>SAN FRANCISCO</City>
+        <State>CA</State>
+        <ZIPCode>94111</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>WILL K WEINSTEIN</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>2087266205</Phone>
+      <DateSigned>2010-08-24</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>RON GARRISON</Name>
+      <Phone>2087266205</Phone>
+      <DatePrepared>2010-08-25</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>43785</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>1728</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>1728</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>7523</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>7523</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>61803</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>1564611</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>61803</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>71054</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>71054</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc3">4926</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>4926</AccountingFeesNetInvstIncm>
+        <InterestRevAndExpnss>71</InterestRevAndExpnss>
+        <InterestNetInvstIncm>71</InterestNetInvstIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc8">87</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>87</OtherExpensesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>5084</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>5084</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>60000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>60000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>65084</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>5084</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>60000</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>5970</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>65970</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>4617</CashBOY>
+        <CashEOY>4577</CashEOY>
+        <CashEOYFMV>4577</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>47280</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>39208</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>39208</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsGovtObligBOY>169778</InvestmentsGovtObligBOY>
+        <InvestmentsGovtObligEOY referenceDocumentId="RetDoc6">177083</InvestmentsGovtObligEOY>
+        <InvestmentsCorpStockBOY>332377</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc5">344487</InvestmentsCorpStockEOY>
+        <InvestmentsCorpBondsBOY>64926</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="RetDoc4">58242</InvestmentsCorpBondsEOY>
+        <TotalAssetsBOY>618978</TotalAssetsBOY>
+        <TotalAssetsEOY>623597</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>43785</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>618978</RetainedEarningsBOY>
+        <RetainedEarningsEOY>623597</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>618978</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>623597</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>618978</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>623597</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>618978</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>5970</ExcessOfRevenueOverExpenses>
+        <Subtotal>624948</Subtotal>
+        <OtherDecreases referenceDocumentId="RetDoc7">1351</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>623597</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>BIOGEN IDEC INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-01-16</DateAcquired>
+          <DateSold>2009-03-02</DateSold>
+          <GrossSalesPrice>22083</GrossSalesPrice>
+          <CostOrOtherBasis>25406</CostOrOtherBasis>
+          <GainOrLoss>-3323</GainOrLoss>
+          <GainsMinusExcessOrLosses>-3323</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>EQUITY RESIDENTIAL</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-03-26</DateAcquired>
+          <DateSold>2009-04-13</DateSold>
+          <GrossSalesPrice>11315</GrossSalesPrice>
+          <CostOrOtherBasis>9731</CostOrOtherBasis>
+          <GainOrLoss>1584</GainOrLoss>
+          <GainsMinusExcessOrLosses>1584</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>HAWAIIAN HOLDINGS INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-12-08</DateAcquired>
+          <DateSold>2009-04-28</DateSold>
+          <GrossSalesPrice>2427</GrossSalesPrice>
+          <CostOrOtherBasis>2254</CostOrOtherBasis>
+          <GainOrLoss>173</GainOrLoss>
+          <GainsMinusExcessOrLosses>173</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CHIMERA INVESTMENT CORPORATION</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-04-16</DateAcquired>
+          <DateSold>2009-05-14</DateSold>
+          <GrossSalesPrice>3410</GrossSalesPrice>
+          <CostOrOtherBasis>3212</CostOrOtherBasis>
+          <GainOrLoss>198</GainOrLoss>
+          <GainsMinusExcessOrLosses>198</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>GENERAL GROWTH PROPERTIES INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-03-10</DateAcquired>
+          <DateSold>2009-06-23</DateSold>
+          <GrossSalesPrice>4323</GrossSalesPrice>
+          <CostOrOtherBasis>1031</CostOrOtherBasis>
+          <GainOrLoss>3292</GainOrLoss>
+          <GainsMinusExcessOrLosses>3292</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>GENERAL GROWTH PROPERTIES INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-03-10</DateAcquired>
+          <DateSold>2009-07-21</DateSold>
+          <GrossSalesPrice>837</GrossSalesPrice>
+          <CostOrOtherBasis>206</CostOrOtherBasis>
+          <GainOrLoss>631</GainOrLoss>
+          <GainsMinusExcessOrLosses>631</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>PFIZER</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-07-29</DateAcquired>
+          <DateSold>2009-08-12</DateSold>
+          <GrossSalesPrice>7906</GrossSalesPrice>
+          <CostOrOtherBasis>7900</CostOrOtherBasis>
+          <GainOrLoss>6</GainOrLoss>
+          <GainsMinusExcessOrLosses>6</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>REWARDS NETWORK INCORPORATED</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-24</DateAcquired>
+          <DateSold>2009-10-14</DateSold>
+          <GrossSalesPrice>11930</GrossSalesPrice>
+          <CostOrOtherBasis>11368</CostOrOtherBasis>
+          <GainOrLoss>562</GainOrLoss>
+          <GainsMinusExcessOrLosses>562</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>ACACIA RESEARCH/TECHNOLOGIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-10-12</DateAcquired>
+          <DateSold>2009-10-30</DateSold>
+          <GrossSalesPrice>7724</GrossSalesPrice>
+          <CostOrOtherBasis>9091</CostOrOtherBasis>
+          <GainOrLoss>-1367</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1367</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>MERCK &amp; CO.</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-11-11</DateAcquired>
+          <DateSold>2009-12-24</DateSold>
+          <GrossSalesPrice>18498</GrossSalesPrice>
+          <CostOrOtherBasis>16718</CostOrOtherBasis>
+          <GainOrLoss>1780</GainOrLoss>
+          <GainsMinusExcessOrLosses>1780</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>PROSHARES ULTRASH REAL ESTATE</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-01-27</DateAcquired>
+          <DateSold>2010-02-03</DateSold>
+          <GrossSalesPrice>393</GrossSalesPrice>
+          <CostOrOtherBasis>405</CostOrOtherBasis>
+          <GainOrLoss>-12</GainOrLoss>
+          <GainsMinusExcessOrLosses>-12</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>COPA HOLDINGS S A CL A</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-10-13</DateAcquired>
+          <DateSold>2009-03-02</DateSold>
+          <GrossSalesPrice>12533</GrossSalesPrice>
+          <CostOrOtherBasis>12278</CostOrOtherBasis>
+          <GainOrLoss>255</GainOrLoss>
+          <GainsMinusExcessOrLosses>255</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>MACERICH CO</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-03-13</DateAcquired>
+          <DateSold>2009-04-13</DateSold>
+          <GrossSalesPrice>6053</GrossSalesPrice>
+          <CostOrOtherBasis>4506</CostOrOtherBasis>
+          <GainOrLoss>1547</GainOrLoss>
+          <GainsMinusExcessOrLosses>1547</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>STARWOOD HOTELS &amp; RESORTS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-03-19</DateAcquired>
+          <DateSold>2009-04-28</DateSold>
+          <GrossSalesPrice>9482</GrossSalesPrice>
+          <CostOrOtherBasis>6561</CostOrOtherBasis>
+          <GainOrLoss>2921</GainOrLoss>
+          <GainsMinusExcessOrLosses>2921</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CBL &amp; ASSOC PPTYS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-05-07</DateAcquired>
+          <DateSold>2009-05-15</DateSold>
+          <GrossSalesPrice>8397</GrossSalesPrice>
+          <CostOrOtherBasis>11146</CostOrOtherBasis>
+          <GainOrLoss>-2749</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2749</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>QUIDEL CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-05-21</DateAcquired>
+          <DateSold>2009-06-23</DateSold>
+          <GrossSalesPrice>6762</GrossSalesPrice>
+          <CostOrOtherBasis>6011</CostOrOtherBasis>
+          <GainOrLoss>751</GainOrLoss>
+          <GainsMinusExcessOrLosses>751</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>GENERAL GROWTH PROPERTIES INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-04-17</DateAcquired>
+          <DateSold>2009-07-21</DateSold>
+          <GrossSalesPrice>4183</GrossSalesPrice>
+          <CostOrOtherBasis>1722</CostOrOtherBasis>
+          <GainOrLoss>2461</GainOrLoss>
+          <GainsMinusExcessOrLosses>2461</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>PFIZER</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-08-03</DateAcquired>
+          <DateSold>2009-08-12</DateSold>
+          <GrossSalesPrice>15812</GrossSalesPrice>
+          <CostOrOtherBasis>16031</CostOrOtherBasis>
+          <GainOrLoss>-219</GainOrLoss>
+          <GainsMinusExcessOrLosses>-219</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>MIDDLEBROOK PHARMACEUTICALS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-09-19</DateAcquired>
+          <DateSold>2009-10-15</DateSold>
+          <GrossSalesPrice>4898</GrossSalesPrice>
+          <CostOrOtherBasis>7150</CostOrOtherBasis>
+          <GainOrLoss>-2252</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2252</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>COVANTA HOLDING CORPORATION</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-09-11</DateAcquired>
+          <DateSold>2009-10-30</DateSold>
+          <GrossSalesPrice>8532</GrossSalesPrice>
+          <CostOrOtherBasis>9060</CostOrOtherBasis>
+          <GainOrLoss>-528</GainOrLoss>
+          <GainsMinusExcessOrLosses>-528</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>PFIZER</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-11-11</DateAcquired>
+          <DateSold>2009-12-30</DateSold>
+          <GrossSalesPrice>27570</GrossSalesPrice>
+          <CostOrOtherBasis>26613</CostOrOtherBasis>
+          <GainOrLoss>957</GainOrLoss>
+          <GainsMinusExcessOrLosses>957</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>VANTAGE DRILLING COMPANY</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-08-27</DateAcquired>
+          <DateSold>2010-02-03</DateSold>
+          <GrossSalesPrice>715</GrossSalesPrice>
+          <CostOrOtherBasis>842</CostOrOtherBasis>
+          <GainOrLoss>-127</GainOrLoss>
+          <GainsMinusExcessOrLosses>-127</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>EXTERRAN HLDGS INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-01-28</DateAcquired>
+          <DateSold>2009-03-02</DateSold>
+          <GrossSalesPrice>24899</GrossSalesPrice>
+          <CostOrOtherBasis>34628</CostOrOtherBasis>
+          <GainOrLoss>-9729</GainOrLoss>
+          <GainsMinusExcessOrLosses>-9729</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>MACERICH CO</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-03-13</DateAcquired>
+          <DateSold>2009-04-14</DateSold>
+          <GrossSalesPrice>12734</GrossSalesPrice>
+          <CostOrOtherBasis>9012</CostOrOtherBasis>
+          <GainOrLoss>3722</GainOrLoss>
+          <GainsMinusExcessOrLosses>3722</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>STARWOOD HOTELS &amp; RESORTS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-03-24</DateAcquired>
+          <DateSold>2009-04-28</DateSold>
+          <GrossSalesPrice>9482</GrossSalesPrice>
+          <CostOrOtherBasis>6849</CostOrOtherBasis>
+          <GainOrLoss>2633</GainOrLoss>
+          <GainsMinusExcessOrLosses>2633</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CBL &amp; ASSOC PPTYS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-05-08</DateAcquired>
+          <DateSold>2009-05-15</DateSold>
+          <GrossSalesPrice>2799</GrossSalesPrice>
+          <CostOrOtherBasis>3869</CostOrOtherBasis>
+          <GainOrLoss>-1070</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1070</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>EQUITY LIFESTYLE PROPERTIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-06-23</DateAcquired>
+          <DateSold>2009-06-24</DateSold>
+          <GrossSalesPrice>53121</GrossSalesPrice>
+          <CostOrOtherBasis>50025</CostOrOtherBasis>
+          <GainOrLoss>3096</GainOrLoss>
+          <GainsMinusExcessOrLosses>3096</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>QUIDEL CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-05-21</DateAcquired>
+          <DateSold>2009-07-23</DateSold>
+          <GrossSalesPrice>7470</GrossSalesPrice>
+          <CostOrOtherBasis>6011</CostOrOtherBasis>
+          <GainOrLoss>1459</GainOrLoss>
+          <GainsMinusExcessOrLosses>1459</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>COVANTA HOLDING CORPORATION</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-08-04</DateAcquired>
+          <DateSold>2009-09-01</DateSold>
+          <GrossSalesPrice>8707</GrossSalesPrice>
+          <CostOrOtherBasis>8567</CostOrOtherBasis>
+          <GainOrLoss>140</GainOrLoss>
+          <GainsMinusExcessOrLosses>140</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>MIDDLEBROOK PHARMACEUTICALS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-03-10</DateAcquired>
+          <DateSold>2009-10-16</DateSold>
+          <GrossSalesPrice>2450</GrossSalesPrice>
+          <CostOrOtherBasis>3461</CostOrOtherBasis>
+          <GainOrLoss>-1011</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1011</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>COVANTA HOLDING CORPORATION</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-10-14</DateAcquired>
+          <DateSold>2009-10-30</DateSold>
+          <GrossSalesPrice>8532</GrossSalesPrice>
+          <CostOrOtherBasis>9192</CostOrOtherBasis>
+          <GainOrLoss>-660</GainOrLoss>
+          <GainsMinusExcessOrLosses>-660</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>PFIZER</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-11-18</DateAcquired>
+          <DateSold>2009-12-30</DateSold>
+          <GrossSalesPrice>9190</GrossSalesPrice>
+          <CostOrOtherBasis>9123</CostOrOtherBasis>
+          <GainOrLoss>67</GainOrLoss>
+          <GainsMinusExcessOrLosses>67</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>UAL CORP UAUA 6% 10/15/2029</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-10-06</DateAcquired>
+          <DateSold>2010-02-08</DateSold>
+          <GrossSalesPrice>16790</GrossSalesPrice>
+          <CostOrOtherBasis>10385</CostOrOtherBasis>
+          <GainOrLoss>6405</GainOrLoss>
+          <GainsMinusExcessOrLosses>6405</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>COVANTA HOLDING CORPORATION</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-02-03</DateAcquired>
+          <DateSold>2009-03-03</DateSold>
+          <GrossSalesPrice>7162</GrossSalesPrice>
+          <CostOrOtherBasis>9374</CostOrOtherBasis>
+          <GainOrLoss>-2212</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2212</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>GOLDMAN SACHS GP GS 1 5/8% DUE 7/15/</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-02-17</DateAcquired>
+          <DateSold>2009-04-15</DateSold>
+          <GrossSalesPrice>20031</GrossSalesPrice>
+          <CostOrOtherBasis>19974</CostOrOtherBasis>
+          <GainOrLoss>57</GainOrLoss>
+          <GainsMinusExcessOrLosses>57</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>HAWAIIAN HOLDINGS INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-12-08</DateAcquired>
+          <DateSold>2009-04-29</DateSold>
+          <GrossSalesPrice>10450</GrossSalesPrice>
+          <CostOrOtherBasis>9015</CostOrOtherBasis>
+          <GainOrLoss>1435</GainOrLoss>
+          <GainsMinusExcessOrLosses>1435</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CHIMERA INVESTMENT CORPORATION</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-04-16</DateAcquired>
+          <DateSold>2009-05-15</DateSold>
+          <GrossSalesPrice>5340</GrossSalesPrice>
+          <CostOrOtherBasis>4817</CostOrOtherBasis>
+          <GainOrLoss>523</GainOrLoss>
+          <GainsMinusExcessOrLosses>523</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>US NATURAL GAS FUND LP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-06-05</DateAcquired>
+          <DateSold>2009-06-24</DateSold>
+          <GrossSalesPrice>6985</GrossSalesPrice>
+          <CostOrOtherBasis>7406</CostOrOtherBasis>
+          <GainOrLoss>-421</GainOrLoss>
+          <GainsMinusExcessOrLosses>-421</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>HAWAIIAN HOLDINGS INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-03-06</DateAcquired>
+          <DateSold>2009-07-28</DateSold>
+          <GrossSalesPrice>6360</GrossSalesPrice>
+          <CostOrOtherBasis>2493</CostOrOtherBasis>
+          <GainOrLoss>3867</GainOrLoss>
+          <GainsMinusExcessOrLosses>3867</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>MERCK &amp; CO.</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-08-14</DateAcquired>
+          <DateSold>2009-09-02</DateSold>
+          <GrossSalesPrice>30816</GrossSalesPrice>
+          <CostOrOtherBasis>30885</CostOrOtherBasis>
+          <GainOrLoss>-69</GainOrLoss>
+          <GainsMinusExcessOrLosses>-69</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>EXTERRAN HLDGS INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-09-10</DateAcquired>
+          <DateSold>2009-10-19</DateSold>
+          <GrossSalesPrice>12144</GrossSalesPrice>
+          <CostOrOtherBasis>9773</CostOrOtherBasis>
+          <GainOrLoss>2371</GainOrLoss>
+          <GainsMinusExcessOrLosses>2371</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>HUMAN GENOME SCIENCES INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-10-14</DateAcquired>
+          <DateSold>2009-10-30</DateSold>
+          <GrossSalesPrice>20069</GrossSalesPrice>
+          <CostOrOtherBasis>19186</CostOrOtherBasis>
+          <GainOrLoss>883</GainOrLoss>
+          <GainsMinusExcessOrLosses>883</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>AOL TIME WARNER INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-12-24</DateAcquired>
+          <DateSold>2010-01-27</DateSold>
+          <GrossSalesPrice>33264</GrossSalesPrice>
+          <CostOrOtherBasis>33841</CostOrOtherBasis>
+          <GainOrLoss>-577</GainOrLoss>
+          <GainsMinusExcessOrLosses>-577</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>6.000% DUE 10-15-29</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>COVANTA HOLDING CORPORATION</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-02-24</DateAcquired>
+          <DateSold>2009-03-03</DateSold>
+          <GrossSalesPrice>7162</GrossSalesPrice>
+          <CostOrOtherBasis>8730</CostOrOtherBasis>
+          <GainOrLoss>-1568</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1568</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1.625% DUE 07-15-11</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>HAWAIIAN HOLDINGS INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-12-09</DateAcquired>
+          <DateSold>2009-04-30</DateSold>
+          <GrossSalesPrice>2464</GrossSalesPrice>
+          <CostOrOtherBasis>2111</CostOrOtherBasis>
+          <GainOrLoss>353</GainOrLoss>
+          <GainsMinusExcessOrLosses>353</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>GENERAL GROWTH PROPERTIES INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-12-04</DateAcquired>
+          <DateSold>2009-05-15</DateSold>
+          <GrossSalesPrice>1537</GrossSalesPrice>
+          <CostOrOtherBasis>2252</CostOrOtherBasis>
+          <GainOrLoss>-715</GainOrLoss>
+          <GainsMinusExcessOrLosses>-715</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>EQUITY LIFESTYLE PROPERTIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-06-23</DateAcquired>
+          <DateSold>2009-06-25</DateSold>
+          <GrossSalesPrice>35135</GrossSalesPrice>
+          <CostOrOtherBasis>33350</CostOrOtherBasis>
+          <GainOrLoss>1785</GainOrLoss>
+          <GainsMinusExcessOrLosses>1785</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>HAWAIIAN HOLDINGS INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-03-06</DateAcquired>
+          <DateSold>2009-07-29</DateSold>
+          <GrossSalesPrice>3152</GrossSalesPrice>
+          <CostOrOtherBasis>1247</CostOrOtherBasis>
+          <GainOrLoss>1905</GainOrLoss>
+          <GainsMinusExcessOrLosses>1905</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>MERCK &amp; CO.</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-08-17</DateAcquired>
+          <DateSold>2009-09-02</DateSold>
+          <GrossSalesPrice>15408</GrossSalesPrice>
+          <CostOrOtherBasis>15491</CostOrOtherBasis>
+          <GainOrLoss>-83</GainOrLoss>
+          <GainsMinusExcessOrLosses>-83</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>EXTERRAN HLDGS INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-09-02</DateAcquired>
+          <DateSold>2009-10-20</DateSold>
+          <GrossSalesPrice>12146</GrossSalesPrice>
+          <CostOrOtherBasis>8454</CostOrOtherBasis>
+          <GainOrLoss>3692</GainOrLoss>
+          <GainsMinusExcessOrLosses>3692</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>VANTAGE DRILLING COMPANY</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-08-27</DateAcquired>
+          <DateSold>2009-10-30</DateSold>
+          <GrossSalesPrice>7853</GrossSalesPrice>
+          <CostOrOtherBasis>8424</CostOrOtherBasis>
+          <GainOrLoss>-571</GainOrLoss>
+          <GainsMinusExcessOrLosses>-571</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>GTX INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-11-09</DateAcquired>
+          <DateSold>2010-01-27</DateSold>
+          <GrossSalesPrice>4968</GrossSalesPrice>
+          <CostOrOtherBasis>4699</CostOrOtherBasis>
+          <GainOrLoss>269</GainOrLoss>
+          <GainsMinusExcessOrLosses>269</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>COVANTA HOLDING CORPORATION</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-01-27</DateAcquired>
+          <DateSold>2010-02-22</DateSold>
+          <GrossSalesPrice>1678</GrossSalesPrice>
+          <CostOrOtherBasis>1822</CostOrOtherBasis>
+          <GainOrLoss>-144</GainOrLoss>
+          <GainsMinusExcessOrLosses>-144</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>RADIAN GROUP INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-09-12</DateAcquired>
+          <DateSold>2009-03-03</DateSold>
+          <GrossSalesPrice>688</GrossSalesPrice>
+          <CostOrOtherBasis>2168</CostOrOtherBasis>
+          <GainOrLoss>-1480</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1480</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>GOLDMAN SACHS GP GS 1 5/8% DUE 7/15/</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-02-17</DateAcquired>
+          <DateSold>2009-04-16</DateSold>
+          <GrossSalesPrice>25035</GrossSalesPrice>
+          <CostOrOtherBasis>24968</CostOrOtherBasis>
+          <GainOrLoss>67</GainOrLoss>
+          <GainsMinusExcessOrLosses>67</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>HAWAIIAN HOLDINGS INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-12-17</DateAcquired>
+          <DateSold>2009-04-30</DateSold>
+          <GrossSalesPrice>9856</GrossSalesPrice>
+          <CostOrOtherBasis>8965</CostOrOtherBasis>
+          <GainOrLoss>891</GainOrLoss>
+          <GainsMinusExcessOrLosses>891</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>REWARDS NETWORK INCORPORATED</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2006-07-21</DateAcquired>
+          <DateSold>2009-05-19</DateSold>
+          <GrossSalesPrice>3948</GrossSalesPrice>
+          <CostOrOtherBasis>5690</CostOrOtherBasis>
+          <GainOrLoss>-1742</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1742</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>US NATURAL GAS FUND LP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-06-05</DateAcquired>
+          <DateSold>2009-07-02</DateSold>
+          <GrossSalesPrice>6590</GrossSalesPrice>
+          <CostOrOtherBasis>7406</CostOrOtherBasis>
+          <GainOrLoss>-816</GainOrLoss>
+          <GainsMinusExcessOrLosses>-816</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>EQUITY RESIDENTIAL</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-04-01</DateAcquired>
+          <DateSold>2009-07-30</DateSold>
+          <GrossSalesPrice>11709</GrossSalesPrice>
+          <CostOrOtherBasis>9187</CostOrOtherBasis>
+          <GainOrLoss>2522</GainOrLoss>
+          <GainsMinusExcessOrLosses>2522</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>WAL-MART STORES INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-08-13</DateAcquired>
+          <DateSold>2009-09-15</DateSold>
+          <GrossSalesPrice>49959</GrossSalesPrice>
+          <CostOrOtherBasis>51872</CostOrOtherBasis>
+          <GainOrLoss>-1913</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1913</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>EXTERRAN HLDGS INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-08-27</DateAcquired>
+          <DateSold>2009-10-20</DateSold>
+          <GrossSalesPrice>12146</GrossSalesPrice>
+          <CostOrOtherBasis>8919</CostOrOtherBasis>
+          <GainOrLoss>3227</GainOrLoss>
+          <GainsMinusExcessOrLosses>3227</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>GTX INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-10-14</DateAcquired>
+          <DateSold>2009-11-02</DateSold>
+          <GrossSalesPrice>4713</GrossSalesPrice>
+          <CostOrOtherBasis>10833</CostOrOtherBasis>
+          <GainOrLoss>-6120</GainOrLoss>
+          <GainsMinusExcessOrLosses>-6120</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>GTX INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-11-10</DateAcquired>
+          <DateSold>2010-01-27</DateSold>
+          <GrossSalesPrice>1242</GrossSalesPrice>
+          <CostOrOtherBasis>1117</CostOrOtherBasis>
+          <GainOrLoss>125</GainOrLoss>
+          <GainsMinusExcessOrLosses>125</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>COVANTA HOLDING CORPORATION</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-01-27</DateAcquired>
+          <DateSold>2010-02-23</DateSold>
+          <GrossSalesPrice>8477</GrossSalesPrice>
+          <CostOrOtherBasis>9110</CostOrOtherBasis>
+          <GainOrLoss>-633</GainOrLoss>
+          <GainsMinusExcessOrLosses>-633</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>RADIAN GROUP INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-09-30</DateAcquired>
+          <DateSold>2009-03-03</DateSold>
+          <GrossSalesPrice>1375</GrossSalesPrice>
+          <CostOrOtherBasis>4810</CostOrOtherBasis>
+          <GainOrLoss>-3435</GainOrLoss>
+          <GainsMinusExcessOrLosses>-3435</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1.625% DUE 07-15-11</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>EQUITY RESIDENTIAL</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-03-26</DateAcquired>
+          <DateSold>2009-05-05</DateSold>
+          <GrossSalesPrice>11493</GrossSalesPrice>
+          <CostOrOtherBasis>9731</CostOrOtherBasis>
+          <GainOrLoss>1762</GainOrLoss>
+          <GainsMinusExcessOrLosses>1762</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CHIMERA INVESTMENT CORPORATION</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-05-04</DateAcquired>
+          <DateSold>2009-05-20</DateSold>
+          <GrossSalesPrice>9065</GrossSalesPrice>
+          <CostOrOtherBasis>9285</CostOrOtherBasis>
+          <GainOrLoss>-220</GainOrLoss>
+          <GainsMinusExcessOrLosses>-220</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>US NATURAL GAS FUND LP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-06-09</DateAcquired>
+          <DateSold>2009-07-02</DateSold>
+          <GrossSalesPrice>6590</GrossSalesPrice>
+          <CostOrOtherBasis>7109</CostOrOtherBasis>
+          <GainOrLoss>-519</GainOrLoss>
+          <GainsMinusExcessOrLosses>-519</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>EQUITY RESIDENTIAL</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-04-03</DateAcquired>
+          <DateSold>2009-07-30</DateSold>
+          <GrossSalesPrice>11709</GrossSalesPrice>
+          <CostOrOtherBasis>10061</CostOrOtherBasis>
+          <GainOrLoss>1648</GainOrLoss>
+          <GainsMinusExcessOrLosses>1648</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>REWARDS NETWORK INCORPORATED</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-24</DateAcquired>
+          <DateSold>2009-09-22</DateSold>
+          <GrossSalesPrice>7481</GrossSalesPrice>
+          <CostOrOtherBasis>5684</CostOrOtherBasis>
+          <GainOrLoss>1797</GainOrLoss>
+          <GainsMinusExcessOrLosses>1797</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>MIDDLEBROOK PHARMACEUTICALS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-03-10</DateAcquired>
+          <DateSold>2009-10-20</DateSold>
+          <GrossSalesPrice>924</GrossSalesPrice>
+          <CostOrOtherBasis>1384</CostOrOtherBasis>
+          <GainOrLoss>-460</GainOrLoss>
+          <GainsMinusExcessOrLosses>-460</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>GTX INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-10-22</DateAcquired>
+          <DateSold>2009-11-03</DateSold>
+          <GrossSalesPrice>2047</GrossSalesPrice>
+          <CostOrOtherBasis>4775</CostOrOtherBasis>
+          <GainOrLoss>-2728</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2728</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>GTX INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-11-11</DateAcquired>
+          <DateSold>2010-01-27</DateSold>
+          <GrossSalesPrice>4140</GrossSalesPrice>
+          <CostOrOtherBasis>3702</CostOrOtherBasis>
+          <GainOrLoss>438</GainOrLoss>
+          <GainsMinusExcessOrLosses>438</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>COVANTA HOLDING CORPORATION</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-01-27</DateAcquired>
+          <DateSold>2010-02-24</DateSold>
+          <GrossSalesPrice>13973</GrossSalesPrice>
+          <CostOrOtherBasis>15487</CostOrOtherBasis>
+          <GainOrLoss>-1514</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1514</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>RADIAN GROUP INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-10-29</DateAcquired>
+          <DateSold>2009-03-03</DateSold>
+          <GrossSalesPrice>1375</GrossSalesPrice>
+          <CostOrOtherBasis>2656</CostOrOtherBasis>
+          <GainOrLoss>-1281</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1281</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>GOLDMAN SACHS GP GS 1 5/8% DUE 7/15/</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-02-17</DateAcquired>
+          <DateSold>2009-04-17</DateSold>
+          <GrossSalesPrice>4997</GrossSalesPrice>
+          <CostOrOtherBasis>4994</CostOrOtherBasis>
+          <GainOrLoss>3</GainOrLoss>
+          <GainsMinusExcessOrLosses>3</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>GENERAL GROWTH PROPERTIES INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-12-04</DateAcquired>
+          <DateSold>2009-05-05</DateSold>
+          <GrossSalesPrice>938</GrossSalesPrice>
+          <CostOrOtherBasis>1501</CostOrOtherBasis>
+          <GainOrLoss>-563</GainOrLoss>
+          <GainsMinusExcessOrLosses>-563</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CHIMERA INVESTMENT CORPORATION</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-05-04</DateAcquired>
+          <DateSold>2009-05-21</DateSold>
+          <GrossSalesPrice>8885</GrossSalesPrice>
+          <CostOrOtherBasis>9285</CostOrOtherBasis>
+          <GainOrLoss>-400</GainOrLoss>
+          <GainsMinusExcessOrLosses>-400</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>US NATURAL GAS FUND LP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-06-15</DateAcquired>
+          <DateSold>2009-07-02</DateSold>
+          <GrossSalesPrice>6590</GrossSalesPrice>
+          <CostOrOtherBasis>7657</CostOrOtherBasis>
+          <GainOrLoss>-1067</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1067</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>EQUITY RESIDENTIAL</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-04-30</DateAcquired>
+          <DateSold>2009-07-31</DateSold>
+          <GrossSalesPrice>23617</GrossSalesPrice>
+          <CostOrOtherBasis>23283</CostOrOtherBasis>
+          <GainOrLoss>334</GainOrLoss>
+          <GainsMinusExcessOrLosses>334</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>EXTERRAN HLDGS INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-08-25</DateAcquired>
+          <DateSold>2009-09-24</DateSold>
+          <GrossSalesPrice>11805</GrossSalesPrice>
+          <CostOrOtherBasis>8897</CostOrOtherBasis>
+          <GainOrLoss>2908</GainOrLoss>
+          <GainsMinusExcessOrLosses>2908</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>TRANSITION THERAPEUTICS INC - NEW</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-09-16</DateAcquired>
+          <DateSold>2009-10-20</DateSold>
+          <GrossSalesPrice>16849</GrossSalesPrice>
+          <CostOrOtherBasis>14672</CostOrOtherBasis>
+          <GainOrLoss>2177</GainOrLoss>
+          <GainsMinusExcessOrLosses>2177</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>GTX INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-10-29</DateAcquired>
+          <DateSold>2009-11-03</DateSold>
+          <GrossSalesPrice>2047</GrossSalesPrice>
+          <CostOrOtherBasis>5206</CostOrOtherBasis>
+          <GainOrLoss>-3159</GainOrLoss>
+          <GainsMinusExcessOrLosses>-3159</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>GTX INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-11-23</DateAcquired>
+          <DateSold>2010-01-27</DateSold>
+          <GrossSalesPrice>4140</GrossSalesPrice>
+          <CostOrOtherBasis>3657</CostOrOtherBasis>
+          <GainOrLoss>483</GainOrLoss>
+          <GainsMinusExcessOrLosses>483</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>COVANTA HOLDING CORPORATION</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-02-03</DateAcquired>
+          <DateSold>2010-02-24</DateSold>
+          <GrossSalesPrice>17260</GrossSalesPrice>
+          <CostOrOtherBasis>19037</CostOrOtherBasis>
+          <GainOrLoss>-1777</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1777</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>RADIAN GROUP INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-10-29</DateAcquired>
+          <DateSold>2009-03-04</DateSold>
+          <GrossSalesPrice>4326</GrossSalesPrice>
+          <CostOrOtherBasis>10623</CostOrOtherBasis>
+          <GainOrLoss>-6297</GainOrLoss>
+          <GainsMinusExcessOrLosses>-6297</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1.625% DUE 07-15-11</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>HAWAIIAN HOLDINGS INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-03-03</DateAcquired>
+          <DateSold>2009-05-05</DateSold>
+          <GrossSalesPrice>8084</GrossSalesPrice>
+          <CostOrOtherBasis>3945</CostOrOtherBasis>
+          <GainOrLoss>4139</GainOrLoss>
+          <GainsMinusExcessOrLosses>4139</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>QUIDEL CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-05-21</DateAcquired>
+          <DateSold>2009-06-02</DateSold>
+          <GrossSalesPrice>6871</GrossSalesPrice>
+          <CostOrOtherBasis>6011</CostOrOtherBasis>
+          <GainOrLoss>860</GainOrLoss>
+          <GainsMinusExcessOrLosses>860</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>BIOGEN IDEC INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-02-06</DateAcquired>
+          <DateSold>2009-07-06</DateSold>
+          <GrossSalesPrice>22325</GrossSalesPrice>
+          <CostOrOtherBasis>25035</CostOrOtherBasis>
+          <GainOrLoss>-2710</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2710</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>MIDDLEBROOK PHARMACEUTICALS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-02</DateAcquired>
+          <DateSold>2009-08-06</DateSold>
+          <GrossSalesPrice>5664</GrossSalesPrice>
+          <CostOrOtherBasis>7281</CostOrOtherBasis>
+          <GainOrLoss>-1617</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1617</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>EXTERRAN HLDGS INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-08-26</DateAcquired>
+          <DateSold>2009-09-24</DateSold>
+          <GrossSalesPrice>11805</GrossSalesPrice>
+          <CostOrOtherBasis>8602</CostOrOtherBasis>
+          <GainOrLoss>3203</GainOrLoss>
+          <GainsMinusExcessOrLosses>3203</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>TRANSITION THERAPEUTICS INC - NEW</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-09-17</DateAcquired>
+          <DateSold>2009-10-20</DateSold>
+          <GrossSalesPrice>1152</GrossSalesPrice>
+          <CostOrOtherBasis>1076</CostOrOtherBasis>
+          <GainOrLoss>76</GainOrLoss>
+          <GainsMinusExcessOrLosses>76</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>MIDDLEBROOK PHARMACEUTICALS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-09-17</DateAcquired>
+          <DateSold>2009-11-06</DateSold>
+          <GrossSalesPrice>2341</GrossSalesPrice>
+          <CostOrOtherBasis>3705</CostOrOtherBasis>
+          <GainOrLoss>-1364</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1364</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>GTX INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-11-24</DateAcquired>
+          <DateSold>2010-01-27</DateSold>
+          <GrossSalesPrice>2070</GrossSalesPrice>
+          <CostOrOtherBasis>1815</CostOrOtherBasis>
+          <GainOrLoss>255</GainOrLoss>
+          <GainsMinusExcessOrLosses>255</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>ANNALY MTG MGT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-01-28</DateAcquired>
+          <DateSold>2010-02-25</DateSold>
+          <GrossSalesPrice>9052</GrossSalesPrice>
+          <CostOrOtherBasis>8707</CostOrOtherBasis>
+          <GainOrLoss>345</GainOrLoss>
+          <GainsMinusExcessOrLosses>345</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>RADIAN GROUP INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-11-07</DateAcquired>
+          <DateSold>2009-03-04</DateSold>
+          <GrossSalesPrice>1082</GrossSalesPrice>
+          <CostOrOtherBasis>3894</CostOrOtherBasis>
+          <GainOrLoss>-2812</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2812</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>GOLDMAN SACHS GP GS 1 5/8% DUE 7/15/</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-02-18</DateAcquired>
+          <DateSold>2009-04-17</DateSold>
+          <GrossSalesPrice>14991</GrossSalesPrice>
+          <CostOrOtherBasis>14991</CostOrOtherBasis>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>HAWAIIAN HOLDINGS INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-03-03</DateAcquired>
+          <DateSold>2009-05-06</DateSold>
+          <GrossSalesPrice>5433</GrossSalesPrice>
+          <CostOrOtherBasis>2630</CostOrOtherBasis>
+          <GainOrLoss>2803</GainOrLoss>
+          <GainsMinusExcessOrLosses>2803</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>REWARDS NETWORK INCORPORATED</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2006-07-21</DateAcquired>
+          <DateSold>2009-06-09</DateSold>
+          <GrossSalesPrice>6128</GrossSalesPrice>
+          <CostOrOtherBasis>8535</CostOrOtherBasis>
+          <GainOrLoss>-2407</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2407</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>REWARDS NETWORK INC COM NEW</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-04-22</DateAcquired>
+          <DateSold>2009-07-07</DateSold>
+          <GrossSalesPrice>8</GrossSalesPrice>
+          <CostOrOtherBasis>8</CostOrOtherBasis>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>QUIDEL CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-05-22</DateAcquired>
+          <DateSold>2009-08-06</DateSold>
+          <GrossSalesPrice>21086</GrossSalesPrice>
+          <CostOrOtherBasis>18189</CostOrOtherBasis>
+          <GainOrLoss>2897</GainOrLoss>
+          <GainsMinusExcessOrLosses>2897</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>COVANTA HOLDING CORPORATION</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-08-04</DateAcquired>
+          <DateSold>2009-09-25</DateSold>
+          <GrossSalesPrice>17311</GrossSalesPrice>
+          <CostOrOtherBasis>17135</CostOrOtherBasis>
+          <GainOrLoss>176</GainOrLoss>
+          <GainsMinusExcessOrLosses>176</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>MIDDLEBROOK PHARMACEUTICALS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-03-10</DateAcquired>
+          <DateSold>2009-10-21</DateSold>
+          <GrossSalesPrice>1206</GrossSalesPrice>
+          <CostOrOtherBasis>2076</CostOrOtherBasis>
+          <GainOrLoss>-870</GainOrLoss>
+          <GainsMinusExcessOrLosses>-870</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>MIDDLEBROOK PHARMACEUTICALS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-09-17</DateAcquired>
+          <DateSold>2009-11-09</DateSold>
+          <GrossSalesPrice>1501</GrossSalesPrice>
+          <CostOrOtherBasis>2470</CostOrOtherBasis>
+          <GainOrLoss>-969</GainOrLoss>
+          <GainsMinusExcessOrLosses>-969</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>GTX INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-11-25</DateAcquired>
+          <DateSold>2010-01-27</DateSold>
+          <GrossSalesPrice>4140</GrossSalesPrice>
+          <CostOrOtherBasis>3816</CostOrOtherBasis>
+          <GainOrLoss>324</GainOrLoss>
+          <GainsMinusExcessOrLosses>324</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>BIOGEN IDEC INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-02-03</DateAcquired>
+          <DateSold>2009-03-05</DateSold>
+          <GrossSalesPrice>21740</GrossSalesPrice>
+          <CostOrOtherBasis>25376</CostOrOtherBasis>
+          <GainOrLoss>-3636</GainOrLoss>
+          <GainsMinusExcessOrLosses>-3636</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1.625% DUE 07-15-11</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CHIMERA INVESTMENT CORPORATION</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-04-16</DateAcquired>
+          <DateSold>2009-05-07</DateSold>
+          <GrossSalesPrice>20396</GrossSalesPrice>
+          <CostOrOtherBasis>19269</CostOrOtherBasis>
+          <GainOrLoss>1127</GainOrLoss>
+          <GainsMinusExcessOrLosses>1127</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CBL &amp; ASSOC PPTYS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-06-10</DateAcquired>
+          <DateSold>2009-06-15</DateSold>
+          <GrossSalesPrice>5888</GrossSalesPrice>
+          <CostOrOtherBasis>6000</CostOrOtherBasis>
+          <GainOrLoss>-112</GainOrLoss>
+          <GainsMinusExcessOrLosses>-112</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>REWARDS NETWORK INC COM NEW</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-04-22</DateAcquired>
+          <DateSold>2009-07-07</DateSold>
+          <GrossSalesPrice>6046</GrossSalesPrice>
+          <CostOrOtherBasis>6060</CostOrOtherBasis>
+          <GainOrLoss>-14</GainOrLoss>
+          <GainsMinusExcessOrLosses>-14</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>QUIDEL CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-05-27</DateAcquired>
+          <DateSold>2009-08-06</DateSold>
+          <GrossSalesPrice>7029</GrossSalesPrice>
+          <CostOrOtherBasis>6232</CostOrOtherBasis>
+          <GainOrLoss>797</GainOrLoss>
+          <GainsMinusExcessOrLosses>797</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>HAWAIIAN HOLDINGS INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-03-09</DateAcquired>
+          <DateSold>2009-09-25</DateSold>
+          <GrossSalesPrice>4068</GrossSalesPrice>
+          <CostOrOtherBasis>1394</CostOrOtherBasis>
+          <GainOrLoss>2674</GainOrLoss>
+          <GainsMinusExcessOrLosses>2674</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>COVANTA HOLDING CORPORATION</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-08-05</DateAcquired>
+          <DateSold>2009-10-22</DateSold>
+          <GrossSalesPrice>8883</GrossSalesPrice>
+          <CostOrOtherBasis>8723</CostOrOtherBasis>
+          <GainOrLoss>160</GainOrLoss>
+          <GainsMinusExcessOrLosses>160</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>MIDDLEBROOK PHARMACEUTICALS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-09-17</DateAcquired>
+          <DateSold>2009-11-11</DateSold>
+          <GrossSalesPrice>3672</GrossSalesPrice>
+          <CostOrOtherBasis>6175</CostOrOtherBasis>
+          <GainOrLoss>-2503</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2503</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>GTX INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-12-22</DateAcquired>
+          <DateSold>2010-01-27</DateSold>
+          <GrossSalesPrice>414</GrossSalesPrice>
+          <CostOrOtherBasis>361</CostOrOtherBasis>
+          <GainOrLoss>53</GainOrLoss>
+          <GainsMinusExcessOrLosses>53</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>COPA HOLDINGS S A CL A</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-10-13</DateAcquired>
+          <DateSold>2009-03-06</DateSold>
+          <GrossSalesPrice>10669</GrossSalesPrice>
+          <CostOrOtherBasis>12278</CostOrOtherBasis>
+          <GainOrLoss>-1609</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1609</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>MACERICH CO</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-03-23</DateAcquired>
+          <DateSold>2009-04-17</DateSold>
+          <GrossSalesPrice>15551</GrossSalesPrice>
+          <CostOrOtherBasis>7174</CostOrOtherBasis>
+          <GainOrLoss>8377</GainOrLoss>
+          <GainsMinusExcessOrLosses>8377</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>HAWAIIAN HOLDINGS INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-03-03</DateAcquired>
+          <DateSold>2009-05-07</DateSold>
+          <GrossSalesPrice>12686</GrossSalesPrice>
+          <CostOrOtherBasis>6575</CostOrOtherBasis>
+          <GainOrLoss>6111</GainOrLoss>
+          <GainsMinusExcessOrLosses>6111</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CBL &amp; ASSOC PPTYS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-06-10</DateAcquired>
+          <DateSold>2009-06-16</DateSold>
+          <GrossSalesPrice>8780</GrossSalesPrice>
+          <CostOrOtherBasis>9000</CostOrOtherBasis>
+          <GainOrLoss>-220</GainOrLoss>
+          <GainsMinusExcessOrLosses>-220</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>REWARDS NETWORK INC COM NEW</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-04-22</DateAcquired>
+          <DateSold>2009-07-09</DateSold>
+          <GrossSalesPrice>3989</GrossSalesPrice>
+          <CostOrOtherBasis>4032</CostOrOtherBasis>
+          <GainOrLoss>-43</GainOrLoss>
+          <GainsMinusExcessOrLosses>-43</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>EQUITY RESIDENTIAL</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-07-15</DateAcquired>
+          <DateSold>2009-08-07</DateSold>
+          <GrossSalesPrice>14964</GrossSalesPrice>
+          <CostOrOtherBasis>10342</CostOrOtherBasis>
+          <GainOrLoss>4622</GainOrLoss>
+          <GainsMinusExcessOrLosses>4622</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>HAWAIIAN HOLDINGS INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-03-10</DateAcquired>
+          <DateSold>2009-09-25</DateSold>
+          <GrossSalesPrice>4068</GrossSalesPrice>
+          <CostOrOtherBasis>1533</CostOrOtherBasis>
+          <GainOrLoss>2535</GainOrLoss>
+          <GainsMinusExcessOrLosses>2535</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>BIOGEN IDEC INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-02-12</DateAcquired>
+          <DateSold>2009-10-23</DateSold>
+          <GrossSalesPrice>21961</GrossSalesPrice>
+          <CostOrOtherBasis>25945</CostOrOtherBasis>
+          <GainOrLoss>-3984</GainOrLoss>
+          <GainsMinusExcessOrLosses>-3984</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>RESPONSE GENETICS INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-10-16</DateAcquired>
+          <DateSold>2009-11-19</DateSold>
+          <GrossSalesPrice>14790</GrossSalesPrice>
+          <CostOrOtherBasis>15500</CostOrOtherBasis>
+          <GainOrLoss>-710</GainOrLoss>
+          <GainsMinusExcessOrLosses>-710</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>VANTAGE DRILLING COMPANY</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-08-27</DateAcquired>
+          <DateSold>2010-01-27</DateSold>
+          <GrossSalesPrice>6606</GrossSalesPrice>
+          <CostOrOtherBasis>7581</CostOrOtherBasis>
+          <GainOrLoss>-975</GainOrLoss>
+          <GainsMinusExcessOrLosses>-975</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>COPA HOLDINGS S A CL A</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-02-20</DateAcquired>
+          <DateSold>2009-03-06</DateSold>
+          <GrossSalesPrice>10669</GrossSalesPrice>
+          <CostOrOtherBasis>14325</CostOrOtherBasis>
+          <GainOrLoss>-3656</GainOrLoss>
+          <GainsMinusExcessOrLosses>-3656</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>MACERICH CO</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-04-01</DateAcquired>
+          <DateSold>2009-04-17</DateSold>
+          <GrossSalesPrice>7776</GrossSalesPrice>
+          <CostOrOtherBasis>3206</CostOrOtherBasis>
+          <GainOrLoss>4570</GainOrLoss>
+          <GainsMinusExcessOrLosses>4570</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CHIMERA INVESTMENT CORPORATION</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-04-16</DateAcquired>
+          <DateSold>2009-05-08</DateSold>
+          <GrossSalesPrice>1773</GrossSalesPrice>
+          <CostOrOtherBasis>1606</CostOrOtherBasis>
+          <GainOrLoss>167</GainOrLoss>
+          <GainsMinusExcessOrLosses>167</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>COVANTA HOLDING CORPORATION</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-05-19</DateAcquired>
+          <DateSold>2009-06-23</DateSold>
+          <GrossSalesPrice>15940</GrossSalesPrice>
+          <CostOrOtherBasis>15202</CostOrOtherBasis>
+          <GainOrLoss>738</GainOrLoss>
+          <GainsMinusExcessOrLosses>738</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>REWARDS NETWORK INC COM NEW</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-01</DateAcquired>
+          <DateSold>2009-07-09</DateSold>
+          <GrossSalesPrice>3997</GrossSalesPrice>
+          <CostOrOtherBasis>4010</CostOrOtherBasis>
+          <GainOrLoss>-13</GainOrLoss>
+          <GainsMinusExcessOrLosses>-13</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>EQUITY RESIDENTIAL</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-07-20</DateAcquired>
+          <DateSold>2009-08-07</DateSold>
+          <GrossSalesPrice>44893</GrossSalesPrice>
+          <CostOrOtherBasis>31402</CostOrOtherBasis>
+          <GainOrLoss>13491</GainOrLoss>
+          <GainsMinusExcessOrLosses>13491</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>HAWAIIAN HOLDINGS INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-03-10</DateAcquired>
+          <DateSold>2009-10-01</DateSold>
+          <GrossSalesPrice>11541</GrossSalesPrice>
+          <CostOrOtherBasis>4598</CostOrOtherBasis>
+          <GainOrLoss>6943</GainOrLoss>
+          <GainsMinusExcessOrLosses>6943</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>BIOGEN IDEC INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-03-10</DateAcquired>
+          <DateSold>2009-10-23</DateSold>
+          <GrossSalesPrice>21961</GrossSalesPrice>
+          <CostOrOtherBasis>22876</CostOrOtherBasis>
+          <GainOrLoss>-915</GainOrLoss>
+          <GainsMinusExcessOrLosses>-915</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>PFIZER</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-11-11</DateAcquired>
+          <DateSold>2009-11-30</DateSold>
+          <GrossSalesPrice>18228</GrossSalesPrice>
+          <CostOrOtherBasis>17742</CostOrOtherBasis>
+          <GainOrLoss>486</GainOrLoss>
+          <GainsMinusExcessOrLosses>486</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>UAL CORP UAUA 6% 10/15/2029</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-10-06</DateAcquired>
+          <DateSold>2010-02-02</DateSold>
+          <GrossSalesPrice>24865</GrossSalesPrice>
+          <CostOrOtherBasis>15578</CostOrOtherBasis>
+          <GainOrLoss>9287</GainOrLoss>
+          <GainsMinusExcessOrLosses>9287</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>GENERAL GROWTH PROPERTIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-11-18</DateAcquired>
+          <DateSold>2009-03-17</DateSold>
+          <GrossSalesPrice>1500</GrossSalesPrice>
+          <CostOrOtherBasis>1278</CostOrOtherBasis>
+          <GainOrLoss>222</GainOrLoss>
+          <GainsMinusExcessOrLosses>222</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>MACERICH CO</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-04-06</DateAcquired>
+          <DateSold>2009-04-17</DateSold>
+          <GrossSalesPrice>15551</GrossSalesPrice>
+          <CostOrOtherBasis>9453</CostOrOtherBasis>
+          <GainOrLoss>6098</GainOrLoss>
+          <GainsMinusExcessOrLosses>6098</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CHIMERA INVESTMENT CORPORATION</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-04-16</DateAcquired>
+          <DateSold>2009-05-11</DateSold>
+          <GrossSalesPrice>3533</GrossSalesPrice>
+          <CostOrOtherBasis>3212</CostOrOtherBasis>
+          <GainOrLoss>321</GainOrLoss>
+          <GainsMinusExcessOrLosses>321</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>COVANTA HOLDING CORPORATION</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-05-20</DateAcquired>
+          <DateSold>2009-06-23</DateSold>
+          <GrossSalesPrice>7970</GrossSalesPrice>
+          <CostOrOtherBasis>7681</CostOrOtherBasis>
+          <GainOrLoss>289</GainOrLoss>
+          <GainsMinusExcessOrLosses>289</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>REWARDS NETWORK INC COM NEW</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-01</DateAcquired>
+          <DateSold>2009-07-20</DateSold>
+          <GrossSalesPrice>6099</GrossSalesPrice>
+          <CostOrOtherBasis>6015</CostOrOtherBasis>
+          <GainOrLoss>84</GainOrLoss>
+          <GainsMinusExcessOrLosses>84</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>MIDDLEBROOK PHARMACEUTICALS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-02</DateAcquired>
+          <DateSold>2009-08-07</DateSold>
+          <GrossSalesPrice>5495</GrossSalesPrice>
+          <CostOrOtherBasis>7281</CostOrOtherBasis>
+          <GainOrLoss>-1786</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1786</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>MIDDLEBROOK PHARMACEUTICALS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-02</DateAcquired>
+          <DateSold>2009-10-13</DateSold>
+          <GrossSalesPrice>2530</GrossSalesPrice>
+          <CostOrOtherBasis>3640</CostOrOtherBasis>
+          <GainOrLoss>-1110</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1110</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>ACACIA RESEARCH/TECHNOLOGIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-10-12</DateAcquired>
+          <DateSold>2009-10-28</DateSold>
+          <GrossSalesPrice>3993</GrossSalesPrice>
+          <CostOrOtherBasis>4546</CostOrOtherBasis>
+          <GainOrLoss>-553</GainOrLoss>
+          <GainsMinusExcessOrLosses>-553</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>VANTAGE DRILLING COMPANY</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-08-27</DateAcquired>
+          <DateSold>2009-11-30</DateSold>
+          <GrossSalesPrice>3997</GrossSalesPrice>
+          <CostOrOtherBasis>4212</CostOrOtherBasis>
+          <GainOrLoss>-215</GainOrLoss>
+          <GainsMinusExcessOrLosses>-215</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>6.000% DUE 10-15-29</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>LINN ENERGY LLC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-03-24</DateAcquired>
+          <DateSold>2009-04-01</DateSold>
+          <GrossSalesPrice>22165</GrossSalesPrice>
+          <CostOrOtherBasis>22770</CostOrOtherBasis>
+          <GainOrLoss>-605</GainOrLoss>
+          <GainsMinusExcessOrLosses>-605</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>STARWOOD HOTELS &amp; RESORTS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-03-19</DateAcquired>
+          <DateSold>2009-04-27</DateSold>
+          <GrossSalesPrice>9774</GrossSalesPrice>
+          <CostOrOtherBasis>6561</CostOrOtherBasis>
+          <GainOrLoss>3213</GainOrLoss>
+          <GainsMinusExcessOrLosses>3213</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>HAWAIIAN HOLDINGS INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-03-06</DateAcquired>
+          <DateSold>2009-05-11</DateSold>
+          <GrossSalesPrice>5115</GrossSalesPrice>
+          <CostOrOtherBasis>2493</CostOrOtherBasis>
+          <GainOrLoss>2622</GainOrLoss>
+          <GainsMinusExcessOrLosses>2622</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>COVANTA HOLDING CORPORATION</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-05-27</DateAcquired>
+          <DateSold>2009-06-23</DateSold>
+          <GrossSalesPrice>7970</GrossSalesPrice>
+          <CostOrOtherBasis>7479</CostOrOtherBasis>
+          <GainOrLoss>491</GainOrLoss>
+          <GainsMinusExcessOrLosses>491</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>GENERAL GROWTH PROPERTIES INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-03-10</DateAcquired>
+          <DateSold>2009-07-20</DateSold>
+          <GrossSalesPrice>3452</GrossSalesPrice>
+          <CostOrOtherBasis>824</CostOrOtherBasis>
+          <GainOrLoss>2628</GainOrLoss>
+          <GainsMinusExcessOrLosses>2628</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>PFIZER</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-07-27</DateAcquired>
+          <DateSold>2009-08-12</DateSold>
+          <GrossSalesPrice>7906</GrossSalesPrice>
+          <CostOrOtherBasis>8329</CostOrOtherBasis>
+          <GainOrLoss>-423</GainOrLoss>
+          <GainsMinusExcessOrLosses>-423</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>MIDDLEBROOK PHARMACEUTICALS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-09-19</DateAcquired>
+          <DateSold>2009-10-13</DateSold>
+          <GrossSalesPrice>2530</GrossSalesPrice>
+          <CostOrOtherBasis>3575</CostOrOtherBasis>
+          <GainOrLoss>-1045</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1045</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>COVANTA HOLDING CORPORATION</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-08-07</DateAcquired>
+          <DateSold>2009-10-28</DateSold>
+          <GrossSalesPrice>8653</GrossSalesPrice>
+          <CostOrOtherBasis>8646</CostOrOtherBasis>
+          <GainOrLoss>7</GainOrLoss>
+          <GainsMinusExcessOrLosses>7</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>MERCK &amp; CO.</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-11-11</DateAcquired>
+          <DateSold>2009-12-23</DateSold>
+          <GrossSalesPrice>18647</GrossSalesPrice>
+          <CostOrOtherBasis>16718</CostOrOtherBasis>
+          <GainOrLoss>1929</GainOrLoss>
+          <GainsMinusExcessOrLosses>1929</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>PFIZER</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-01-27</DateAcquired>
+          <DateSold>2010-02-03</DateSold>
+          <GrossSalesPrice>29568</GrossSalesPrice>
+          <CostOrOtherBasis>30640</CostOrOtherBasis>
+          <GainOrLoss>-1072</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1072</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>61803</CapitalGainNetIncome>
+        <NetShortTermCapitalGainOrLoss>71389</NetShortTermCapitalGainOrLoss>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>55000</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>739019</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.074423</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>53000</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>748248</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.070832</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>30000</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>638925</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.046954</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>50000</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>550144</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.090885</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>31000</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>463427</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.066893</DistributionRatioYear5>
+        <TotalDistributionRatio>0.349987</TotalDistributionRatio>
+        <AverageDistributionRatio>0.069997</AverageDistributionRatio>
+        <NetNoncharitableAssets>623318</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>43630</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>660</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>44290</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>60000</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>660</InvestmentIncomeExciseTax>
+        <Subtotal>660</Subtotal>
+        <TaxBasedOnInvestmentIncome>660</TaxBasedOnInvestmentIncome>
+        <Form2220Attached referenceDocumentId="RetDoc2">X</Form2220Attached>
+        <PenaltyForUnderpayment>20</PenaltyForUnderpayment>
+        <TaxDue>680</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>CA</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>FELTMAN GARRISON PLLC</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>2087266205</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>PO BOX 9280</AddressLine1>
+          <City>KETCHUM</City>
+          <State>ID</State>
+          <ZIPCode>83340</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>WILL WEINSTEIN</PersonName>
+          <USAddress>
+            <AddressLine1>ONE FERRY BUILDING SUITE 255</AddressLine1>
+            <City>SAN FRANCISCO</City>
+            <State>CA</State>
+            <ZIPCode>94111</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MEGAN WEINSTEIN</PersonName>
+          <USAddress>
+            <AddressLine1>ONE FERRY BUILDING SUITE 255</AddressLine1>
+            <City>SAN FRANCISCO</City>
+            <State>CA</State>
+            <ZIPCode>94111</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ALEXA WEINSTEIN</PersonName>
+          <USAddress>
+            <AddressLine1>ONE FERRY BUILDING SUITE 255</AddressLine1>
+            <City>SAN FRANCISCO</City>
+            <State>CA</State>
+            <ZIPCode>94111</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>579920</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>52890</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>632810</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>632810</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>9492</CashDeemedCharitable>
+        <NetNoncharitableAssets>623318</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>31166</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>31166</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>660</TaxBasedOnInvestmentIncome>
+        <TotalTax>660</TotalTax>
+        <DistributableAmountBeforeAdj>30506</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>30506</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>30506</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>60000</ExpensesAndContributions>
+        <QualifyingDistributions>60000</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>660</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>59340</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>30506</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>9303</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>24575</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>996</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>15743</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>18049</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>68666</TotalExcessDistriCarryover>
+        <QualifyingDistributions>60000</QualifyingDistributions>
+        <AppliedToCurrentYear>30506</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>29494</RemainingDistriFromCorpus>
+        <TotalCorpus>98160</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>9303</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>88857</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>24575</ExcessFromYear4>
+        <ExcessFromYear3>996</ExcessFromYear3>
+        <ExcessFromYear2>15743</ExcessFromYear2>
+        <ExcessFromYear1>18049</ExcessFromYear1>
+        <ExcessFromCurrentYear>29494</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SAN FRANCISCO CASA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>100 BUSH ST SUITE 650</AddressLine1>
+            <City>SAN FRANCISCO</City>
+            <State>CA</State>
+            <ZIPCode>94104</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>POLARIS PROJECT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 53315</AddressLine1>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20009</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CHARITIABLE</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MARINE CONSERV BIO INSTIT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>14301 ARNOLD DR SUITE25</AddressLine1>
+            <City>GLEN ELLEN</City>
+            <State>CA</State>
+            <ZIPCode>95442</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JEWISH COMMUNITY CLINIC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>490 CITY CENTER DR</AddressLine1>
+            <City>ROHNERT PARK</City>
+            <State>CA</State>
+            <ZIPCode>949282178</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>60000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>1728</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>7523</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>26</ExclusionCode>
+          <ExclusionAmount>61803</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>71054</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>71054</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc3">
+      <AccountingFees>
+        <Category>INDIRECT ACCOUNTING FEES</Category>
+        <Amount>4926</Amount>
+        <NetInvestmentIncome>4926</NetInvestmentIncome>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc4">
+      <InvestmentsCorpBonds>
+        <NameOfBond>65,000 GOLDMAN SACHS GP GS 1</NameOfBond>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>35,000 HCA INC SR NOTE</NameOfBond>
+        <EOYBookValue>32578</EOYBookValue>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>25,000 UAL CORP UAUA</NameOfBond>
+        <EOYBookValue>25664</EOYBookValue>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc5">
+      <InvestmentsCorpStock>
+        <NameOfStock>2,500 SHARES REWARDS NETWORK</NameOfStock>
+        <EOYBookValue>24558</EOYBookValue>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1,000 SHARES COVANTA HOLDING CORP</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>5,000 SHARES HAWAIIAN HOLDINGS INC.</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>2,000 SHARES BIOGEN IDEC INC.</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1,500 SHARES COPA HOLDINGS S A CL A</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>2,000 SHARES EXTERRAN HLDGS INC.</NameOfStock>
+        <EOYBookValue>44322</EOYBookValue>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>5,000 SHARES GENERAL GROWTH PROPERTI</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>20,000 SHARES MIDDLEBROOK PHARMACEUT</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>7,500 SHARES RADIAN GROUP INC.</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>2,500 SHARES ACACIA RES TECH</NameOfStock>
+        <EOYBookValue>22363</EOYBookValue>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>2,000 SHARES ANNALY MTG MGT</NameOfStock>
+        <EOYBookValue>35834</EOYBookValue>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>2,000 SHARES AOL TIME WARNER</NameOfStock>
+        <EOYBookValue>49497</EOYBookValue>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>5,000 SHARES FRONTIER COMMUN</NameOfStock>
+        <EOYBookValue>38486</EOYBookValue>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>5,000 SHARES GTX INC</NameOfStock>
+        <EOYBookValue>18964</EOYBookValue>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>5,000 MFA MORTGAGE INVEST INC</NameOfStock>
+        <EOYBookValue>37377</EOYBookValue>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>2,000 PROSHARES ULTRASH REAL ESTATE</NameOfStock>
+        <EOYBookValue>16202</EOYBookValue>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>2,000 SHARES UNTRASHORT QQQ PROSHARE</NameOfStock>
+        <EOYBookValue>40825</EOYBookValue>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>10,000 SHARES VANTAGE DRILLING CO</NameOfStock>
+        <EOYBookValue>16059</EOYBookValue>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="RetDoc6">
+      <USGovtSecuritiesEOYBookValue>177083</USGovtSecuritiesEOYBookValue>
+    </InvestmentsGovtObligationsSch>
+    <OtherDecreasesSchedule documentId="RetDoc7">
+      <OtherDecreases>
+        <Description>BOOK TO TAX ADJUSTMENTS</Description>
+        <Amount>1351</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc8">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK CHARGES</Description>
+        <RevenueAndExpensesPerBooks>47</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>47</NetInvestmentIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MISCELLANEOUS</Description>
+        <RevenueAndExpensesPerBooks>40</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>40</NetInvestmentIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

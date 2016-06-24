@@ -1,0 +1,499 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-09-14T08:43:09-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-04-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>MCKEAN &amp; ASSOCIATES PA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>3224 EXECUTIVE PARK CIRCLE</AddressLine1>
+        <City>MOBILE</City>
+        <State>AL</State>
+        <ZIPCode>36606</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-05-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>562410219</EIN>
+      <Name>
+        <BusinessNameLine1>JOHN B &amp; REBECCA BARNETT</BusinessNameLine1>
+        <BusinessNameLine2>CHARITABLE FOUNDATION</BusinessNameLine2>
+      </Name>
+      <NameControl>BARN</NameControl>
+      <Phone>2517433386</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 278</AddressLine1>
+        <City>MONROEVILLE</City>
+        <State>AL</State>
+        <ZIPCode>36461</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>JOHN B BARNETT III</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>2517433386</Phone>
+      <DateSigned>2010-08-19</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>TERESA J ERNEST</Name>
+      <Phone>2514713800</Phone>
+      <DatePrepared>2010-09-14</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>115291</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>3300</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>4</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>4</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>175</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>175</DividendsNetInvstIncm>
+        <TotalRevenueAndExpenses>3479</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>179</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">1050</AccountingFeesRevAndExpnss>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc5">140</TaxesRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc4">-246</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>944</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>5020</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>5020</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>5964</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>5020</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-2485</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>179</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>3570</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>1085</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>1085</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>180548</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc3">180548</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>114206</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>184118</TotalAssetsBOY>
+        <TotalAssetsEOY>181633</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>115291</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>184118</UnrestrictedBOY>
+        <UnrestrictedEOY>181633</UnrestrictedEOY>
+        <TotalNetAssetsBOY>184118</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>181633</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>184118</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>181633</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>184118</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-2485</ExcessOfRevenueOverExpenses>
+        <Subtotal>181633</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>181633</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>12250</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>89214</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.137310</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>19270</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>258082</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.074666</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>24087</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>435674</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.055287</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>15105</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>343530</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.043970</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>22625</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>327095</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.069170</DistributionRatioYear5>
+        <TotalDistributionRatio>0.380403</TotalDistributionRatio>
+        <AverageDistributionRatio>0.076081</AverageDistributionRatio>
+        <NetNoncharitableAssets>76694</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>5835</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>2</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>5837</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>5020</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>4</InvestmentIncomeExciseTax>
+        <Subtotal>4</Subtotal>
+        <TaxBasedOnInvestmentIncome>4</TaxBasedOnInvestmentIncome>
+        <TaxDue>4</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>AL</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>JOHN B BARNETT III</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>2517433386</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>PO BOX 278</AddressLine1>
+          <City>MONROEVILLE</City>
+          <State>AL</State>
+          <ZIPCode>36461</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOHN B BARNETT III</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 278</AddressLine1>
+            <City>MONROEVILLE</City>
+            <State>AL</State>
+            <ZIPCode>36461</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>REBECCA L BARNETT</PersonName>
+          <USAddress>
+            <AddressLine1>272 S MT PLEASANT AVE</AddressLine1>
+            <City>MONROEVILLE</City>
+            <State>AL</State>
+            <ZIPCode>36460</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>COURTNEY CLARK BARNETT</PersonName>
+          <USAddress>
+            <AddressLine1>272 S MT PLEASANT AVE</AddressLine1>
+            <City>MONROEVILLE</City>
+            <State>AL</State>
+            <ZIPCode>36460</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>EW MCKEAN JR</PersonName>
+          <USAddress>
+            <AddressLine1>3224 EXECUTIVE PARK CIR</AddressLine1>
+            <City>MOBILE</City>
+            <State>AL</State>
+            <ZIPCode>36606</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>75263</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>2599</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>77862</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>77862</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>1168</CashDeemedCharitable>
+        <NetNoncharitableAssets>76694</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>3835</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>3835</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>4</TaxBasedOnInvestmentIncome>
+        <TotalTax>4</TotalTax>
+        <DistributableAmountBeforeAdj>3831</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>3831</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>3831</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>5020</ExpensesAndContributions>
+        <QualifyingDistributions>5020</QualifyingDistributions>
+        <AdjQualifyingDistributions>5020</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>3831</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>6444</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear3>2483</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>6549</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>7929</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>23405</TotalExcessDistriCarryover>
+        <QualifyingDistributions>5020</QualifyingDistributions>
+        <AppliedToCurrentYear>3831</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>1189</RemainingDistriFromCorpus>
+        <TotalCorpus>24594</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>6444</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>18150</ExcessDistriCyovToNextYear>
+        <ExcessFromYear3>2483</ExcessFromYear3>
+        <ExcessFromYear2>6549</ExcessFromYear2>
+        <ExcessFromYear1>7929</ExcessFromYear1>
+        <ExcessFromCurrentYear>1189</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>JOHN B BARNETT III</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ALABAMA LAW FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>P O BOX 671</AddressLine1>
+            <City>MONTGOMERY</City>
+            <State>AL</State>
+            <ZIPCode>36101</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C) (3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ALZHEIMERS ASSOC OF CENTR</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 2273</AddressLine1>
+            <City>BIRMINGHAM</City>
+            <State>AL</State>
+            <ZIPCode>35201</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C) (3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BIRMINGHAM SOUTHERN COLLE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>900 ARKADELPHIA AVE</AddressLine1>
+            <City>BIRMINGHAM</City>
+            <State>AL</State>
+            <ZIPCode>35254</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C) (3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATIONAL</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FIRST METHODIST CHURCH MO</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>324 PINEVILLE RD</AddressLine1>
+            <City>MONROEVILLE</City>
+            <State>AL</State>
+            <ZIPCode>36460</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C) (3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RELIGIOUS</PurposeOfGrantOrContribution>
+          <Amount>3900</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FIRST UNITED METHODIST BR</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>820 BELLEVILLE AVE</AddressLine1>
+            <City>BREWTON</City>
+            <State>AL</State>
+            <ZIPCode>36426</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C) (3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RELIGIOUS</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MARTIN BOYD CHRISTIAN HOM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>6845 STANDIFER GAP RD</AddressLine1>
+            <City>CHATTANOOGA</City>
+            <State>TN</State>
+            <ZIPCode>37421</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C) (3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>25</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MONROE COUNTY HERITAGE MU</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 424</AddressLine1>
+            <City>MONROEVILLE</City>
+            <State>AL</State>
+            <ZIPCode>36460</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C) (3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>45</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MONROE HEALTH FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2016 HIGHWAY 21 SOUTH</AddressLine1>
+            <City>MONROEVILLE</City>
+            <State>AL</State>
+            <ZIPCode>36461</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C) (3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MONROEVILLE AREA YMCA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2197 S MT PLEASANT AVE</AddressLine1>
+            <City>MONROEVILLE</City>
+            <State>AL</State>
+            <ZIPCode>36460</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C) (3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MT VERNON BAPTIST CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2650 PINE ST</AddressLine1>
+            <City>ALBERTVILLE</City>
+            <State>AL</State>
+            <ZIPCode>35950</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C) (3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RELIGIOUS</PurposeOfGrantOrContribution>
+          <Amount>50</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>5020</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>4</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>175</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>179</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>179</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>MCKEAN &amp; ASSOC TAX PREP</Category>
+        <Amount>1050</Amount>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc3">
+      <InvestmentsCorpStock>
+        <NameOfStock>BANCTRUST FIN'L GROUP, INC.</NameOfStock>
+        <EOYBookValue>180548</EOYBookValue>
+        <EOYFMV>114206</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="RetDoc4">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK CHARGE</Description>
+        <RevenueAndExpensesPerBooks>75</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MISCELLANEOUS</Description>
+        <RevenueAndExpensesPerBooks>-321</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="RetDoc5">
+      <Taxes>
+        <Category>EXCISE TAXES</Category>
+        <Amount>140</Amount>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

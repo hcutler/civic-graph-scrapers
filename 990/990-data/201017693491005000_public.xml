@@ -1,0 +1,711 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return returnVersion="2009v1.3" xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-06-25T16:20:59Z</Timestamp>
+    <TaxPeriodEndDate>2010-03-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>FOGG NIMS &amp; CO LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>1116 GRAND AVENUE</AddressLine1>
+        <City>WEST DES MOINES</City>
+        <State>IA</State>
+        <ZIPCode>50265</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-04-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>426061515</EIN>
+      <Name>
+        <BusinessNameLine1>GEORGE S &amp; GRACE A JAY MEMORIAL TRUST</BusinessNameLine1>
+      </Name>
+      <NameControl>GEOR</NameControl>
+      <Phone>7122465899</Phone>
+      <USAddress>
+        <AddressLine1>612 1/2 SHERIDAN BOX 57</AddressLine1>
+        <City>SHENANDOAH</City>
+        <State>IA</State>
+        <ZIPCode>516011708</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>ROBERT LONGMAN</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>7122465899</Phone>
+      <DateSigned>2010-06-07</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>LARRY V WEIGEL</Name>
+      <Phone>5152231110</Phone>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990PF documentId="00000001" referenceDocumentName="ReasonableCauseExplanation GeneralExplanationAttachment">
+      <AddressChange>X</AddressChange>
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>2425420</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>537</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>537</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>537</InterestOnSavingsAdjNetIncm>
+        <DividendsRevAndExpnss>36184</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>36184</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>36184</DividendsAdjNetIncm>
+        <GrossRentsRevAndExpnss>15065</GrossRentsRevAndExpnss>
+        <GrossRentsNetInvstIncm>15065</GrossRentsNetInvstIncm>
+        <GrossRentsAdjNetIncm>15065</GrossRentsAdjNetIncm>
+        <NetRentalIncomeOrLoss>1723</NetRentalIncomeOrLoss>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="00000004" referenceDocumentName="GainLossFromSaleOtherAssetsSchedule">-6527</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>105210</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <IncomeModificationsAdjNetIncm>148905</IncomeModificationsAdjNetIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="00000007" referenceDocumentName="OtherIncomeSchedule2">38520</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>37454</OtherIncomeNetInvstIncm>
+        <OtherIncomeAdjNetIncm>37454</OtherIncomeAdjNetIncm>
+        <TotalRevenueAndExpenses>83779</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>89240</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>238145</TotalAdjustedNetIncome>
+        <CompOfcrDirTrstRevAndExpnss>12000</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>6000</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstAdjNetIncm>6000</CompOfcrDirTrstAdjNetIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>6000</CompOfcrDirTrstDsbrsChrtblPrps>
+        <OthEmplSlrsWgsRevAndExpnss>9043</OthEmplSlrsWgsRevAndExpnss>
+        <OthEmplSlrsWgsNetInvstIncm>2261</OthEmplSlrsWgsNetInvstIncm>
+        <OthEmplSlrsWgsAdjNetIncm>2261</OthEmplSlrsWgsAdjNetIncm>
+        <OthEmplSlrsWgsDsbrsChrtblPrps>6782</OthEmplSlrsWgsDsbrsChrtblPrps>
+        <LegalFeesRevAndExpnss referenceDocumentId="00000005" referenceDocumentName="LegalFeesSchedule">2435</LegalFeesRevAndExpnss>
+        <LegalFeesNetInvstIncm>1218</LegalFeesNetInvstIncm>
+        <LegalFeesAdjNetIncm>1218</LegalFeesAdjNetIncm>
+        <LegalFeesDsbrsChrtblPrps>1218</LegalFeesDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="00000003" referenceDocumentName="AccountingFeesSchedule">3190</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>798</AccountingFeesNetInvstIncm>
+        <AccountingFeesAdjNetIncm>798</AccountingFeesAdjNetIncm>
+        <AccountingFeesDsbrsChrtblPrps>2392</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="00000008" referenceDocumentName="TaxesSchedule">3189</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>3189</TaxesNetInvstIncm>
+        <TaxesAdjNetIncm>3189</TaxesAdjNetIncm>
+        <DeprecAndDepletionRevAndExpnss>1933</DeprecAndDepletionRevAndExpnss>
+        <DeprecAndDepletionNetInvstIncm>1933</DeprecAndDepletionNetInvstIncm>
+        <DeprecAndDepletionAdjNetIncm>1933</DeprecAndDepletionAdjNetIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="00000006" referenceDocumentName="AmortizationSchedule OtherExpensesSchedule">10353</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>8753</OtherExpensesNetInvstIncm>
+        <OtherExpensesAdjNetIncm>8753</OtherExpensesAdjNetIncm>
+        <OtherExpensesDsbrsChrtblPrps>1600</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>42143</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>24152</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>24152</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>17992</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>1000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>1000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>43143</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>24152</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>24152</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>18992</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>40636</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>65088</NetInvestmentIncome>
+        <AdjustedNetIncome>213993</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>37593</CashBOY>
+        <CashEOY>48887</CashEOY>
+        <CashEOYFMV>48887</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>22614</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>21702</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>21702</SavingsAndTempCashInvstEOYFMV>
+        <OtherNotesAndLoansReceivable>1424421</OtherNotesAndLoansReceivable>
+        <OtherNotesAndLoansRcvblBOY>1383326</OtherNotesAndLoansRcvblBOY>
+        <OtherNotesAndLoansRcvblEOY>1424421</OtherNotesAndLoansRcvblEOY>
+        <OtherNotesAndLoansRcvblEOYFMV>1424421</OtherNotesAndLoansRcvblEOYFMV>
+        <InvestmentsGovtObligBOY>91916</InvestmentsGovtObligBOY>
+        <InvestmentsGovtObligEOY>77080</InvestmentsGovtObligEOY>
+        <InvestmentsGovtObligEOYFMV>81307</InvestmentsGovtObligEOYFMV>
+        <InvestmentsCorpStockBOY>397992</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY>389799</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>525100</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>238000</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY>252121</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>242003</InvestmentsCorpBondsEOYFMV>
+        <LandBuildingAndEquipmentBasis>175150</LandBuildingAndEquipmentBasis>
+        <AccumDeprecLandBldgAndEquip>172743</AccumDeprecLandBldgAndEquip>
+        <LandBuildingAndEquipmentBOY>4340</LandBuildingAndEquipmentBOY>
+        <LandBuildingAndEquipmentEOY>2407</LandBuildingAndEquipmentEOY>
+        <LandBuildingAndEquipmentEOYFMV>82000</LandBuildingAndEquipmentEOYFMV>
+        <TotalAssetsBOY>2175781</TotalAssetsBOY>
+        <TotalAssetsEOY>2216417</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>2425420</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>2175781</RetainedEarningsBOY>
+        <RetainedEarningsEOY>2216417</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>2175781</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>2216417</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>2175781</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>2216417</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>2175781</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>40636</ExcessOfRevenueOverExpenses>
+        <Subtotal>2216417</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>2216417</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>FEDERAL HOME LOAN BANK BONDS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2004-10-19</DateAcquired>
+          <DateSold>2009-04-13</DateSold>
+          <GrossSalesPrice>15000</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>14836</CostOrOtherBasis>
+          <GainOrLoss>164</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>164</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>PRINCIPAL LIFE CORENOTES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2004-07-02</DateAcquired>
+          <DateSold>2009-07-15</DateSold>
+          <GrossSalesPrice>14000</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>14000</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>300 SHARES CITIGROUP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2005-01-25</DateAcquired>
+          <DateSold>2010-01-05</DateSold>
+          <GrossSalesPrice>993</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>14830</CostOrOtherBasis>
+          <GainOrLoss>-13837</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-13837</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>130 SHARES WALGREEN</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2003-06-03</DateAcquired>
+          <DateSold>2010-01-05</DateSold>
+          <GrossSalesPrice>4686</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>4248</CostOrOtherBasis>
+          <GainOrLoss>438</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>438</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1076 SH GROWTH FUND OF AMERICA</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>1998-07-01</DateAcquired>
+          <DateSold>2010-01-05</DateSold>
+          <GrossSalesPrice>30000</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>26354</CostOrOtherBasis>
+          <GainOrLoss>3646</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>3646</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>297 SH WASHINGTON MUTUAL FUNDS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>1998-07-01</DateAcquired>
+          <DateSold>2010-01-05</DateSold>
+          <GrossSalesPrice>7416</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>5678</CostOrOtherBasis>
+          <GainOrLoss>1738</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>1738</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>153 SH CAPITAL INCOME BUILDER A</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2004-10-01</DateAcquired>
+          <DateSold>2010-01-05</DateSold>
+          <GrossSalesPrice>7416</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>8252</CostOrOtherBasis>
+          <GainOrLoss>-836</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-836</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>213 SH CAPITAL WORLD GROWTH &amp; INCOME</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2004-10-01</DateAcquired>
+          <DateSold>2010-01-05</DateSold>
+          <GrossSalesPrice>7416</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>7687</CostOrOtherBasis>
+          <GainOrLoss>-271</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-271</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>648 SH GROWTH FUND OF AMERICA</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>1998-07-01</DateAcquired>
+          <DateSold>2010-01-07</DateSold>
+          <GrossSalesPrice>18083</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>15852</CostOrOtherBasis>
+          <GainOrLoss>2231</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>2231</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>PIMCO TOTAL RETURN FUND CL A</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-10-01</DateAcquired>
+          <DateSold>2009-12-11</DateSold>
+          <GrossSalesPrice>200</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>0</CostOrOtherBasis>
+          <GainOrLoss>200</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>200</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>-6527</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>245088</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>985773</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.248625</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>208255</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>1152834</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.180646</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>208265</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>977622</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.213032</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>204887</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>997211</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.205460</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>172817</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>994127</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.173838</DistributionRatioYear5>
+        <TotalDistributionRatio>1.021601</TotalDistributionRatio>
+        <AverageDistributionRatio>0.204320</AverageDistributionRatio>
+        <NetNoncharitableAssets>944746</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>193031</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>651</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>193682</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>208992</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>651</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>651</Subtotal>
+        <TaxBasedOnInvestmentIncome>651</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>800</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>800</TotalCreditsAndPayments>
+        <OriginalReturnOverpayment>-800</OriginalReturnOverpayment>
+        <Overpayment>149</Overpayment>
+        <AmountCreditedToNextYear>149</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>false</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>ROBERT LONGMAN</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>7122463399</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>612 1/2 SHERIDAN AVE</AddressLine1>
+          <City>SHENANDOAH</City>
+          <State>IA</State>
+          <ZIPCode>51601</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>L CRAIG HARRIS</PersonName>
+          <USAddress>
+            <AddressLine1>RR2 BOX 156</AddressLine1>
+            <City>SHENANDOAH</City>
+            <State>IA</State>
+            <ZIPCode>51601</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>4000</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ROBERT LONGMAN</PersonName>
+          <USAddress>
+            <AddressLine1>110 COLONIAL AVE</AddressLine1>
+            <City>SHENANDOAH</City>
+            <State>IA</State>
+            <ZIPCode>51601</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>4000</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOHN WEAVER</PersonName>
+          <USAddress>
+            <AddressLine1>1603 SOUTH ELM STREET</AddressLine1>
+            <City>SHENANDOAH</City>
+            <State>IA</State>
+            <ZIPCode>51601</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>4000</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>EDUCATIONAL LOANS TO INDIVIDUALS-STATEMENT ATTACHED</Description1>
+        <Amount1>190000</Amount1>
+        <Total>190000</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>809318</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>67815</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>82000</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>959133</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>959133</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>14387</CashDeemedCharitable>
+        <NetNoncharitableAssets>944746</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>47237</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>47237</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>651</TaxBasedOnInvestmentIncome>
+        <TotalTax>651</TotalTax>
+        <DistributableAmountBeforeAdj>46586</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>148905</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>195491</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>195491</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>18992</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>190000</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>208992</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>651</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>208341</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>195491</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear4>4932</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>16174</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear1>51102</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>72208</TotalExcessDistriCarryover>
+        <QualifyingDistributions>208992</QualifyingDistributions>
+        <AppliedToCurrentYear>195491</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>13501</RemainingDistriFromCorpus>
+        <TotalCorpus>85709</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>85709</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>4932</ExcessFromYear4>
+        <ExcessFromYear3>16174</ExcessFromYear3>
+        <ExcessFromYear1>51102</ExcessFromYear1>
+        <ExcessFromCurrentYear>13501</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>NONE</ContributingManager>
+        <ShareholderManager>NONE</ShareholderManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>KATHRYN MARTIN CO GEORGE S AND GRAC</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>612 1/2 W SHERIDAN AVENUE</AddressLine1>
+            <City>SHENANDOAH</City>
+            <State>IA</State>
+            <ZIPCode>51601</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>7122463399</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>STATEMENT ATTACHED</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>STATEMENT ATTACHED</SubmissionDeadlines>
+          <RestrictionsOnAwards>STATEMENT ATTACHED</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>KYLE BENGSTON</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1820-170TH ST</AddressLine1>
+            <City>ESSEX</City>
+            <State>IA</State>
+            <ZIPCode>51638</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>HIGH SCHOOL STUDENTSCHOLARSHIP FOR</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>KATELIN ATTERBERRY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>607 S CENTER ST</AddressLine1>
+            <City>SHENANDOAH</City>
+            <State>IA</State>
+            <ZIPCode>51601</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>HIGH SCHOOL STUDENTSCHOLARSHIP FOR</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>1000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <ProgramServiceRevenuePartVII>
+          <Description>Interest income</Description>
+        </ProgramServiceRevenuePartVII>
+        <ProgramServiceRevenuePartVII>
+          <Description>from student loans</Description>
+          <RelatedOrExemptFunctionIncome>37392</RelatedOrExemptFunctionIncome>
+        </ProgramServiceRevenuePartVII>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>537</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>36184</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <NetRntlIncmReNotDebtFincdProp>
+          <ExclusionCode>16</ExclusionCode>
+          <ExclusionAmount>1723</ExclusionAmount>
+        </NetRntlIncmReNotDebtFincdProp>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>-6527</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>31917</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>37392</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>69309</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>1(a)</LineNumber>
+          <RelationshipStatement>Interest charged on student loans creates an incentive to repay so</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>1(b)</LineNumber>
+          <RelationshipStatement>that loans may continue to be made to students in the future.</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="00000003">
+      <AccountingFees>
+        <Category>FOGG, NIMS AND CO., LLP ACCOUNTING</Category>
+        <Amount>3190</Amount>
+        <NetInvestmentIncome>798</NetInvestmentIncome>
+        <AdjustedNetIncome>798</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>2392</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="00000004">
+      <GainLossSaleOtherAsset>
+        <Name>15M FEDERAL HOME LOAN BANKS</Name>
+        <DateAcquired>2004-10</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2009-04</DateSold>
+        <GrossSalesPrice>15000</GrossSalesPrice>
+        <Basis>14836</Basis>
+        <TotalNet>164</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>14M PRINCIPAL LIFE CORENOTES</Name>
+        <DateAcquired>2004-07</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2009-07</DateSold>
+        <GrossSalesPrice>14000</GrossSalesPrice>
+        <Basis>14000</Basis>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>300 SH CITICORP</Name>
+        <DateAcquired>2005-01</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2010-01</DateSold>
+        <GrossSalesPrice>993</GrossSalesPrice>
+        <Basis>14830</Basis>
+        <TotalNet>-13837</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>130 SH WALGREEN</Name>
+        <DateAcquired>2003-06</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2010-01</DateSold>
+        <GrossSalesPrice>4686</GrossSalesPrice>
+        <Basis>4248</Basis>
+        <TotalNet>438</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>1076 SH GROWTH FUND OF AMERICA</Name>
+        <DateAcquired>1998-07</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2010-01</DateSold>
+        <GrossSalesPrice>30000</GrossSalesPrice>
+        <Basis>26354</Basis>
+        <TotalNet>3646</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>297 SH WASHINGTON MUTUAL FUNDS</Name>
+        <DateAcquired>1998-07</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2010-01</DateSold>
+        <GrossSalesPrice>7416</GrossSalesPrice>
+        <Basis>5678</Basis>
+        <TotalNet>1738</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>153 SH CAPITAL INCOME BUILDER A</Name>
+        <DateAcquired>2004-10</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2010-01</DateSold>
+        <GrossSalesPrice>7416</GrossSalesPrice>
+        <Basis>8252</Basis>
+        <TotalNet>-836</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>213 SH CAPITAL WORLD GROWTH &amp; INCOME</Name>
+        <DateAcquired>2004-10</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2010-01</DateSold>
+        <GrossSalesPrice>7416</GrossSalesPrice>
+        <Basis>7687</Basis>
+        <TotalNet>-271</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>648 SH GROWTH FUND OF AMERICA</Name>
+        <DateAcquired>1998-07</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2010-01</DateSold>
+        <GrossSalesPrice>18083</GrossSalesPrice>
+        <Basis>15852</Basis>
+        <TotalNet>2231</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>PIMCO TOTAL RETURN FUND CL A</Name>
+        <DateAcquired>2008-10</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2009-12</DateSold>
+        <GrossSalesPrice>200</GrossSalesPrice>
+        <TotalNet>200</TotalNet>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <LegalFeesSchedule documentId="00000005">
+      <LegalFees>
+        <Category>JAMES N. MILHONE LEGAL</Category>
+        <Amount>2435</Amount>
+        <NetInvestmentIncome>1218</NetInvestmentIncome>
+        <AdjustedNetIncome>1218</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>1218</DisbursementsCharitablePrps>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="00000006">
+      <OtherExpenses>
+        <Description>STATEMENT ATTACHED</Description>
+        <RevenueAndExpensesPerBooks>10353</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>8753</NetInvestmentIncome>
+        <AdjustedNetIncome>8753</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>1600</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="00000007">
+      <OtherIncome>
+        <Description>STATEMENT ATTACHED</Description>
+        <RevenueAndExpensesPerBooks>38520</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>37454</NetInvestmentIncome>
+        <AdjustedNetIncome>37454</AdjustedNetIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="00000008">
+      <Taxes>
+        <Category>STATEMENT ATTACHED</Category>
+        <Amount>3189</Amount>
+        <NetInvestmentIncome>3189</NetInvestmentIncome>
+        <AdjustedNetIncome>3189</AdjustedNetIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

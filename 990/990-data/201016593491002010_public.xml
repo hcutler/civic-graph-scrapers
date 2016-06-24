@@ -1,0 +1,552 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return returnVersion="2009v1.3" xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-06-14T15:00:29Z</Timestamp>
+    <TaxPeriodEndDate>2010-01-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>M &amp; I TRUST CO NA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>11270 WEST PARK PLACE SUITE 400</AddressLine1>
+        <City>MILWAUKEE</City>
+        <State>WI</State>
+        <ZIPCode>53224</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-02-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>816106700</EIN>
+      <Name>
+        <BusinessNameLine1>GAFFNEY ROBERT TRUST</BusinessNameLine1>
+      </Name>
+      <NameControl>GAFF</NameControl>
+      <Phone>4148153602</Phone>
+      <USAddress>
+        <AddressLine1>C/O MI TRUST CO NA PO BOX 2977</AddressLine1>
+        <City>MILWAUKEE</City>
+        <State>WI</State>
+        <ZIPCode>53201</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>THOMAS GAFFNEY</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>4148153602</Phone>
+      <DateSigned>2010-06-04</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>MICHAEL FECISKONIN EA</Name>
+      <Phone>4148153500</Phone>
+      <DatePrepared>2010-06-14</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="4">
+    <IRS990PF documentId="00000001" referenceDocumentName="ReasonableCauseExplanation GeneralExplanationAttachment">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>648140</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>17115</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>17115</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>-25594</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>477642</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="00000003" referenceDocumentName="OtherIncomeSchedule2">533</OtherIncomeRevAndExpnss>
+        <TotalRevenueAndExpenses>-7946</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>17115</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>1593</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>1593</CompOfcrDirTrstNetInvstIncm>
+        <AccountingFeesRevAndExpnss>800</AccountingFeesRevAndExpnss>
+        <AccountingFeesDsbrsChrtblPrps>800</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss>7179</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>7179</OtherProfFeesNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId="00000004" referenceDocumentName="TaxesSchedule">332</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>132</TaxesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>9904</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>8904</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>800</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>39270</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>39270</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>49174</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>8904</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>40070</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-57120</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>8211</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>592</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>1949</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>1949</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsGovtObligBOY>598904</InvestmentsGovtObligBOY>
+        <InvestmentsGovtObligEOY>156419</InvestmentsGovtObligEOY>
+        <InvestmentsGovtObligEOYFMV>161118</InvestmentsGovtObligEOYFMV>
+        <InvestmentsCorpStockBOY>98794</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY>484066</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>485072</InvestmentsCorpStockEOYFMV>
+        <OtherAssetsBOY>1266</OtherAssetsBOY>
+        <OtherAssetsEOY>1</OtherAssetsEOY>
+        <OtherAssetsEOYFMV>1</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>699556</TotalAssetsBOY>
+        <TotalAssetsEOY>642435</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>648140</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>699556</CapitalStockBOY>
+        <CapitalStockEOY>642435</CapitalStockEOY>
+        <TotalNetAssetsBOY>699556</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>642435</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>699556</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>642435</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>699556</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-57120</ExcessOfRevenueOverExpenses>
+        <Subtotal>642436</Subtotal>
+        <OtherDecreases referenceDocumentId="00000002" referenceDocumentName="OtherDecreasesSchedule">1</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>642435</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>SEE ATTACHED SCHUDULE-LT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-01-01</DateAcquired>
+          <DateSold>2010-01-31</DateSold>
+          <GrossSalesPrice>459498</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>486321</CostOrOtherBasis>
+          <GainOrLoss>-26823</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-26823</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>SEE ATTACHED SCHUDULE-ST</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-01-01</DateAcquired>
+          <DateSold>2010-01-31</DateSold>
+          <GrossSalesPrice>18142</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>16916</CostOrOtherBasis>
+          <GainOrLoss>1226</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>1226</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>SEE ATTACHED SCHUDULE-CAPITAL GAIN DIVIDENDS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-01-01</DateAcquired>
+          <DateSold>2010-01-31</DateSold>
+          <GrossSalesPrice>3</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>0</CostOrOtherBasis>
+          <GainOrLoss>3</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>3</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>-25594</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <NoncharitableAssetsYear1>805398</NoncharitableAssetsYear1>
+        <QualifyingDistributionsYear2>38596</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>845951</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.045624</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>35509</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>812458</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.043706</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>40747</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>777186</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.052429</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>33304</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>757096</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.043989</DistributionRatioYear5>
+        <TotalDistributionRatio>0.185748</TotalDistributionRatio>
+        <AverageDistributionRatio>0.046437</AverageDistributionRatio>
+        <NetNoncharitableAssets>664145</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>30841</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>82</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>30923</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>40070</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>82</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>82</Subtotal>
+        <TaxBasedOnInvestmentIncome>82</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>200</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>200</TotalCreditsAndPayments>
+        <OriginalReturnOverpayment>-200</OriginalReturnOverpayment>
+        <Overpayment>118</Overpayment>
+        <AmountCreditedToNextYear>84</AmountCreditedToNextYear>
+        <AmountToBeRefunded>34</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>MARSHALL &amp; ILSLEY TRUST CO NA</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>7158456394</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>500 THIRD ST PO BOX 209</AddressLine1>
+          <City>WAUSAU</City>
+          <State>WI</State>
+          <ZIPCode>544020209</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <RelyingCurrNoticeDisasterAsst2>X</RelyingCurrNoticeDisasterAsst2>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JEAN WENDT</PersonName>
+          <USAddress>
+            <AddressLine1>6023 RIVER RD</AddressLine1>
+            <City>LAKE TOMAHAWK</City>
+            <State>WI</State>
+            <ZIPCode>54539</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>200</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>RUSSELL MCELDOWNEY</PersonName>
+          <USAddress>
+            <AddressLine1>625 WISCONSIN AVE</AddressLine1>
+            <City>RHINELANDER</City>
+            <State>WI</State>
+            <ZIPCode>54501</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>200</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>PAUL EBERT</PersonName>
+          <USAddress>
+            <AddressLine1>3929 TRAILS END LOOP RD</AddressLine1>
+            <City>RHINELANDER</City>
+            <State>WI</State>
+            <ZIPCode>54501</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>200</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARY WHITNEY</PersonName>
+          <USAddress>
+            <AddressLine1>1071 CRANBERRY SHORES</AddressLine1>
+            <City>EAGLE RIVER</City>
+            <State>WI</State>
+            <ZIPCode>54521</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>200</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>THOMAS P GAFFNEY</PersonName>
+          <USAddress>
+            <AddressLine1>322 SHERBURNE 7</AddressLine1>
+            <City>EAGLE RIVER</City>
+            <State>WI</State>
+            <ZIPCode>54521</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>493</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>THE HONORABLE MARK MANGERSON</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 400</AddressLine1>
+            <City>RHINELANDER</City>
+            <State>WI</State>
+            <ZIPCode>54501</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>200</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DEBRA SHAWL</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 400</AddressLine1>
+            <City>RHINELANDER</City>
+            <State>WI</State>
+            <ZIPCode>54501</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>100</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>674259</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>674259</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>674259</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>10114</CashDeemedCharitable>
+        <NetNoncharitableAssets>664145</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>33207</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>33207</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>82</TaxBasedOnInvestmentIncome>
+        <TotalTax>82</TotalTax>
+        <DistributableAmountBeforeAdj>33125</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>33125</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>33125</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>40070</ExpensesAndContributions>
+        <QualifyingDistributions>40070</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>82</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>39988</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>33125</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>39241</UndistributedIncomePriorYear>
+        <QualifyingDistributions>40070</QualifyingDistributions>
+        <AppliedToYear1>39241</AppliedToYear1>
+        <AppliedToCurrentYear>829</AppliedToCurrentYear>
+        <UndistributedIncomeCY>32296</UndistributedIncomeCY>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>THOMAS P GAFFNEY</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>503 RUSSELL AVE</AddressLine1>
+            <City>LONG BEACH</City>
+            <State>MS</State>
+            <ZIPCode>395606013</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>2283630387</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>WRITTEN SCHOLARSHIP APPLICATION TO INCLUDE NAME, ADDRESS, SOCIAL SECURITY NUMBER,</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>TO BE DETERMINED</SubmissionDeadlines>
+          <RestrictionsOnAwards>APPLICANTS MUST BE A GRADUATING STUDENT OF NORTHERN PINES HIGH SCHOOL AND RHINELANDER HIGH SCHOOL.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <AppicationSubmissionInfo>
+          <RecipientName>NA</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>N/A</AddressLine1>
+            <City>NA</City>
+            <State>WI</State>
+            <ZIPCode>11111</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>4148153602</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>GPA</FormAndInfoAndMaterials>
+          <RestrictionsOnAwards>BASED ON COMBINATION OF NEED , SCHOLASTIC EXCELLENCE AND AN ALTRUISTIC MOTIVE TOWARDS THE TEACHING FIELD.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NORTHERN MICHIGAN UNIVERSITY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1401 PRESQUE ISLE AVE</AddressLine1>
+            <City>MARQUETTE</City>
+            <State>MI</State>
+            <ZIPCode>49855</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>6095</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNIVERSITY OF WI STEVENS POINT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2100 MAIN ST</AddressLine1>
+            <City>STEVENS POINT</City>
+            <State>WI</State>
+            <ZIPCode>54481</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>8795</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNIVERSITY OF MN DULUTH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1117 UNIVERSITY DR</AddressLine1>
+            <City>DULUTH</City>
+            <State>MN</State>
+            <ZIPCode>55812</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>0</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNIVERSITY OF WI RIVER FALLS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>410 S THIRD ST</AddressLine1>
+            <City>RIVER FALLS</City>
+            <State>WI</State>
+            <ZIPCode>54022</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>8795</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>NORTHLAND COLLEGE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1411 ELLIS AVE</AddressLine1>
+            <City>ASHLAND</City>
+            <State>WI</State>
+            <ZIPCode>54806</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>9490</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CARDINAL STRITCH UNIVERSITY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>6801 N YATES RD</AddressLine1>
+            <City>MILWAUKEE</City>
+            <State>WI</State>
+            <ZIPCode>49855</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>6095</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>39270</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>17115</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>-25594</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>-8479</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>-8479</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <OtherDecreasesSchedule documentId="00000002">
+      <OtherDecreases>
+        <Description>TIMING DIFFERENCES</Description>
+        <Amount>1</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherIncomeSchedule2 documentId="00000003">
+      <OtherIncome>
+        <Description>EXCISE TAX REFUND</Description>
+        <RevenueAndExpensesPerBooks>533</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="00000004">
+      <Taxes>
+        <Category>Fed Excise Tax Pd</Category>
+      </Taxes>
+      <Taxes>
+        <Category>Foreign Tax Pd</Category>
+        <Amount>132</Amount>
+        <NetInvestmentIncome>132</NetInvestmentIncome>
+      </Taxes>
+      <Taxes>
+        <Category>Fed Estimates Pd</Category>
+      </Taxes>
+      <Taxes>
+        <Category>FED REFUND APPLIED</Category>
+        <Amount>200</Amount>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

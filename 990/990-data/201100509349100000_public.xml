@@ -1,0 +1,666 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-19T06:16:30-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>MCPHERSON BREYFOGLE DAVELINE &amp;AMP GOODRICH</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>503 N MAIN ST SUITE 740</AddressLine1>
+        <City>PUEBLO</City>
+        <State>CO</State>
+        <ZIPCode>810033131</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>840581724</EIN>
+      <Name>
+        <BusinessNameLine1>THE MAHLON THATCHER WHITE FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>MAHL</NameControl>
+      <Phone>7195436526</Phone>
+      <USAddress>
+        <AddressLine1>P O BOX 2097</AddressLine1>
+        <City>PUEBLO</City>
+        <State>CO</State>
+        <ZIPCode>81004</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>MAHLON T WHITE</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>7195436526</Phone>
+      <DateSigned>2011-01-27</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>GERALD N MCPHERSON</Name>
+      <Phone>7195430516</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>1968003</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>40</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>40</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>33379</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>33379</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>28059</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>434205</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>28059</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>61478</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>61478</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">3500</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>1750</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>1750</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">1058</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>0</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>0</TaxesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">43194</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>7546</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>35648</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>47752</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>9296</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>37398</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>74210</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>74210</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>121962</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>9296</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>111608</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-60484</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>52182</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>398378</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>391103</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>391103</SavingsAndTempCashInvstEOYFMV>
+        <AccountsReceivable>8603</AccountsReceivable>
+        <AccountsReceivableBOY>9038</AccountsReceivableBOY>
+        <AccountsReceivableEOY>8603</AccountsReceivableEOY>
+        <AccountsReceivableEOYFMV>8603</AccountsReceivableEOYFMV>
+        <PrepaidExpensesBOY>2014</PrepaidExpensesBOY>
+        <PrepaidExpensesEOY>956</PrepaidExpensesEOY>
+        <PrepaidExpensesEOYFMV>956</PrepaidExpensesEOYFMV>
+        <InvestmentsCorpStockBOY>960195</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2018900001">998069</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>998069</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>578343</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="RetDoc2044400001">569272</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>569272</InvestmentsCorpBondsEOYFMV>
+        <TotalAssetsBOY>1947968</TotalAssetsBOY>
+        <TotalAssetsEOY>1968003</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>1968003</TotalAssetsEOYFMV>
+        <AccountsPayableEOY>2903</AccountsPayableEOY>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>2903</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>1947968</UnrestrictedBOY>
+        <UnrestrictedEOY>1965100</UnrestrictedEOY>
+        <TotalNetAssetsBOY>1947968</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>1965100</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>1947968</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>1968003</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>1947968</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-60484</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="RetDoc2049700001">77616</OtherIncreases>
+        <Subtotal>1965100</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>1965100</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>PUBLICLY TRADED SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>434205</GrossSalesPrice>
+          <CostOrOtherBasis>406146</CostOrOtherBasis>
+          <GainOrLoss>28059</GainOrLoss>
+          <GainsMinusExcessOrLosses>28059</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>28059</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>136801</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>1919468</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.071270</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>614265</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>2975861</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.206416</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>312551</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>3625444</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.086210</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>331637</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>3882245</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.085424</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>366605</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>3905013</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.093881</DistributionRatioYear5>
+        <TotalDistributionRatio>0.543201</TotalDistributionRatio>
+        <AverageDistributionRatio>0.108640</AverageDistributionRatio>
+        <NetNoncharitableAssets>1859345</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>201999</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>522</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>202521</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>111608</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>1044</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>1044</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>1044</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>2000</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>2000</TotalCreditsAndPayments>
+        <Overpayment>956</Overpayment>
+        <AmountCreditedToNextYear>956</AmountCreditedToNextYear>
+        <AmountToBeRefunded>0</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>CO</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>0</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>MCPHERSON BREYFOGLE DAVELNE GOO</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>7195430516</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>503 N MAIN STREET STE 740</AddressLine1>
+          <City>PUEBLO</City>
+          <State>CO</State>
+          <ZIPCode>81003</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>0</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>1</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>0</TrFailToQualifyAsExceptions>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MAHLON T WHITE</PersonName>
+          <USAddress>
+            <AddressLine1>26067 E EVERETT ROAD</AddressLine1>
+            <City>PUEBLO</City>
+            <State>CO</State>
+            <ZIPCode>81006</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MAYLAN T WHITE</PersonName>
+          <USAddress>
+            <AddressLine1>26067 E EVERETT ROAD</AddressLine1>
+            <City>PUEBLO</City>
+            <State>CO</State>
+            <ZIPCode>81006</ZIPCode>
+          </USAddress>
+          <Title>VICE PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MAHLON T WHITE II</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 2097</AddressLine1>
+            <City>PUEBLO</City>
+            <State>CO</State>
+            <ZIPCode>81004</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DONALD J BANNER</PersonName>
+          <USAddress>
+            <AddressLine1>601 MAIN</AddressLine1>
+            <City>PUEBLO</City>
+            <State>CO</State>
+            <ZIPCode>81002</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY/TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>WHITNEY WHITE</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 2097</AddressLine1>
+            <City>PUEBLO</City>
+            <State>CO</State>
+            <ZIPCode>81004</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>M ANDREW WHITE</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 2097</AddressLine1>
+            <City>PUEBLO</City>
+            <State>CO</State>
+            <ZIPCode>81004</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>GAIL KASIC</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 2097</AddressLine1>
+            <City>PUEBLO</City>
+            <State>CO</State>
+            <ZIPCode>81004</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>PATTY BEDARD</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 2097</AddressLine1>
+            <City>PUEBLO</City>
+            <State>CO</State>
+            <ZIPCode>81004</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MINDY POTESTIO</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 2097</AddressLine1>
+            <City>PUEBLO</City>
+            <State>CO</State>
+            <ZIPCode>81004</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>NOT APPLICABLE</Description1>
+        <Expenses1>0</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>NOT APPLICABLE</Description1>
+        <Amount1>0</Amount1>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>1474542</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>413118</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>1887660</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>1887660</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>28315</CashDeemedCharitable>
+        <NetNoncharitableAssets>1859345</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>92967</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>92967</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>1044</TaxBasedOnInvestmentIncome>
+        <TotalTax>1044</TotalTax>
+        <DistributableAmountBeforeAdj>91923</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>91923</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>91923</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>111608</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>111608</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>111608</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>91923</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear5>176952</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>140873</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>138379</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>467980</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>41160</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>965344</TotalExcessDistriCarryover>
+        <QualifyingDistributions>111608</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>91923</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>19685</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>985029</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>176952</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>808077</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>140873</ExcessFromYear4>
+        <ExcessFromYear3>138379</ExcessFromYear3>
+        <ExcessFromYear2>467980</ExcessFromYear2>
+        <ExcessFromYear1>41160</ExcessFromYear1>
+        <ExcessFromCurrentYear>19685</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>MAHLON T WHITE</ContributingManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>VALERI HARDIN</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 2097</AddressLine1>
+            <City>PUEBLO</City>
+            <State>CO</State>
+            <ZIPCode>81004</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>7195436526</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>NO PRESCRIBED FORM</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>GENERALLY, ACTIVITIES IN COLORADO</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>COLORADO STATE UNIVERSITY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>604 S HOWES ST</AddressLine1>
+            <City>FT COLLINS</City>
+            <State>CO</State>
+            <ZIPCode>80521</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC UNIVERSITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP - JOHN FLANAGAN</PurposeOfGrantOrContribution>
+          <Amount>7107</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>COLORADO STATE UNIVERSITY - PUEBLO</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2200 BONFORTE BLVD</AddressLine1>
+            <City>PUEBLO</City>
+            <State>CO</State>
+            <ZIPCode>81001</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC UNIVERSITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP - REID WEBER</PurposeOfGrantOrContribution>
+          <Amount>5234</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>COLORADO STATE UNIVERSITY - PUEBLO</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2200 BONFORTE BLVD</AddressLine1>
+            <City>PUEBLO</City>
+            <State>CO</State>
+            <ZIPCode>81001</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC UNIVERSITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP - ERICA NORVILLE</PurposeOfGrantOrContribution>
+          <Amount>6466</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PUEBLO COMMUNITY COLLEGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>900 WEST ORMAN</AddressLine1>
+            <City>PUEBLO</City>
+            <State>CO</State>
+            <ZIPCode>81004</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>COMMUNITY COLLEGE</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP - OLIVIA MARES</PurposeOfGrantOrContribution>
+          <Amount>685</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ROSEMOUNT VICTORIAN HOUSE MUSEUM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>419 W 14TH ST</AddressLine1>
+            <City>PUEBLO</City>
+            <State>CO</State>
+            <ZIPCode>81003</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>MUSEUM</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SANGRE DE CRISTO ARTS AND CONFERENCE CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>210 NORTH SANTA FE</AddressLine1>
+            <City>PUEBLO</City>
+            <State>CO</State>
+            <ZIPCode>81003</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FINE ARTS MUSEUM</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNIVERSITY OF COLORADO</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>CU BOULDER CAMPUS</AddressLine1>
+            <City>BOULDER</City>
+            <State>CO</State>
+            <ZIPCode>80309</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC UNIVERSITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP - TANNER BARDIN</PurposeOfGrantOrContribution>
+          <Amount>8313</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ADAMS STATE COLLEGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>208 EDGEMONT BLVD</AddressLine1>
+            <City>ALAMOSA</City>
+            <State>CO</State>
+            <ZIPCode>81102</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC UNIVERSITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP - OLIVIA MARES</PurposeOfGrantOrContribution>
+          <Amount>6405</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>74210</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>40</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>33379</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <OtherInvestmentIncomePartVII>
+          <BusinessCode>900003</BusinessCode>
+        </OtherInvestmentIncomePartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>28059</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>61478</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>61478</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>3500</Amount>
+        <NetInvestmentIncome>1750</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>1750</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc2044400001">
+      <InvestmentsCorpBonds>
+        <NameOfBond>FIXED INCOME</NameOfBond>
+        <EOYBookValue>569272</EOYBookValue>
+        <EOYFMV>569272</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorpStock>
+        <NameOfStock>EQUITY SECURITIES</NameOfStock>
+        <EOYBookValue>998069</EOYBookValue>
+        <EOYFMV>998069</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>INVESTMENT MANAGEMENT</Description>
+        <RevenueAndExpensesPerBooks>7546</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>7546</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>CONTRACT OFFICE SERVICES</Description>
+        <RevenueAndExpensesPerBooks>34329</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>34329</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>INSURANCE</Description>
+        <RevenueAndExpensesPerBooks>899</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>899</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OTHER EXPENSES</Description>
+        <RevenueAndExpensesPerBooks>420</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>420</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="RetDoc2049700001">
+      <OtherIncreases>
+        <Description>CHANGE IN UNREALIZED APPRECIATION</Description>
+        <Amount>77616</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>EXCISE TAXES ON INVESTMENT INCOME</Category>
+        <Amount>1058</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

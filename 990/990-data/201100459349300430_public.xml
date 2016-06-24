@@ -1,0 +1,806 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-14T10:43:56-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Wendling Noe Nelson &amp; Johnson LLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>534 S Kansas Ave Suite 1500</AddressLine1>
+        <City>Topeka</City>
+        <State>KS</State>
+        <ZIPCode>666033491</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2009-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>481066643</EIN>
+      <Name>
+        <BusinessNameLine1>Living Center Inc dba Dillon Living Center</BusinessNameLine1>
+      </Name>
+      <NameControl>LIVI</NameControl>
+      <Phone>6206652002</Phone>
+      <USAddress>
+        <AddressLine1>1901 E 23rd</AddressLine1>
+        <City>Hutchinson</City>
+        <State>KS</State>
+        <ZIPCode>67502</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Shawnda Heimerman</Name>
+      <Title>Admin Dir Fin Serv</Title>
+      <Phone>6206652002</Phone>
+      <DateSigned>2011-02-10</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Gary D Knoll</Name>
+      <Phone>7852334226</Phone>
+      <DatePrepared>2011-02-10</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <NameOfPrincipalOfficerPerson>Shawnda Heimerman</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>1901 E 23rd</AddressLine1>
+        <City>Hutchinson</City>
+        <State>KS</State>
+        <ZIPCode>67502</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>4537405</GrossReceipts>
+      <GroupReturnForAffiliates>0</GroupReturnForAffiliates>
+      <Organization501c typeOf501cOrganization="3">X</Organization501c>
+      <WebSite>www.dillonlivingcenter.com</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>1988</YearFormation>
+      <StateLegalDomicile>KS</StateLegalDomicile>
+      <ActivityOrMissionDescription>A facility that provides assisted living, skilled nursing, and long-term care. Living Center, Inc. provides a continuum of care that meets residents' needs with special attention and loving support.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>3</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>0</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>148</TotalNbrEmployees>
+      <TotalNbrVolunteers>20</TotalNbrVolunteers>
+      <TotalGrossUBI>0</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>0</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>273079</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>0</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>4080447</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>4503978</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>1290</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>1040</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>48952</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>32387</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>4403768</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>4537405</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsCY>0</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>2566790</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>3380584</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>0</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>1723356</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>1922851</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>4290146</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>5303435</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>113622</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>-766030</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>1410575</TotalAssetsBOY>
+      <TotalAssetsEOY>1795690</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>372857</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>1263321</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>1037718</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>532369</NetAssetsOrFundBalancesEOY>
+      <MissionDescription>Living Center, Inc. is a long-term care facility dedicated to reflect in all its activities the promotion of wellness and the enrichment of life for the residents.</MissionDescription>
+      <SignificantNewProgramServices>0</SignificantNewProgramServices>
+      <SignificantChange>0</SignificantChange>
+      <Expense>2991718</Expense>
+      <Revenue>2908401</Revenue>
+      <Description>Long-Term Health Care - Health care services include services commonly perfomed by or under the immediate supervision of a registered professional nurse and additional licensed nursing personnell for individuals requiring 24 hour a day care and assistance.</Description>
+      <Activity2>
+        <Expense>1506357</Expense>
+        <Revenue>643354</Revenue>
+        <Description>Assisted Living - Is designed to serve individuals who are ambulatory or independently mobile, but have decreased physical capabilities, and who require some assistance with the activities of daily living. The period of time during which care is required is related to the individual condition of the resident.</Description>
+      </Activity2>
+      <Activity3>
+        <Expense>384768</Expense>
+        <Revenue>952223</Revenue>
+        <Description>Skilled Nursing Unit - Skilled nursing care is available to any resident who meets the skilled criteria.</Description>
+      </Activity3>
+      <TotalProgramServiceExpense>4882843</TotalProgramServiceExpense>
+      <DescribedIn501C3 referenceDocumentId="RetDoc1039100001">1</DescribedIn501C3>
+      <ScheduleBRequired>0</ScheduleBRequired>
+      <PoliticalActivities>0</PoliticalActivities>
+      <LobbyingActivities>0</LobbyingActivities>
+      <DonorAdvisedFunds referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="RetDoc1040000001">0</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="RetDoc1040000001">0</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="RetDoc1040000001">0</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="RetDoc1040000001">0</TermOrPermanentEndowments>
+      <BalanceSheetAmountsReported referenceDocumentId="RetDoc1040000001">1</BalanceSheetAmountsReported>
+      <IndependentAuditFinancialStmt referenceDocumentId="RetDoc1040000001">0</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="RetDoc1040000001">1</ConsolidatedAuditFinancialStmt>
+      <School>0</School>
+      <ForeignOffice>0</ForeignOffice>
+      <ForeignActivities>0</ForeignActivities>
+      <MoreThan5000KToOrganizations>0</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>0</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>0</ProfessionalFundraising>
+      <FundraisingActivities>0</FundraisingActivities>
+      <Gaming>0</Gaming>
+      <Hospital>0</Hospital>
+      <GrantsToOrganizations>0</GrantsToOrganizations>
+      <GrantsToIndividuals>0</GrantsToIndividuals>
+      <ScheduleJRequired referenceDocumentId="RetDoc1042400001">1</ScheduleJRequired>
+      <TaxExemptBonds>0</TaxExemptBonds>
+      <ExcessBenefitTransaction referenceDocumentId="RetDoc1042800001">0</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction referenceDocumentId="RetDoc1042800001">0</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP referenceDocumentId="RetDoc1042800001">0</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson referenceDocumentId="RetDoc1042800001">0</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization referenceDocumentId="RetDoc1042800001">0</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember referenceDocumentId="RetDoc1042800001">0</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp referenceDocumentId="RetDoc1042800001">1</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>0</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>0</DeductibleContributionsOfArt>
+      <Terminated>0</Terminated>
+      <PartialLiquidation>0</PartialLiquidation>
+      <DisregardedEntity referenceDocumentId="RetDoc1043400001">0</DisregardedEntity>
+      <RelatedEntity referenceDocumentId="RetDoc1043400001">1</RelatedEntity>
+      <RelatedOrgControlledEntity referenceDocumentId="RetDoc1043400001">0</RelatedOrgControlledEntity>
+      <TransfersToExemptNonChrtblOrg referenceDocumentId="RetDoc1043400001">0</TransfersToExemptNonChrtblOrg>
+      <ActivitiesConductedPartnership referenceDocumentId="RetDoc1043400001">0</ActivitiesConductedPartnership>
+      <ScheduleORequired>1</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>5</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <ComplianceWithBackupWitholding>1</ComplianceWithBackupWitholding>
+      <NumberOfEmployees>148</NumberOfEmployees>
+      <EmploymentTaxReturnsFiled>1</EmploymentTaxReturnsFiled>
+      <UnrelatedBusinessIncome>0</UnrelatedBusinessIncome>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>0</TaxablePartyNotification>
+      <NonDeductibleContributions>0</NonDeductibleContributions>
+      <QuidProQuoContributions>0</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>0</Form8282PropertyDisposedOf>
+      <FundsToPayPremiums>0</FundsToPayPremiums>
+      <PremiumsPaid>0</PremiumsPaid>
+      <NbrVotingGoverningBodyMembers>3</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>0</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>0</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>0</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>0</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>0</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>0</MembersOrStockholders>
+      <ElectionOfBoardMembers>0</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>0</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>1</MinutesOfGoverningBody>
+      <MinutesOfCommittees>1</MinutesOfCommittees>
+      <OfficerMailingAddress>0</OfficerMailingAddress>
+      <LocalChapters>0</LocalChapters>
+      <Form990ProvidedToGoverningBody>1</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>1</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>1</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>1</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>1</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>1</DocumentRetentionPolicy>
+      <CompensationProcessCEO>0</CompensationProcessCEO>
+      <CompensationProcessOther>0</CompensationProcessOther>
+      <InvestmentInJointVenture>0</InvestmentInJointVenture>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>Shawnda Heimerman Interim CFOAdministrative Director of Finance Services</BusinessNameLine1>
+        </NameBusiness>
+        <TelephoneNumber>6206652002</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>1701 E 23rd</AddressLine1>
+          <City>Hutchinson</City>
+          <State>KS</State>
+          <ZIPCode>67502</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <NoListedPersonsCompensated>X</NoListedPersonsCompensated>
+      <Form990PartVIISectionA>
+        <NamePerson>Linda Harrison</NamePerson>
+        <Title>President</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>370443</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>19295</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>James McComas</NamePerson>
+        <Title>Secretary</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>160218</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>19181</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>David Busatti</NamePerson>
+        <Title>Treasurer</Title>
+        <AverageHoursPerWeek>0.50</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>122006</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>4713</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>0</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>652667</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>43189</TotalOtherCompensation>
+      <NumberIndividualsGT100K>0</NumberIndividualsGT100K>
+      <FormersListed>0</FormersListed>
+      <TotalCompGT150K>1</TotalCompGT150K>
+      <CompensationFromOtherSources>0</CompensationFromOtherSources>
+      <NumberOfContractorsGT100K>0</NumberOfContractorsGT100K>
+      <ProgramServiceRevenue>
+        <Description>Long Term Care</Description>
+        <BusinessCode>623000</BusinessCode>
+        <TotalRevenueColumn>2908400</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>2908400</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>Skilled Nursing Care</Description>
+        <BusinessCode>623000</BusinessCode>
+        <TotalRevenueColumn>952224</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>952224</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>Assisted Living</Description>
+        <BusinessCode>623000</BusinessCode>
+        <TotalRevenueColumn>643354</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>643354</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>4503978</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>1040</TotalRevenueColumn>
+        <ExclusionAmount>1040</ExclusionAmount>
+      </InvestmentIncome>
+      <OtherRevenueMisc>
+        <Description>Concessions and Cafete</Description>
+        <BusinessCode>623000</BusinessCode>
+        <TotalRevenueColumn>32387</TotalRevenueColumn>
+        <ExclusionAmount>32387</ExclusionAmount>
+      </OtherRevenueMisc>
+      <TotalOtherRevenue>32387</TotalOtherRevenue>
+      <TotalRevenue>
+        <TotalRevenueColumn>4537405</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>4503978</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>0</UnrelatedBusinessRevenue>
+        <ExclusionAmount>33427</ExclusionAmount>
+      </TotalRevenue>
+      <OtherSalariesAndWages>
+        <Total>2639783</Total>
+        <ProgramServices>2376291</ProgramServices>
+        <ManagementAndGeneral>263492</ManagementAndGeneral>
+      </OtherSalariesAndWages>
+      <PensionPlanContributions>
+        <Total>46862</Total>
+        <ProgramServices>39385</ProgramServices>
+        <ManagementAndGeneral>7477</ManagementAndGeneral>
+      </PensionPlanContributions>
+      <OtherEmployeeBenefits>
+        <Total>527127</Total>
+        <ProgramServices>496364</ProgramServices>
+        <ManagementAndGeneral>30763</ManagementAndGeneral>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>166812</Total>
+        <ProgramServices>148069</ProgramServices>
+        <ManagementAndGeneral>18743</ManagementAndGeneral>
+      </PayrollTaxes>
+      <FeesForServicesLegal>
+        <Total>20594</Total>
+        <ManagementAndGeneral>20594</ManagementAndGeneral>
+      </FeesForServicesLegal>
+      <FeesForServicesOther>
+        <Total>12771</Total>
+        <ManagementAndGeneral>12771</ManagementAndGeneral>
+      </FeesForServicesOther>
+      <Advertising>
+        <Total>13643</Total>
+        <ManagementAndGeneral>13643</ManagementAndGeneral>
+      </Advertising>
+      <OfficeExpenses>
+        <Total>13351</Total>
+        <ProgramServices>1846</ProgramServices>
+        <ManagementAndGeneral>11505</ManagementAndGeneral>
+      </OfficeExpenses>
+      <Occupancy>
+        <Total>443561</Total>
+        <ProgramServices>443561</ProgramServices>
+      </Occupancy>
+      <Travel>
+        <Total>478</Total>
+        <ProgramServices>239</ProgramServices>
+        <ManagementAndGeneral>239</ManagementAndGeneral>
+      </Travel>
+      <DepreciationDepletion>
+        <Total>32292</Total>
+        <ProgramServices>32292</ProgramServices>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>100845</Total>
+        <ProgramServices>100845</ProgramServices>
+      </Insurance>
+      <OtherExpenses>
+        <Description>Therapy Services</Description>
+        <Total>276647</Total>
+        <ProgramServices>276647</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Purchased Services</Description>
+        <Total>223586</Total>
+        <ProgramServices>202647</ProgramServices>
+        <ManagementAndGeneral>20939</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Minor Equipment &amp; Suppl</Description>
+        <Total>218659</Total>
+        <ProgramServices>215979</ProgramServices>
+        <ManagementAndGeneral>2680</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Food Expense</Description>
+        <Total>211618</Total>
+        <ProgramServices>211618</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Bad Debt Expense</Description>
+        <Total>199590</Total>
+        <ProgramServices>199590</ProgramServices>
+      </OtherExpenses>
+      <AllOtherExpenses>
+        <Total>155216</Total>
+        <ProgramServices>137470</ProgramServices>
+        <ManagementAndGeneral>17746</ManagementAndGeneral>
+      </AllOtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>5303435</Total>
+        <ProgramServices>4882843</ProgramServices>
+        <ManagementAndGeneral>420592</ManagementAndGeneral>
+        <Fundraising>0</Fundraising>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>250</BOY>
+        <EOY>250</EOY>
+      </CashNonInterestBearing>
+      <SavingsAndTempCashInvestments>
+        <BOY>145906</BOY>
+        <EOY>627800</EOY>
+      </SavingsAndTempCashInvestments>
+      <AccountsReceivable>
+        <BOY>935861</BOY>
+        <EOY>885381</EOY>
+      </AccountsReceivable>
+      <InventoriesForSaleOrUse>
+        <BOY>4988</BOY>
+        <EOY>12498</EOY>
+      </InventoriesForSaleOrUse>
+      <PrepaidExpensesDeferredCharges>
+        <BOY>153035</BOY>
+        <EOY>118785</EOY>
+      </PrepaidExpensesDeferredCharges>
+      <LandBuildingsEquipmentBasis>562890</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>411914</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>170535</BOY>
+        <EOY>150976</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <TotalAssets>
+        <BOY>1410575</BOY>
+        <EOY>1795690</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>372857</BOY>
+        <EOY>1263321</EOY>
+      </AccountsPayableAccruedExpenses>
+      <TotalLiabilities>
+        <BOY>372857</BOY>
+        <EOY>1263321</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>1037718</BOY>
+        <EOY>532369</EOY>
+      </UnrestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>1037718</BOY>
+        <EOY>532369</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>1410575</BOY>
+        <EOY>1795690</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>0</AccountantCompileOrReview>
+      <FSAudited>1</FSAudited>
+      <AuditCommittee>1</AuditCommittee>
+      <FinancialStatementConsolidated>X</FinancialStatementConsolidated>
+      <FederalGrantAuditRequired>0</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc1039100001">
+      <PubliclySupportedOrg509a2>X</PubliclySupportedOrg509a2>
+      <GiftsGrantsContribReceived509>
+        <CurrentTaxYearMinus4Years>303723</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>756335</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>234559</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>273079</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>260681</CurrentTaxYear>
+        <Total>1828377</Total>
+      </GiftsGrantsContribReceived509>
+      <GrossReceiptsFromAdmissions>
+        <CurrentTaxYearMinus4Years>3521734</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>3669600</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>3614333</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>4080447</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>4503978</CurrentTaxYear>
+        <Total>19390092</Total>
+      </GrossReceiptsFromAdmissions>
+      <Total509>
+        <CurrentTaxYearMinus4Years>3825457</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>4425935</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>3848892</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>4353526</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>4764659</CurrentTaxYear>
+        <Total>21218469</Total>
+      </Total509>
+      <AmtsRecdFromDisqualPersons>
+        <Total>0</Total>
+      </AmtsRecdFromDisqualPersons>
+      <AmtsFromSubstContributors>
+        <Total>0</Total>
+      </AmtsFromSubstContributors>
+      <SupportFromDQPsEtc>
+        <Total>0</Total>
+      </SupportFromDQPsEtc>
+      <PublicSupportTotal509>21218469</PublicSupportTotal509>
+      <GrossInvestmentIncome509>
+        <CurrentTaxYearMinus4Years>1702</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>1593</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>1634</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>1290</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>1040</CurrentTaxYear>
+        <Total>7259</Total>
+      </GrossInvestmentIncome509>
+      <InvestmentIncomeAndUBTI>
+        <CurrentTaxYearMinus4Years>1702</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>1593</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>1634</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>1290</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>1040</CurrentTaxYear>
+        <Total>7259</Total>
+      </InvestmentIncomeAndUBTI>
+      <OtherIncome509>
+        <CurrentTaxYear>32387</CurrentTaxYear>
+        <Total>32387</Total>
+      </OtherIncome509>
+      <TotalSupportTotal>
+        <CurrentTaxYearMinus4Years>3827159</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>4427528</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>3850526</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>4354816</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>4798086</CurrentTaxYear>
+        <Total>21258115</Total>
+      </TotalSupportTotal>
+      <PublicSupportPercentage509>0.99810</PublicSupportPercentage509>
+      <PriorYearSupportPercentage>0.99960</PriorYearSupportPercentage>
+      <InvestmentIncomePercentage>0.00030</InvestmentIncomePercentage>
+      <PriorYrInvestIncomePercentage>0.00040</PriorYrInvestIncomePercentage>
+      <ThirtyThreePercntTestsCY509>X</ThirtyThreePercntTestsCY509>
+    </IRS990ScheduleA>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <OtherLandBuildings>
+        <OtherCostOrOtherBasis>562890</OtherCostOrOtherBasis>
+        <Depreciation>411914</Depreciation>
+        <BookValue>150976</BookValue>
+      </OtherLandBuildings>
+      <TotalOfBookValueLandBuildings>150976</TotalOfBookValueLandBuildings>
+      <TotalRevenue>4537405</TotalRevenue>
+      <TotalExpenses>5303435</TotalExpenses>
+      <ExcessOrDeficitForYear>-766030</ExcessOrDeficitForYear>
+      <OtherAmount>260681</OtherAmount>
+      <TotalAdjustments>260681</TotalAdjustments>
+      <ExcessOrDeficitPerFS>-505349</ExcessOrDeficitPerFS>
+      <TotRevenueEtcAuditedFinclStmt>4337815</TotRevenueEtcAuditedFinclStmt>
+      <RevenueNotRptdF990>0</RevenueNotRptdF990>
+      <RevenueSubtotal>4337815</RevenueSubtotal>
+      <OtherRevenuesNotIncluded>199590</OtherRevenuesNotIncluded>
+      <RevenueNotRptdOnFinStmt>199590</RevenueNotRptdOnFinStmt>
+      <TotalRevenuePerForm990>4537405</TotalRevenuePerForm990>
+      <TotExpensesEtcAuditedFinclStmt>5103845</TotExpensesEtcAuditedFinclStmt>
+      <ExpensesNotRptdF990>0</ExpensesNotRptdF990>
+      <ExpensesSubtotal>5103845</ExpensesSubtotal>
+      <OtherExpensesNotIncluded>199590</OtherExpensesNotIncluded>
+      <ExpensesNotRptdOnFinStmt>199590</ExpensesNotRptdOnFinStmt>
+      <TotalExpensesPerForm990>5303435</TotalExpensesPerForm990>
+      <Form990ScheduleDPartXIV>
+        <Identifier>Part X:</Identifier>
+        <ReturnReference>Description of Uncertain Tax Positions Under FIN 48:</ReturnReference>
+        <Explanation>N/A</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>Part XI, Line 8 - Other Adjustments:</Identifier>
+        <Explanation>Transfers from Promise Regional Medical Center - Hutchinson rent credit: 260681.</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>Part XII, Line 4b - Other Adjustments:</Identifier>
+        <Explanation>Provision for Uncollectibles: 199590.</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>Part XIII, Line 4b - Other Adjustments:</Identifier>
+        <Explanation>Provision for Uncollectibles: 199590.</Explanation>
+      </Form990ScheduleDPartXIV>
+    </IRS990ScheduleD>
+    <IRS990ScheduleJ documentId="RetDoc1042400001">
+      <ClubDuesOrFees>X</ClubDuesOrFees>
+      <WrittenPolicyReTAndEExpenses>1</WrittenPolicyReTAndEExpenses>
+      <SubstantiationRequired>1</SubstantiationRequired>
+      <CompensationCommittee>X</CompensationCommittee>
+      <IndependentConsultant>X</IndependentConsultant>
+      <WrittenEmploymentContract>X</WrittenEmploymentContract>
+      <CompensationSurvey>X</CompensationSurvey>
+      <BoardOrCommitteeApproval>X</BoardOrCommitteeApproval>
+      <SeverancePayment>0</SeverancePayment>
+      <SupplementalNonqualRetirePlan>0</SupplementalNonqualRetirePlan>
+      <EquityBasedCompArrangement>0</EquityBasedCompArrangement>
+      <CompBasedOnRevenueOfFilingOrg>0</CompBasedOnRevenueOfFilingOrg>
+      <CompBasedOnRevenueRelatedOrgs>0</CompBasedOnRevenueRelatedOrgs>
+      <CompBasedNetEarningsFilingOrg>0</CompBasedNetEarningsFilingOrg>
+      <CompBasedNetEarningsRelateOrgs>0</CompBasedNetEarningsRelateOrgs>
+      <AnyNonFixedPayments>0</AnyNonFixedPayments>
+      <InitialContractException>0</InitialContractException>
+      <Form990ScheduleJPartII>
+        <NameBusiness>
+          <BusinessNameLine1>Linda Harrison</BusinessNameLine1>
+        </NameBusiness>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>320440</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>50003</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>16120</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>3175</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>0</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>389738</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>152361</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NameBusiness>
+          <BusinessNameLine1>James McComas</BusinessNameLine1>
+        </NameBusiness>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>160218</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>11172</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>8009</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>0</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>179399</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>83194</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartIII>
+        <ReturnReference>Part I, Line 1a</ReturnReference>
+        <Explanation>Country club and social club dues are paid for Linda Harrison by a related organization (Promise Regional Medical Center - Hutchinson).</Explanation>
+      </Form990ScheduleJPartIII>
+    </IRS990ScheduleJ>
+    <IRS990ScheduleL documentId="RetDoc1042800001">
+      <Form990ScheduleLPartIV>
+        <NameOfInterestedPerson>
+          <NamePerson>Linda Harrison President Living Cen</NamePerson>
+        </NameOfInterestedPerson>
+        <Relationship>Linda Harrison President and CEO Promise Regional Medical Center, Inc.</Relationship>
+        <AmountOfTransaction>0</AmountOfTransaction>
+        <SharingOfRevenues>0</SharingOfRevenues>
+      </Form990ScheduleLPartIV>
+      <Form990ScheduleLPartIV>
+        <NameOfInterestedPerson>
+          <NamePerson>David Busatti Treasurer Living Cent</NamePerson>
+        </NameOfInterestedPerson>
+        <Relationship>David Busatti CFO Promise Regional Medical Center, Inc.</Relationship>
+        <AmountOfTransaction>0</AmountOfTransaction>
+        <SharingOfRevenues>0</SharingOfRevenues>
+      </Form990ScheduleLPartIV>
+    </IRS990ScheduleL>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section B, line 11</Identifier>
+        <Explanation>A copy of Form 990 is made available to the governing board prior to it being filed. A review is not conducted.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section B, line 12c</Identifier>
+        <Explanation>All employees are required to sign a compliance certification at least annually stating that they acknowledge that the Corporate Compliance Program and Corporate Code of Conduct have been explained and that they are in compliance with its requirements - which include conflict of interest. Board of Directors are also required annually to sign a Form 990 Board questionnaire.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Explanation>Executive compensation is handled with the assistance of an independent compensation consultant who works with the Board of Directors to establish executive pay and benefits. A national consulting firm was engaged to conduct a comprehensive wage study, which included executive level positions. They gathered and analyzed comparative compensation data and made a recommendation to the chairperson of the board for use with the executieve board, which serves as the compensation committee. The CEO base pay is determined by the Board based on market data and executive performance. The CEO bonus is determined by the Board based on hospital and CEO performance, in accordance with the guidelines outlined in the employment agreement.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section C, line 19</Identifier>
+        <Explanation>The Oganization provides Form 990 to the public upon request. The Organization does not currently provide access to governing documents, conflict of interest policy or financial statements.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part XI, Line 2C:</Identifier>
+        <ReturnReference>Review of Financial Statements</ReturnReference>
+        <Explanation>The finance committee assumes the responsibility for the oversight of the audited financial statements and selection of the independent accountant.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+    <IRS990ScheduleR documentId="RetDoc1043400001">
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>Promise Regional Medical Center Hutchinson Inc</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>1701 E 23rd</AddressLine1>
+          <City>Hutchinson</City>
+          <State>KS</State>
+          <ZIPCode>67502</ZIPCode>
+        </AddressUS>
+        <EIN>480774005</EIN>
+        <PrimaryActivities>Accute Care Hospital</PrimaryActivities>
+        <LegalDomicileState>KS</LegalDomicileState>
+        <ExemptCodeSection>501(c)(3)</ExemptCodeSection>
+        <PublicCharityStatus>3</PublicCharityStatus>
+        <DirectControllingEntityNA>N/A</DirectControllingEntityNA>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>Horizons Mental Health Center</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>1600 N Lorraine</AddressLine1>
+          <City>Hutchinson</City>
+          <State>KS</State>
+          <ZIPCode>67501</ZIPCode>
+        </AddressUS>
+        <EIN>480970362</EIN>
+        <PrimaryActivities>Licensed community mental health center</PrimaryActivities>
+        <LegalDomicileState>KS</LegalDomicileState>
+        <ExemptCodeSection>501(c)(3)</ExemptCodeSection>
+        <PublicCharityStatus>3</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>Promise Regional Medical Center Hutchinson Inc</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>Main Line Inc</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>1701 E 23rd</AddressLine1>
+          <City>Hutchinson</City>
+          <State>KS</State>
+          <ZIPCode>67502</ZIPCode>
+        </AddressUS>
+        <EIN>486111813</EIN>
+        <PrimaryActivities>Leases personal and real property to 501(c)(3) organization</PrimaryActivities>
+        <LegalDomicileState>KS</LegalDomicileState>
+        <ExemptCodeSection>501(c)(3)</ExemptCodeSection>
+        <PublicCharityStatus>11b</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>Promise Regional Medical Center Hutchinson Inc</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>Hospice of Reno County</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>1701 E 23rd</AddressLine1>
+          <City>Hutchinson</City>
+          <State>KS</State>
+          <ZIPCode>67502</ZIPCode>
+        </AddressUS>
+        <EIN>480927101</EIN>
+        <PrimaryActivities>Hospice and Home Care</PrimaryActivities>
+        <LegalDomicileState>KS</LegalDomicileState>
+        <ExemptCodeSection>501(c)(3)</ExemptCodeSection>
+        <PublicCharityStatus>7</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>Promise Regional Medical Center Hutchinson Inc</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>Promise Regional Medical Center Hutchinson Foundation</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>1701 E 23rd</AddressLine1>
+          <City>Hutchinson</City>
+          <State>KS</State>
+          <ZIPCode>67502</ZIPCode>
+        </AddressUS>
+        <EIN>480891435</EIN>
+        <PrimaryActivities>To raise funds to facilitate the accomplishment of the health care mission</PrimaryActivities>
+        <LegalDomicileState>KS</LegalDomicileState>
+        <ExemptCodeSection>501(c)(3)</ExemptCodeSection>
+        <PublicCharityStatus>11b</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>Promise Regional Medical Center Hutchinson Inc</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartIV>
+        <NameOfRelatedOrg>
+          <BusinessNameLine1>Hutchinson Health Care Services Inc</BusinessNameLine1>
+        </NameOfRelatedOrg>
+        <AddressUS>
+          <AddressLine1>803 E 30th</AddressLine1>
+          <City>Hutchinson</City>
+          <State>KS</State>
+          <ZIPCode>67502</ZIPCode>
+        </AddressUS>
+        <EIN>480970364</EIN>
+        <PrimaryActivity>Durable Medical Equipment</PrimaryActivity>
+        <LegalDomicileState>KS</LegalDomicileState>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>Promise Regional Medical Center Hutchinson Inc</BusinessNameLine1>
+        </DirectControllingEntityName>
+        <TypeOfEntity>C</TypeOfEntity>
+      </Form990ScheduleRPartIV>
+      <ReceiptOfIntAnnRentsRoyalties>0</ReceiptOfIntAnnRentsRoyalties>
+      <GiftGrantOrCapContrToOtherOrg>0</GiftGrantOrCapContrToOtherOrg>
+      <GiftGrantOrCapContrFrOtherOrg>0</GiftGrantOrCapContrFrOtherOrg>
+      <LoansOrGuaranteesToOtherOrg>0</LoansOrGuaranteesToOtherOrg>
+      <LoansOrGuaranteesFromOtherOrg>0</LoansOrGuaranteesFromOtherOrg>
+      <SaleOfAssetsToOtherOrg>0</SaleOfAssetsToOtherOrg>
+      <PurchaseOfAssetsFromOtherOrg>0</PurchaseOfAssetsFromOtherOrg>
+      <ExchangeOfAssets>1</ExchangeOfAssets>
+      <RentalOfFacilitiesToOtherOrgs>0</RentalOfFacilitiesToOtherOrgs>
+      <RentalOfFacilitiesFrOtherOrgs>1</RentalOfFacilitiesFrOtherOrgs>
+      <PerformOfServicesForOtherOrgs>0</PerformOfServicesForOtherOrgs>
+      <PerformOfServicesByOtherOrgs>0</PerformOfServicesByOtherOrgs>
+      <SharingOfFacilities>0</SharingOfFacilities>
+      <SharingOfPaidEmployees>1</SharingOfPaidEmployees>
+      <ReimbursementPaidToOtherOrg>0</ReimbursementPaidToOtherOrg>
+      <ReimbursementPaidByOtherOrg>1</ReimbursementPaidByOtherOrg>
+      <OtherTransferToOtherOrg>0</OtherTransferToOtherOrg>
+      <OtherTransferFromOtherOrg>0</OtherTransferFromOtherOrg>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>Promise Regional Medical Center Hutchinson Inc</BusinessNameLine1>
+        </NameOfOtherOrganization>
+        <TransactionType>J</TransactionType>
+        <AmountInvolved>260681</AmountInvolved>
+      </TransactionsRelatedOrgsTable>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>Promise Regional Medical Center - Hutchinson Foundation</BusinessNameLine1>
+        </NameOfOtherOrganization>
+        <TransactionType>H</TransactionType>
+        <AmountInvolved>9044</AmountInvolved>
+      </TransactionsRelatedOrgsTable>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>Promise Regional Medical Center Hutchinson Inc</BusinessNameLine1>
+        </NameOfOtherOrganization>
+        <TransactionType>N</TransactionType>
+        <AmountInvolved>540697</AmountInvolved>
+      </TransactionsRelatedOrgsTable>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>Promise Regional Medical Center Hutchinson Inc</BusinessNameLine1>
+        </NameOfOtherOrganization>
+        <TransactionType>P</TransactionType>
+        <AmountInvolved>28156</AmountInvolved>
+      </TransactionsRelatedOrgsTable>
+    </IRS990ScheduleR>
+  </ReturnData>
+</Return>

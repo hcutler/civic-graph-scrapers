@@ -1,0 +1,635 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-08-17T08:55:52-00:00</Timestamp>
+    <TaxPeriodEndDate>2010-03-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Ray U Mills CPA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>30A Grapevine Road</AddressLine1>
+        <City>Dunbarton</City>
+        <State>NH</State>
+        <ZIPCode>03046</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-04-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>020223604</EIN>
+      <Name>
+        <BusinessNameLine1>MILFORD HOME FOR AGED WOMEN DBA PILLSBURY HOME</BusinessNameLine1>
+      </Name>
+      <NameControl>MILF</NameControl>
+      <Phone>6036721232</Phone>
+      <USAddress>
+        <AddressLine1>95 HIGH STREET</AddressLine1>
+        <City>MILFORD</City>
+        <State>NH</State>
+        <ZIPCode>03055</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>CECILE STEELE</Name>
+      <Title>TREASURER</Title>
+      <DateSigned>2010-08-17</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>RAY U MILLS</Name>
+      <Phone>6037741040</Phone>
+      <DatePrepared>2010-08-17</DatePrepared>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="12">
+    <IRS990PF referenceDocumentId="990PF:203 990PF:214990PF:215 990PF:216" documentId="990PF" softwareId="09000123" softwareVersion="2009.0.12">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>1064978</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>4960</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>11</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>11</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>33814</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>33814</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>33814</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="990PF:103">55522</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>115870</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>55522</CapitalGainNetIncmNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="990PF:105">463545</OtherIncomeRevAndExpnss>
+        <TotalRevenueAndExpenses>557852</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>89347</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>33814</TotalAdjustedNetIncome>
+        <OthEmplSlrsWgsRevAndExpnss>209811</OthEmplSlrsWgsRevAndExpnss>
+        <OthEmplSlrsWgsAdjNetIncm>209811</OthEmplSlrsWgsAdjNetIncm>
+        <PensionEmplBnftRevAndExpnss>16337</PensionEmplBnftRevAndExpnss>
+        <PensionEmplBnftAdjNetIncm>16337</PensionEmplBnftAdjNetIncm>
+        <AccountingFeesRevAndExpnss referenceDocumentId="990PF:107">8600</AccountingFeesRevAndExpnss>
+        <AccountingFeesAdjNetIncm>8600</AccountingFeesAdjNetIncm>
+        <InterestRevAndExpnss>123</InterestRevAndExpnss>
+        <TaxesRevAndExpnss referenceDocumentId="990PF:109">18242</TaxesRevAndExpnss>
+        <TaxesAdjNetIncm>18242</TaxesAdjNetIncm>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId="990PF:206">7297</DeprecAndDepletionRevAndExpnss>
+        <DeprecAndDepletionAdjNetIncm>7298</DeprecAndDepletionAdjNetIncm>
+        <OccupancyRevAndExpnss>41269</OccupancyRevAndExpnss>
+        <OccupancyAdjNetIncm>41269</OccupancyAdjNetIncm>
+        <TravConfMeetingRevAndExpnss>251</TravConfMeetingRevAndExpnss>
+        <TravConfMeetingAdjNetIncm>251</TravConfMeetingAdjNetIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="990PF:110">40605</OtherExpensesRevAndExpnss>
+        <OtherExpensesAdjNetIncm>40605</OtherExpensesAdjNetIncm>
+        <TotOprExpensesRevAndExpnss>342535</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>342413</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>50</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>50</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>342585</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>342413</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>50</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>215267</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>89347</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>13023</CashBOY>
+        <CashEOY>9062</CashEOY>
+        <CashEOYFMV>9062</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>12059</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>77285</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>77285</SavingsAndTempCashInvstEOYFMV>
+        <AccountsReceivable>8888</AccountsReceivable>
+        <AccountsReceivableBOY>8174</AccountsReceivableBOY>
+        <AccountsReceivableEOY>8888</AccountsReceivableEOY>
+        <AccountsReceivableEOYFMV>8888</AccountsReceivableEOYFMV>
+        <PrepaidExpensesBOY>7297</PrepaidExpensesBOY>
+        <PrepaidExpensesEOY>7297</PrepaidExpensesEOY>
+        <PrepaidExpensesEOYFMV>7297</PrepaidExpensesEOYFMV>
+        <InvestmentsCorpStockBOY>273679</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="990PF:120">416160</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>416160</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>363392</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="990PF:121">332095</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>332095</InvestmentsCorpBondsEOYFMV>
+        <InvestmentsOtherBOY>86269</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="990PF:209">117362</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>117362</InvestmentsOtherEOYFMV>
+        <LandBuildingAndEquipmentBasis>243344</LandBuildingAndEquipmentBasis>
+        <AccumDeprecLandBldgAndEquip>146515</AccumDeprecLandBldgAndEquip>
+        <LandBuildingAndEquipmentBOY>100200</LandBuildingAndEquipmentBOY>
+        <LandBuildingAndEquipmentEOY referenceDocumentId="990PF:210">96829</LandBuildingAndEquipmentEOY>
+        <LandBuildingAndEquipmentEOYFMV>96829</LandBuildingAndEquipmentEOYFMV>
+        <TotalAssetsBOY>864093</TotalAssetsBOY>
+        <TotalAssetsEOY>1064978</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>1064978</TotalAssetsEOYFMV>
+        <AccountsPayableBOY>19330</AccountsPayableBOY>
+        <AccountsPayableEOY>4948</AccountsPayableEOY>
+        <TotalLiabilitiesBOY>19330</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>4948</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>612038</UnrestrictedBOY>
+        <UnrestrictedEOY>748027</UnrestrictedEOY>
+        <PermanentlyRestrictedBOY>232725</PermanentlyRestrictedBOY>
+        <PermanentlyRestrictedEOY>312003</PermanentlyRestrictedEOY>
+        <TotalNetAssetsBOY>844763</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>1060030</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>864093</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>1064978</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>844763</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>215267</ExcessOfRevenueOverExpenses>
+        <Subtotal>1060030</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>1060030</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>STOCKS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2000-01-01</DateAcquired>
+          <DateSold>2010-03-03</DateSold>
+          <GrossSalesPrice>115870</GrossSalesPrice>
+          <CostOrOtherBasis>60348</CostOrOtherBasis>
+          <GainOrLoss>55522</GainOrLoss>
+          <GainsMinusExcessOrLosses>55522</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>55522</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <QualifyingDistributionsYear1>18367</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>855832</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>000.021461</DistributionRatioYear1>
+        <TotalDistributionRatio>000.021461</TotalDistributionRatio>
+        <AverageDistributionRatio>000.021461</AverageDistributionRatio>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <ExemptOperatingFoundations>X</ExemptOperatingFoundations>
+        <InvestmentIncomeExciseTaxNA>N/A</InvestmentIncomeExciseTaxNA>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>NH</StatesFiledWith>
+        <PrivateOperatingFoundation>true</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>PILLSBURY HOME</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>6036721232</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>95 HIGH STREET</AddressLine1>
+          <City>MILFORD</City>
+          <State>NH</State>
+          <ZIPCode>03055</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CLARK LOGAN</PersonName>
+          <USAddress>
+            <AddressLine1>20 OAK DRIVE</AddressLine1>
+            <City>AMHERST</City>
+            <State>NH</State>
+            <ZIPCode>03031</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>LINDA FERGUSON</PersonName>
+          <USAddress>
+            <AddressLine1>130 UNION STREET</AddressLine1>
+            <City>MILFORD</City>
+            <State>NH</State>
+            <ZIPCode>03055</ZIPCode>
+          </USAddress>
+          <Title>VICE PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>SUSAN TROMBLY</PersonName>
+          <USAddress>
+            <AddressLine1>NORTH RIVER ROAD</AddressLine1>
+            <City>MILFORD</City>
+            <State>NH</State>
+            <ZIPCode>03055</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CECILE STEELE</PersonName>
+          <USAddress>
+            <AddressLine1>135 MASON ROAD</AddressLine1>
+            <City>MILFORD</City>
+            <State>NH</State>
+            <ZIPCode>03055</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>6500</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CLAIRE BLOOMFIELD</PersonName>
+          <USAddress>
+            <AddressLine1>24 OLD COACH LANE</AddressLine1>
+            <City>AMHERST</City>
+            <State>NH</State>
+            <ZIPCode>03031</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>WILLIAM DYER</PersonName>
+          <USAddress>
+            <AddressLine1>6 ORCHARD STREET</AddressLine1>
+            <City>MILFORD</City>
+            <State>NH</State>
+            <ZIPCode>03055</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BERNARD HARDING</PersonName>
+          <USAddress>
+            <AddressLine1>16 JOHNSON STREET</AddressLine1>
+            <City>MILFORD</City>
+            <State>NH</State>
+            <ZIPCode>03055</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>EDWARD MEDLYN</PersonName>
+          <USAddress>
+            <AddressLine1>MEDLYN STREET</AddressLine1>
+            <City>MILFORD</City>
+            <State>NH</State>
+            <ZIPCode>03055</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CLAIRE REEVER</PersonName>
+          <USAddress>
+            <AddressLine1>13 GLEN COURT</AddressLine1>
+            <City>AMHERST</City>
+            <State>NH</State>
+            <ZIPCode>03031</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>NANCY SCHOOLEY</PersonName>
+          <USAddress>
+            <AddressLine1>98 OAK STREET</AddressLine1>
+            <City>MILFORD</City>
+            <State>NH</State>
+            <ZIPCode>03055</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOAN WHITTEN</PersonName>
+          <USAddress>
+            <AddressLine1>6 PROSPECT STREET</AddressLine1>
+            <City>MILFORD</City>
+            <State>NH</State>
+            <ZIPCode>03055</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <TotNumberOfOthEmplPaidOver50k>1</TotNumberOfOthEmplPaidOver50k>
+        <TotNumberOfCntrctPaidOver50k>1</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>ENTITY PROVIDES CARE FOR THE ELDERLY</Description1>
+        <Expenses1>324536</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>839151</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>11042</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>850193</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>850193</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable referenceDocumentId="990PF:293">12753</CashDeemedCharitable>
+        <NetNoncharitableAssets>837440</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>41872</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>41872</MinimumInvestmentReturn>
+        <DistributableAmountBeforeAdj>41872</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>41872</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>41872</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions referenceDocumentId="990PF:294">50</ExpensesAndContributions>
+        <AmountsPaidAcqCharitableAssets>3926</AmountsPaidAcqCharitableAssets>
+        <QualifyingDistributions>3976</QualifyingDistributions>
+        <AdjQualifyingDistributions>3976</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>41872</DistributableAmountAsAdjusted>
+        <QualifyingDistributions>3976</QualifyingDistributions>
+        <AppliedToCurrentYear>3976</AppliedToCurrentYear>
+        <UndistributedIncomeCY>37896</UndistributedIncomeCY>
+      </UndistributedIncome>
+      <PrivateOperatingFoundations>
+        <LessorAdjNetIncmMinInvstReturn>
+          <CurrentYear>0</CurrentYear>
+          <Total>0</Total>
+        </LessorAdjNetIncmMinInvstReturn>
+        <QualifyingDistributions>
+          <CurrentYear>3976</CurrentYear>
+          <Year1>18367</Year1>
+          <Year2>5922</Year2>
+          <Year3>339182</Year3>
+          <Total>367447</Total>
+        </QualifyingDistributions>
+        <QlfyDistriMadeDirectly>
+          <CurrentYear>3976</CurrentYear>
+          <Year1>18367</Year1>
+          <Year2>5922</Year2>
+          <Year3>339182</Year3>
+          <Total>367447</Total>
+        </QlfyDistriMadeDirectly>
+        <TotalAssets>
+          <Total>0</Total>
+        </TotalAssets>
+        <TotalAssetsSect4942j3Bi>
+          <Total>0</Total>
+        </TotalAssetsSect4942j3Bi>
+        <TwoThirdsMinInvstReturn>
+          <CurrentYear>27915</CurrentYear>
+          <Year1>28528</Year1>
+          <Year2>34743</Year2>
+          <Year3>32807</Year3>
+          <Total>123993</Total>
+        </TwoThirdsMinInvstReturn>
+        <TotalSupport>
+          <Total>0</Total>
+        </TotalSupport>
+        <LargestSupportFromEO>
+          <Total>0</Total>
+        </LargestSupportFromEO>
+        <GrossInvestmentIncome>
+          <Total>0</Total>
+        </GrossInvestmentIncome>
+      </PrivateOperatingFoundations>
+      <SupplementaryInformation>
+        <ContributingManager>NONE</ContributingManager>
+        <ShareholderManager>NONE</ShareholderManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ALZHEMIMERS ASSOCIATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>ONE</AddressLine1>
+            <City>BEDFORD</City>
+            <State>NH</State>
+            <ZIPCode>03110</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>FINANCIAL ASSISTANCE</PurposeOfGrantOrContribution>
+          <Amount>50</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>50</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <ProgramServiceRevenuePartVII>
+          <Description>FEES FOR SERVICES</Description>
+          <BusinessCode>623000</BusinessCode>
+          <UnrelatedBusinessIncomeAmount>340378</UnrelatedBusinessIncomeAmount>
+        </ProgramServiceRevenuePartVII>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>11</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>33814</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <RelatedOrExemptFunctionIncome>55522</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <OtherRevenueDescribed>
+          <Description>CHANGE IN VALUE OF PORTFOLIO</Description>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>123167</ExclusionAmount>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>340378</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>156992</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>55522</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>552892</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>8</LineNumber>
+          <RelationshipStatement>INCOME FOR SALE OF PORTFOLIO ASSETS</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="990PF:107" softwareId="09000123" softwareVersion="2009.0.12">
+      <AccountingFees>
+        <Category>RAY U MILLS, CPA</Category>
+        <Amount>2100</Amount>
+        <AdjustedNetIncome>2100</AdjustedNetIncome>
+      </AccountingFees>
+      <AccountingFees>
+        <Category>CECILE STEEL</Category>
+        <Amount>6500</Amount>
+        <AdjustedNetIncome>6500</AdjustedNetIncome>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="990PF:206" softwareId="09000123" softwareVersion="2009.0.12">
+      <Depreciation>
+        <DescriptionOfProperty>SEE SCHEDULE 4562</DescriptionOfProperty>
+        <Life>000</Life>
+        <CurrentYearExpense>7297</CurrentYearExpense>
+        <AdjustedNetIncome>7298</AdjustedNetIncome>
+      </Depreciation>
+    </DepreciationSchedule>
+    <GainLossSaleOtherAssetsSch documentId="990PF:103" softwareId="09000123" softwareVersion="2009.0.12">
+      <GainLossSaleOtherAsset>
+        <Name>STOCK</Name>
+        <DateAcquired>2000-01</DateAcquired>
+        <HowAcquired>P</HowAcquired>
+        <DateSold>2010-03</DateSold>
+        <PurchaserName>
+          <Individual>PUBLIC</Individual>
+        </PurchaserName>
+        <GrossSalesPrice>115870</GrossSalesPrice>
+        <Basis>60348</Basis>
+        <TotalNet>55522</TotalNet>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <GeneralExplanationAttachment documentId="990PF:203" softwareId="09000123" softwareVersion="2009.0.12">
+      <GeneralExplanation>
+        <Explanation>Election to NOT claim firstyear special depreciation All Property The Taxpayer elects out of firstyear special depreciation for all depreciable property placed in service during the current tax year.</Explanation>
+      </GeneralExplanation>
+    </GeneralExplanationAttachment>
+    <InvestmentsCorpBondsSchedule documentId="990PF:121" softwareId="09000123" softwareVersion="2009.0.12">
+      <InvestmentsCorpBonds>
+        <EOYBookValue>332095</EOYBookValue>
+        <EOYFMV>332095</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="990PF:120" softwareId="09000123" softwareVersion="2009.0.12">
+      <InvestmentsCorpStock>
+        <NameOfStock>STOCKS AND BONDS</NameOfStock>
+        <EOYBookValue>416160</EOYBookValue>
+        <EOYFMV>416160</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="990PF:209" softwareId="09000123" softwareVersion="2009.0.12">
+      <InvestmentsOther>
+        <CategoryOrItem>MUTUAL FUNDS</CategoryOrItem>
+        <BookValue>117362</BookValue>
+        <EOYFMV>117362</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <LandEtcSchedule2 documentId="990PF:210" softwareId="09000123" softwareVersion="2009.0.12">
+      <LandEtc>
+        <CostOrOtherBasis>243344</CostOrOtherBasis>
+        <AccumulatedDepreciation>146515</AccumulatedDepreciation>
+        <BookValue>96829</BookValue>
+        <EOYFMV>96829</EOYFMV>
+      </LandEtc>
+    </LandEtcSchedule2>
+    <OtherExpensesSchedule documentId="990PF:110" softwareId="09000123" softwareVersion="2009.0.12">
+      <OtherExpenses>
+        <Description>RESIDENTS COSTS</Description>
+        <RevenueAndExpensesPerBooks>31311</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>31311</AdjustedNetIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>INSURANCE</Description>
+        <RevenueAndExpensesPerBooks>6866</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>6866</AdjustedNetIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OFFICERSDIRECTORS INSURANCE</Description>
+        <RevenueAndExpensesPerBooks>1667</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>1667</AdjustedNetIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>ADVERTISING</Description>
+        <RevenueAndExpensesPerBooks>472</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>472</AdjustedNetIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MISCELLANEOUS</Description>
+        <RevenueAndExpensesPerBooks>-1695</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>-1695</AdjustedNetIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OFFICE EXPENSE</Description>
+        <RevenueAndExpensesPerBooks>1984</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>1984</AdjustedNetIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="990PF:105" softwareId="09000123" softwareVersion="2009.0.12">
+      <OtherIncome>
+        <Description>FEES FOR CARE</Description>
+        <RevenueAndExpensesPerBooks>340378</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>CHANGE IN VALUE OF PORTFOLIO</Description>
+        <RevenueAndExpensesPerBooks>123167</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="990PF:109" softwareId="09000123" softwareVersion="2009.0.12">
+      <Taxes>
+        <Category>STATE FEE</Category>
+        <Amount>75</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>75</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>LICENSES</Category>
+        <Amount>210</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>210</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>RENTS</Category>
+        <Amount>126</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>126</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>PAYROLL TAXES</Category>
+        <Amount>17831</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>17831</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

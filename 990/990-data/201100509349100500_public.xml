@@ -1,0 +1,463 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-19T14:06:07-08:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Alex Borowsky CPA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>120 Hickory Cir SW</AddressLine1>
+        <City>Vienna</City>
+        <State>VA</State>
+        <ZIPCode>221805706</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>521557778</EIN>
+      <Name>
+        <BusinessNameLine1>The M B Lewis Charitable Foundation</BusinessNameLine1>
+      </Name>
+      <NameControl>MBLE</NameControl>
+      <USAddress>
+        <AddressLine1>1528 Roxanna Rd NW</AddressLine1>
+        <City>Washington</City>
+        <State>DC</State>
+        <ZIPCode>20012</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Phillip S Lewis</Name>
+      <Title>President</Title>
+      <DateSigned>2011-02-19</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>Alex Borowsky</Name>
+      <Phone>7032555225</Phone>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="3">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>162933</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>4211</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>4211</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>4211</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss>0</NetGainSaleAssetsRevAndExpnss>
+        <TotalRevenueAndExpenses>4211</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>4211</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>4211</TotalAdjustedNetIncome>
+        <TaxesRevAndExpnss referenceDocumentId=" TaxesSchedule">127</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>127</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>127</TaxesDsbrsChrtblPrps>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">237</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>237</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>237</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>364</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>364</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>364</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>7283</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>7283</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>7647</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>364</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>7647</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-3436</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>3847</NetInvestmentIncome>
+        <AdjustedNetIncome>4211</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>12499</CashBOY>
+        <CashEOY>10483</CashEOY>
+        <CashEOYFMV>10483</CashEOYFMV>
+        <InvestmentsCorpStockBOY>87582</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY>86162</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>152450</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>100081</TotalAssetsBOY>
+        <TotalAssetsEOY>96645</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>162933</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>100081</RetainedEarningsBOY>
+        <RetainedEarningsEOY>96645</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>100081</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>96645</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>100081</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>96645</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>100081</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-3436</ExcessOfRevenueOverExpenses>
+        <Subtotal>96645</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>96645</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>77</InvestmentIncomeExciseTax>
+        <Subtotal>77</Subtotal>
+        <TaxBasedOnInvestmentIncome>77</TaxBasedOnInvestmentIncome>
+        <TaxDue>77</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>false</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>DC</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>Phillip S Lewis</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>1528 Roxanna Rd NW</AddressLine1>
+          <City>Washington</City>
+          <State>DC</State>
+          <ZIPCode>200121228</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Bessie C Lewis</PersonName>
+          <USAddress>
+            <AddressLine1>1528 Roxanna Rd NW</AddressLine1>
+            <City>Washington</City>
+            <State>DC</State>
+            <ZIPCode>20012</ZIPCode>
+          </USAddress>
+          <Title>Sec/Treas</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Phillip S Lewis</PersonName>
+          <USAddress>
+            <AddressLine1>1528 Roxanna Rd NW</AddressLine1>
+            <City>Washington</City>
+            <State>DC</State>
+            <ZIPCode>20012</ZIPCode>
+          </USAddress>
+          <Title>President</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>Adas Israel Congregation</Description1>
+        <Expenses1>2000</Expenses1>
+        <Description2>B'nai Israel Congregation</Description2>
+        <Expenses2>2000</Expenses2>
+        <Description3>The Foundation for Jewish Studies</Description3>
+        <Expenses3>1200</Expenses3>
+        <Description4>Ohev Sholom Synagogue</Description4>
+        <Expenses4>1000</Expenses4>
+      </SummaryOfDirectCharitableActy>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>120000</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>10000</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>130000</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>130000</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>1950</CashDeemedCharitable>
+        <NetNoncharitableAssets>128050</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>6403</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>6403</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>77</TaxBasedOnInvestmentIncome>
+        <TotalTax>77</TotalTax>
+        <DistributableAmountBeforeAdj>6326</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>6326</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>6326</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>7647</ExpensesAndContributions>
+        <QualifyingDistributions>7647</QualifyingDistributions>
+        <AdjQualifyingDistributions>7647</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>6326</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear4>8535</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear2>12034</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>10987</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>31556</TotalExcessDistriCarryover>
+        <QualifyingDistributions>7647</QualifyingDistributions>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>6326</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>1321</RemainingDistriFromCorpus>
+        <TotalCorpus>32877</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>32877</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>8535</ExcessFromYear4>
+        <ExcessFromYear2>12034</ExcessFromYear2>
+        <ExcessFromYear1>10987</ExcessFromYear1>
+        <ExcessFromCurrentYear>1321</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>The Foundation for Jewish Studies</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>6101 Montrose Road Ste 206</AddressLine1>
+            <City>Rockville</City>
+            <State>MD</State>
+            <ZIPCode>20852</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General programs</PurposeOfGrantOrContribution>
+          <Amount>1200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Father Flanagan's Boy's Home</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>14100 Crawford Street</AddressLine1>
+            <City>Boys Town</City>
+            <State>NE</State>
+            <ZIPCode>68010</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General programs</PurposeOfGrantOrContribution>
+          <Amount>50</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Ohev Sholom Schul</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1600 Jonquil Ave NW</AddressLine1>
+            <City>Washington</City>
+            <State>DC</State>
+            <ZIPCode>20012</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General programs</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Bnai Israel Congregation</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>6301 Montrose Rd</AddressLine1>
+            <City>Rockville</City>
+            <State>MD</State>
+            <ZIPCode>20852</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General programs</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Yeshiva Tiferes Yisroel</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1271 E 35th St</AddressLine1>
+            <City>Brooklyn</City>
+            <State>NY</State>
+            <ZIPCode>11210</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General programs</PurposeOfGrantOrContribution>
+          <Amount>72</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Be'er Miriam</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1664 East 3rd St</AddressLine1>
+            <City>Brooklyn</City>
+            <State>NY</State>
+            <ZIPCode>11230</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General programs</PurposeOfGrantOrContribution>
+          <Amount>36</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>United States Olympic Committee</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1 Olympic Plaza</AddressLine1>
+            <City>Colorado Springs</City>
+            <State>CO</State>
+            <ZIPCode>80909</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General programs</PurposeOfGrantOrContribution>
+          <Amount>25</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Adas Israel Congregation</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>2850 Quebec Street NW</AddressLine1>
+            <City>Washington</City>
+            <State>DC</State>
+            <ZIPCode>20008</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General programs</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Jewish Federation</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>6101 Montrose Rd</AddressLine1>
+            <City>Rockville</City>
+            <State>MD</State>
+            <ZIPCode>20852</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General programs</PurposeOfGrantOrContribution>
+          <Amount>550</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Beth Sholom Congregation</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>11825 Seven Locks Rd</AddressLine1>
+            <City>Potomac</City>
+            <State>MD</State>
+            <ZIPCode>20854</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General programs</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Ohev Sholom Congregation</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1600 Jonquil Ave NW</AddressLine1>
+            <City>Washington</City>
+            <State>DC</State>
+            <ZIPCode>20012</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <RecipientFoundationStatus>501(c)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General programs</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>7283</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <RelatedOrExemptFunctionIncome>4211</RelatedOrExemptFunctionIncome>
+        </DividendsAndIntFromSecPartVII>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>4211</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>4211</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>4</LineNumber>
+          <RelationshipStatement>Income contributed solely to charitable organizations.</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>3</LineNumber>
+          <RelationshipStatement>Income contributed solely to charitable organizations.</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherExpenses>
+        <Description>Postage</Description>
+        <RevenueAndExpensesPerBooks>50</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>50</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>50</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Office expense</Description>
+        <RevenueAndExpensesPerBooks>129</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>129</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>129</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>misc</Description>
+        <RevenueAndExpensesPerBooks>50</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>50</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>50</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Bank charges</Description>
+        <RevenueAndExpensesPerBooks>8</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>8</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>8</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <Taxes>
+        <Category>DC Treasurer</Category>
+        <Amount>127</Amount>
+        <NetInvestmentIncome>127</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>127</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,1105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-01-17T12:52:08-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-08-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>ROBERT L MAZZA PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>213 ELM STREET</AddressLine1>
+        <City>DEDHAM</City>
+        <State>MA</State>
+        <ZIPCode>020264501</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-09-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>041104325</EIN>
+      <Name>
+        <BusinessNameLine1>BOSTON FIREMEN'S RELIEF FUND</BusinessNameLine1>
+      </Name>
+      <NameControl>BOST</NameControl>
+      <Phone>7815515900</Phone>
+      <USAddress>
+        <AddressLine1>115 SOUTHAMPTON STREET</AddressLine1>
+        <City>BOSTON</City>
+        <State>MA</State>
+        <ZIPCode>02118</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>GEORGE PATUKONIS</Name>
+      <Title>TREASURER</Title>
+      <Phone>6178392753</Phone>
+      <DateSigned>2011-01-15</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>ROBERT L MAZZA CPA MST</Name>
+      <Phone>7813294100</Phone>
+      <DatePrepared>2011-01-15</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="10">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>587534</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>15000</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>981</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>981</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>17325</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>17325</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="RetDoc2213400001">2879</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>148790</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc2001500001">-18864</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>0</OtherIncomeNetInvstIncm>
+        <OtherIncomeAdjNetIncm>-18864</OtherIncomeAdjNetIncm>
+        <TotalRevenueAndExpenses>17321</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>18306</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>-18864</TotalAdjustedNetIncome>
+        <CompOfcrDirTrstRevAndExpnss>23223</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstAdjNetIncm>0</CompOfcrDirTrstAdjNetIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">8400</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>0</AccountingFeesNetInvstIncm>
+        <AccountingFeesAdjNetIncm>0</AccountingFeesAdjNetIncm>
+        <AccountingFeesDsbrsChrtblPrps>0</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc2002300001">2253</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>0</OtherProfFeesNetInvstIncm>
+        <OtherProfFeesAdjNetIncm>0</OtherProfFeesAdjNetIncm>
+        <OtherProfFeesDsbrsChrtblPrps>0</OtherProfFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">3176</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>0</TaxesNetInvstIncm>
+        <TaxesAdjNetIncm>0</TaxesAdjNetIncm>
+        <TaxesDsbrsChrtblPrps>0</TaxesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">78834</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>0</OtherExpensesNetInvstIncm>
+        <OtherExpensesAdjNetIncm>0</OtherExpensesAdjNetIncm>
+        <OtherExpensesDsbrsChrtblPrps>0</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>115886</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>0</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>25974</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>25974</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>141860</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>0</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>25974</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-124539</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>18306</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>20986</CashBOY>
+        <CashEOY>23699</CashEOY>
+        <CashEOYFMV>23699</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>64325</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>33421</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>33421</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsOtherBOY>626977</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc2018100001">530414</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>530414</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>712288</TotalAssetsBOY>
+        <TotalAssetsEOY>587534</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>587534</TotalAssetsEOYFMV>
+        <OtherLiabilitiesBOY referenceDocumentId="RetDoc2065700001">1180</OtherLiabilitiesBOY>
+        <OtherLiabilitiesEOY referenceDocumentId="RetDoc2065700001">965</OtherLiabilitiesEOY>
+        <TotalLiabilitiesBOY>1180</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>965</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>711108</UnrestrictedBOY>
+        <UnrestrictedEOY>579569</UnrestrictedEOY>
+        <TemporarilyRestrictedEOY>7000</TemporarilyRestrictedEOY>
+        <TotalNetAssetsBOY>711108</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>586569</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>712288</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>587534</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>711108</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-124539</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>586569</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>586569</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>40528</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>0</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.0</DistributionRatioYear1>
+        <TotalDistributionRatio>0.0</TotalDistributionRatio>
+        <AverageDistributionRatio>0.0</AverageDistributionRatio>
+        <NetNoncharitableAssets>700679</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>0</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>183</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>183</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>25974</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>183</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>183</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>183</TaxBasedOnInvestmentIncome>
+        <TotalCreditsAndPayments>0</TotalCreditsAndPayments>
+        <TaxDue>183</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>0</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>MA</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>GEORGE PATUKONIS</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>6173433657</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>115 SOUTHAMPTON ST</AddressLine1>
+          <City>BOSTON</City>
+          <State>MA</State>
+          <ZIPCode>02118</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>GEORGE PATUKONIS</PersonName>
+          <USAddress>
+            <AddressLine1>4 POMONA DRIVE</AddressLine1>
+            <City>BROCKTON</City>
+            <State>MA</State>
+            <ZIPCode>02302</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>8580</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>GEORGE PATUKONIS</PersonName>
+          <USAddress>
+            <AddressLine1>4 POMONA DRIVE</AddressLine1>
+            <City>BROCKTON</City>
+            <State>MA</State>
+            <ZIPCode>02302</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>1430</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>STEPHEN G MORTLOCK</PersonName>
+          <USAddress>
+            <AddressLine1>26 WALNUT ST</AddressLine1>
+            <City>QUINCY</City>
+            <State>MA</State>
+            <ZIPCode>02171</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>5885</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>NEAL MULLANE</PersonName>
+          <USAddress>
+            <AddressLine1>402 HOLMES STREET</AddressLine1>
+            <City>HALIFAX</City>
+            <State>MA</State>
+            <ZIPCode>02338</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CHARLES R SANTANGELO</PersonName>
+          <USAddress>
+            <AddressLine1>13 SUNNYSIDE DRIVE</AddressLine1>
+            <City>QUINCY</City>
+            <State>MA</State>
+            <ZIPCode>02169</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>EDMUND STREET</PersonName>
+          <USAddress>
+            <AddressLine1>269 GOLD ST</AddressLine1>
+            <City>SOUTH BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02127</ZIPCode>
+          </USAddress>
+          <Title>FORMER TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>5720</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>FRANCIS G JONES</PersonName>
+          <USAddress>
+            <AddressLine1>48 WOMPATUCK RD</AddressLine1>
+            <City>HINGHAM</City>
+            <State>MA</State>
+            <ZIPCode>02043</ZIPCode>
+          </USAddress>
+          <Title>FORMER TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>1073</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MICHAEL E TIERNEY</PersonName>
+          <USAddress>
+            <AddressLine1>22 AMYS WAYE</AddressLine1>
+            <City>SCITUATE</City>
+            <State>MA</State>
+            <ZIPCode>02066</ZIPCode>
+          </USAddress>
+          <Title>FORMER PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>535</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>581296</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>130053</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>711349</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>711349</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>10670</CashDeemedCharitable>
+        <NetNoncharitableAssets>700679</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>35034</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>35034</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>183</TaxBasedOnInvestmentIncome>
+        <TotalTax>183</TotalTax>
+        <DistributableAmountBeforeAdj>34851</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>34851</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>34851</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>25974</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>25974</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>183</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>25791</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>34851</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear1>40528</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>40528</TotalExcessDistriCarryover>
+        <QualifyingDistributions>25974</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>25974</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>8877</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>8877</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>31651</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>31651</ExcessDistriCyovToNextYear>
+        <ExcessFromYear1>31651</ExcessFromYear1>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>GEORGE PATUKONIS</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>115 SOUTHAMPTON STREET</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02118</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>6173433657</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>APPLICATION OBTAINED FROM FOUNDATION</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>AS INDICATED ON APPLICATION</SubmissionDeadlines>
+          <RestrictionsOnAwards>FAMILY MEMBER OF FIREFIGHTER</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>LEAMON MILLER</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>14 RED PINE ROAD</AddressLine1>
+            <City>HYDE PARK</City>
+            <State>MA</State>
+            <ZIPCode>02136</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>DAVID CUSHING</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>90 FALLON CIRCLE</AddressLine1>
+            <City>BRAINTREE</City>
+            <State>MA</State>
+            <ZIPCode>02184</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>PAIGE STOKINGER</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>87 P STREET</AddressLine1>
+            <City>SOUTH BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02127</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>ALISON CUDDAHY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>83 WILSON AVENUE</AddressLine1>
+            <City>WEYMOUTH</City>
+            <State>MA</State>
+            <ZIPCode>02188</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>DAVIS SUMMERING</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>50 COMMON STREET</AddressLine1>
+            <City>QUINCY</City>
+            <State>MA</State>
+            <ZIPCode>02169</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>ANNA CRAVEN</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>8 SPRING VALLEY ROAD</AddressLine1>
+            <City>WEST ROXBURY</City>
+            <State>MA</State>
+            <ZIPCode>02132</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JENNA WILSON</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>15 CORNER STREET</AddressLine1>
+            <City>MELROSE</City>
+            <State>MA</State>
+            <ZIPCode>02176</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SHANNON DOHERTY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>14 REGIS ROAD</AddressLine1>
+            <City>MARSHFIELD</City>
+            <State>MA</State>
+            <ZIPCode>02050</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>MATTHEW DOWLING</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>95 WESTMOOR ROAD</AddressLine1>
+            <City>WEST ROXBURY</City>
+            <State>MA</State>
+            <ZIPCode>02132</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CHLOE MANNION</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>18 LENOXDALE AVENUE</AddressLine1>
+            <City>DORCHESTER</City>
+            <State>MA</State>
+            <ZIPCode>02124</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JULIE MCCORMACK</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>14 HARKINS STREET</AddressLine1>
+            <City>QUINCY</City>
+            <State>MA</State>
+            <ZIPCode>02169</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>EMILY MEEHAN</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>158 TRAIN STREET</AddressLine1>
+            <City>DORCHESTER</City>
+            <State>MA</State>
+            <ZIPCode>02122</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>EMILY DASEY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>40 BEACH STREET</AddressLine1>
+            <City>DORCHESTER</City>
+            <State>MA</State>
+            <ZIPCode>02122</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>ADELE BOUDREAU</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>55 JEFFERSON ROAD</AddressLine1>
+            <City>TEWKSBURY</City>
+            <State>MA</State>
+            <ZIPCode>01876</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>REBECCA MCBURNIE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>81 ROBERTSON STREET</AddressLine1>
+            <City>QUINCY</City>
+            <State>MA</State>
+            <ZIPCode>02169</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>DAVID MCCANN</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>61 BRIDGE STREET</AddressLine1>
+            <City>MEDFIELD</City>
+            <State>MA</State>
+            <ZIPCode>02052</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JESSIE FOLEY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>30 MANNERS AVENUE</AddressLine1>
+            <City>BROCKTON</City>
+            <State>MA</State>
+            <ZIPCode>02301</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NEW BALANCE FOR KENNEY &amp; QUINN BRAIN TUMOR FUND</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>135 ELMER ROAD</AddressLine1>
+            <City>DORCHESTER</City>
+            <State>MA</State>
+            <ZIPCode>02124</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>1524</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ST FRANCIS HOUSE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>39 BOYLESTON STREET</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02116</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SOUTH BOSTON LITTLE LEAGUE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 143</AddressLine1>
+            <City>SOUTH BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02127</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>COLLEGE HYPE FOR KENNEY &amp; QUINN BRAIN TUMOR FUND</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>135 ELMER ROAD</AddressLine1>
+            <City>DORCHESTER</City>
+            <State>MA</State>
+            <ZIPCode>02124</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FITZY'S OPEN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>19 COLONIAL DRIVE</AddressLine1>
+            <City>MANSFIELD</City>
+            <State>MA</State>
+            <ZIPCode>02048</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DENNIS FLYNN MEMORIAL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>30 BERLIN AVENUE</AddressLine1>
+            <City>MILTON</City>
+            <State>MA</State>
+            <ZIPCode>02186</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BRAIN TUMOR RESEARCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>135 ELMER ROAD</AddressLine1>
+            <City>DORCHESTER</City>
+            <State>MA</State>
+            <ZIPCode>02124</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DORCHESTER DAY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 220145</AddressLine1>
+            <City>DORCHESTER</City>
+            <State>MA</State>
+            <ZIPCode>02122</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NB ALLIANCE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 507</AddressLine1>
+            <City>MILTON</City>
+            <State>MA</State>
+            <ZIPCode>02186</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CYSTIC FIBROSIS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>220 NORTH MAIN STREET SUITE 104</AddressLine1>
+            <City>NATICK</City>
+            <State>MA</State>
+            <ZIPCode>01760</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ALZHEIMERS ASSOCIATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>311 ARSENAL STREET</AddressLine1>
+            <City>WATERTOWN</City>
+            <State>MA</State>
+            <ZIPCode>02472</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>25974</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <RelatedOrExemptFunctionIncome>981</RelatedOrExemptFunctionIncome>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <RelatedOrExemptFunctionIncome>17325</RelatedOrExemptFunctionIncome>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>2879</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <NetIncomeLossFromSpecialEvents>
+          <RelatedOrExemptFunctionIncome>4644</RelatedOrExemptFunctionIncome>
+        </NetIncomeLossFromSpecialEvents>
+        <OtherRevenueDescribed>
+          <Description>UNREALIZED LOSS</Description>
+          <RelatedOrExemptFunctionIncome>-29688</RelatedOrExemptFunctionIncome>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>0</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>-3859</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>-3859</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>9</LineNumber>
+          <RelationshipStatement>EARNINGS ON INVESTMENTS AND FUNDRAISING EVENTS ARE USED TO PROVIDE</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>9</LineNumber>
+          <RelationshipStatement>FINANCIAL RELIEF TO MEMBERS AND SCHOLARSHIPS TO THEIR CHILDREN</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>STAPLES SCHOLARSHIP DONATION</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>FIVE HUNDRED STAPLES DRIVE</AddressLine1>
+          <City>FRAMINGHAM</City>
+          <State>MA</State>
+          <ZIPCode>01702</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>10000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>2</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>DENNIS FLYNN SCHOLARSHIP DONATION</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>115 SOUTHAMPTON ST</AddressLine1>
+          <City>BOSTON</City>
+          <State>MA</State>
+          <ZIPCode>02118</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>5000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>ACCOUNTING</Category>
+        <Amount>8400</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc2213400001">
+      <GainLossSaleOtherAsset>
+        <Name>4500 NOVAVAX INC</Name>
+        <DateAcquired>1999-08</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2009-09</DateSold>
+        <GrossSalesPrice>25764</GrossSalesPrice>
+        <Basis>16290</Basis>
+        <SalesExpense>0</SalesExpense>
+        <TotalNet>9474</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>2000 NOVAVAX INC</Name>
+        <DateAcquired>1999-11</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2009-09</DateSold>
+        <GrossSalesPrice>11555</GrossSalesPrice>
+        <Basis>10370</Basis>
+        <SalesExpense>0</SalesExpense>
+        <TotalNet>1185</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>500 NOVAVAX INC</Name>
+        <DateAcquired>1999-08</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2009-09</DateSold>
+        <GrossSalesPrice>2893</GrossSalesPrice>
+        <Basis>1880</Basis>
+        <SalesExpense>0</SalesExpense>
+        <TotalNet>1013</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>25000 FLEET BOSTON NOTES</Name>
+        <DateAcquired>1999-03</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2009-12</DateSold>
+        <GrossSalesPrice>25000</GrossSalesPrice>
+        <Basis>24598</Basis>
+        <SalesExpense>0</SalesExpense>
+        <TotalNet>402</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>2000 GREAT PLAINS ENERGY INC</Name>
+        <DateAcquired>2003-01</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2009-12</DateSold>
+        <GrossSalesPrice>38914</GrossSalesPrice>
+        <Basis>44425</Basis>
+        <SalesExpense>0</SalesExpense>
+        <TotalNet>-5511</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>34 CALAMOS</Name>
+        <DateAcquired>2008-09</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2010-04</DateSold>
+        <GrossSalesPrice>380</GrossSalesPrice>
+        <Basis>387</Basis>
+        <SalesExpense>0</SalesExpense>
+        <TotalNet>-7</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>500 GREAT PLAINS ENERGY INC</Name>
+        <DateAcquired>2003-02</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2010-04</DateSold>
+        <GrossSalesPrice>8963</GrossSalesPrice>
+        <Basis>11623</Basis>
+        <SalesExpense>0</SalesExpense>
+        <TotalNet>-2660</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>1000 WALT DISNEY INC</Name>
+        <DateAcquired>2007-01</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2010-08</DateSold>
+        <GrossSalesPrice>35009</GrossSalesPrice>
+        <Basis>35460</Basis>
+        <SalesExpense>0</SalesExpense>
+        <TotalNet>-451</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>13 AT&amp;T INC</Name>
+        <DateAcquired>1999-05</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2010-04</DateSold>
+        <GrossSalesPrice>291</GrossSalesPrice>
+        <Basis>819</Basis>
+        <SalesExpense>0</SalesExpense>
+        <TotalNet>-528</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>4 CALAMOS</Name>
+        <DateAcquired>2008-05</DateAcquired>
+        <HowAcquired>Purchased</HowAcquired>
+        <DateSold>2010-04</DateSold>
+        <GrossSalesPrice>21</GrossSalesPrice>
+        <Basis>59</Basis>
+        <SalesExpense>0</SalesExpense>
+        <TotalNet>-38</TotalNet>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOther>
+        <CategoryOrItem>INVESTMENTS</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>530414</BookValue>
+        <EOYFMV>530414</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>BENEFITS PAID TO MEMBERS</Description>
+        <RevenueAndExpensesPerBooks>30545</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>CALENDAR EXPENSES</Description>
+        <RevenueAndExpensesPerBooks>4261</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OFFICE SUPPLIES</Description>
+        <RevenueAndExpensesPerBooks>1714</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>TELEPHONE</Description>
+        <RevenueAndExpensesPerBooks>514</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>POSTAGE</Description>
+        <RevenueAndExpensesPerBooks>176</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK CHARGES</Description>
+        <RevenueAndExpensesPerBooks>55</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>ANNUAL MEETING</Description>
+        <RevenueAndExpensesPerBooks>6549</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>ANNUAL BALL</Description>
+        <RevenueAndExpensesPerBooks>28840</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>GOLF TOURNAMENT EXPENSES</Description>
+        <RevenueAndExpensesPerBooks>6180</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc2001500001">
+      <OtherIncome>
+        <Description>UNREALIZED LOSS</Description>
+        <RevenueAndExpensesPerBooks>-29688</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>-29688</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>Gross Income from Special Fundraising Events</Description>
+        <RevenueAndExpensesPerBooks>10824</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>10824</AdjustedNetIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherLiabilitiesSchedule documentId="RetDoc2065700001">
+      <OtherLiabilities>
+        <Description>PAYROLL W/H DUE</Description>
+        <BOYBookValue>1180</BOYBookValue>
+        <EOYBookValue>965</EOYBookValue>
+      </OtherLiabilities>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFees>
+        <Category>INVESTMENT FEES</Category>
+        <Amount>2253</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>PAYROLL</Category>
+        <Amount>2558</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>FEDERAL TAX</Category>
+        <Amount>444</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>FOREIGN TAX</Category>
+        <Amount>174</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

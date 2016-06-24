@@ -1,0 +1,527 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-03-02T16:01:10-08:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Gary C Vick CPA PLLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>525 E Centerville Rd</AddressLine1>
+        <City>Garland</City>
+        <State>TX</State>
+        <ZIPCode>75041</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>201779737</EIN>
+      <Name>
+        <BusinessNameLine1>Pediatric Epilepsy Research Foundation</BusinessNameLine1>
+      </Name>
+      <NameControl>PEDI</NameControl>
+      <Phone>9725664609</Phone>
+      <USAddress>
+        <AddressLine1>7777 Forest Lane</AddressLine1>
+        <City>Dallas</City>
+        <State>TX</State>
+        <ZIPCode>75230</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Dr Roy Elterman</Name>
+      <Title>Director</Title>
+      <DateSigned>2011-03-02</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>Gary C Vick CPA-CFP</Name>
+      <Phone>9722781090</Phone>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="8">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <InitialReturnFormerPublicChrty>X</InitialReturnFormerPublicChrty>
+      <AddressChange>X</AddressChange>
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>3858087</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>1344</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>1344</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>1344</InterestOnSavingsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss>0</NetGainSaleAssetsRevAndExpnss>
+        <OtherIncomeRevAndExpnss referenceDocumentId=" OtherIncomeSchedule2">1185410</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>1185410</OtherIncomeNetInvstIncm>
+        <TotalRevenueAndExpenses>1186754</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>1186754</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>1344</TotalAdjustedNetIncome>
+        <CompOfcrDirTrstRevAndExpnss>17468</CompOfcrDirTrstRevAndExpnss>
+        <LegalFeesRevAndExpnss referenceDocumentId=" LegalFeesSchedule">4073</LegalFeesRevAndExpnss>
+        <LegalFeesNetInvstIncm>4073</LegalFeesNetInvstIncm>
+        <AccountingFeesRevAndExpnss referenceDocumentId=" AccountingFeesSchedule">1850</AccountingFeesRevAndExpnss>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <OccupancyRevAndExpnss>2500</OccupancyRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">10606</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>36497</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>4073</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>568020</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>568020</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>604517</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>4073</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>568020</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>582237</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>1182681</NetInvestmentIncome>
+        <AdjustedNetIncome>1344</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>8485</CashBOY>
+        <CashEOY>5379</CashEOY>
+        <CashEOYFMV>5379</CashEOYFMV>
+        <SavingsAndTempCashInvstEOY>585343</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>585343</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsOtherEOYFMV>3267365</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>8485</TotalAssetsBOY>
+        <TotalAssetsEOY>590722</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>3858087</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>8485</UnrestrictedBOY>
+        <UnrestrictedEOY>590722</UnrestrictedEOY>
+        <TotalNetAssetsBOY>8485</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>590722</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>8485</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>590722</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>8485</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>582237</ExcessOfRevenueOverExpenses>
+        <Subtotal>590722</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>590722</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>23654</InvestmentIncomeExciseTax>
+        <Subtotal>23654</Subtotal>
+        <TaxBasedOnInvestmentIncome>23654</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>24500</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>24500</TotalCreditsAndPayments>
+        <Form2220Attached referenceDocumentId=" IRS2220">X</Form2220Attached>
+        <PenaltyForUnderpayment>371</PenaltyForUnderpayment>
+        <Overpayment>475</Overpayment>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+        <AmountToBeRefunded>475</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>Roy Elterman</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>9725664609</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>7777 Forest Lane Ste B116</AddressLine1>
+          <City>Dallas</City>
+          <State>TX</State>
+          <ZIPCode>752302507</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Herbert Winokur</PersonName>
+          <USAddress>
+            <AddressLine1>30 East Elm Street</AddressLine1>
+            <City>Greenwich</City>
+            <State>CT</State>
+            <ZIPCode>06830</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Cynthia Morriss</PersonName>
+          <USAddress>
+            <AddressLine1>311 Eanes School Road</AddressLine1>
+            <City>Austin</City>
+            <State>TX</State>
+            <ZIPCode>78746</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ExpenseAccountOtherAllowances>162</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Lawrence Madigan</PersonName>
+          <USAddress>
+            <AddressLine1>14710 Bramblewood Drive</AddressLine1>
+            <City>Houston</City>
+            <State>TX</State>
+            <ZIPCode>77079</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>J Phil Keeter</PersonName>
+          <USAddress>
+            <AddressLine1>1405 Colony Circle</AddressLine1>
+            <City>Longview</City>
+            <State>TX</State>
+            <ZIPCode>75604</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Alicia Freysinger</PersonName>
+          <USAddress>
+            <AddressLine1>7535 Inwood</AddressLine1>
+            <City>Houston</City>
+            <State>TX</State>
+            <ZIPCode>77063</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Stephen Ashwal MD</PersonName>
+          <USAddress>
+            <AddressLine1>11175 Campus Street Rm A 1120G</AddressLine1>
+            <City>Loma Linda</City>
+            <State>CA</State>
+            <ZIPCode>92350</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>1000</Compensation>
+          <ExpenseAccountOtherAllowances>638</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>W Donald Shields MD</PersonName>
+          <USAddress>
+            <AddressLine1>5711 Stonecrest Drive</AddressLine1>
+            <City>Agoura Hills</City>
+            <State>CA</State>
+            <ZIPCode>91301</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ExpenseAccountOtherAllowances>668</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Roy D Elterman MD</PersonName>
+          <USAddress>
+            <AddressLine1>15309 Cypress Hills Drive</AddressLine1>
+            <City>Dallas</City>
+            <State>TX</State>
+            <ZIPCode>75248</ZIPCode>
+          </USAddress>
+          <Title>Foundation Mgr</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>15000</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompensationOfHghstPaidCntrct>
+          <PersonName referenceDocumentId=" ContractorProfExpln">Darren Moore Attorney</PersonName>
+          <USAddress>
+            <AddressLine1>301 Commerce Street Ste 1500</AddressLine1>
+            <City>Fort Worth</City>
+            <State>TX</State>
+            <ZIPCode>76102</ZIPCode>
+          </USAddress>
+          <TypeOfService>Attorney Fees</TypeOfService>
+          <Compensation>4073</Compensation>
+        </CompensationOfHghstPaidCntrct>
+        <CompensationOfHghstPaidCntrct>
+          <PersonName referenceDocumentId=" ContractorProfExpln">Gary C Vick CPA</PersonName>
+          <USAddress>
+            <AddressLine1>525 E Centerville</AddressLine1>
+            <City>Garland</City>
+            <State>TX</State>
+            <ZIPCode>75041</ZIPCode>
+          </USAddress>
+          <TypeOfService>Accounting Fees</TypeOfService>
+          <Compensation>1850</Compensation>
+        </CompensationOfHghstPaidCntrct>
+        <CompensationOfHghstPaidCntrct>
+          <PersonName referenceDocumentId=" ContractorProfExpln">Karen McEwen</PersonName>
+          <USAddress>
+            <AddressLine1>1509 Reston Drive</AddressLine1>
+            <City>Richardson</City>
+            <State>TX</State>
+            <ZIPCode>75082</ZIPCode>
+          </USAddress>
+          <TypeOfService>Clerical</TypeOfService>
+          <Compensation>10000</Compensation>
+        </CompensationOfHghstPaidCntrct>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>Four non-profit and one for-profit organizations were supplied grants for pediatric epilepsy and neurology research.</Description1>
+        <Expenses1>568020</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>340123</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>3267365</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>3607488</TotalFMVOfUnusedAssets>
+        <ReductionClaimed referenceDocumentId=" ReductionExplanation.1">1620463</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>3607488</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>54112</CashDeemedCharitable>
+        <NetNoncharitableAssets>3553376</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>177669</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>177669</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>23654</TaxBasedOnInvestmentIncome>
+        <TotalTax>23654</TotalTax>
+        <DistributableAmountBeforeAdj>154015</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>154015</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>154015</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>568020</ExpensesAndContributions>
+        <QualifyingDistributions>568020</QualifyingDistributions>
+        <AdjQualifyingDistributions>568020</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>154015</DistributableAmountAsAdjusted>
+        <QualifyingDistributions>568020</QualifyingDistributions>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>154015</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>414005</RemainingDistriFromCorpus>
+        <TotalCorpus>414005</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>414005</ExcessDistriCyovToNextYear>
+        <ExcessFromCurrentYear>414005</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>Dr Roy Elterman</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>7777 Forest Lane B116</AddressLine1>
+            <City>Dallas</City>
+            <State>TX</State>
+            <ZIPCode>752302507</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>9725668439</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>Applicants should contact the foundation to obtain their application forms and a listing of required materials.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>None - Applications are accepted throughout the year.</SubmissionDeadlines>
+          <RestrictionsOnAwards>Awards are for research in the fields of pediatric epilepsy and neurology research only.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Child Neurology Society</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1000 W Country Road E 290</AddressLine1>
+            <City>St Paul</City>
+            <State>MN</State>
+            <ZIPCode>55126</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Exempt</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Research</PurposeOfGrantOrContribution>
+          <Amount>50000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Hospital for Sick Children</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1>555 University Ave</AddressLine1>
+            <City>Toronto</City>
+            <ProvinceOrState>Ontario</ProvinceOrState>
+            <Country>CA</Country>
+            <PostalCode>M5G1X8</PostalCode>
+          </RecipientForeignAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Exempt</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Research</PurposeOfGrantOrContribution>
+          <Amount>100000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Regents of the Univ of California UCLA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>10920 Wilshire Blvd 1400</AddressLine1>
+            <City>Los Angeles</City>
+            <State>CA</State>
+            <ZIPCode>90024</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Exempt</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Research</PurposeOfGrantOrContribution>
+          <Amount>237020</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Child Neurology Foundation</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2000 W 98th Street</AddressLine1>
+            <City>Bloomington</City>
+            <State>MN</State>
+            <ZIPCode>55431</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Exempt</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Research</PurposeOfGrantOrContribution>
+          <Amount>20750</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Dallas Pediatric Neurology Associates</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>7777 Forest Lane B -116</AddressLine1>
+            <City>Dallas</City>
+            <State>TX</State>
+            <ZIPCode>75230</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Profit</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Research</PurposeOfGrantOrContribution>
+          <Amount>160250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>568020</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionAmount>1344</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <OtherRevenueDescribed>
+          <Description>Royalty Income - Research</Description>
+          <ExclusionCode>15</ExclusionCode>
+          <ExclusionAmount>1185410</ExclusionAmount>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>1186754</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>1186754</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <AccountingFees>
+        <Category>Accounting Fees - General</Category>
+        <Amount>1850</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <ContractorCompensationExpln documentId="ContractorProfExpln" softwareId="10000105" softwareVersion="2010v3.2">
+      <ContractorCompExplanation>
+        <ContractorNamePerson>Karen McEwen</ContractorNamePerson>
+        <Explanation>Karen McEwen maintained the office records and files on a contract basis as an independent bookkeeper.</Explanation>
+      </ContractorCompExplanation>
+      <ContractorCompExplanation>
+        <ContractorNamePerson>Gary C Vick CPA</ContractorNamePerson>
+        <Explanation>Accounting and Tax Planning</Explanation>
+      </ContractorCompExplanation>
+      <ContractorCompExplanation>
+        <ContractorNamePerson>Darren Moore Attorney</ContractorNamePerson>
+        <Explanation>Attorney Fees</Explanation>
+      </ContractorCompExplanation>
+    </ContractorCompensationExpln>
+    <InvestmentsOtherSchedule2 documentId="InvestmentsOtherSchedule2" softwareId="10000105" softwareVersion="2010v3.2">
+      <InvestmentsOther>
+        <CategoryOrItem>FMV Royalty Rights on Drug Study</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <EOYFMV>3267365</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <LegalFeesSchedule documentId="LegalFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <LegalFees>
+        <Category>Attorney Fees - Contract &amp; Grants</Category>
+        <Amount>4073</Amount>
+        <NetInvestmentIncome>4073</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherExpenses>
+        <Description>Subcontractor Fees</Description>
+        <RevenueAndExpensesPerBooks>10000</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Office Expense</Description>
+        <RevenueAndExpensesPerBooks>606</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherIncome>
+        <Description>Royalty Income - Research</Description>
+        <RevenueAndExpensesPerBooks>1185410</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <ReductionExplanationStatement documentId="ReductionExplanation.1" softwareId="10000105" softwareVersion="2010v3.2">
+      <Explanation>Description: Royalty income is from rights received for participation in a drug study completed by the foundation in 2004. Percentage: 100.0 Asset FMV: 4629895 Discount: 1620463 Explanation: Income from the sale of drugs is highly speculative. At any time, FDA approval could be withdrawn or a new drug could be approved which would make this drug obsolete. Based on its higly speculative nature, the annual income was estimated to last five years. The foundation applied a thirty five percent discount to the net present value of the expected income over a five year period.</Explanation>
+    </ReductionExplanationStatement>
+  </ReturnData>
+</Return>

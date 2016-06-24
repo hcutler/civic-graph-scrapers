@@ -1,0 +1,666 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-09-02T08:37:52-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-05-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>McGregor and Company LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>Post Office Box 135</AddressLine1>
+        <City>Columbia</City>
+        <State>SC</State>
+        <ZIPCode>29202</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-06-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>570756773</EIN>
+      <Name>
+        <BusinessNameLine1>COLUMBIA GARDEN CLUB FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>COLU</NameControl>
+      <Phone>8032559402</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 5925</AddressLine1>
+        <City>COLUMBIA</City>
+        <State>SC</State>
+        <ZIPCode>29250</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Anne Kleitches TREASURER</Name>
+      <Title>TREASURER</Title>
+      <Phone>8032564351</Phone>
+      <DateSigned>2010-08-05</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>William W Francis CPA</Name>
+      <Phone>8037870003</Phone>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>169407</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>9830</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>509</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>509</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>2645</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>2645</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>-1822</NetGainSaleAssetsRevAndExpnss>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc2001500001">125</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>0</OtherIncomeNetInvstIncm>
+        <OtherIncomeAdjNetIncm>125</OtherIncomeAdjNetIncm>
+        <TotalRevenueAndExpenses>11287</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>3154</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>125</TotalAdjustedNetIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstAdjNetIncm>0</CompOfcrDirTrstAdjNetIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">1450</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>0</AccountingFeesNetInvstIncm>
+        <AccountingFeesAdjNetIncm>0</AccountingFeesAdjNetIncm>
+        <AccountingFeesDsbrsChrtblPrps>0</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">61</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>0</TaxesNetInvstIncm>
+        <TaxesAdjNetIncm>0</TaxesAdjNetIncm>
+        <TaxesDsbrsChrtblPrps>0</TaxesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">3227</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>0</OtherExpensesNetInvstIncm>
+        <OtherExpensesAdjNetIncm>0</OtherExpensesAdjNetIncm>
+        <OtherExpensesDsbrsChrtblPrps>0</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>4738</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>0</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>21230</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>21230</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>25968</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>0</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>21230</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-14681</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>3154</NetInvestmentIncome>
+        <AdjustedNetIncome>125</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>6143</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>11369</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>11369</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsOtherBOY>161971</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc2018100001">158038</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>158038</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>168114</TotalAssetsBOY>
+        <TotalAssetsEOY>169407</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>169407</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>168114</UnrestrictedBOY>
+        <UnrestrictedEOY>169407</UnrestrictedEOY>
+        <TotalNetAssetsBOY>168114</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>169407</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>168114</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>169407</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>168114</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-14681</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="RetDoc2049700001">15974</OtherIncreases>
+        <Subtotal>169407</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>169407</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>securities</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GainOrLoss>-1822</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1822</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>-1822</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>41169</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>144713</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.284487</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>1230</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>203529</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.006043</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>21691</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>190448</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.113895</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>9550</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>188283</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.050722</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>4220</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>178374</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.023658</DistributionRatioYear5>
+        <TotalDistributionRatio>0.478805</TotalDistributionRatio>
+        <AverageDistributionRatio>0.095761</AverageDistributionRatio>
+        <NetNoncharitableAssets>160555</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>15375</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>32</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>15407</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>21230</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>32</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>32</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>32</TaxBasedOnInvestmentIncome>
+        <TotalCreditsAndPayments>0</TotalCreditsAndPayments>
+        <TaxDue>32</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>0</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>SC</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>WWW.COLUMBIAGARDENCLUB.COM</WebsiteAddress>
+        <BooksInCareOfPersonName>Anne Kleitches TREASURER</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>8037387987</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>PO BOX 5925</AddressLine1>
+          <City>COLUMBIA</City>
+          <State>SC</State>
+          <ZIPCode>29250</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Anne Bristow</PersonName>
+          <USAddress>
+            <AddressLine1>1301 Greenhill Rd</AddressLine1>
+            <City>COLUMBIA</City>
+            <State>SC</State>
+            <ZIPCode>29206</ZIPCode>
+          </USAddress>
+          <Title>President</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>SARAH BATES MCWILLIAMS</PersonName>
+          <USAddress>
+            <AddressLine1>3642 TOMAKA ROAD</AddressLine1>
+            <City>COLUMBIA</City>
+            <State>SC</State>
+            <ZIPCode>29205</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT ELECT</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JANE PATTERSON SUGGS</PersonName>
+          <USAddress>
+            <AddressLine1>12 DILL CT</AddressLine1>
+            <City>COLUMBIA</City>
+            <State>SC</State>
+            <ZIPCode>29204</ZIPCode>
+          </USAddress>
+          <Title>FIRST VICE PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ELLEN BAKER WEST</PersonName>
+          <USAddress>
+            <AddressLine1>817 ABELIA RD</AddressLine1>
+            <City>COLUMBIA</City>
+            <State>SC</State>
+            <ZIPCode>29205</ZIPCode>
+          </USAddress>
+          <Title>SECOND VICE PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>SARAH ELIZABETH AUMAN FOSTER</PersonName>
+          <USAddress>
+            <AddressLine1>1597 WOODLAKE DR</AddressLine1>
+            <City>COLUMBIA</City>
+            <State>SC</State>
+            <ZIPCode>29206</ZIPCode>
+          </USAddress>
+          <Title>RECORDING SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>KATHERINE BARTON MANNING ZEIGLER</PersonName>
+          <USAddress>
+            <AddressLine1>116 HARDEN STREET</AddressLine1>
+            <City>COLUMBIA</City>
+            <State>SC</State>
+            <ZIPCode>29205</ZIPCode>
+          </USAddress>
+          <Title>CORRESPONDING SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>GAil Jeter</PersonName>
+          <USAddress>
+            <AddressLine1>841 KAWANA RD</AddressLine1>
+            <City>COLUMBIA</City>
+            <State>SC</State>
+            <ZIPCode>29205</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ALLISON ARNETTE ROBERTSON</PersonName>
+          <USAddress>
+            <AddressLine1>2230 TERRACE WAY</AddressLine1>
+            <City>COLUMBIA</City>
+            <State>SC</State>
+            <ZIPCode>29205</ZIPCode>
+          </USAddress>
+          <Title>TREASURER - ELECT</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>VERD CUNNINGHAM</PersonName>
+          <USAddress>
+            <AddressLine1>605 LABRUCE LANE</AddressLine1>
+            <City>cOLUMBIA</City>
+            <State>SC</State>
+            <ZIPCode>29205</ZIPCode>
+          </USAddress>
+          <Title>PARLIMENTARIAN</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>LESLIE ABRAMS WRENN</PersonName>
+          <USAddress>
+            <AddressLine1>114 BRI LOR</AddressLine1>
+            <City>cOLUMBIA</City>
+            <State>SC</State>
+            <ZIPCode>29206</ZIPCode>
+          </USAddress>
+          <Title>PAST PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>NONE</Description1>
+        <Expenses1>0</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>NONE</Description1>
+        <Amount1>0</Amount1>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>163000</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>163000</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>163000</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>2445</CashDeemedCharitable>
+        <NetNoncharitableAssets>160555</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>8028</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>8028</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>32</TaxBasedOnInvestmentIncome>
+        <TotalTax>32</TotalTax>
+        <DistributableAmountBeforeAdj>7996</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>7996</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>7996</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>21230</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>21230</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>32</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>21198</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>7996</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear4>290</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>12471</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>1230</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>24048</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>38039</TotalExcessDistriCarryover>
+        <QualifyingDistributions>21230</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>7996</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>13234</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>51273</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>51273</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>290</ExcessFromYear4>
+        <ExcessFromYear3>12471</ExcessFromYear3>
+        <ExcessFromYear2>1230</ExcessFromYear2>
+        <ExcessFromYear1>24048</ExcessFromYear1>
+        <ExcessFromCurrentYear>13234</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BOYLSTON GARDEN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 306</AddressLine1>
+            <City>Elloree</City>
+            <State>SC</State>
+            <ZIPCode>29047</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>PLANTINGS FOR GARDEN</PurposeOfGrantOrContribution>
+          <Amount>50</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CAMP WILDWOOD</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 167</AddressLine1>
+            <City>Columbia</City>
+            <State>SC</State>
+            <ZIPCode>29202</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>PLANTINGS FOR GARDEN</PurposeOfGrantOrContribution>
+          <Amount>50</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HISTORIC COLUMBIA FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1601 RICHLAND STREET</AddressLine1>
+            <City>COLumbia</City>
+            <State>SC</State>
+            <ZIPCode>29201</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>PLANTINGS FOR GARDEN</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SC BOTANICAL GARDEN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>102 Garden Trail</AddressLine1>
+            <City>Clemson</City>
+            <State>SC</State>
+            <ZIPCode>29634</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>PLANTINGS FOR GARDEN</PurposeOfGrantOrContribution>
+          <Amount>50</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SOUTH CAROLINIAN SOCIETY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>South Carolina Library University</AddressLine1>
+            <AddressLine2>of South Carolina</AddressLine2>
+            <City>Columbia</City>
+            <State>SC</State>
+            <ZIPCode>29208</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>PLANTINGS FOR GARDEN</PurposeOfGrantOrContribution>
+          <Amount>30</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>USC MEMORIAL ROSE GARDEN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1600 Hamton Street Suite 736</AddressLine1>
+            <City>Columbia</City>
+            <State>SC</State>
+            <ZIPCode>29208</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>PLANTINGS FOR GARDEN</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>USC SCIENCE FAIR</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>Univeristy of South Carolina</AddressLine1>
+            <City>Columbia</City>
+            <State>SC</State>
+            <ZIPCode>29208</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>PLANTINGS FOR GARDEN</PurposeOfGrantOrContribution>
+          <Amount>50</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>21230</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>509</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <BusinessCode>525920</BusinessCode>
+          <UnrelatedBusinessIncomeAmount>2645</UnrelatedBusinessIncomeAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>-1822</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <NetIncomeLossFromSpecialEvents>
+          <ExclusionCode>01</ExclusionCode>
+          <ExclusionAmount>125</ExclusionAmount>
+        </NetIncomeLossFromSpecialEvents>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>2645</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>634</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>-1822</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>1457</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>9</LineNumber>
+          <RelationshipStatement>INCOME FROM FUNDRAISING EVENT</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>1</RelationshipsNoncharitableEOs>
+        <RelationshipSchedule>
+          <NameOfOrganization>
+            <BusinessNameLine1>COLUMBIA GARDEN CLUB</BusinessNameLine1>
+          </NameOfOrganization>
+          <TypeOfOrganization>501-C-4</TypeOfOrganization>
+          <DescriptionOfRelationship>FOUNDATION IS FUND RAISING ARM OF NON-PROFIT ENTITY</DescriptionOfRelationship>
+        </RelationshipSchedule>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>1450</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOther>
+        <CategoryOrItem>CCCF ENDOWMENT FUND</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>158038</BookValue>
+        <EOYFMV>158038</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>INVESTMENT EXPENSE</Description>
+        <RevenueAndExpensesPerBooks>130</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>FOUNDATION SUPPORT FEE</Description>
+        <RevenueAndExpensesPerBooks>1185</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>STATE TREE EXPENSE</Description>
+        <RevenueAndExpensesPerBooks>1797</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK CHARGES</Description>
+        <RevenueAndExpensesPerBooks>65</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MISCELLANEOUS</Description>
+        <RevenueAndExpensesPerBooks>50</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc2001500001">
+      <OtherIncome>
+        <Description>Gross Income from Special Fundraising Events</Description>
+        <RevenueAndExpensesPerBooks>125</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>125</AdjustedNetIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="RetDoc2049700001">
+      <OtherIncreases>
+        <Description>UNREALIZED GAINS/LOSSES ON INVESTMENT</Description>
+        <Amount>15974</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>TAXES PAID</Category>
+        <Amount>61</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,409 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return returnVersion="2009v1.3" xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-09-10T19:38:43Z</Timestamp>
+    <TaxPeriodEndDate>2010-04-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Gerard R Rowland CPA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>2192 Dupont Drive Suite 208</AddressLine1>
+        <City>Irvine</City>
+        <State>CA</State>
+        <ZIPCode>926121322</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-05-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>330527279</EIN>
+      <Name>
+        <BusinessNameLine1>TWELVE ELEVEN PRESS</BusinessNameLine1>
+      </Name>
+      <NameControl>TWEL</NameControl>
+      <USAddress>
+        <AddressLine1>1980 SWAN DRIVE</AddressLine1>
+        <City>COSTA MESA</City>
+        <State>CA</State>
+        <ZIPCode>92626</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>PHILIP YOUNG</Name>
+      <Title>Treasurer</Title>
+      <DateSigned>2010-09-10</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>GERARD R ROWLAND</Name>
+      <Phone>9497521040</Phone>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="09000047" softwareVersion="2009v1.3">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>0</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>21515</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <NetGainSaleAssetsRevAndExpnss>0</NetGainSaleAssetsRevAndExpnss>
+        <TotalRevenueAndExpenses>21515</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>0</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId=" AccountingFeesSchedule">550</AccountingFeesRevAndExpnss>
+        <AccountingFeesDsbrsChrtblPrps>550</AccountingFeesDsbrsChrtblPrps>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">1525</DeprecAndDepletionRevAndExpnss>
+        <TravConfMeetingRevAndExpnss>12344</TravConfMeetingRevAndExpnss>
+        <TravConfMeetingDsbrsChrtblPrps>12344</TravConfMeetingDsbrsChrtblPrps>
+        <PrintingAndPubRevAndExpnss>338</PrintingAndPubRevAndExpnss>
+        <PrintingAndPubDsbrsChrtblPrps>338</PrintingAndPubDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">6782</OtherExpensesRevAndExpnss>
+        <OtherExpensesDsbrsChrtblPrps>6782</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>21539</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>20014</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>464</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>464</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>22003</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>20478</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-488</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>102</CashBOY>
+        <CashEOY>1139</CashEOY>
+        <LandBuildingAndEquipmentBasis>26519</LandBuildingAndEquipmentBasis>
+        <AccumDeprecLandBldgAndEquip>24035</AccumDeprecLandBldgAndEquip>
+        <LandBuildingAndEquipmentBOY>4009</LandBuildingAndEquipmentBOY>
+        <LandBuildingAndEquipmentEOY referenceDocumentId=" LandEtcSchedule2">2484</LandBuildingAndEquipmentEOY>
+        <TotalAssetsBOY>4111</TotalAssetsBOY>
+        <TotalAssetsEOY>3623</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>0</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>4111</UnrestrictedBOY>
+        <UnrestrictedEOY>3623</UnrestrictedEOY>
+        <TotalNetAssetsBOY>4111</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>3623</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>4111</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>3623</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>4111</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-488</ExcessOfRevenueOverExpenses>
+        <Subtotal>3623</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>3623</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>true</LiableFor4942Tax>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>false</RequirementsOfSect508e>
+        <AtLeast5000InAssets>false</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>false</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>true</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>PHILIP YOUNG</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>9492791247</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>1980 SWAN DRIVE</AddressLine1>
+          <City>COSTA MESA</City>
+          <State>CA</State>
+          <ZIPCode>926264756</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MYRON S STEEVES</PersonName>
+          <USAddress>
+            <AddressLine1>1980 SWAN DRIVE</AddressLine1>
+            <City>COSTA MESA</City>
+            <State>CA</State>
+            <ZIPCode>92626</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>PAULA S MCKAY</PersonName>
+          <USAddress>
+            <AddressLine1>1980 SWAN DRIVE</AddressLine1>
+            <City>COSTA MESA</City>
+            <State>CA</State>
+            <ZIPCode>92626</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>LARRY M MCKAY</PersonName>
+          <USAddress>
+            <AddressLine1>1980 SWAN DRIVE</AddressLine1>
+            <City>COSTA MESA</City>
+            <State>CA</State>
+            <ZIPCode>92626</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JAMES M DALE</PersonName>
+          <USAddress>
+            <AddressLine1>1980 SWAN DRIVE</AddressLine1>
+            <City>COSTA MESA</City>
+            <State>CA</State>
+            <ZIPCode>92626</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>PHILIP A YOUNG</PersonName>
+          <USAddress>
+            <AddressLine1>1980 SWAN DRIVE</AddressLine1>
+            <City>COSTA MESA</City>
+            <State>CA</State>
+            <ZIPCode>92626</ZIPCode>
+          </USAddress>
+          <Title>Treasurer</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CATHLEEN P YOUNG</PersonName>
+          <USAddress>
+            <AddressLine1>1980 SWAN DRIVE</AddressLine1>
+            <City>COSTA MESA</City>
+            <State>CA</State>
+            <ZIPCode>92626</ZIPCode>
+          </USAddress>
+          <Title>President</Title>
+          <AvgHoursPerWkDevotedToPosition>3.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>MINISTRY TO AFRICA.</Description1>
+        <Expenses1>0</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>0</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>0</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>0</CashDeemedCharitable>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>0</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <Sect4942j3j5FndtnAndFrgnOrg>X</Sect4942j3j5FndtnAndFrgnOrg>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>20478</ExpensesAndContributions>
+        <QualifyingDistributions>20478</QualifyingDistributions>
+        <AdjQualifyingDistributions>20478</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <PrivateOperatingFoundations>
+        <Section4942j3>X</Section4942j3>
+        <LessorAdjNetIncmMinInvstReturn>
+          <CurrentYear>0</CurrentYear>
+          <Total>0</Total>
+        </LessorAdjNetIncmMinInvstReturn>
+        <QualifyingDistributions>
+          <CurrentYear>20478</CurrentYear>
+          <Year1>15097</Year1>
+          <Year2>28632</Year2>
+          <Year3>31366</Year3>
+          <Total>95573</Total>
+        </QualifyingDistributions>
+        <QlfyDistriMadeDirectly>
+          <CurrentYear>20478</CurrentYear>
+          <Year1>15097</Year1>
+          <Year2>28632</Year2>
+          <Year3>31366</Year3>
+          <Total>95573</Total>
+        </QlfyDistriMadeDirectly>
+        <TwoThirdsMinInvstReturn>
+          <Total>0</Total>
+        </TwoThirdsMinInvstReturn>
+        <TotalSupport>
+          <Year3>24500</Year3>
+          <Total>24500</Total>
+        </TotalSupport>
+      </PrivateOperatingFoundations>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="09000047" softwareVersion="2009v1.3">
+      <AccountingFees>
+        <Amount>550</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>550</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSchedule" softwareId="09000047" softwareVersion="2009v1.3">
+      <Depreciation>
+        <DescriptionOfProperty>VEHICLE</DescriptionOfProperty>
+        <DateAcquired>2006-01-18</DateAcquired>
+        <CostOrOtherBasis>20272</CostOrOtherBasis>
+        <PriorYearsDepreciation>16769</PriorYearsDepreciation>
+        <ComputationMethod>92</ComputationMethod>
+        <Life>5.0000</Life>
+        <CurrentYearExpense>1401</CurrentYearExpense>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>FURNITURE</DescriptionOfProperty>
+        <DateAcquired>2004-09-01</DateAcquired>
+        <CostOrOtherBasis>2646</CostOrOtherBasis>
+        <PriorYearsDepreciation>2350</PriorYearsDepreciation>
+        <ComputationMethod>92</ComputationMethod>
+        <Life>7.0000</Life>
+        <CurrentYearExpense>85</CurrentYearExpense>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>CHAIRS</DescriptionOfProperty>
+        <DateAcquired>2004-04-01</DateAcquired>
+        <CostOrOtherBasis>751</CostOrOtherBasis>
+        <PriorYearsDepreciation>616</PriorYearsDepreciation>
+        <ComputationMethod>92</ComputationMethod>
+        <Life>7.0000</Life>
+        <CurrentYearExpense>39</CurrentYearExpense>
+      </Depreciation>
+    </DepreciationSchedule>
+    <LandEtcSchedule2 documentId="LandEtcSchedule2" softwareId="09000047" softwareVersion="2009v1.3">
+      <LandEtc>
+        <CategoryOrItem>Machinery and Equipment</CategoryOrItem>
+        <CostOrOtherBasis>2850</CostOrOtherBasis>
+        <AccumulatedDepreciation>2775</AccumulatedDepreciation>
+        <BookValue>75</BookValue>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Furniture and Fixtures</CategoryOrItem>
+        <CostOrOtherBasis>3397</CostOrOtherBasis>
+        <AccumulatedDepreciation>3090</AccumulatedDepreciation>
+        <BookValue>307</BookValue>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Auto./Transportation Equip.</CategoryOrItem>
+        <CostOrOtherBasis>20272</CostOrOtherBasis>
+        <AccumulatedDepreciation>18170</AccumulatedDepreciation>
+        <BookValue>2102</BookValue>
+      </LandEtc>
+    </LandEtcSchedule2>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="09000047" softwareVersion="2009v1.3">
+      <OtherExpenses>
+        <Description>WEB SITE</Description>
+        <RevenueAndExpensesPerBooks>152</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>152</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>TELEPHONE</Description>
+        <RevenueAndExpensesPerBooks>498</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>498</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>SUPPLIES</Description>
+        <RevenueAndExpensesPerBooks>693</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>693</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>STATE REGISTRATION FEES</Description>
+        <RevenueAndExpensesPerBooks>30</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>30</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>REPAIRS</Description>
+        <RevenueAndExpensesPerBooks>2461</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>2461</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>DUES &amp; SUBSCRIPTIONS</Description>
+        <RevenueAndExpensesPerBooks>45</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>45</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>CONTINUING EDUCATION</Description>
+        <RevenueAndExpensesPerBooks>2001</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>2001</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>CLERGY VESTMENTS</Description>
+        <RevenueAndExpensesPerBooks>561</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>561</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK CHARGES</Description>
+        <RevenueAndExpensesPerBooks>341</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>341</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

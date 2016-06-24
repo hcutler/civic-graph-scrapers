@@ -1,0 +1,725 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-08-17T14:38:32-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-06-30</TaxPeriodEndDate>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>396548921</EIN>
+      <Name>
+        <BusinessNameLine1>ISABEL SCHENDEL-ROBERT &amp; JOSEPHINE PIEPER TR</BusinessNameLine1>
+      </Name>
+      <NameControl>SCHE</NameControl>
+      <Phone>4147656446</Phone>
+      <USAddress>
+        <AddressLine1>US BANK NA P O BOX 2043</AddressLine1>
+        <City>MILWAUKEE</City>
+        <State>WI</State>
+        <ZIPCode>532019668</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>US BANK NA C KOSMA</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>4147656446</Phone>
+      <DateSigned>2010-07-07</DateSigned>
+    </Officer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="IRS990PF">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>2196882</FMVAssetsEOY>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>35</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>35</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>49914</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>50606</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>116286</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>1080208</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>116286</CapitalGainNetIncmNetInvstIncm>
+        <NetSTCGAdjNetIncm>0</NetSTCGAdjNetIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="OtherIncomeSchedule2">1420</OtherIncomeRevAndExpnss>
+        <TotalRevenueAndExpenses>167655</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>166927</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>23643</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>21279</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>2364</CompOfcrDirTrstDsbrsChrtblPrps>
+        <OthEmplSlrsWgsNetInvstIncm>0</OthEmplSlrsWgsNetInvstIncm>
+        <OthEmplSlrsWgsAdjNetIncm>0</OthEmplSlrsWgsAdjNetIncm>
+        <OthEmplSlrsWgsDsbrsChrtblPrps>0</OthEmplSlrsWgsDsbrsChrtblPrps>
+        <PensionEmplBnftNetInvstIncm>0</PensionEmplBnftNetInvstIncm>
+        <PensionEmplBnftAdjNetIncm>0</PensionEmplBnftAdjNetIncm>
+        <LegalFeesDsbrsChrtblPrps>0</LegalFeesDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="AccountingFeesSchedule">750</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>0</AccountingFeesNetInvstIncm>
+        <AccountingFeesAdjNetIncm>0</AccountingFeesAdjNetIncm>
+        <AccountingFeesDsbrsChrtblPrps>750</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesDsbrsChrtblPrps>0</OtherProfFeesDsbrsChrtblPrps>
+        <InterestDsbrsChrtblPrps>0</InterestDsbrsChrtblPrps>
+        <TaxesNetInvstIncm>691</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>0</TaxesDsbrsChrtblPrps>
+        <DeprecAndDepletionRevAndExpnss>0</DeprecAndDepletionRevAndExpnss>
+        <DeprecAndDepletionNetInvstIncm>0</DeprecAndDepletionNetInvstIncm>
+        <TravConfMeetingNetInvstIncm>0</TravConfMeetingNetInvstIncm>
+        <TravConfMeetingAdjNetIncm>0</TravConfMeetingAdjNetIncm>
+        <PrintingAndPubNetInvstIncm>0</PrintingAndPubNetInvstIncm>
+        <PrintingAndPubAdjNetIncm>0</PrintingAndPubAdjNetIncm>
+        <TotOprExpensesRevAndExpnss>24393</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>21970</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>0</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>3114</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>103856</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>103856</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>128249</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>21970</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>0</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>106970</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>39406</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>144957</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>177461</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>13958</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>13958</SavingsAndTempCashInvstEOYFMV>
+        <AccountsReceivableEOY>0</AccountsReceivableEOY>
+        <AccountsReceivableEOYFMV>0</AccountsReceivableEOYFMV>
+        <AllwncForDbtflAcctOtherRcvbl>0</AllwncForDbtflAcctOtherRcvbl>
+        <InvestmentsCorpBondsEOY referenceDocumentId="InvestmentsCorpBondsSchedule">75000</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>71670</InvestmentsCorpBondsEOYFMV>
+        <InvestmentsOtherBOY>1889457</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="InvestmentsOtherSchedule2">2017366</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>2111254</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>2066918</TotalAssetsBOY>
+        <TotalAssetsEOY>2106324</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>2196882</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>2066918</CapitalStockBOY>
+        <CapitalStockEOY>2106324</CapitalStockEOY>
+        <TotalNetAssetsBOY>2066918</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>2106324</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>2066918</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>2106324</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>2066918</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>39406</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>2106324</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>2106324</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>859.388 AMERICAN CENT SMALL CAP VALU INS</DescriptionOfAsset>
+          <DateAcquired>2009-05-08</DateAcquired>
+          <DateSold>2010-06-14</DateSold>
+          <GrossSalesPrice>6634</GrossSalesPrice>
+          <CostOrOtherBasis>5027</CostOrOtherBasis>
+          <GainOrLoss>1607</GainOrLoss>
+          <GainsMinusExcessOrLosses>1607</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1787.275 AMERICAN CENT SMALL CAP VALU INS</DescriptionOfAsset>
+          <DateAcquired>2009-06-10</DateAcquired>
+          <DateSold>2010-06-14</DateSold>
+          <GrossSalesPrice>13798</GrossSalesPrice>
+          <CostOrOtherBasis>10706</CostOrOtherBasis>
+          <GainOrLoss>3092</GainOrLoss>
+          <GainsMinusExcessOrLosses>3092</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1084.725 FIRST AMER REAL ESTATE SECS FD CL Y</DescriptionOfAsset>
+          <DateAcquired>2010-01-11</DateAcquired>
+          <DateSold>2010-06-14</DateSold>
+          <GrossSalesPrice>17638</GrossSalesPrice>
+          <CostOrOtherBasis>15544</CostOrOtherBasis>
+          <GainOrLoss>2094</GainOrLoss>
+          <GainsMinusExcessOrLosses>2094</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>225.106 FIRST AMER EQUITY INCOME CL Y</DescriptionOfAsset>
+          <DateAcquired>2010-01-11</DateAcquired>
+          <DateSold>2010-06-14</DateSold>
+          <GrossSalesPrice>2593</GrossSalesPrice>
+          <CostOrOtherBasis>2706</CostOrOtherBasis>
+          <GainOrLoss>-113</GainOrLoss>
+          <GainsMinusExcessOrLosses>-113</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>23992.982 FIRST AMER INTERMD TERM BD FD CL Y</DescriptionOfAsset>
+          <DateAcquired>2009-05-08</DateAcquired>
+          <DateSold>2009-09-17</DateSold>
+          <GrossSalesPrice>238970</GrossSalesPrice>
+          <CostOrOtherBasis>219296</CostOrOtherBasis>
+          <GainOrLoss>19674</GainOrLoss>
+          <GainsMinusExcessOrLosses>19674</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>21136.951 FIRST AMER INTERMD TERM BD FD CL Y</DescriptionOfAsset>
+          <DateAcquired>2009-05-08</DateAcquired>
+          <DateSold>2010-01-11</DateSold>
+          <GrossSalesPrice>214540</GrossSalesPrice>
+          <CostOrOtherBasis>193192</CostOrOtherBasis>
+          <GainOrLoss>21348</GainOrLoss>
+          <GainsMinusExcessOrLosses>21348</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>11452.172 FIRST AMER CORE BOND FD CL Y</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-11-24</DateAcquired>
+          <DateSold>2009-08-04</DateSold>
+          <GrossSalesPrice>119561</GrossSalesPrice>
+          <CostOrOtherBasis>101810</CostOrOtherBasis>
+          <GainOrLoss>17751</GainOrLoss>
+          <GainsMinusExcessOrLosses>17751</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1752.073 FIRST AMER CORE BOND FD CL Y</DescriptionOfAsset>
+          <DateAcquired>2009-09-17</DateAcquired>
+          <DateSold>2010-01-11</DateSold>
+          <GrossSalesPrice>19413</GrossSalesPrice>
+          <CostOrOtherBasis>18835</CostOrOtherBasis>
+          <GainOrLoss>578</GainOrLoss>
+          <GainsMinusExcessOrLosses>578</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>3095.78 FIRST AMER CORE BOND FD CL Y</DescriptionOfAsset>
+          <DateAcquired>2008-11-24</DateAcquired>
+          <DateSold>2010-01-11</DateSold>
+          <GrossSalesPrice>34301</GrossSalesPrice>
+          <CostOrOtherBasis>27521</CostOrOtherBasis>
+          <GainOrLoss>6780</GainOrLoss>
+          <GainsMinusExcessOrLosses>6780</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>699.607 FIRST AMER MID CAP GRWTH OPP FD CL Y</DescriptionOfAsset>
+          <DateAcquired>2005-12-15</DateAcquired>
+          <DateSold>2010-01-11</DateSold>
+          <GrossSalesPrice>24619</GrossSalesPrice>
+          <CostOrOtherBasis>27118</CostOrOtherBasis>
+          <GainOrLoss>-2499</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2499</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>5515.202 FIRST AMER LARGE CAP GRWTH OPP CL Y</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-11-24</DateAcquired>
+          <DateSold>2009-07-21</DateSold>
+          <GrossSalesPrice>129221</GrossSalesPrice>
+          <CostOrOtherBasis>110194</CostOrOtherBasis>
+          <GainOrLoss>19027</GainOrLoss>
+          <GainsMinusExcessOrLosses>19027</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>181.816 FIRST AMER LARGE CAP GRWTH OPP CL Y</DescriptionOfAsset>
+          <DateAcquired>2009-09-17</DateAcquired>
+          <DateSold>2010-06-14</DateSold>
+          <GrossSalesPrice>4976</GrossSalesPrice>
+          <CostOrOtherBasis>4649</CostOrOtherBasis>
+          <GainOrLoss>327</GainOrLoss>
+          <GainsMinusExcessOrLosses>327</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1850. ISHARES MSCI EMERGING MKTS E T F</DescriptionOfAsset>
+          <DateAcquired>2009-09-17</DateAcquired>
+          <DateSold>2010-03-03</DateSold>
+          <GrossSalesPrice>74971</GrossSalesPrice>
+          <CostOrOtherBasis>64736</CostOrOtherBasis>
+          <GainOrLoss>10235</GainOrLoss>
+          <GainsMinusExcessOrLosses>10235</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1035. ISHARES TR IBOXX H Y CORP BD E T F</DescriptionOfAsset>
+          <DateAcquired>2009-09-17</DateAcquired>
+          <DateSold>2010-01-11</DateSold>
+          <GrossSalesPrice>92756</GrossSalesPrice>
+          <CostOrOtherBasis>81691</CostOrOtherBasis>
+          <GainOrLoss>11065</GainOrLoss>
+          <GainsMinusExcessOrLosses>11065</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1299.308 ROWE T PRICE MID-CAP VALUE FD INC</DescriptionOfAsset>
+          <DateAcquired>2009-08-04</DateAcquired>
+          <DateSold>2010-01-11</DateSold>
+          <GrossSalesPrice>27805</GrossSalesPrice>
+          <CostOrOtherBasis>22781</CostOrOtherBasis>
+          <GainOrLoss>5024</GainOrLoss>
+          <GainsMinusExcessOrLosses>5024</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>687. SPDR BARCLAYS CAPITAL INTL D</DescriptionOfAsset>
+          <DateAcquired>2009-06-10</DateAcquired>
+          <DateSold>2009-08-04</DateSold>
+          <GrossSalesPrice>38714</GrossSalesPrice>
+          <CostOrOtherBasis>36681</CostOrOtherBasis>
+          <GainOrLoss>2033</GainOrLoss>
+          <GainsMinusExcessOrLosses>2033</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>372. SPDR BARCLAYS CAPITAL INTL D</DescriptionOfAsset>
+          <DateAcquired>2010-01-11</DateAcquired>
+          <DateSold>2010-06-14</DateSold>
+          <GrossSalesPrice>19698</GrossSalesPrice>
+          <CostOrOtherBasis>21435</CostOrOtherBasis>
+          <GainOrLoss>-1737</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1737</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>116286</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>139341</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>2142996</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.065022</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>139272</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>2890457</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.048183</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>133922</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>2885914</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.046405</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>132554</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>2727819</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.048593</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>126835</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>2652179</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.047823</DistributionRatioYear5>
+        <TotalDistributionRatio>0.256027</TotalDistributionRatio>
+        <AverageDistributionRatio>0.051205</AverageDistributionRatio>
+        <NetNoncharitableAssets>2321953</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>118896</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>1450</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>120346</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>106970</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>2899</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>2899</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>2899</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>772</EstTaxPaymentsAndOverpayment>
+        <TaxPaidWithExtension>0</TaxPaidWithExtension>
+        <TotalCreditsAndPayments>772</TotalCreditsAndPayments>
+        <PenaltyForUnderpayment>0</PenaltyForUnderpayment>
+        <TaxDue>2127</TaxDue>
+        <AmountToBeRefunded>0</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>WI</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>US BANK NA</BusinessNameLine1>
+          <BusinessNameLine2>MK-WI-TWPT</BusinessNameLine2>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>4147656446</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>777 E WISCONSIN AVE</AddressLine1>
+          <City>MILWAUKEE</City>
+          <State>WI</State>
+          <ZIPCode>53202</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>true</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <BusinessName>
+            <BusinessNameLine1>US BANK NA</BusinessNameLine1>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1>777 E WISCONSIN AVE</AddressLine1>
+            <City>MILWAUKEE</City>
+            <State>WI</State>
+            <ZIPCode>53202</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>40</AvgHoursPerWkDevotedToPosition>
+          <Compensation>23643</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy />
+      <SumOfProgramRelatedInvestments />
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>2298975</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>58338</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>2357313</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>2357313</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>35360</CashDeemedCharitable>
+        <NetNoncharitableAssets>2321953</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>116098</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>116098</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>2899</TaxBasedOnInvestmentIncome>
+        <TotalTax>2899</TotalTax>
+        <DistributableAmountBeforeAdj>113199</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>113199</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>113199</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>106970</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <AmountsPaidAcqCharitableAssets>0</AmountsPaidAcqCharitableAssets>
+        <AmountsSetAsideSuitabilityTest>0</AmountsSetAsideSuitabilityTest>
+        <AmountsSetAsideCashDistriTest>0</AmountsSetAsideCashDistriTest>
+        <QualifyingDistributions>106970</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>106970</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>113199</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>103857</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear5>0</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>0</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>0</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>0</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>0</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>0</TotalExcessDistriCarryover>
+        <QualifyingDistributions>106970</QualifyingDistributions>
+        <AppliedToYear1>103857</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>3113</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>0</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>110086</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>0</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>0</ExcessFromYear4>
+        <ExcessFromYear3>0</ExcessFromYear3>
+        <ExcessFromYear2>0</ExcessFromYear2>
+        <ExcessFromYear1>0</ExcessFromYear1>
+        <ExcessFromCurrentYear>0</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE SALVATION ARMY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>11315 W WATERTOWN PLANK RD</AddressLine1>
+            <City>WAUWATOSA</City>
+            <State>WI</State>
+            <ZIPCode>53226</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATING SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>25464</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>EVANS SCHOLARS FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>ONE BRIAR ROAD</AddressLine1>
+            <City>GOLF</City>
+            <State>IL</State>
+            <ZIPCode>60029</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PERPETUAL MEMORIAL</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BOYS &amp; GIRLS CLUB-GREATER MILW</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 12486</AddressLine1>
+            <City>MILWAUKEE</City>
+            <State>WI</State>
+            <ZIPCode>532120486</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATING SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>25464</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LAD LAKE INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 158</AddressLine1>
+            <City>DOUSMAN</City>
+            <State>WI</State>
+            <ZIPCode>531180158</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATING SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>25464</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHILDRENS HOSPITAL &amp;</BusinessNameLine1>
+            <BusinessNameLine2>HEALTH SYSTEM FDN</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>MAIL STOP 3050 PO BOX 1997</AddressLine1>
+            <City>MILWAUKEE</City>
+            <State>WI</State>
+            <ZIPCode>532011997</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATING SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>25464</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>103856</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <FeesContractsFromGovtAgencies />
+        <MembershipDuesAndAssessments />
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>35</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>49914</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <NetRentalIncmReDebtFincdProp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncmPersonalProperty />
+        <OtherInvestmentIncomePartVII />
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>116286</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <NetIncomeLossFromSpecialEvents />
+        <GrossProfitLossSalesOfInvntry />
+        <OtherRevenueDescribed>
+          <Description>TAX REFUND-990-PF</Description>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>1420</ExclusionAmount>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>167655</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>167655</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps />
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule">
+      <AccountingFees>
+        <Category>U.S. BANK, TAX PREP FEES</Category>
+        <Amount>750</Amount>
+        <DisbursementsCharitablePrps>750</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="InvestmentsCorpBondsSchedule">
+      <InvestmentsCorpBonds>
+        <NameOfBond>ROYAL BANK CANADA 0% 09/09/11</NameOfBond>
+        <EOYBookValue>75000</EOYBookValue>
+        <EOYFMV>71670</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsOtherSchedule2 documentId="InvestmentsOtherSchedule2">
+      <InvestmentsOther>
+        <CategoryOrItem>FIRST AMER EQUITY INCOME FD</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>339529</BookValue>
+        <EOYFMV>328511</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>FIRST AMER SMALL CAP SELECT FD</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>51911</BookValue>
+        <EOYFMV>47971</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>FIRST AMER MID CAP GRWTH OPP</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>78317</BookValue>
+        <EOYFMV>78971</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>FIRST AMER REAL ESTATE SEC FD</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>82411</BookValue>
+        <EOYFMV>86149</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>FIRST AMER TOTAL RETURN BD FD</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>158407</BookValue>
+        <EOYFMV>158099</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>FIRST AMER CORE BOND FD</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>130311</BookValue>
+        <EOYFMV>164318</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>FIRST AMER INTERMEDIATE TERM</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>451</BookValue>
+        <EOYFMV>507</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>ISHARES TR IBOXX H Y CORP BD</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>460</BookValue>
+        <EOYFMV>510</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>SPDR BARCLAYS CAP INTL D</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>178249</BookValue>
+        <EOYFMV>171463</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>AMERICAN CENT SMALL CAP VALUE</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>26831</BookValue>
+        <EOYFMV>33298</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>BARCLAYS IPATH DJ AIG COMMODY</CategoryOrItem>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>FIRST AMER INTL SELECT</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>154292</BookValue>
+        <EOYFMV>168261</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>FIRST AMER LARGE CAP GRWTH OPP</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>141144</BookValue>
+        <EOYFMV>169520</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>ISHARES MSCI EMERGING MKTS IND</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>54229</BookValue>
+        <EOYFMV>64302</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>ROWE T PRICE MID-CAP VALUE FD</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>68503</BookValue>
+        <EOYFMV>82123</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>SCOUT INTL FD</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>160555</BookValue>
+        <EOYFMV>165208</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>FIRST AMER HIGH INCOME BD FD</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>95561</BookValue>
+        <EOYFMV>92763</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>HARBOR CAPITAL APPREC FD #12</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>160155</BookValue>
+        <EOYFMV>167954</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>IPATH DOW JONES UBS COMMODITY</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>136050</BookValue>
+        <EOYFMV>131326</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2">
+      <OtherIncome>
+        <Description>TAX REFUND - 990-PF</Description>
+        <RevenueAndExpensesPerBooks>1420</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <Taxes>
+        <Category>FOREIGN TAXES PD ON DIVIDENDS</Category>
+        <NetInvestmentIncome>663</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>FOREIGN TAXES PD ON DIVIDENDS</Category>
+        <NetInvestmentIncome>28</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

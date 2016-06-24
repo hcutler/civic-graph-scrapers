@@ -1,0 +1,494 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-08-19T12:33:56-04:00</Timestamp>
+    <TaxPeriodEndDate>2010-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>JMW &amp; ASSOCIATES LLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>5700 BROADMOOR ST SUITE 203</AddressLine1>
+        <City>MISSION</City>
+        <State>KS</State>
+        <ZIPCode>66202</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>841474982</EIN>
+      <Name>
+        <BusinessNameLine1>Jeffrey &amp; Janet Quay Charitable Foundation</BusinessNameLine1>
+      </Name>
+      <NameControl>JEFF</NameControl>
+      <Phone>7195782001</Phone>
+      <USAddress>
+        <AddressLine1>104 South Cascade Avenue</AddressLine1>
+        <City>Colorado Springs</City>
+        <State>CO</State>
+        <ZIPCode>809035102</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>David C Mize</Name>
+      <Title>Director</Title>
+      <Phone>7195782001</Phone>
+      <DateSigned>2010-08-15</DateSigned>
+      <AuthorizeThirdParty>true</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Erin S Morgan</Name>
+      <Phone>9134994920</Phone>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990PF documentId="IRS990PF">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>1414695</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <DividendsRevAndExpnss>113746</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>113746</DividendsNetInvstIncm>
+        <TotalRevenueAndExpenses>113746</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>113746</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <AccountingFeesRevAndExpnss referenceDocumentId="AccountingFeesSch">1900</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>0</AccountingFeesNetInvstIncm>
+        <AccountingFeesAdjNetIncm>0</AccountingFeesAdjNetIncm>
+        <AccountingFeesDsbrsChrtblPrps>1900</AccountingFeesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>1900</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>0</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>1900</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>75300</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>75300</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>77200</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>0</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>77200</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>36546</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>113746</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>83376</CashBOY>
+        <CashEOY>119922</CashEOY>
+        <CashEOYFMV>119922</CashEOYFMV>
+        <InvestmentsCorpStockBOY>1597509</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="InvestCorpStockSch">1597509</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>1294773</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>1680885</TotalAssetsBOY>
+        <TotalAssetsEOY>1717431</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>1414695</TotalAssetsEOYFMV>
+        <AccountsPayableBOY>0</AccountsPayableBOY>
+        <AccountsPayableEOY>0</AccountsPayableEOY>
+        <GrantsPayableBOY>0</GrantsPayableBOY>
+        <GrantsPayableEOY>0</GrantsPayableEOY>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>1597509</CapitalStockBOY>
+        <CapitalStockEOY>1597509</CapitalStockEOY>
+        <RetainedEarningsBOY>83376</RetainedEarningsBOY>
+        <RetainedEarningsEOY>119922</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>1680885</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>1717431</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>1680885</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>1717431</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>1680885</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>36546</ExcessOfRevenueOverExpenses>
+        <Subtotal>1717431</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>1717431</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses />
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>92001</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>1477303</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.062276</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>98502</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>1746241</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.056408</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>86974</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>1783534</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.048765</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>84516</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>1674988</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.050458</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>78104</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>1673904</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.04666</DistributionRatioYear5>
+        <TotalDistributionRatio>0.264567</TotalDistributionRatio>
+        <AverageDistributionRatio>0.052913</AverageDistributionRatio>
+        <NetNoncharitableAssets>1364898</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>72221</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>1137</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>73358</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>77200</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>1137</InvestmentIncomeExciseTax>
+        <Subtotal>1137</Subtotal>
+        <TaxBasedOnInvestmentIncome>1137</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>681</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>681</TotalCreditsAndPayments>
+        <TaxDue>456</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>CO</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>DAVID C MIZE</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>7195782001</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>104 S CASCADE AVE STE 202</AddressLine1>
+          <City>COLORADO SPGS</City>
+          <State>CO</State>
+          <ZIPCode>80903</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>true</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DAVID C MIZE</PersonName>
+          <USAddress>
+            <AddressLine1>104 South Cascade Avenue</AddressLine1>
+            <City>Colorado Springs</City>
+            <State>CO</State>
+            <ZIPCode>809035102</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>N/A</Description1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>NONE</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>92615</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>1293068</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>1385683</TotalFMVOfUnusedAssets>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>1385683</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>20785</CashDeemedCharitable>
+        <NetNoncharitableAssets>1364898</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>68245</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>68245</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>1137</TaxBasedOnInvestmentIncome>
+        <TotalTax>1137</TotalTax>
+        <DistributableAmountBeforeAdj>67108</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>67108</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>67108</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>77200</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <AmountsPaidAcqCharitableAssets>0</AmountsPaidAcqCharitableAssets>
+        <AmountsSetAsideSuitabilityTest>0</AmountsSetAsideSuitabilityTest>
+        <AmountsSetAsideCashDistriTest>0</AmountsSetAsideCashDistriTest>
+        <QualifyingDistributions>77200</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>1137</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>76063</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>67108</DistributableAmountAsAdjusted>
+        <PriorYear1>2007</PriorYear1>
+        <PriorYear2>2006</PriorYear2>
+        <PriorYear3>2005</PriorYear3>
+        <ExcessDistriCarryoverYear5>0</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear1>12342</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>12342</TotalExcessDistriCarryover>
+        <QualifyingDistributions>77200</QualifyingDistributions>
+        <AppliedToCurrentYear>67108</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>10092</RemainingDistriFromCorpus>
+        <TotalCorpus>22434</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>22434</ExcessDistriCyovToNextYear>
+        <ExcessFromYear1>12342</ExcessFromYear1>
+        <ExcessFromCurrentYear>10092</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <PrivateOperatingFoundations>
+        <LessorAdjNetIncmMinInvstReturn />
+        <Percent85OfLessor />
+        <QualifyingDistributions />
+        <QlfyDistriNotUsedDirectly />
+        <QlfyDistriMadeDirectly />
+        <TotalAssets>
+          <Year1>1344235</Year1>
+          <Year2>1673442</Year2>
+          <Year3>1882236</Year3>
+          <Total>4899913</Total>
+        </TotalAssets>
+        <TotalAssetsSect4942j3Bi />
+        <TwoThirdsMinInvstReturn />
+        <TotalSupport />
+        <PublicSupport />
+        <LargestSupportFromEO />
+        <GrossInvestmentIncome />
+      </PrivateOperatingFoundations>
+      <SupplementaryInformation>
+        <ContributingManager>NA</ContributingManager>
+        <ShareholderManager>NA</ShareholderManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WORLD WILDLIFE FUND</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1250 24th Street NW</AddressLine1>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20037</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NO RELATIONSHIP</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>7500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BIG CATS OF SERENITY SPRINGS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 112</AddressLine1>
+            <City>CALHAN</City>
+            <State>CO</State>
+            <ZIPCode>80808</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NO RELATIONSHIP</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>16000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NATURE CONSERVANCY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2424 Spruce Street</AddressLine1>
+            <City>Boulder</City>
+            <State>CO</State>
+            <ZIPCode>80302</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NO RELATIONSHIP</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MEMORIAL SLOAN-KETTERING CANCER CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1275 YORK AVENUE</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10065</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NO RELATIONSHIP</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DOCTORS WITHOUT BORDERS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>333 7th Avenue 2nd floor</AddressLine1>
+            <City>new york</City>
+            <State>NY</State>
+            <ZIPCode>10001</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NO RELATIONSHIP</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SWANER Ecological Foundation</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>University of Utah</AddressLine1>
+            <City>Logan</City>
+            <State>UT</State>
+            <ZIPCode>84322</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NO RELATIONSHIP</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHEYENNE MOUNTAIN ZOOLOGICAL SOCIETY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4250 CHEYENNE MOUNTAIN ZOO ROAD</AddressLine1>
+            <City>COLORADO SPRINGS</City>
+            <State>CO</State>
+            <ZIPCode>80906</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NO RELATIONSHIP</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DENVER RESCUE MISSION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 5206</AddressLine1>
+            <City>DENVER</City>
+            <State>CO</State>
+            <ZIPCode>80217</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NO RELATIONSHIP</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AVON FOUNDATION BREAST CANCER CRUSADE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>180 Montgomery Street 925</AddressLine1>
+            <City>San Francisco</City>
+            <State>CA</State>
+            <ZIPCode>94104</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NO RELATIONSHIP</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>2300</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HEIFER INTERNATIONAL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 8058</AddressLine1>
+            <City>LITTLE ROCK</City>
+            <State>AR</State>
+            <ZIPCode>72203</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NO RELATIONSHIP</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>75300</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <FeesContractsFromGovtAgencies />
+        <MembershipDuesAndAssessments />
+        <IntOnSavingsAndTempCashInvst />
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>113746</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <NetRentalIncmReDebtFincdProp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncmPersonalProperty />
+        <OtherInvestmentIncomePartVII />
+        <GainSalesAssetsOthThanInvntry />
+        <NetIncomeLossFromSpecialEvents />
+        <GrossProfitLossSalesOfInvntry />
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>113746</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>113746</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps />
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSch">
+      <AccountingFees>
+        <Category>JMW &amp; ASSOCIATES, LLC</Category>
+        <Amount>1900</Amount>
+        <DisbursementsCharitablePrps>1900</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <AllOthProgRltdInvestmentsSch documentId="AllOthProgInvSch">
+      <AllOthProgRltdInvestments>
+        <Description>NONE</Description>
+      </AllOthProgRltdInvestments>
+    </AllOthProgRltdInvestmentsSch>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <InvestmentsCorpStockSchedule documentId="InvestCorpStockSch">
+      <InvestmentsCorpStock>
+        <NameOfStock>VALLEY COMPANY-7,834 SHARES</NameOfStock>
+        <EOYBookValue>1597509</EOYBookValue>
+        <EOYFMV>1294773</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsLandSchedule2 documentId="InvLandSch2" />
+    <LandEtcSchedule2 documentId="LandEtcSch2" />
+  </ReturnData>
+</Return>

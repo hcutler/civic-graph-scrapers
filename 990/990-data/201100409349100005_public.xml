@@ -1,0 +1,363 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.7" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-09T12:36:53-08:00</Timestamp>
+    <TaxPeriodEndDate>2010-10-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Aharon Friedman</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>5 Remsen Avenue Suite 1</AddressLine1>
+        <City>Monsey</City>
+        <State>NY</State>
+        <ZIPCode>10952</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-11-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>205973465</EIN>
+      <Name>
+        <BusinessNameLine1>YACHAD SPRING VALLEY INC</BusinessNameLine1>
+      </Name>
+      <NameControl>YACH</NameControl>
+      <Phone>8452223608</Phone>
+      <USAddress>
+        <AddressLine1>80 HERRICK DRIVE</AddressLine1>
+        <City>SPRING VALLEY</City>
+        <State>NY</State>
+        <ZIPCode>10977</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>HENRY KELLNER</Name>
+      <Title>President</Title>
+      <DateSigned>2011-02-09</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>Aharon Friedman EA</Name>
+      <Phone>8454256809</Phone>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="09000047" softwareVersion="2009v1.7">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>0</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>5000</ContriReceivedRevAndExpnss>
+        <NetGainSaleAssetsRevAndExpnss>925</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>5975</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>925</CapitalGainNetIncmNetInvstIncm>
+        <NetSTCGAdjNetIncm>925</NetSTCGAdjNetIncm>
+        <TotalRevenueAndExpenses>5925</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>925</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>925</TotalAdjustedNetIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId=" AccountingFeesSchedule">250</AccountingFeesRevAndExpnss>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">124</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>374</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>3160</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>3160</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>3534</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>3160</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>2391</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>925</NetInvestmentIncome>
+        <AdjustedNetIncome>925</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>496</CashBOY>
+        <CashEOY>3005</CashEOY>
+        <OtherAssetsBOY referenceDocumentId=" OtherAssetsSchedule">1428</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId=" OtherAssetsSchedule">1311</OtherAssetsEOY>
+        <TotalAssetsBOY>1924</TotalAssetsBOY>
+        <TotalAssetsEOY>4316</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>0</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>1924</RetainedEarningsBOY>
+        <RetainedEarningsEOY>4316</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>1924</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>4316</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>1924</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>4316</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>1924</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>2391</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId=" OtherIncreasesSchedule">1</OtherIncreases>
+        <Subtotal>4316</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>4316</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>500 Common Stock</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-01-20</DateAcquired>
+          <DateSold>2010-01-21</DateSold>
+          <GrossSalesPrice>5975</GrossSalesPrice>
+          <CostOrOtherBasis>5050</CostOrOtherBasis>
+          <GainOrLoss>925</GainOrLoss>
+          <GainsMinusExcessOrLosses>925</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>925</CapitalGainNetIncome>
+        <NetShortTermCapitalGainOrLoss>925</NetShortTermCapitalGainOrLoss>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>546</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>361</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>1.51247</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>322</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>383</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.84073</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>4164</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>270</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>15.42222</DistributionRatioYear3>
+        <TotalDistributionRatio>17.77542</TotalDistributionRatio>
+        <AverageDistributionRatio>5.92514</AverageDistributionRatio>
+        <NetNoncharitableAssets>3741</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>22166</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>9</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>22175</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>3160</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>19</InvestmentIncomeExciseTax>
+        <Subtotal>19</Subtotal>
+        <TaxBasedOnInvestmentIncome>19</TaxBasedOnInvestmentIncome>
+        <TaxDue>19</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>false</RequirementsOfSect508e>
+        <AtLeast5000InAssets>false</AtLeast5000InAssets>
+        <StatesFiledWith>NY</StatesFiledWith>
+        <Form990PFFiledWithAG>false</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>HENRY KELLNER</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>80 HERRICK DRIVE</AddressLine1>
+          <City>SPRING VALLEY</City>
+          <State>NY</State>
+          <ZIPCode>10952</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>KAILA KELLNER</PersonName>
+          <USAddress>
+            <AddressLine1>80 HERRICK DRIVE</AddressLine1>
+            <City>SPRING VALLEY</City>
+            <State>NY</State>
+            <ZIPCode>10977</ZIPCode>
+          </USAddress>
+          <Title>Treasurer</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>GENESHA KELLNER</PersonName>
+          <USAddress>
+            <AddressLine1>80 HERRICK DRIVE</AddressLine1>
+            <City>SPRING VALLEY</City>
+            <State>NY</State>
+            <ZIPCode>10977</ZIPCode>
+          </USAddress>
+          <Title>Secretary</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>HENRY KELLNER</PersonName>
+          <USAddress>
+            <AddressLine1>80 HERRICK DRIVE</AddressLine1>
+            <City>SPRING VALLEY</City>
+            <State>NY</State>
+            <ZIPCode>10977</ZIPCode>
+          </USAddress>
+          <Title>President</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>3798</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>3798</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>3798</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>57</CashDeemedCharitable>
+        <NetNoncharitableAssets>3741</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>187</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>187</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>19</TaxBasedOnInvestmentIncome>
+        <TotalTax>19</TotalTax>
+        <DistributableAmountBeforeAdj>168</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>168</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>168</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>3160</ExpensesAndContributions>
+        <QualifyingDistributions>3160</QualifyingDistributions>
+        <AdjQualifyingDistributions>3160</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>168</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear3>4151</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>303</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>528</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>4982</TotalExcessDistriCarryover>
+        <QualifyingDistributions>3160</QualifyingDistributions>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>168</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>2992</RemainingDistriFromCorpus>
+        <TotalCorpus>7974</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>7974</ExcessDistriCyovToNextYear>
+        <ExcessFromYear3>4151</ExcessFromYear3>
+        <ExcessFromYear2>303</ExcessFromYear2>
+        <ExcessFromYear1>528</ExcessFromYear1>
+        <ExcessFromCurrentYear>2992</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <AnalysisIncomeProducingActy>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>925</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>925</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>925</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB" softwareId="09000047" softwareVersion="2009v1.7">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>Reliable Brokerage Inc</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>4 Garfield Rd 104</AddressLine1>
+          <City>Monroe</City>
+          <State>NY</State>
+          <ZIPCode>10950</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>5000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="09000047" softwareVersion="2009v1.7">
+      <AccountingFees>
+        <Category>Accounting Fees</Category>
+        <Amount>250</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <AmortizationSchedule documentId="AmortizationSchedule" softwareId="09000047" softwareVersion="2009v1.7">
+      <Amortization>
+        <DescriptionOfAmortizedExpenses>SETUP COSTS</DescriptionOfAmortizedExpenses>
+        <DateAcquiredCompletedExpended>2007-02-09</DateAcquiredCompletedExpended>
+        <AmountAmortized>1750</AmountAmortized>
+        <DeductionForPriorYears>322</DeductionForPriorYears>
+        <AmortizationPeriod>15.0000</AmortizationPeriod>
+        <CurrentYearAmortization>117</CurrentYearAmortization>
+        <TotalAmountOfAmortization>439</TotalAmountOfAmortization>
+      </Amortization>
+    </AmortizationSchedule>
+    <OtherAssetsSchedule documentId="OtherAssetsSchedule" softwareId="09000047" softwareVersion="2009v1.7">
+      <OtherAssets>
+        <Description>Net Intangible Assets</Description>
+        <BOYBookValue>1428</BOYBookValue>
+        <EOYBookValue>1311</EOYBookValue>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="09000047" softwareVersion="2009v1.7">
+      <OtherExpenses>
+        <Description>Rounding</Description>
+        <RevenueAndExpensesPerBooks>1</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Bank Charges</Description>
+        <RevenueAndExpensesPerBooks>6</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Amortization</Description>
+        <RevenueAndExpensesPerBooks>117</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="OtherIncreasesSchedule" softwareId="09000047" softwareVersion="2009v1.7">
+      <OtherIncreases>
+        <Description>Rounding</Description>
+        <Amount>1</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,405 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-09-01T11:12:14-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>BECKER &amp; KUMM CPAS</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>320 WEST GRAND AVENUE SUITE 301</AddressLine1>
+        <City>WISCONSIN RAPIDS</City>
+        <State>WI</State>
+        <ZIPCode>54495</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>396126564</EIN>
+      <Name>
+        <BusinessNameLine1>CONNOR FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>CONN</NameControl>
+      <Phone>7154235720</Phone>
+      <USAddress>
+        <AddressLine1>320 WEST GRAND AVENUE</AddressLine1>
+        <AddressLine2>ROOM/SUITE 301</AddressLine2>
+        <City>WISCONSIN RAPIDS</City>
+        <State>WI</State>
+        <ZIPCode>54495</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>MARY C PIERCE</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>7154235720</Phone>
+      <DateSigned>2010-09-15</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>DAVID W KUMM</Name>
+      <Phone>7154235720</Phone>
+      <DatePrepared>2010-08-20</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>236692</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>10623</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>10623</DividendsNetInvstIncm>
+        <TotalRevenueAndExpenses>10623</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>10623</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">1090</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>545</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>545</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc5">366</TaxesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>1456</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>545</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>545</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>12200</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>12200</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>13656</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>545</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>12745</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-3033</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>10078</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>674</CashBOY>
+        <CashEOY>646</CashEOY>
+        <CashEOYFMV>646</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>7535</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>4530</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>4530</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>116433</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc4">116433</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>201516</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>30000</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="RetDoc3">30000</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>30000</InvestmentsCorpBondsEOYFMV>
+        <TotalAssetsBOY>154642</TotalAssetsBOY>
+        <TotalAssetsEOY>151609</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>236692</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>154642</RetainedEarningsBOY>
+        <RetainedEarningsEOY>151609</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>154642</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>151609</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>154642</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>151609</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>154642</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-3033</ExcessOfRevenueOverExpenses>
+        <Subtotal>151609</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>151609</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>14200</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>250323</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.056727</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>14587</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>303992</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.047985</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>14660</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>300559</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.048776</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>12500</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>277674</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.045017</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>11247</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>262753</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.042804</DistributionRatioYear5>
+        <TotalDistributionRatio>0.241309</TotalDistributionRatio>
+        <AverageDistributionRatio>0.048262</AverageDistributionRatio>
+        <NetNoncharitableAssets>249284</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>12031</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>101</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>12132</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>12745</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>101</InvestmentIncomeExciseTax>
+        <Subtotal>101</Subtotal>
+        <TaxBasedOnInvestmentIncome>101</TaxBasedOnInvestmentIncome>
+        <TaxDue>101</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>WI</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>BECKER AND KUMM CPAS</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>7154235720</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>320 WEST GRAND AVENUE SUITE 301</AddressLine1>
+          <City>WISCONSIN RAPIDS</City>
+          <State>WI</State>
+          <ZIPCode>54495</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARY C PIERCE</PersonName>
+          <USAddress>
+            <AddressLine1>4000 ROYAL MARCO WAY</AddressLine1>
+            <City>MARCO ISLAND</City>
+            <State>FL</State>
+            <ZIPCode>34145</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>3.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CATHERINE C DELLIN</PersonName>
+          <USAddress>
+            <AddressLine1>550 SOUTH AVE</AddressLine1>
+            <City>GLENCOE</City>
+            <State>IL</State>
+            <ZIPCode>60022</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CATHERINE P HURTGEN</PersonName>
+          <USAddress>
+            <AddressLine1>373 GROVE AVE</AddressLine1>
+            <City>GLENCOE</City>
+            <State>IL</State>
+            <ZIPCode>60022</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MELISSA P DEMOPOULOS</PersonName>
+          <USAddress>
+            <AddressLine1>941 RIDGE CT</AddressLine1>
+            <City>EVANSTON</City>
+            <State>IL</State>
+            <ZIPCode>60202</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>241490</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>11590</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>253080</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>253080</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>3796</CashDeemedCharitable>
+        <NetNoncharitableAssets>249284</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>12464</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>12464</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>101</TaxBasedOnInvestmentIncome>
+        <TotalTax>101</TotalTax>
+        <DistributableAmountBeforeAdj>12363</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>12363</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>12363</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>12745</ExpensesAndContributions>
+        <QualifyingDistributions>12745</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>101</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>12644</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>12363</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>12103</UndistributedIncomePriorYear>
+        <QualifyingDistributions>12745</QualifyingDistributions>
+        <AppliedToYear1>12103</AppliedToYear1>
+        <AppliedToCurrentYear>642</AppliedToCurrentYear>
+        <UndistributedIncomeCY>11721</UndistributedIncomeCY>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNIVERSITY OF WISC FNDN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 88</AddressLine1>
+            <City>MADISON</City>
+            <State>WI</State>
+            <ZIPCode>53708</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIPS AND INTERNSHIPS</PurposeOfGrantOrContribution>
+          <Amount>9760</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CAMP FIVE MUSEUM FNDN INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 5</AddressLine1>
+            <City>LAONA</City>
+            <State>WI</State>
+            <ZIPCode>54541</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATIONS AND CAPITAL IMPROVEMENTS</PurposeOfGrantOrContribution>
+          <Amount>2040</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LAONA RESCUE SQUAD</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5146 LINDEN STREET</AddressLine1>
+            <City>LAONA</City>
+            <State>WI</State>
+            <ZIPCode>54541</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATIONS</PurposeOfGrantOrContribution>
+          <Amount>400</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>12200</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>10623</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>10623</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>10623</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>INDIRECT ACCOUNTING FEES</Category>
+        <Amount>1090</Amount>
+        <NetInvestmentIncome>545</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>545</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc3">
+      <InvestmentsCorpBonds>
+        <NameOfBond>NICOLET BANKSHARES STATUTORY TRUST I</NameOfBond>
+        <EOYBookValue>30000</EOYBookValue>
+        <EOYFMV>30000</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc4">
+      <InvestmentsCorpStock>
+        <NameOfStock>400S 3M COMPANY</NameOfStock>
+        <EOYBookValue>6851</EOYBookValue>
+        <EOYFMV>31596</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1400S EXXON MOBIL CORP</NameOfStock>
+        <EOYBookValue>16341</EOYBookValue>
+        <EOYFMV>79898</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>300S GREAT PLAINS ENERGY</NameOfStock>
+        <EOYBookValue>7518</EOYBookValue>
+        <EOYFMV>5106</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1400S INTEGRYS ENERGY GROUP INC</NameOfStock>
+        <EOYBookValue>63760</EOYBookValue>
+        <EOYFMV>61236</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>500S SOUTHERN CO</NameOfStock>
+        <EOYBookValue>13935</EOYBookValue>
+        <EOYFMV>16640</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>200S WEYERHAEUSER CO</NameOfStock>
+        <EOYBookValue>8028</EOYBookValue>
+        <EOYFMV>7040</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <TaxesSchedule documentId="RetDoc5">
+      <Taxes>
+        <Category>EXCISE TAX ON NET INVESTMENT INC</Category>
+        <Amount>366</Amount>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

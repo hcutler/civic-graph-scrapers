@@ -1,0 +1,752 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-01-17T12:45:56-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-08-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <EIN>300074330</EIN>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>HARPER WING &amp; WEBER PL</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>595 W GRANADA BLVD STE I</AddressLine1>
+        <City>ORMOND BEACH</City>
+        <State>FL</State>
+        <ZIPCode>321745182</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-09-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>597087206</EIN>
+      <Name>
+        <BusinessNameLine1>TRUST UW THEADOR F WEBER</BusinessNameLine1>
+        <BusinessNameLine2>MICHELLE WEINBERG TRUSTEE</BusinessNameLine2>
+      </Name>
+      <NameControl>WEBE</NameControl>
+      <Phone>9048299956</Phone>
+      <USAddress>
+        <AddressLine1>75 DOLPHIN DRIVE</AddressLine1>
+        <City>ST AUGUSTINE</City>
+        <State>FL</State>
+        <ZIPCode>32080</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>MICHELLE WEINBERG</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>9048299956</Phone>
+      <DateSigned>2011-01-04</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>KALLY A WEBER CPA</Name>
+      <PTIN>P00236376</PTIN>
+      <Phone>3866776625</Phone>
+      <DatePrepared>2011-01-17</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="RetDoc1">
+      <NECT>X</NECT>
+      <FMVAssetsEOY>1736167</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>3618</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>3618</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>36652</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>36652</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>-150750</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>307784</GrossSalesPrice>
+        <TotalRevenueAndExpenses>-110480</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>40270</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>20000</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstDsbrsChrtblPrps>20000</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">5660</AccountingFeesRevAndExpnss>
+        <AccountingFeesDsbrsChrtblPrps>5660</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc5">24055</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>24055</OtherProfFeesNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc6">624</TaxesRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc4">1338</OtherExpensesRevAndExpnss>
+        <OtherExpensesDsbrsChrtblPrps>1338</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>51677</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>24055</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>26998</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>65000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>65000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>116677</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>24055</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>91998</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-227157</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>16215</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>167759</CashBOY>
+        <CashEOY>23183</CashEOY>
+        <CashEOYFMV>23183</CashEOYFMV>
+        <InvestmentsCorpStockBOY>1682414</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc3">1370834</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>1483985</InvestmentsCorpStockEOYFMV>
+        <InvestmentsMortgageLoansEOY>228999</InvestmentsMortgageLoansEOY>
+        <InvestmentsMortgageLoansEOYFMV>228999</InvestmentsMortgageLoansEOYFMV>
+        <TotalAssetsBOY>1850173</TotalAssetsBOY>
+        <TotalAssetsEOY>1623016</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>1736167</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>3210469</CapitalStockBOY>
+        <CapitalStockEOY>3210469</CapitalStockEOY>
+        <RetainedEarningsBOY>-1360296</RetainedEarningsBOY>
+        <RetainedEarningsEOY>-1587453</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>1850173</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>1623016</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>1850173</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>1623016</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>1850173</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-227157</ExcessOfRevenueOverExpenses>
+        <Subtotal>1623016</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>1623016</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>PUBLICLY TRADED SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>307784</GrossSalesPrice>
+          <CostOrOtherBasis>458534</CostOrOtherBasis>
+          <GainOrLoss>-150750</GainOrLoss>
+          <GainsMinusExcessOrLosses>-150750</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>-150750</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>53520</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>1464947</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.036534</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>148193</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>2278925</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.065028</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>134915</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>2404639</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.056106</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>156141</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>2346930</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.066530</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>88520</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>2368158</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.037379</DistributionRatioYear5>
+        <TotalDistributionRatio>0.261577</TotalDistributionRatio>
+        <AverageDistributionRatio>0.052315</AverageDistributionRatio>
+        <NetNoncharitableAssets>1752939</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>91705</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>162</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>91867</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>91998</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>162</InvestmentIncomeExciseTax>
+        <Subtotal>162</Subtotal>
+        <TaxBasedOnInvestmentIncome>162</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>531</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>531</TotalCreditsAndPayments>
+        <Overpayment>369</Overpayment>
+        <AmountCreditedToNextYear>369</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>FL</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>MICHELLE WEINBERG</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>9048299956</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>75 DOLPHIN DRIVE</AddressLine1>
+          <City>ST AUGUSTINE</City>
+          <State>FL</State>
+          <ZIPCode>32080</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <NECTFilingInLieuOFForm1041>X</NECTFilingInLieuOFForm1041>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>true</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MICHELLE WEINBERG</PersonName>
+          <USAddress>
+            <AddressLine1>75 DOLPHIN DRIVE</AddressLine1>
+            <City>ST AUGUSTINE</City>
+            <State>FL</State>
+            <ZIPCode>32080</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>3.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>20000</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>1566736</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>135037</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>77860</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>1779633</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>1779633</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>26694</CashDeemedCharitable>
+        <NetNoncharitableAssets>1752939</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>87647</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>87647</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>162</TaxBasedOnInvestmentIncome>
+        <TotalTax>162</TotalTax>
+        <DistributableAmountBeforeAdj>87485</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>87485</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>87485</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>91998</ExpensesAndContributions>
+        <QualifyingDistributions>91998</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>162</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>91836</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>87485</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear4>9039</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>15709</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>35163</ExcessDistriCarryoverYear2>
+        <TotalExcessDistriCarryover>59911</TotalExcessDistriCarryover>
+        <QualifyingDistributions>91998</QualifyingDistributions>
+        <AppliedToCurrentYear>87485</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>4513</RemainingDistriFromCorpus>
+        <TotalCorpus>64424</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>64424</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>9039</ExcessFromYear4>
+        <ExcessFromYear3>15709</ExcessFromYear3>
+        <ExcessFromYear2>35163</ExcessFromYear2>
+        <ExcessFromCurrentYear>4513</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HOSPICE OF NE FLORIDA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4266 SUNBEAM ROAD</AddressLine1>
+            <City>JACKSONVILLE</City>
+            <State>FL</State>
+            <ZIPCode>32257</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>SEC. 501(C)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TERMS OF TRUST ESTABLISHED IN WILL</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ST AUGUSTINE HUMANE SOC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1665 OLD MOUTRIE ROAD</AddressLine1>
+            <City>ST AUGUSTINE</City>
+            <State>FL</State>
+            <ZIPCode>32084</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>SEC. 509(A)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TERMS OF TRUST ESTABLISHED IN WILL</PurposeOfGrantOrContribution>
+          <Amount>40000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>65000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>3618</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>36652</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>-150750</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>-110480</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>-110480</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>HARPER, PAXSON, WILLIAMS &amp; WING,</Category>
+        <Amount>5660</Amount>
+        <DisbursementsCharitablePrps>5660</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc3">
+      <InvestmentsCorpStock>
+        <NameOfStock>AT&amp;T INC 800 SHS</NameOfStock>
+        <EOYBookValue>28963</EOYBookValue>
+        <EOYFMV>21624</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>AT&amp;T INC 1200 SHS</NameOfStock>
+        <EOYBookValue>32358</EOYBookValue>
+        <EOYFMV>32436</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ALTRIA GROUP 200 SHS</NameOfStock>
+        <EOYBookValue>2161</EOYBookValue>
+        <EOYFMV>4464</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>APACHE CORP 400 SHS</NameOfStock>
+        <EOYBookValue>27596</EOYBookValue>
+        <EOYFMV>35940</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>APPLIED MATERIALS INC 1000 SHS</NameOfStock>
+        <EOYBookValue>16240</EOYBookValue>
+        <EOYFMV>10370</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>AVIAT NETWORKS INC 124 SHS</NameOfStock>
+        <EOYBookValue>665</EOYBookValue>
+        <EOYFMV>490</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>BANK OF AMERICA CORP 2000 SHS</NameOfStock>
+        <EOYBookValue>71492</EOYBookValue>
+        <EOYFMV>24920</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>BOEING CO 160 SHS</NameOfStock>
+        <EOYBookValue>13929</EOYBookValue>
+        <EOYFMV>9781</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CVS CAREMARK CORP 500 SHS</NameOfStock>
+        <EOYBookValue>15570</EOYBookValue>
+        <EOYFMV>13490</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CVS CAREMARK CORP 500 SHS</NameOfStock>
+        <EOYBookValue>15875</EOYBookValue>
+        <EOYFMV>13490</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CATERPILLAR INC 800 SHS</NameOfStock>
+        <EOYBookValue>45997</EOYBookValue>
+        <EOYFMV>52128</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CENTURYTEL INC 685 SHS</NameOfStock>
+        <EOYBookValue>22255</EOYBookValue>
+        <EOYFMV>24770</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CHESAPEAKE ENERGY CORP 500 SHS</NameOfStock>
+        <EOYBookValue>15390</EOYBookValue>
+        <EOYFMV>10340</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CISCO SYSTEMS INC 1000 SHS</NameOfStock>
+        <EOYBookValue>19719</EOYBookValue>
+        <EOYFMV>19985</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>COCA COLA CO 500 SHS</NameOfStock>
+        <EOYBookValue>22235</EOYBookValue>
+        <EOYFMV>27941</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CONOCOPHILLIPS 50 SHS</NameOfStock>
+        <EOYBookValue>4688</EOYBookValue>
+        <EOYFMV>2622</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>COVIDIEN PLC SHS 110 SHS</NameOfStock>
+        <EOYBookValue>2019</EOYBookValue>
+        <EOYFMV>3887</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>DEERE &amp; CO 500 SHS</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>DEERE &amp; CO 500 SHS</NameOfStock>
+        <EOYBookValue>17560</EOYBookValue>
+        <EOYFMV>31635</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>DISNEY WALT CO 500 SHS</NameOfStock>
+        <EOYBookValue>9917</EOYBookValue>
+        <EOYFMV>16270</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>DUPONT E I DENEMOURS &amp; CO 1000 SHS</NameOfStock>
+        <EOYBookValue>40530</EOYBookValue>
+        <EOYFMV>40770</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>E M C CORP 2000 SHS</NameOfStock>
+        <EOYBookValue>28099</EOYBookValue>
+        <EOYFMV>36480</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>EAGLE BULK SHIPPING 1000 SHS</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>EMERSON ELECTRIC CO 800 SHS</NameOfStock>
+        <EOYBookValue>25600</EOYBookValue>
+        <EOYFMV>37320</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>FEDEX CORP 635 SHS</NameOfStock>
+        <EOYBookValue>52020</EOYBookValue>
+        <EOYFMV>49562</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>FREEPORT-MCMORAN COPPER &amp; GOLD 400 S</NameOfStock>
+        <EOYBookValue>28078</EOYBookValue>
+        <EOYFMV>28796</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>FRONTIER COMMUNICATIONS CORP 192 SHS</NameOfStock>
+        <EOYBookValue>1841</EOYBookValue>
+        <EOYFMV>1484</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>GENERAL DYNAMICS CORP 100 SHS</NameOfStock>
+        <EOYBookValue>8128</EOYBookValue>
+        <EOYFMV>5587</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>GENERAL ELECTRIC CO 500 SHS</NameOfStock>
+        <EOYBookValue>17479</EOYBookValue>
+        <EOYFMV>7240</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>HALLIBURTON CO 1130 SHS</NameOfStock>
+        <EOYBookValue>12295</EOYBookValue>
+        <EOYFMV>31877</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>HARRIS CORP 500 SHS</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>HARRIS STRATEX NTWRKS INC 124 SHS</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>HOME DEPOT INC 1000 SHS</NameOfStock>
+        <EOYBookValue>37340</EOYBookValue>
+        <EOYFMV>27820</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>IBM 500 SHS</NameOfStock>
+        <EOYBookValue>43865</EOYBookValue>
+        <EOYFMV>61565</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>INTEROIL CORP 1500 SHS</NameOfStock>
+        <EOYBookValue>40348</EOYBookValue>
+        <EOYFMV>88125</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>INTEROIL CORP 1500 SHS</NameOfStock>
+        <EOYBookValue>82478</EOYBookValue>
+        <EOYFMV>88125</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>IOWA TELECOMM SVCS INC 1500 SHS</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>JOHNSON &amp; JOHNSON 800 SHS</NameOfStock>
+        <EOYBookValue>51367</EOYBookValue>
+        <EOYFMV>45616</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>KOHLS CORP 500 SHS</NameOfStock>
+        <EOYBookValue>25845</EOYBookValue>
+        <EOYFMV>23470</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>LOWES COS 1000 SHS</NameOfStock>
+        <EOYBookValue>27575</EOYBookValue>
+        <EOYFMV>20280</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MCDONALDS CORP 885 SHS</NameOfStock>
+        <EOYBookValue>33896</EOYBookValue>
+        <EOYFMV>64658</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MCKESSON CORP 500 SHS</NameOfStock>
+        <EOYBookValue>12746</EOYBookValue>
+        <EOYFMV>29025</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MONSANTO CO 100 SHS</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>NEWELL RUBBERMAID INC 645 SHS</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>NORTHROP GRUMMAN CORP 100 SHS</NameOfStock>
+        <EOYBookValue>4323</EOYBookValue>
+        <EOYFMV>5412</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>PHILIP MORRIS INTL INC 200 SHS</NameOfStock>
+        <EOYBookValue>4964</EOYBookValue>
+        <EOYFMV>10272</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>PROCTOR &amp; GAMBLE CO 460 SHS</NameOfStock>
+        <EOYBookValue>19373</EOYBookValue>
+        <EOYFMV>27448</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>QUALCOMM INC 500 SHS</NameOfStock>
+        <EOYBookValue>18695</EOYBookValue>
+        <EOYFMV>19150</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>RAYTHEON CO 500 SHS</NameOfStock>
+        <EOYBookValue>20190</EOYBookValue>
+        <EOYFMV>21960</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>RAYTHEON CO 100 SHS</NameOfStock>
+        <EOYBookValue>3915</EOYBookValue>
+        <EOYFMV>4392</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>SCHLUMBERGER LTD 400 SHS</NameOfStock>
+        <EOYBookValue>31988</EOYBookValue>
+        <EOYFMV>21332</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>STRYKER CORP 600 SHS</NameOfStock>
+        <EOYBookValue>28293</EOYBookValue>
+        <EOYFMV>25914</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>TEXAS INSTRUMENTS INC 500 SHS</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>TEXTRON INC 600 SHS</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>TYCO INTL LTD 400 SHS</NameOfStock>
+        <EOYBookValue>14917</EOYBookValue>
+        <EOYFMV>14912</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>UGI CORP 940 SHS</NameOfStock>
+        <EOYBookValue>9727</EOYBookValue>
+        <EOYFMV>25944</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>US BANCORP DEL 500 SHS</NameOfStock>
+        <EOYBookValue>17745</EOYBookValue>
+        <EOYFMV>10400</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>UNITED PARCEL SVC CL B 500 SHS</NameOfStock>
+        <EOYBookValue>36740</EOYBookValue>
+        <EOYFMV>31900</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>UNITED TECHNOLOGIES CORP 500 SHS</NameOfStock>
+        <EOYBookValue>31630</EOYBookValue>
+        <EOYFMV>32605</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>UNITEDHEALTH GROUP INC 500 SHS</NameOfStock>
+        <EOYBookValue>24395</EOYBookValue>
+        <EOYFMV>15860</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>VERIZON COMMUNICATIONS 800 SHS</NameOfStock>
+        <EOYBookValue>27858</EOYBookValue>
+        <EOYFMV>23624</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>WALGREEN CO 400 SHS</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>WATERS CORP 500 SHS</NameOfStock>
+        <EOYBookValue>21511</EOYBookValue>
+        <EOYFMV>30260</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>WELLPOINT HEALTH NETWORK 800 SHS</NameOfStock>
+        <EOYBookValue>31890</EOYBookValue>
+        <EOYFMV>39725</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ZEBRA TECHNOLOGIES CORP CL A 600 SHS</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>NEWELL FINANCIAL TR I QIPS 195 SHS</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>BOIMED REALTY TR REIT 1000 SHS</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MAGUIRE PPTYS INC REIT 500 SHS</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>BLACKROCK INTL GROWTH &amp; INC 2000 SHS</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>DWS RREEF WORLD RE &amp; TAC 1000 SHS</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ING GLOBAL EQUITY DIV &amp; 2000 SHS</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ISHARES DJ US OIL &amp; EQUIP 50 SHS</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ISHARES INC MSCI MALAYSIA 1000 SHS</NameOfStock>
+        <EOYBookValue>10759</EOYBookValue>
+        <EOYFMV>12890</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ISHARES TR BARCLYS TIPS BD 25 SHS</NameOfStock>
+        <EOYBookValue>2509</EOYBookValue>
+        <EOYFMV>2706</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ISHARES TR INDEX IBOXX INV 65 SHS</NameOfStock>
+        <EOYBookValue>6548</EOYBookValue>
+        <EOYFMV>7345</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ISHARES TR MSCI EMRG MKT 600 SHS</NameOfStock>
+        <EOYBookValue>24626</EOYBookValue>
+        <EOYFMV>24036</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ISHARES TR US PFD STK INDEX 90 SHS</NameOfStock>
+        <EOYBookValue>2549</EOYBookValue>
+        <EOYFMV>3595</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>NEUBERGER BERMAN RE SEC FD 2113 SHS</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>POWERSHARES QQQ TR 70 SHS</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>SPDR GOLD TR GOLD SHS 25 SHS</NameOfStock>
+        <EOYBookValue>2148</EOYBookValue>
+        <EOYFMV>3052</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>SECTOR SPDR TR HEALTHCARE 1000 SHS</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>VAN KAMPEN DYNAMIC CR OPP 2000 SHS</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>VANGUARD DIV APPR ETF 80 SHS</NameOfStock>
+        <EOYBookValue>3138</EOYBookValue>
+        <EOYFMV>3618</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>VANGUARD EUROPEAN ETF 50 SHS</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>TEEKAY OFFSHORE PTRS LP 1000 UNITS</NameOfStock>
+        <EOYBookValue>16244</EOYBookValue>
+        <EOYFMV>21250</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="RetDoc4">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>FILE STORAGE EXPENSE</Description>
+        <RevenueAndExpensesPerBooks>1283</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>1283</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>TRUSTEE MEETING</Description>
+        <RevenueAndExpensesPerBooks>55</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>55</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc5">
+      <OtherProfessionalFees>
+        <Category>RAYMOND JAMES &amp; ASSOC - INV MGM</Category>
+        <Amount>24055</Amount>
+        <NetInvestmentIncome>24055</NetInvestmentIncome>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc6">
+      <Taxes>
+        <Category>EXCISE TAX</Category>
+        <Amount>624</Amount>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

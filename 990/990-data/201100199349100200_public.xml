@@ -1,0 +1,646 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-01-19T09:07:06-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-11-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>BRENT ROSS &amp; ASSOCIATES CPAS LLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>8850 GOODBYS EXECUTIVE DR SUITE B</AddressLine1>
+        <City>JACKSONVILLE</City>
+        <State>FL</State>
+        <ZIPCode>322172322</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-12-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>597196980</EIN>
+      <Name>
+        <BusinessNameLine1>THE KENDALE FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>KEND</NameControl>
+      <Phone>9043848611</Phone>
+      <USAddress>
+        <AddressLine1>4501 BEVERLY AVENUE</AddressLine1>
+        <City>JACKSONVILLE</City>
+        <State>FL</State>
+        <ZIPCode>32210</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>DALE CRISP</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>9043848611</Phone>
+      <DateSigned>2011-01-19</DateSigned>
+    </Officer>
+    <Preparer>
+      <DatePrepared>2011-01-14</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="4">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>6120</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>10000</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>2</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>2</InterestOnSavingsNetInvstIncm>
+        <TotalRevenueAndExpenses>10002</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>2</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">1115</AccountingFeesRevAndExpnss>
+        <AccountingFeesAdjNetIncm>1115</AccountingFeesAdjNetIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc3">110</OtherExpensesRevAndExpnss>
+        <OtherExpensesAdjNetIncm>110</OtherExpensesAdjNetIncm>
+        <TotOprExpensesRevAndExpnss>1225</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>1225</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>64387</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>64387</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>65612</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>1225</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>64387</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-55610</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>2</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>61730</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>6120</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>6120</SavingsAndTempCashInvstEOYFMV>
+        <TotalAssetsBOY>61730</TotalAssetsBOY>
+        <TotalAssetsEOY>6120</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>6120</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>61730</UnrestrictedBOY>
+        <UnrestrictedEOY>6120</UnrestrictedEOY>
+        <TotalNetAssetsBOY>61730</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>6120</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>61730</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>6120</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>61730</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-55610</ExcessOfRevenueOverExpenses>
+        <Subtotal>6120</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>6120</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>8306</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>63081</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.131672</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>272170</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>227927</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>1.194110</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>403107</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>432788</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.931419</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>256137</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>215277</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>1.189802</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>114030</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>189018</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.603276</DistributionRatioYear5>
+        <TotalDistributionRatio>4.050279</TotalDistributionRatio>
+        <AverageDistributionRatio>0.810056</AverageDistributionRatio>
+        <NetNoncharitableAssets>13258</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>10740</AdjustedNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>10740</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>64387</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <EstTaxPaymentsAndOverpayment>525</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>525</TotalCreditsAndPayments>
+        <Overpayment>525</Overpayment>
+        <AmountCreditedToNextYear>525</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>FL</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors referenceDocumentId="RetDoc4">false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>LESLIE CRISP</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>9043848611</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>4501 BEVERLY AVENUE</AddressLine1>
+          <City>JACKSONVILLE</City>
+          <State>FL</State>
+          <ZIPCode>32210</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DALE K CRISP</PersonName>
+          <USAddress>
+            <AddressLine1>C/O 4501 BEVERLY AVENUE</AddressLine1>
+            <City>JACKSONVILLE</City>
+            <State>FL</State>
+            <ZIPCode>32210</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>10.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>13460</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>13460</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>13460</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>202</CashDeemedCharitable>
+        <NetNoncharitableAssets>13258</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>663</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>663</MinimumInvestmentReturn>
+        <DistributableAmountBeforeAdj>663</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>663</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>663</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>64387</ExpensesAndContributions>
+        <QualifyingDistributions>64387</QualifyingDistributions>
+        <AdjQualifyingDistributions>64387</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>663</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>104659</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>245569</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>381892</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>260912</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>5158</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>998190</TotalExcessDistriCarryover>
+        <QualifyingDistributions>64387</QualifyingDistributions>
+        <AppliedToCurrentYear>663</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>63724</RemainingDistriFromCorpus>
+        <TotalCorpus>1061914</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>104659</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>957255</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>245569</ExcessFromYear4>
+        <ExcessFromYear3>381892</ExcessFromYear3>
+        <ExcessFromYear2>260912</ExcessFromYear2>
+        <ExcessFromYear1>5158</ExcessFromYear1>
+        <ExcessFromCurrentYear>63724</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AMERICAN DIABETES ASSOCIA</BusinessNameLine1>
+            <BusinessNameLine2>AMERICAN DIABETES ASSOCIA</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1701 NORTH BEAUREGARD STR</AddressLine1>
+            <AddressLine2>1701 NORTH BEAUREGARD STR</AddressLine2>
+            <City>ALEXANDRIA</City>
+            <State>VA</State>
+            <ZIPCode>22311</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AMERICAN RED CROSS</BusinessNameLine1>
+            <BusinessNameLine2>AMERICAN RED CROSS</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 4002018</AddressLine1>
+            <AddressLine2>PO BOX 4002018</AddressLine2>
+            <City>DES MOINES</City>
+            <State>IA</State>
+            <ZIPCode>50340</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ANGELMAN S SYNDROME</BusinessNameLine1>
+            <BusinessNameLine2>ANGELMAN S SYNDROME</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4255 WESTBROOK DR 216</AddressLine1>
+            <AddressLine2>4255 WESTBROOK DR 216</AddressLine2>
+            <City>AURORA</City>
+            <State>IL</State>
+            <ZIPCode>60504</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICED</PurposeOfGrantOrContribution>
+          <Amount>600</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ARMED SERVICES YMCA</BusinessNameLine1>
+            <BusinessNameLine2>ARMED SERVICES YMCA</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>6359 WALKER LANE SUITE 2</AddressLine1>
+            <AddressLine2>6359 WALKER LANE SUITE 2</AddressLine2>
+            <City>ALEXANDRIA</City>
+            <State>VA</State>
+            <ZIPCode>22310</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BIKE AND BUILD</BusinessNameLine1>
+            <BusinessNameLine2>BIKE AND BUILD</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>6109 RIDGE AVENUE BUILDI</AddressLine1>
+            <AddressLine2>6109 RIDGE AVENUE BUILDI</AddressLine2>
+            <City>PHILADELPHIA</City>
+            <State>PA</State>
+            <ZIPCode>19128</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BOY SCOUTS OF AMERICA</BusinessNameLine1>
+            <BusinessNameLine2>BOY SCOUTS OF AMERICA</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>521 EDGEWOOD AVENUE SOUTH</AddressLine1>
+            <AddressLine2>521 EDGEWOOD AVENUE SOUTH</AddressLine2>
+            <City>JACKSONVILLE</City>
+            <State>FL</State>
+            <ZIPCode>32205</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHICK-FIL-A</BusinessNameLine1>
+            <BusinessNameLine2>CHICK-FIL-A</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4495 ROOSEVELT BOULEVARD</AddressLine1>
+            <AddressLine2>4495 ROOSEVELT BOULEVARD</AddressLine2>
+            <City>JACKSONVILLE</City>
+            <State>FL</State>
+            <ZIPCode>32210</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FOCUS ON THE FAMILY</BusinessNameLine1>
+            <BusinessNameLine2>FOCUS ON THE FAMILY</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>8605 EXPLOERE DRIVE</AddressLine1>
+            <AddressLine2>8605 EXPLOERE DRIVE</AddressLine2>
+            <City>COLORADO SPRINGS</City>
+            <State>CO</State>
+            <ZIPCode>80997</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>I M SULZBACHER</BusinessNameLine1>
+            <BusinessNameLine2>I M SULZBACHER</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>611 EAST ADAMS STREET</AddressLine1>
+            <AddressLine2>611 EAST ADAMS STREET</AddressLine2>
+            <City>JACKSONVILLE</City>
+            <State>FL</State>
+            <ZIPCode>32202</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MULTIPLE SCLEROSIS SOCIET</BusinessNameLine1>
+            <BusinessNameLine2>MULTIPLE SCLEROSIS SOCIET</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4237 SALISBURY ROAD 406</AddressLine1>
+            <AddressLine2>4237 SALISBURY ROAD 406</AddressLine2>
+            <City>JACKSONVILLE</City>
+            <State>FL</State>
+            <ZIPCode>32216</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>50</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ORTEGA UNITED METHODIST C</BusinessNameLine1>
+            <BusinessNameLine2>ORTEGA UNITED METHODIST C</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4807 ROOSEVELT BLVD</AddressLine1>
+            <AddressLine2>4807 ROOSEVELT BLVD</AddressLine2>
+            <City>JACKSONVILLE</City>
+            <State>FL</State>
+            <ZIPCode>32210</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>10100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SALVATION ARMY</BusinessNameLine1>
+            <BusinessNameLine2>SALVATION ARMY</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>328 N OCEAN STREET</AddressLine1>
+            <AddressLine2>328 N OCEAN STREET</AddressLine2>
+            <City>JACKSONVILLE</City>
+            <State>FL</State>
+            <ZIPCode>32202</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SAMARITAN S PURSE</BusinessNameLine1>
+            <BusinessNameLine2>SAMARITAN S PURSE</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>P O BOX 3000</AddressLine1>
+            <AddressLine2>P O BOX 3000</AddressLine2>
+            <City>BOONE</City>
+            <State>NC</State>
+            <ZIPCode>28607</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SECOND HARVEST FOOD BANK</BusinessNameLine1>
+            <BusinessNameLine2>SECOND HARVEST FOOD BANK</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1502 JESSIE STREET</AddressLine1>
+            <AddressLine2>1502 JESSIE STREET</AddressLine2>
+            <City>JACKSONVILLE</City>
+            <State>FL</State>
+            <ZIPCode>32206</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>5680</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SMILE TRAIN</BusinessNameLine1>
+            <BusinessNameLine2>SMILE TRAIN</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>41 MADISON AVENUE 28TH F</AddressLine1>
+            <AddressLine2>41 MADISON AVENUE 28TH F</AddressLine2>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10010</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ST MATTHEWS CHURCH</BusinessNameLine1>
+            <BusinessNameLine2>ST MATTHEWS CHURCH</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1773 BLANDING BLVD</AddressLine1>
+            <AddressLine2>1773 BLANDING BLVD</AddressLine2>
+            <City>JACKSONVILLE</City>
+            <State>FL</State>
+            <ZIPCode>32210</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICED</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNITED SERVICE ORG</BusinessNameLine1>
+            <BusinessNameLine2>UNITED SERVICE ORG</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>P O BOX 96860</AddressLine1>
+            <AddressLine2>P O BOX 96860</AddressLine2>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20077</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>5500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UPPER ROOM</BusinessNameLine1>
+            <BusinessNameLine2>UPPER ROOM</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>P O BOX 79688</AddressLine1>
+            <AddressLine2>P O BOX 79688</AddressLine2>
+            <City>BALTIMORE</City>
+            <State>MD</State>
+            <ZIPCode>21279</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>157</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WOUNDED WARRIOR PROJECT</BusinessNameLine1>
+            <BusinessNameLine2>WOUNDED WARRIOR PROJECT</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>P O BOX 758516</AddressLine1>
+            <AddressLine2>P O BOX 758516</AddressLine2>
+            <City>TOPEKA</City>
+            <State>KS</State>
+            <ZIPCode>66675</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>YOUNG LIFE CLAY COUNTY</BusinessNameLine1>
+            <BusinessNameLine2>YOUNG LIFE CLAY COUNTY</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>P O BOX 395</AddressLine1>
+            <AddressLine2>P O BOX 395</AddressLine2>
+            <City>ORANGE PARK</City>
+            <State>FL</State>
+            <ZIPCode>32067</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>64387</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>2</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>2</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>2</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>1115</Amount>
+        <AdjustedNetIncome>1115</AdjustedNetIncome>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc3">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>SERVICE CHARGES BROKERAGE ACC</Description>
+        <RevenueAndExpensesPerBooks>96</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>96</AdjustedNetIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>POSTAGE</Description>
+        <RevenueAndExpensesPerBooks>14</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>14</AdjustedNetIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <SubstantialContributorsSch documentId="RetDoc4">
+      <SubstantialContributor>
+        <PersonName>DALE CRISP</PersonName>
+        <USAddress>
+          <AddressLine1>4501 BEVERLY AVENUE</AddressLine1>
+          <City>JACKSONVILLE</City>
+          <State>FL</State>
+          <ZIPCode>32210</ZIPCode>
+        </USAddress>
+      </SubstantialContributor>
+      <SubstantialContributor>
+        <PersonName>KENDALE DESIGN BUILD LLC</PersonName>
+        <USAddress>
+          <AddressLine1>4501 BEVERLY AVENUE</AddressLine1>
+          <City>JACKSONVILLE</City>
+          <State>FL</State>
+          <ZIPCode>32210</ZIPCode>
+        </USAddress>
+      </SubstantialContributor>
+    </SubstantialContributorsSch>
+  </ReturnData>
+</Return>

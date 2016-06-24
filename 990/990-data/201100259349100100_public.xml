@@ -1,0 +1,887 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.7" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-01-25T07:26:00-08:00</Timestamp>
+    <TaxPeriodEndDate>2010-03-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>TD&amp;T FINANCIAL GROUP PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>201Jefferson Street Suite 204</AddressLine1>
+        <City>Burlington</City>
+        <State>IA</State>
+        <ZIPCode>526015256</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-04-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>420627329</EIN>
+      <Name>
+        <BusinessNameLine1>KINGS DAUGHTERS HOME FOR OLD PEOPLE</BusinessNameLine1>
+      </Name>
+      <NameControl>KING</NameControl>
+      <Phone>3197539130</Phone>
+      <USAddress>
+        <AddressLine1>C/O TWO RIVERS BANK 222 N MAIN</AddressLine1>
+        <City>BURLINGTON</City>
+        <State>IA</State>
+        <ZIPCode>52601</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>FRANK DELANEY</Name>
+      <Title>Trustee</Title>
+      <DateSigned>2011-01-25</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>Brian K Isom</Name>
+      <Phone>3197539877</Phone>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="12">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="09000047" softwareVersion="2009v1.7">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>2227987</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>34870</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>260</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>260</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>260</InterestOnSavingsAdjNetIncm>
+        <DividendsRevAndExpnss>62487</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>62487</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>62487</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss>-88229</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>1678514</GrossSalesPrice>
+        <OtherIncomeRevAndExpnss referenceDocumentId=" OtherIncomeSchedule2">55672</OtherIncomeRevAndExpnss>
+        <TotalRevenueAndExpenses>65060</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>62747</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>62747</TotalAdjustedNetIncome>
+        <OthEmplSlrsWgsRevAndExpnss>97253</OthEmplSlrsWgsRevAndExpnss>
+        <OthEmplSlrsWgsAdjNetIncm>30259</OthEmplSlrsWgsAdjNetIncm>
+        <OthEmplSlrsWgsDsbrsChrtblPrps>66993</OthEmplSlrsWgsDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId=" AccountingFeesSchedule">4215</AccountingFeesRevAndExpnss>
+        <AccountingFeesAdjNetIncm>415</AccountingFeesAdjNetIncm>
+        <AccountingFeesDsbrsChrtblPrps>3800</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId=" OtherProfessionalFeesSchedule">11551</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>10576</OtherProfFeesNetInvstIncm>
+        <OtherProfFeesAdjNetIncm>10879</OtherProfFeesAdjNetIncm>
+        <OtherProfFeesDsbrsChrtblPrps>672</OtherProfFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId=" TaxesSchedule">8423</TaxesRevAndExpnss>
+        <TaxesAdjNetIncm>2621</TaxesAdjNetIncm>
+        <TaxesDsbrsChrtblPrps>5802</TaxesDsbrsChrtblPrps>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">17623</DeprecAndDepletionRevAndExpnss>
+        <DeprecAndDepletionAdjNetIncm>5483</DeprecAndDepletionAdjNetIncm>
+        <OccupancyRevAndExpnss>14731</OccupancyRevAndExpnss>
+        <OccupancyAdjNetIncm>4584</OccupancyAdjNetIncm>
+        <OccupancyDsbrsChrtblPrps>10148</OccupancyDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">38590</OtherExpensesRevAndExpnss>
+        <OtherExpensesAdjNetIncm>12007</OtherExpensesAdjNetIncm>
+        <OtherExpensesDsbrsChrtblPrps>26584</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>192386</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>10576</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>66248</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>113999</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>3416</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>3416</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>195802</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>10576</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>66248</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>117415</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-130742</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>52171</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>27980</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>152185</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>152185</SavingsAndTempCashInvstEOYFMV>
+        <LandBuildingAndEquipmentBasis>310960</LandBuildingAndEquipmentBasis>
+        <AccumDeprecLandBldgAndEquip>211368</AccumDeprecLandBldgAndEquip>
+        <LandBuildingAndEquipmentBOY>113637</LandBuildingAndEquipmentBOY>
+        <LandBuildingAndEquipmentEOY referenceDocumentId=" LandEtcSchedule2">99592</LandBuildingAndEquipmentEOY>
+        <LandBuildingAndEquipmentEOYFMV>99592</LandBuildingAndEquipmentEOYFMV>
+        <OtherAssetsBOY referenceDocumentId=" OtherAssetsSchedule">2064172</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId=" OtherAssetsSchedule">1822941</OtherAssetsEOY>
+        <OtherAssetsEOYFMV referenceDocumentId=" OtherAssetsSchedule">1976210</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>2205789</TotalAssetsBOY>
+        <TotalAssetsEOY>2074718</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>2227987</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>2205789</UnrestrictedBOY>
+        <UnrestrictedEOY>2074718</UnrestrictedEOY>
+        <TotalNetAssetsBOY>2205789</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>2074718</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>2205789</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>2074718</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>2205789</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-130742</ExcessOfRevenueOverExpenses>
+        <Subtotal>2075047</Subtotal>
+        <OtherDecreases referenceDocumentId=" OtherDecreasesSchedule">329</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>2074718</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>PUBLICLY TRADED SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-09-30</DateAcquired>
+          <DateSold>2009-09-30</DateSold>
+          <GrossSalesPrice>1678514</GrossSalesPrice>
+          <CostOrOtherBasis>1766743</CostOrOtherBasis>
+          <GainOrLoss>-88229</GainOrLoss>
+          <GainsMinusExcessOrLosses>-88229</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>-88229</CapitalGainNetIncome>
+        <NetShortTermCapitalGainOrLoss>-88229</NetShortTermCapitalGainOrLoss>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>132741</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>1904746</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.06969</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>118756</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>2132178</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.05570</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>150886</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>2131930</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.07077</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>87456</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>2139124</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.04088</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>110929</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>2168821</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.05115</DistributionRatioYear5>
+        <TotalDistributionRatio>0.28819</TotalDistributionRatio>
+        <AverageDistributionRatio>0.05764</AverageDistributionRatio>
+        <NetNoncharitableAssets>1880056</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>108363</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>522</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>108885</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>120993</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>522</InvestmentIncomeExciseTax>
+        <Subtotal>522</Subtotal>
+        <TaxBasedOnInvestmentIncome>522</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>584</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>584</TotalCreditsAndPayments>
+        <Overpayment>62</Overpayment>
+        <AmountCreditedToNextYear>62</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>IA</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>true</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity referenceDocumentId="TransferToEntity TransferFromEntity">true</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>TWO RIVERS BANK &amp; TRUST</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>3197539130</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>222 N MAIN STREET</AddressLine1>
+          <City>BURLINGTON</City>
+          <State>IA</State>
+          <ZIPCode>52601</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>WANDA WIEMER</PersonName>
+          <USAddress>
+            <AddressLine1>C/O TWO RIVERS BANK 222 N MAIN</AddressLine1>
+            <City>BURLINGTON</City>
+            <State>IA</State>
+            <ZIPCode>52601</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>PHYLLIS WILLEY</PersonName>
+          <USAddress>
+            <AddressLine1>C/O TWO RIVERS BANK 222 N MAIN</AddressLine1>
+            <City>BURLINGTON</City>
+            <State>IA</State>
+            <ZIPCode>52601</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>SHARON WALDEN</PersonName>
+          <USAddress>
+            <AddressLine1>C/O TWO RIVERS BANK 222 N MAIN</AddressLine1>
+            <City>BURLINGTON</City>
+            <State>IA</State>
+            <ZIPCode>52601</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>PHYLLIS ROXLAU</PersonName>
+          <USAddress>
+            <AddressLine1>C/O TWO RIVERS BANK 222 N MAIN</AddressLine1>
+            <City>BURLINGTON</City>
+            <State>IA</State>
+            <ZIPCode>52601</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>VIVIAN KELLER</PersonName>
+          <USAddress>
+            <AddressLine1>C/O TWO RIVERS BANK 222 N MAIN</AddressLine1>
+            <City>BURLINGTON</City>
+            <State>IA</State>
+            <ZIPCode>52601</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>KAY KENT</PersonName>
+          <USAddress>
+            <AddressLine1>C/O TWO RIVERS BANK 222 N MAIN</AddressLine1>
+            <City>BURLINGTON</City>
+            <State>IA</State>
+            <ZIPCode>52601</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>GLORIA JEWETT</PersonName>
+          <USAddress>
+            <AddressLine1>C/O TWO RIVERS BANK 222 N MAIN</AddressLine1>
+            <City>BURLINGTON</City>
+            <State>IA</State>
+            <ZIPCode>52601</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARY HART</PersonName>
+          <USAddress>
+            <AddressLine1>C/O TWO RIVERS BANK 222 N MAIN</AddressLine1>
+            <City>BURLINGTON</City>
+            <State>IA</State>
+            <ZIPCode>52601</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARILYN GARRETT</PersonName>
+          <USAddress>
+            <AddressLine1>C/O TWO RIVERS BANK 222 N MAIN</AddressLine1>
+            <City>BURLINGTON</City>
+            <State>IA</State>
+            <ZIPCode>52601</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>LOIS FORT</PersonName>
+          <USAddress>
+            <AddressLine1>C/O TWO RIVERS BANK 222 N MAIN</AddressLine1>
+            <City>BURLINGTON</City>
+            <State>IA</State>
+            <ZIPCode>52601</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JEANETTE FISHER</PersonName>
+          <USAddress>
+            <AddressLine1>C/O TWO RIVERS BANK 222 N MAIN</AddressLine1>
+            <City>BURLINGTON</City>
+            <State>IA</State>
+            <ZIPCode>52601</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>NELLY GUNDRUM</PersonName>
+          <USAddress>
+            <AddressLine1>C/O TWO RIVERS BANK 222 N MAIN</AddressLine1>
+            <City>BURLINGTON</City>
+            <State>IA</State>
+            <ZIPCode>52601</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BETTY EVANS</PersonName>
+          <USAddress>
+            <AddressLine1>C/O TWO RIVERS BANK 222 N MAIN</AddressLine1>
+            <City>BURLINGTON</City>
+            <State>IA</State>
+            <ZIPCode>52601</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MONIKA DOWELL</PersonName>
+          <USAddress>
+            <AddressLine1>C/O TWO RIVERS BANK 222 N MAIN</AddressLine1>
+            <City>BURLINGTON</City>
+            <State>IA</State>
+            <ZIPCode>52601</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARY DISSELHORST</PersonName>
+          <USAddress>
+            <AddressLine1>C/O TWO RIVERS BANK 222 N MAIN</AddressLine1>
+            <City>BURLINGTON</City>
+            <State>IA</State>
+            <ZIPCode>52601</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CHARLOTTE COURSEY</PersonName>
+          <USAddress>
+            <AddressLine1>C/O TWO RIVERS BANK 222 N MAIN</AddressLine1>
+            <City>BURLINGTON</City>
+            <State>IA</State>
+            <ZIPCode>52601</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CONNIE COFFIN</PersonName>
+          <USAddress>
+            <AddressLine1>C/O TWO RIVERS BANK 222 N MAIN</AddressLine1>
+            <City>BURLINGTON</City>
+            <State>IA</State>
+            <ZIPCode>52601</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JUDY BROCKET</PersonName>
+          <USAddress>
+            <AddressLine1>C/O TWO RIVERS BANK 222 N MAIN</AddressLine1>
+            <City>BURLINGTON</City>
+            <State>IA</State>
+            <ZIPCode>52601</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>KAY KENT</PersonName>
+          <USAddress>
+            <AddressLine1>C/O TWO RIVERS BANK 222 N MAIN</AddressLine1>
+            <City>BURLINGTON</City>
+            <State>IA</State>
+            <ZIPCode>52601</ZIPCode>
+          </USAddress>
+          <Title>Treasurer</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARILYN GARRETT</PersonName>
+          <USAddress>
+            <AddressLine1>C/O TWO RIVERS BANK 222 N MAIN</AddressLine1>
+            <City>BURLINGTON</City>
+            <State>IA</State>
+            <ZIPCode>52601</ZIPCode>
+          </USAddress>
+          <Title>Secretary</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARY HART</PersonName>
+          <USAddress>
+            <AddressLine1>C/O TWO RIVERS BANK 222 N MAIN</AddressLine1>
+            <City>BURLINGTON</City>
+            <State>IA</State>
+            <ZIPCode>52601</ZIPCode>
+          </USAddress>
+          <Title>Secretary</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BETTY EVANS</PersonName>
+          <USAddress>
+            <AddressLine1>C/O TWO RIVERS BANK 222 N MAIN</AddressLine1>
+            <City>BURLINGTON</City>
+            <State>IA</State>
+            <ZIPCode>52601</ZIPCode>
+          </USAddress>
+          <Title>Vice President</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>OLIVE SULLIVAN</PersonName>
+          <USAddress>
+            <AddressLine1>C/O TWO RIVERS BANK 222 N MAIN</AddressLine1>
+            <City>BURLINGTON</City>
+            <State>IA</State>
+            <ZIPCode>52601</ZIPCode>
+          </USAddress>
+          <Title>President</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>OPERATION OF A FACILITY FOR THE LONG-TERM CARE, COMFORT, &amp; MAINTENANCE OF ELDERLY PERSONS.</Description1>
+        <Expenses1>167765</Expenses1>
+        <Description2>FURTHER CHARITABLE ACTIVITIES WITHIN COMMUNITY BY PROVIDING CAMP SCHOLARSHIPS TO CHILDREN AND CHRISTMAS GIFTS TO NURSING HOME PATIENTS THAT WOULD OTHERWISE NOT RECEIVE A GIFT.</Description2>
+        <Expenses2>3416</Expenses2>
+      </SummaryOfDirectCharitableActy>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>1818603</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>90080</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>3</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>1908686</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>1908686</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>28630</CashDeemedCharitable>
+        <NetNoncharitableAssets>1880056</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>94003</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <Sect4942j3j5FndtnAndFrgnOrg>X</Sect4942j3j5FndtnAndFrgnOrg>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>117415</ExpensesAndContributions>
+        <AmountsPaidAcqCharitableAssets>3578</AmountsPaidAcqCharitableAssets>
+        <QualifyingDistributions>120993</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>522</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>120471</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <PrivateOperatingFoundations>
+        <DateOfRuling>1992-10-22</DateOfRuling>
+        <Section4942j5>X</Section4942j5>
+        <LessorAdjNetIncmMinInvstReturn>
+          <CurrentYear>0</CurrentYear>
+          <Total>0</Total>
+        </LessorAdjNetIncmMinInvstReturn>
+        <QualifyingDistributions>
+          <CurrentYear>120993</CurrentYear>
+          <Year1>133437</Year1>
+          <Year2>119999</Year2>
+          <Year3>152825</Year3>
+          <Total>527254</Total>
+        </QualifyingDistributions>
+        <QlfyDistriNotUsedDirectly>
+          <CurrentYear>3416</CurrentYear>
+          <Year1>4374</Year1>
+          <Year2>578</Year2>
+          <Year3>5000</Year3>
+          <Total>13368</Total>
+        </QlfyDistriNotUsedDirectly>
+        <QlfyDistriMadeDirectly>
+          <CurrentYear>117577</CurrentYear>
+          <Year1>129063</Year1>
+          <Year2>119421</Year2>
+          <Year3>147825</Year3>
+          <Total>513886</Total>
+        </QlfyDistriMadeDirectly>
+        <TwoThirdsMinInvstReturn>
+          <CurrentYear>62668</CurrentYear>
+          <Year1>63491</Year1>
+          <Year2>71073</Year2>
+          <Year3>71065</Year3>
+          <Total>268297</Total>
+        </TwoThirdsMinInvstReturn>
+      </PrivateOperatingFoundations>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>VARIOUS MEMORIALS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>Various</AddressLine1>
+            <City>Burlington</City>
+            <State>IA</State>
+            <ZIPCode>52601</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUPPORT EXEMPT CAUSES OF FORMER RESIDENTS</PurposeOfGrantOrContribution>
+          <Amount>50</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CAMP LOOKOUT</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>2977 MISSISSIPPI RIVER ROAD</AddressLine1>
+            <City>MONTROSE</City>
+            <State>IA</State>
+            <ZIPCode>52639</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>PROVIDE 4 CAMPERSHIPS FOR CHILDREN, SUPPLIES &amp; DONATION FOR NEW ROOF</PurposeOfGrantOrContribution>
+          <Amount>1936</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>VARIOUS NURSING HOMES HOME HEALTH C</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>VARIOUS</AddressLine1>
+            <City>Burlington</City>
+            <State>IA</State>
+            <ZIPCode>52601</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GIVE CHRISTMAS GIFTS TO THOSE WHO WOULDN'T OTHERWISE RECEIVE ONE.</PurposeOfGrantOrContribution>
+          <Amount>1430</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>3416</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <ProgramServiceRevenuePartVII>
+          <Description>ROOM &amp; BOARD FOR ELDERLY</Description>
+          <RelatedOrExemptFunctionIncome>55672</RelatedOrExemptFunctionIncome>
+        </ProgramServiceRevenuePartVII>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>260</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>62487</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>-88229</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>-25482</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>55672</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>30190</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>1(A)</LineNumber>
+          <RelationshipStatement>THE ORGANIZATION OPERATES A RETIREMENT HOME FOR THE LONG-TERM CARE, COMFORT AND MAINTENANCE OF THE ELDERLY, AND COLLECTS ROOM &amp; BOARD AT REDUCED RATES FROM RESIDENTS AS A PARTIAL OFFSET TO THE FACILITY'S OPERATING EXPENSES.</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>true</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <TransferSchedule>
+          <LineNumber>1a(1)</LineNumber>
+          <AmountInvolved>128813</AmountInvolved>
+          <NameOfNoncharitableEO>
+            <BusinessNameLine1>KINGS DAUGHTERS HOME TRST</BusinessNameLine1>
+          </NameOfNoncharitableEO>
+          <DescriptionOfTransfersEtc>THIS ENTITY SERVES AS A 501(C)(2) TITLE HOLDING ENTITY FOR THE KINGS DAUGHTERS HOME FOR OLD PEOPLE. DURING THE YEAR, EXCESS CASH FUNDS ARE TRANSFERRED TO THE TRUST FOR INVESTMENT AND ALL INVESTMENT INCOME IS TRANSFERRED BACK TO THE HOME ON A QUARTERLY BASIS.</DescriptionOfTransfersEtc>
+        </TransferSchedule>
+        <RelationshipsNoncharitableEOs>true</RelationshipsNoncharitableEOs>
+        <RelationshipSchedule>
+          <NameOfOrganization>
+            <BusinessNameLine1>KINGS DAUGHTERS HOME TRUS</BusinessNameLine1>
+          </NameOfOrganization>
+          <TypeOfOrganization>501(C)(2)</TypeOfOrganization>
+          <DescriptionOfRelationship>CONTROL FACTOR- SHARE A COMMON BOARD OF DIRECTORS; CONTINUING RELATIONSHIP FACTOR- BOTH ORG. EFFORTS ARE DIRECTED TOWARDS A COMMON GOAL OF PROVIDING HOUSING TO THE ELDERLY IN THE GROUP HOME LOCATED IN BURLINGTON, IA.</DescriptionOfRelationship>
+        </RelationshipSchedule>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB" softwareId="09000047" softwareVersion="2009v1.7">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>NJ BRANCH OF INTERNATIONAL ORDER OF</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>87 WEST END AVENUE</AddressLine1>
+          <City>SOMERVILLE</City>
+          <State>NJ</State>
+          <ZIPCode>08876</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>32974</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="09000047" softwareVersion="2009v1.7">
+      <AccountingFees>
+        <Category>TAX PREPARATION</Category>
+        <Amount>2880</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>2880</DisbursementsCharitablePrps>
+      </AccountingFees>
+      <AccountingFees>
+        <Category>PAYROLL PREPARATION</Category>
+        <Amount>1335</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>415</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>920</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <LandEtcSchedule2 documentId="LandEtcSchedule2" softwareId="09000047" softwareVersion="2009v1.7">
+      <LandEtc>
+        <CategoryOrItem>Improvements</CategoryOrItem>
+        <CostOrOtherBasis>264271</CostOrOtherBasis>
+        <AccumulatedDepreciation>171636</AccumulatedDepreciation>
+        <BookValue>92635</BookValue>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Buildings</CategoryOrItem>
+        <EOYFMV>92635</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Machinery and Equipment</CategoryOrItem>
+        <CostOrOtherBasis>20668</CostOrOtherBasis>
+        <AccumulatedDepreciation>20668</AccumulatedDepreciation>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Furniture and Fixtures</CategoryOrItem>
+        <CostOrOtherBasis>26021</CostOrOtherBasis>
+        <AccumulatedDepreciation>19064</AccumulatedDepreciation>
+        <BookValue>6957</BookValue>
+        <EOYFMV>6957</EOYFMV>
+      </LandEtc>
+    </LandEtcSchedule2>
+    <OtherAssetsSchedule documentId="OtherAssetsSchedule" softwareId="09000047" softwareVersion="2009v1.7">
+      <OtherAssets>
+        <Description>US TREASURY NOTES</Description>
+        <BOYBookValue>54324</BOYBookValue>
+        <EOYBookValue>53624</EOYBookValue>
+        <EOYFMV>54137</EOYFMV>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>U.S. GOV'T AGENCY SECURITIES</Description>
+        <BOYBookValue>124447</BOYBookValue>
+        <EOYBookValue>124566</EOYBookValue>
+        <EOYFMV>130110</EOYFMV>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>PUBLIC SECURITIES</Description>
+        <BOYBookValue>927733</BOYBookValue>
+        <EOYBookValue>505313</EOYBookValue>
+        <EOYFMV>647520</EOYFMV>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>MISCELLANEOUS</Description>
+        <BOYBookValue>3</BOYBookValue>
+        <EOYBookValue>3</EOYBookValue>
+        <EOYFMV>3</EOYFMV>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>CORPORATE BONDS</Description>
+        <BOYBookValue>882347</BOYBookValue>
+        <EOYBookValue>1064211</EOYBookValue>
+        <EOYFMV>1067317</EOYFMV>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>CITY AND STATE BONDS</Description>
+        <BOYBookValue>75318</BOYBookValue>
+        <EOYBookValue>75224</EOYBookValue>
+        <EOYFMV>77123</EOYFMV>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherDecreasesSchedule documentId="OtherDecreasesSchedule" softwareId="09000047" softwareVersion="2009v1.7">
+      <OtherDecreases>
+        <Description>NON-CASH SECURITIES TRANSACTIONS</Description>
+        <Amount>329</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="09000047" softwareVersion="2009v1.7">
+      <OtherExpenses>
+        <Description>SUPPLIES</Description>
+        <RevenueAndExpensesPerBooks>2166</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>674</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>1492</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>SECURITY DEPOSITORY EXPENSE</Description>
+        <RevenueAndExpensesPerBooks>306</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>95</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>211</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>REPAIRS &amp; MAINTENANCE</Description>
+        <RevenueAndExpensesPerBooks>10431</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>3246</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>7186</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MISCELLANEOUS</Description>
+        <RevenueAndExpensesPerBooks>2466</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>767</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>1699</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>INSURANCE</Description>
+        <RevenueAndExpensesPerBooks>13610</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>4235</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>9375</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>GROCERIES</Description>
+        <RevenueAndExpensesPerBooks>8543</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>2658</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>5885</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>ADVERTISING</Description>
+        <RevenueAndExpensesPerBooks>1068</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>332</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>736</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="09000047" softwareVersion="2009v1.7">
+      <OtherIncome>
+        <Description>ROOM &amp; BOARD FOR ELDERLY</Description>
+        <RevenueAndExpensesPerBooks>55672</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="09000047" softwareVersion="2009v1.7">
+      <OtherProfessionalFees>
+        <Category>TRUSTEE FEES</Category>
+        <Amount>10576</Amount>
+        <NetInvestmentIncome>10576</NetInvestmentIncome>
+        <AdjustedNetIncome>10576</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+      <OtherProfessionalFees>
+        <Category>AGENCY FEES</Category>
+        <Amount>975</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>303</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>672</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="09000047" softwareVersion="2009v1.7">
+      <Taxes>
+        <Category>PAYROLL TAXES</Category>
+        <Amount>8423</Amount>
+        <AdjustedNetIncome>2621</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>5802</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+    <TransfersFrmControlledEntities documentId="TransferFromEntity" softwareId="09000047" softwareVersion="2009v1.7">
+      <FromControlledEntity>
+        <Name>
+          <BusinessNameLine1>KINGS DAUGHTERS HOME TRUST</BusinessNameLine1>
+        </Name>
+        <AddressUS>
+          <AddressLine1>C/O TWO RIVERS BANK 222 N MAIN</AddressLine1>
+          <City>BURLINGTON</City>
+          <State>IA</State>
+          <ZIPCode>52601</ZIPCode>
+        </AddressUS>
+        <EIN>426052754</EIN>
+        <Description>EXCESS CASH FNDS ARE TRANSFRRD TO THE TRST FOR INVSTMNT &amp; INVSTMNT INC IS TRNSFRRD BACK TO THE HOME.</Description>
+        <Amount>0</Amount>
+      </FromControlledEntity>
+      <Total>126950</Total>
+    </TransfersFrmControlledEntities>
+    <TransfersToControlledEntities documentId="TransferToEntity" softwareId="09000047" softwareVersion="2009v1.7">
+      <ToControlledEntity>
+        <Name>
+          <BusinessNameLine1>KINGS DAUGHTERS HOME TRUST</BusinessNameLine1>
+        </Name>
+        <AddressUS>
+          <AddressLine1>C/O TWO RIVERS BANK 222 N MAIN</AddressLine1>
+          <City>BURLINGTON</City>
+          <State>IA</State>
+          <ZIPCode>52601</ZIPCode>
+        </AddressUS>
+        <EIN>426052754</EIN>
+        <Description>EXCESS CASH FNDS ARE TRANSFRRD TO THE TRST FOR INVSTMNT &amp; INVSTMNT INC IS TRNSFRRD BACK TO THE HOME.</Description>
+        <Amount>0</Amount>
+      </ToControlledEntity>
+      <Total>1863</Total>
+    </TransfersToControlledEntities>
+  </ReturnData>
+</Return>

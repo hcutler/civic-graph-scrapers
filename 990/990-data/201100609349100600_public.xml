@@ -1,0 +1,496 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-03-01T09:29:29-08:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Stephen Finkelstein CPA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>333 Jericho Turnpike Suite 103</AddressLine1>
+        <City>Jericho</City>
+        <State>NY</State>
+        <ZIPCode>11753</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>542127338</EIN>
+      <Name>
+        <BusinessNameLine1>THE JUDY FRISCH COHEN FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>JUDY</NameControl>
+      <Phone>2126004681</Phone>
+      <USAddress>
+        <AddressLine1>29 STEVENSON RD</AddressLine1>
+        <City>HEWLETT</City>
+        <State>NY</State>
+        <ZIPCode>11557</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>JUDY FRISCH COHEN</Name>
+      <Title>President</Title>
+      <DateSigned>2011-02-25</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>STEPHEN FINKELSTEIN</Name>
+      <Phone>5169380466</Phone>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>96257</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>2929</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>2929</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>2929</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss>0</NetGainSaleAssetsRevAndExpnss>
+        <TotalRevenueAndExpenses>2929</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>2929</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>2929</TotalAdjustedNetIncome>
+        <LegalFeesRevAndExpnss referenceDocumentId=" LegalFeesSchedule">278</LegalFeesRevAndExpnss>
+        <LegalFeesNetInvstIncm>278</LegalFeesNetInvstIncm>
+        <LegalFeesAdjNetIncm>278</LegalFeesAdjNetIncm>
+        <AccountingFeesRevAndExpnss referenceDocumentId=" AccountingFeesSchedule">710</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>710</AccountingFeesNetInvstIncm>
+        <AccountingFeesAdjNetIncm>710</AccountingFeesAdjNetIncm>
+        <TaxesRevAndExpnss referenceDocumentId=" TaxesSchedule">38</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>38</TaxesNetInvstIncm>
+        <TaxesAdjNetIncm>38</TaxesAdjNetIncm>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">110</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>110</OtherExpensesNetInvstIncm>
+        <OtherExpensesAdjNetIncm>110</OtherExpensesAdjNetIncm>
+        <TotOprExpensesRevAndExpnss>1136</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>1136</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>1136</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>3100</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>3100</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>4236</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>1136</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>1136</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>3100</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-1307</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>1793</NetInvestmentIncome>
+        <AdjustedNetIncome>1793</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>7674</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>3442</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>3442</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsOtherBOY>90496</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId=" InvestmentsOtherSchedule2">93421</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>92815</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>98170</TotalAssetsBOY>
+        <TotalAssetsEOY>96863</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>96257</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>98170</UnrestrictedBOY>
+        <UnrestrictedEOY>96863</UnrestrictedEOY>
+        <TotalNetAssetsBOY>98170</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>96863</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>98170</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>96863</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>98170</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-1307</ExcessOfRevenueOverExpenses>
+        <Subtotal>96863</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>96863</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>36</InvestmentIncomeExciseTax>
+        <Subtotal>36</Subtotal>
+        <TaxBasedOnInvestmentIncome>36</TaxBasedOnInvestmentIncome>
+        <TaxDue>36</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>true</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>JUDY FRISCH COHEN</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>29 STEVENSON RD</AddressLine1>
+          <City>HEWLETT</City>
+          <State>NY</State>
+          <ZIPCode>11557</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>LANCE COHEN</PersonName>
+          <USAddress>
+            <AddressLine1>29 STEVENSON RD</AddressLine1>
+            <City>HEWLETT</City>
+            <State>NY</State>
+            <ZIPCode>11557</ZIPCode>
+          </USAddress>
+          <Title>Treasurer</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ADAM NEAL COHEN</PersonName>
+          <USAddress>
+            <AddressLine1>630 WEST 246TH ST-APT 832</AddressLine1>
+            <City>RIVERDALE</City>
+            <State>NY</State>
+            <ZIPCode>10471</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DAVID ERIC COHEN</PersonName>
+          <USAddress>
+            <AddressLine1>355 CENTRAL PARK AVE- APT E</AddressLine1>
+            <City>SCARSDALE</City>
+            <State>NY</State>
+            <ZIPCode>10583</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>LANCE COHEN</PersonName>
+          <USAddress>
+            <AddressLine1>29 STEVENSON RD</AddressLine1>
+            <City>HEWLETT</City>
+            <State>NY</State>
+            <ZIPCode>11557</ZIPCode>
+          </USAddress>
+          <Title>Secretary</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JUDY FRISCH COHEN</PersonName>
+          <USAddress>
+            <AddressLine1>29 STEVENSON RD</AddressLine1>
+            <City>HEWLETT</City>
+            <State>NY</State>
+            <ZIPCode>11557</ZIPCode>
+          </USAddress>
+          <Title>President</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>PAULINE FRISCH</PersonName>
+          <USAddress>
+            <AddressLine1>1201 S OCEAN BLVD-APT 2502 N</AddressLine1>
+            <City>HOLLYWOOD</City>
+            <State>FL</State>
+            <ZIPCode>33019</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOSEPH FRISCH</PersonName>
+          <USAddress>
+            <AddressLine1>1201 S OCEAN BLVD-APT 2502 N</AddressLine1>
+            <City>HOLLYWOOD</City>
+            <State>FL</State>
+            <ZIPCode>33019</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>AID FOR POOR, ABUSED AND NEGLECTED WOMEN AND CHILDREN</Description1>
+        <Expenses1>0</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>0</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>0</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>0</CashDeemedCharitable>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>0</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <Sect4942j3j5FndtnAndFrgnOrg>X</Sect4942j3j5FndtnAndFrgnOrg>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>3100</ExpensesAndContributions>
+        <QualifyingDistributions>3100</QualifyingDistributions>
+        <AdjQualifyingDistributions>3100</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <PrivateOperatingFoundations>
+        <Section4942j3>X</Section4942j3>
+        <LessorAdjNetIncmMinInvstReturn>
+          <CurrentYear>0</CurrentYear>
+          <Year2>2924</Year2>
+          <Year3>3746</Year3>
+          <Total>6670</Total>
+        </LessorAdjNetIncmMinInvstReturn>
+        <Percent85OfLessor>
+          <Year2>2485</Year2>
+          <Year3>3184</Year3>
+          <Total>5669</Total>
+        </Percent85OfLessor>
+        <QualifyingDistributions>
+          <CurrentYear>3100</CurrentYear>
+          <Year1>2500</Year1>
+          <Year2>2500</Year2>
+          <Year3>1500</Year3>
+          <Total>9600</Total>
+        </QualifyingDistributions>
+        <QlfyDistriMadeDirectly>
+          <CurrentYear>3100</CurrentYear>
+          <Year1>2500</Year1>
+          <Year2>2500</Year2>
+          <Year3>1500</Year3>
+          <Total>9600</Total>
+        </QlfyDistriMadeDirectly>
+        <TotalAssets>
+          <Year1>98170</Year1>
+          <Year2>88785</Year2>
+          <Year3>88361</Year3>
+          <Total>275316</Total>
+        </TotalAssets>
+        <TotalAssetsSect4942j3Bi>
+          <Year1>98170</Year1>
+          <Year2>88785</Year2>
+          <Year3>88361</Year3>
+          <Total>275316</Total>
+        </TotalAssetsSect4942j3Bi>
+        <TwoThirdsMinInvstReturn>
+          <Total>0</Total>
+        </TwoThirdsMinInvstReturn>
+      </PrivateOperatingFoundations>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>AMERICAN FRIENDS OF ALYN HOSPITAL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>51 EAST 42ND STREET- 308</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10017</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>HOSPITAL FOR CHILDREN WITH DISABILITIES</PurposeOfGrantOrContribution>
+          <Amount>600</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>FRIENDS OF YAD LA KASHISH</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 494</AddressLine1>
+            <City>ENGLEWOOD</City>
+            <State>NJ</State>
+            <ZIPCode>07631</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>HELPS ELDERLY PEOPLE</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>AMERICAN FRIENDS OF BEIT ISSIE SHAP</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>404 PARK AVENUE SOUTH- 7TH FLOOR</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10016</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>HELPS PHYSICALLY DISABLED CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CHILDRENS CANCER CARING CENTER INC</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 630218</AddressLine1>
+            <City>MIAMI</City>
+            <State>FL</State>
+            <ZIPCode>33163</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CARE FOR CHILDREN WITH CANCER</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>AMER FRIENDS OF NEVE HANNA</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>155 5TH AVENUE</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10010</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>HOME FOR CHILDREN OF ABUSE AND NEGLECT</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>HAGEDORN LITTLE VILLAGE SCHOOL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>750 HICKSVILLE ROAD</AddressLine1>
+            <City>SEAFORD</City>
+            <State>NY</State>
+            <ZIPCode>11783</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION FOR SPECIAL NEEDS CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CHILDREN'S BRAIN TUMOR FOUNDATION</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>274 MADISON AVE-STE 1004</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10016</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CARE FOR CHILDREN WITH BRAIN TUMORS</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>3100</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>2929</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>2929</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>2929</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <AccountingFees>
+        <Category>TAX PREPARATION</Category>
+        <Amount>710</Amount>
+        <NetInvestmentIncome>710</NetInvestmentIncome>
+        <AdjustedNetIncome>710</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsOtherSchedule2 documentId="InvestmentsOtherSchedule2" softwareId="10000105" softwareVersion="2010v3.2">
+      <InvestmentsOther>
+        <CategoryOrItem>WELLINGTON FUND</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>47207</BookValue>
+        <EOYFMV>46377</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>WELLESLEY INCOME FUND</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>46214</BookValue>
+        <EOYFMV>46438</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <LegalFeesSchedule documentId="LegalFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <LegalFees>
+        <Category>LEGAL FEES</Category>
+        <Amount>278</Amount>
+        <NetInvestmentIncome>278</NetInvestmentIncome>
+        <AdjustedNetIncome>278</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherExpenses>
+        <Description>STATES FILING FEES</Description>
+        <RevenueAndExpensesPerBooks>110</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>110</NetInvestmentIncome>
+        <AdjustedNetIncome>110</AdjustedNetIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <Taxes>
+        <Category>FEDERAL TAX</Category>
+        <Amount>38</Amount>
+        <NetInvestmentIncome>38</NetInvestmentIncome>
+        <AdjustedNetIncome>38</AdjustedNetIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

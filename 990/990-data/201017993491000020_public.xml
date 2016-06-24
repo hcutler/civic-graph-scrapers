@@ -1,0 +1,391 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-06-28T13:33:35-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-03-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>SHERMAN &amp; COMPANY CPA'S</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>41 MOUNTAIN BLVD STE B2</AddressLine1>
+        <City>WARREN</City>
+        <State>NJ</State>
+        <ZIPCode>07059</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-04-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>205059342</EIN>
+      <Name>
+        <BusinessNameLine1>JON SANTEMMA &amp; JENNIFER OKIN</BusinessNameLine1>
+        <BusinessNameLine2>CHARITABLE FOUNDATION</BusinessNameLine2>
+      </Name>
+      <NameControl>JONS</NameControl>
+      <Phone>2123085361</Phone>
+      <USAddress>
+        <AddressLine1>440 EAST 57TH STREET</AddressLine1>
+        <AddressLine2>ROOM/SUITE 21A/B</AddressLine2>
+        <City>NEW YORK</City>
+        <State>NY</State>
+        <ZIPCode>10022</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>JON SANTEMMA</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>2123085361</Phone>
+      <DateSigned>2010-05-27</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>ALYSON ROSE</Name>
+      <Phone>9085228910</Phone>
+      <DatePrepared>2010-05-27</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="RetDoc2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>990</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>36250</ContriReceivedRevAndExpnss>
+        <DividendsRevAndExpnss>3399</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>3399</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>3399</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="RetDoc4">-26003</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>38086</GrossSalesPrice>
+        <TotalRevenueAndExpenses>13646</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>3399</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>3399</TotalAdjustedNetIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc3">1250</AccountingFeesRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc6">218</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>1468</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>4100</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>4100</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>5568</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>4100</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>8078</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>3399</NetInvestmentIncome>
+        <AdjustedNetIncome>3399</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>12836</CashBOY>
+        <CashEOY>990</CashEOY>
+        <CashEOYFMV>990</CashEOYFMV>
+        <InvestmentsCorpStockBOY>112039</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc5">131963</InvestmentsCorpStockEOY>
+        <TotalAssetsBOY>124875</TotalAssetsBOY>
+        <TotalAssetsEOY>132953</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>990</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>124875</CapitalStockBOY>
+        <CapitalStockEOY>132953</CapitalStockEOY>
+        <TotalNetAssetsBOY>124875</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>132953</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>124875</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>132953</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>124875</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>8078</ExcessOfRevenueOverExpenses>
+        <Subtotal>132953</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>132953</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>3872</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>74782</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.051777</DistributionRatioYear1>
+        <NoncharitableAssetsYear2>73418</NoncharitableAssetsYear2>
+        <NoncharitableAssetsYear3>8826</NoncharitableAssetsYear3>
+        <TotalDistributionRatio>0.051777</TotalDistributionRatio>
+        <AverageDistributionRatio>0.051777</AverageDistributionRatio>
+        <NetNoncharitableAssets>76155</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>3943</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>34</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>3977</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>4100</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>34</InvestmentIncomeExciseTax>
+        <Subtotal>34</Subtotal>
+        <TaxBasedOnInvestmentIncome>34</TaxBasedOnInvestmentIncome>
+        <TaxDue>34</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>NY</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>SHERMAN CO CPAS</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>9085228910</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>41 MOUNTAIN BLVD</AddressLine1>
+          <City>WARREN</City>
+          <State>NJ</State>
+          <ZIPCode>07059</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JON SANTEMMA</PersonName>
+          <USAddress>
+            <AddressLine1>440 E 57TH STREET</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10022</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JENNIFER OKIN</PersonName>
+          <USAddress>
+            <AddressLine1>440 E 57TH STREET</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10022</ZIPCode>
+          </USAddress>
+          <Title>V PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>73164</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>4151</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>77315</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>77315</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>1160</CashDeemedCharitable>
+        <NetNoncharitableAssets>76155</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>3808</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>3808</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>34</TaxBasedOnInvestmentIncome>
+        <TotalTax>34</TotalTax>
+        <DistributableAmountBeforeAdj>3774</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>3774</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>3774</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>4100</ExpensesAndContributions>
+        <QualifyingDistributions>4100</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>34</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>4066</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>3774</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>3353</UndistributedIncomePriorYear>
+        <QualifyingDistributions>4100</QualifyingDistributions>
+        <AppliedToYear1>3353</AppliedToYear1>
+        <AppliedToCurrentYear>747</AppliedToCurrentYear>
+        <UndistributedIncomeCY>3027</UndistributedIncomeCY>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CREUTZFELDT JAKOB DISEASE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3632 WEST MARKET STREET</AddressLine1>
+            <AddressLine2>SUITE 105</AddressLine2>
+            <City>AKRON</City>
+            <State>OH</State>
+            <ZIPCode>44333</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GEN OPERATING BUDGET</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MAURER FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>114 OLD COUNTRY ROAD</AddressLine1>
+            <AddressLine2>SUITE 400</AddressLine2>
+            <City>MINEOLA</City>
+            <State>NY</State>
+            <ZIPCode>11501</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GEN OPERATING BUDGET</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FOOD BANK OF NEW YORK</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>39 BROADWAY</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10006</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GEN OPERATING BUDGET</PurposeOfGrantOrContribution>
+          <Amount>600</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>VNSHS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5775 GLENRIDGE DRIVE</AddressLine1>
+            <AddressLine2>SUITE E200</AddressLine2>
+            <City>ATLANTA</City>
+            <State>GA</State>
+            <ZIPCode>30328</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GEN OPERATING BUDGET</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>4100</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>3399</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>-26003</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>3399</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>-26003</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>-22604</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>JON SANTEMMA JENNIFER OKIN</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>440 EAST 57TH STREET</AddressLine1>
+          <City>NEW YORK</City>
+          <State>NY</State>
+          <ZIPCode>10022</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>36250</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc3">
+      <AccountingFees>
+        <Category>INDIRECT ACCOUNTING FEES</Category>
+        <Amount>1250</Amount>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc4">
+      <GainLossSaleOtherAsset>
+        <Name>FEDERATED MUNICIPAL</Name>
+        <DateAcquired>2010-02</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-03</DateSold>
+        <GrossSalesPrice>31999</GrossSalesPrice>
+        <Basis>32007</Basis>
+        <TotalNet>-8</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>MEMC ELECTRONIC MATERIALS</Name>
+        <DateAcquired>2008-05</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-05</DateSold>
+        <GrossSalesPrice>4796</GrossSalesPrice>
+        <Basis>23140</Basis>
+        <TotalNet>-18344</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>NEWCASTLE INVESTMENT</Name>
+        <DateAcquired>2007-09</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-05</DateSold>
+        <GrossSalesPrice>1291</GrossSalesPrice>
+        <Basis>8942</Basis>
+        <TotalNet>-7651</TotalNet>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpStockSchedule documentId="RetDoc5">
+      <InvestmentsCorpStock>
+        <NameOfStock>MARKETABLE SECURITIES</NameOfStock>
+        <EOYBookValue>131963</EOYBookValue>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="RetDoc6">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK CHARGES AND MISCELLANEOU</Description>
+        <RevenueAndExpensesPerBooks>218</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

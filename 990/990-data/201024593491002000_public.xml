@@ -1,0 +1,758 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-09-02T08:36:05-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-07-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>ALEXANDER THOMPSON ARNOLD PLLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>185 N CHURCH ST</AddressLine1>
+        <City>DYERSBURG</City>
+        <State>TN</State>
+        <ZIPCode>38024</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-08-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>626329102</EIN>
+      <Name>
+        <BusinessNameLine1>CHRISTINE R SHIBLEY EDUCATION TRUS</BusinessNameLine1>
+      </Name>
+      <NameControl>SHIB</NameControl>
+      <Phone>7312854410</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 370</AddressLine1>
+        <City>DYERSBURG</City>
+        <State>TN</State>
+        <ZIPCode>38025</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>FIRST CITIZENS NATIONAL BANK</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>7312854410</Phone>
+      <DateSigned>2010-08-11</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>A STEVEN CARMICHAEL</Name>
+      <Phone>7312857900</Phone>
+      <DatePrepared>2010-09-02</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>1079646</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>17635</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>17635</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>17635</InterestOnSavingsAdjNetIncm>
+        <DividendsRevAndExpnss>6359</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>6359</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>6359</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="RetDoc3">-58721</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>247131</GrossSalesPrice>
+        <TotalRevenueAndExpenses>-34727</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>23994</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>23994</TotalAdjustedNetIncome>
+        <CompOfcrDirTrstRevAndExpnss>9071</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>9071</CompOfcrDirTrstNetInvstIncm>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">1650</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>1650</AccountingFeesNetInvstIncm>
+        <AccountingFeesAdjNetIncm>1650</AccountingFeesAdjNetIncm>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc7">481</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>481</TaxesNetInvstIncm>
+        <TaxesAdjNetIncm>481</TaxesAdjNetIncm>
+        <TotOprExpensesRevAndExpnss>11202</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>11202</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>2131</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>52361</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>104722</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>63563</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>11202</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>2131</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>104722</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-98290</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>12792</NetInvestmentIncome>
+        <AdjustedNetIncome>21863</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>79680</CashBOY>
+        <CashEOY>13242</CashEOY>
+        <CashEOYFMV>13242</CashEOYFMV>
+        <InvestmentsGovtObligBOY>524675</InvestmentsGovtObligBOY>
+        <InvestmentsGovtObligEOY referenceDocumentId="RetDoc6">544000</InvestmentsGovtObligEOY>
+        <InvestmentsGovtObligEOYFMV>558260</InvestmentsGovtObligEOYFMV>
+        <InvestmentsCorpStockBOY>586804</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc5">525627</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>498088</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsEOY referenceDocumentId="RetDoc4">10000</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>10056</InvestmentsCorpBondsEOYFMV>
+        <TotalAssetsBOY>1191159</TotalAssetsBOY>
+        <TotalAssetsEOY>1092869</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>1079646</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>1191159</UnrestrictedBOY>
+        <UnrestrictedEOY>1092869</UnrestrictedEOY>
+        <TotalNetAssetsBOY>1191159</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>1092869</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>1191159</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>1092869</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>1191159</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-98290</ExcessOfRevenueOverExpenses>
+        <Subtotal>1092869</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>1092869</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>256</InvestmentIncomeExciseTax>
+        <Subtotal>256</Subtotal>
+        <TaxBasedOnInvestmentIncome>256</TaxBasedOnInvestmentIncome>
+        <TaxDue>256</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>FIRST CITIZENS NATIONAL BANK- TRUST</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>7312854410</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>PO BOX 370</AddressLine1>
+          <City>DYERSBURG</City>
+          <State>TN</State>
+          <ZIPCode>38025</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <BusinessName>
+            <BusinessNameLine1>FIRST CITIZENS NATIONAL BANK</BusinessNameLine1>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1>PO BOX 370</AddressLine1>
+            <City>DYERSBURG</City>
+            <State>TN</State>
+            <ZIPCode>38025</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>4.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>9071</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>SCHOLARSHIPS PROVIDED TO HIGH SCHOOL GRADUATES IN ACCORDANCE WITH THE TAX EXEMPT PURPOSES OF THE TRUST</Description1>
+        <Expenses1>52361</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>46461</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>1066404</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>1112865</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>1112865</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>16693</CashDeemedCharitable>
+        <NetNoncharitableAssets>1096172</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>54809</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>54809</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>256</TaxBasedOnInvestmentIncome>
+        <TotalTax>256</TotalTax>
+        <DistributableAmountBeforeAdj>54553</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>54553</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>54553</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>104722</ExpensesAndContributions>
+        <QualifyingDistributions>104722</QualifyingDistributions>
+        <AdjQualifyingDistributions>104722</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>54553</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>52361</UndistributedIncomePriorYear>
+        <QualifyingDistributions>104722</QualifyingDistributions>
+        <AppliedToYear1>52361</AppliedToYear1>
+        <RemainingDistriFromCorpus>52361</RemainingDistriFromCorpus>
+        <TotalCorpus>52361</TotalCorpus>
+        <UndistributedIncomeCY>54553</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>52361</ExcessDistriCyovToNextYear>
+        <ExcessFromCurrentYear>52361</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>NONE</ContributingManager>
+        <ShareholderManager>NONE</ShareholderManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <AppicationSubmissionInfo>
+          <RecipientName>JUDY BURNS TRUST OFF</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>FIRST CITIZENS NATIONAL BANK</AddressLine1>
+            <AddressLine2>PO BOX 370</AddressLine2>
+            <City>DYERSBURG</City>
+            <State>TN</State>
+            <ZIPCode>38025</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>7312854410</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>SEE COPIES OF MATERIALS ATTACHED WHICH ARE DISTRIBUTED TO APPLICANTS.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>APRIL 1 OF THE YEAR FOR WHICH THE APPLICATION IS MADE FOR THE SCHOLARSHIP.</SubmissionDeadlines>
+          <RestrictionsOnAwards>RECIPIENTS ARE REQUIRED TO BE GRADUATES OR CANDIDATES FOR GRADUATION- DYER COUNTY HIGH SCHOOL, NEWBERN, TN</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>WILLIAM W AMOUR</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1817 REST HOME ROAD</AddressLine1>
+            <City>DYERSBURG</City>
+            <State>TN</State>
+            <ZIPCode>38024</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>2493</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>KATIE E BROCK</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>55 REDBUD LANE</AddressLine1>
+            <City>DYERSBURG</City>
+            <State>TN</State>
+            <ZIPCode>38024</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>2493</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>PEYTON E BUNN</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>56 ZARICOR ROAD</AddressLine1>
+            <City>NEWBERN</City>
+            <State>TN</State>
+            <ZIPCode>38059</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>2493</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>HANNAH E BUTLER</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>909 WHISPERING PINE COVE</AddressLine1>
+            <City>NEWBERN</City>
+            <State>TN</State>
+            <ZIPCode>38059</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>2493</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JANELLE L CLEAVES</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>235 RED BELL ROAD</AddressLine1>
+            <City>NEWBERN</City>
+            <State>TN</State>
+            <ZIPCode>38059</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>2493</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>HANNAH C EVANS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>14275 N 211 HIGHWAY</AddressLine1>
+            <City>TRIMBLE</City>
+            <State>TN</State>
+            <ZIPCode>38259</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>2493</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>KAMERON N FLOWERS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>171 CARRIE DRIVE</AddressLine1>
+            <City>DYERSBURG</City>
+            <State>TN</State>
+            <ZIPCode>38024</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>2493</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>KESHONNA L GALLER</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1145 PATTY DRIVE</AddressLine1>
+            <City>NEWBERN</City>
+            <State>TN</State>
+            <ZIPCode>38059</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>2493</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>HEATHER HART</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>451 BISHOP ROAD</AddressLine1>
+            <City>DYERSBURG</City>
+            <State>TN</State>
+            <ZIPCode>38024</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>2493</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>DAVID A LEWELLING</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>616 SIMPSON ROAD</AddressLine1>
+            <City>DYERSBURG</City>
+            <State>TN</State>
+            <ZIPCode>38024</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>2493</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>KATELYN E MASSIE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>235 NAUVOO SCHOOL ROAD</AddressLine1>
+            <City>DYERSBURG</City>
+            <State>TN</State>
+            <ZIPCode>38024</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>2493</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>LAUREN B MCCULLOCH</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>2495 HAMER ROAD</AddressLine1>
+            <City>DYERSBURG</City>
+            <State>TN</State>
+            <ZIPCode>38024</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>2493</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>HEATHER A MCCLEAN</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>2204 EDGEWOOD ROAD</AddressLine1>
+            <City>NEWBERN</City>
+            <State>TN</State>
+            <ZIPCode>38059</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>2493</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>RACHEL A MOORE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>128 WHITNEL ROAD</AddressLine1>
+            <City>DYERSBURG</City>
+            <State>TN</State>
+            <ZIPCode>38024</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>2494</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>REBECCA H NANNEY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>110 W JOHNSON STREET</AddressLine1>
+            <City>NEWBERN</City>
+            <State>TN</State>
+            <ZIPCode>38059</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>2494</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>LESLIE D PIERCEY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>7795 MILLSFIELD HIGHWAY</AddressLine1>
+            <City>NEWBERN</City>
+            <State>TN</State>
+            <ZIPCode>38059</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>2494</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SAMANTHA L READENOUR</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>3851 SHARPES FERRY ROAD</AddressLine1>
+            <City>NEWBERN</City>
+            <State>TN</State>
+            <ZIPCode>38059</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>2494</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CHANDLER J SHEPPARD</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>6114 BIFFLE ROAD</AddressLine1>
+            <City>NEWBERN</City>
+            <State>TN</State>
+            <ZIPCode>38059</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>2494</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CARY E SMITH</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>519 MAIN STREET</AddressLine1>
+            <City>NEWBERN</City>
+            <State>TN</State>
+            <ZIPCode>38059</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>2494</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JAZIREE L SMITH</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>892 LACEBARK COVE</AddressLine1>
+            <City>NEWBERN</City>
+            <State>TN</State>
+            <ZIPCode>38059</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>2494</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>BRITTANY L STURGILL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>180 FORRESTER ROAD</AddressLine1>
+            <City>NEWBERN</City>
+            <State>TN</State>
+            <ZIPCode>38059</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>2494</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>52361</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <RelatedOrExemptFunctionIncome>17635</RelatedOrExemptFunctionIncome>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <RelatedOrExemptFunctionIncome>6359</RelatedOrExemptFunctionIncome>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>-58721</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>-34727</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>-34727</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>3</LineNumber>
+          <RelationshipStatement>INVESTMENT INCOME USED TO PAY SCHOLARSHIPS</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>4</LineNumber>
+          <RelationshipStatement>INVESTMENT INCOME USED TO PAY SCHOLARSHIPS</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>8</LineNumber>
+          <RelationshipStatement>RESULTS OF SALE OF INVESTMENTS FROM WHICH INVESTMENT</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>INDIRECT ACCOUNTING FEES</Category>
+        <Amount>1650</Amount>
+        <NetInvestmentIncome>1650</NetInvestmentIncome>
+        <AdjustedNetIncome>1650</AdjustedNetIncome>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc3">
+      <GainLossSaleOtherAsset>
+        <Name>FHLMC</Name>
+        <DateAcquired>2009-06</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-12</DateSold>
+        <GrossSalesPrice>100000</GrossSalesPrice>
+        <Basis>99675</Basis>
+        <TotalNet>325</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>FIDELITY ADVISOR EQUITY</Name>
+        <DateAcquired>2009-04</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-10</DateSold>
+        <GrossSalesPrice>6501</GrossSalesPrice>
+        <Basis>5000</Basis>
+        <TotalNet>1501</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>FIDELITY ADVISOR EQUITY</Name>
+        <DateAcquired>2008-04</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-10</DateSold>
+        <GrossSalesPrice>65441</GrossSalesPrice>
+        <Basis>91177</Basis>
+        <TotalNet>-25736</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>LONGLEAF PARTNERS</Name>
+        <DateAcquired>2004-07</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-08</DateSold>
+        <GrossSalesPrice>6901</GrossSalesPrice>
+        <Basis>10000</Basis>
+        <TotalNet>-3099</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>LONGLEAF PARTNERS</Name>
+        <DateAcquired>2004-08</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-08</DateSold>
+        <GrossSalesPrice>7052</GrossSalesPrice>
+        <Basis>10000</Basis>
+        <TotalNet>-2948</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>LONGLEAF PARTNERS</Name>
+        <DateAcquired>2004-11</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-08</DateSold>
+        <GrossSalesPrice>10179</GrossSalesPrice>
+        <Basis>15000</Basis>
+        <TotalNet>-4821</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>LONGLEAF PARTNERS</Name>
+        <DateAcquired>2004-11</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-08</DateSold>
+        <GrossSalesPrice>3436</GrossSalesPrice>
+        <Basis>5000</Basis>
+        <TotalNet>-1564</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>LONGLEAF PARTNERS</Name>
+        <DateAcquired>2004-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-08</DateSold>
+        <GrossSalesPrice>6819</GrossSalesPrice>
+        <Basis>10000</Basis>
+        <TotalNet>-3181</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>LONGLEAF PARTNERS</Name>
+        <DateAcquired>2005-01</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-08</DateSold>
+        <GrossSalesPrice>6779</GrossSalesPrice>
+        <Basis>10000</Basis>
+        <TotalNet>-3221</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>LONGLEAF PARTNERS</Name>
+        <DateAcquired>2005-01</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-08</DateSold>
+        <GrossSalesPrice>3386</GrossSalesPrice>
+        <Basis>5000</Basis>
+        <TotalNet>-1614</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>LONGLEAF PARTNERS</Name>
+        <DateAcquired>2005-01</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-08</DateSold>
+        <GrossSalesPrice>3367</GrossSalesPrice>
+        <Basis>5000</Basis>
+        <TotalNet>-1633</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>LONGLEAF PARTNERS</Name>
+        <DateAcquired>2005-05</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-08</DateSold>
+        <GrossSalesPrice>6835</GrossSalesPrice>
+        <Basis>10000</Basis>
+        <TotalNet>-3165</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>LONGLEAF PARTNERS</Name>
+        <DateAcquired>2005-06</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-08</DateSold>
+        <GrossSalesPrice>13406</GrossSalesPrice>
+        <Basis>20000</Basis>
+        <TotalNet>-6594</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>LONGLEAF PARTNERS</Name>
+        <DateAcquired>2004-09</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-08</DateSold>
+        <GrossSalesPrice>7029</GrossSalesPrice>
+        <Basis>10000</Basis>
+        <TotalNet>-2971</TotalNet>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc4">
+      <InvestmentsCorpBonds>
+        <NameOfBond>GOLDMAN SACHS</NameOfBond>
+        <EOYBookValue>10000</EOYBookValue>
+        <EOYFMV>10056</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc5">
+      <InvestmentsCorpStock>
+        <NameOfStock>FEDERATED INTERCONTINENTAL</NameOfStock>
+        <EOYBookValue>55000</EOYBookValue>
+        <EOYFMV>36081</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>FEDERATED STRATEGIC FUND</NameOfStock>
+        <EOYBookValue>90000</EOYBookValue>
+        <EOYFMV>75196</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>FEDERATED CAPITAL APPREC FUND</NameOfStock>
+        <EOYBookValue>142482</EOYBookValue>
+        <EOYFMV>107661</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>FIRST CITIZENS BANCSHARES</NameOfStock>
+        <EOYBookValue>15675</EOYBookValue>
+        <EOYFMV>52800</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>FEDERATED KAUFMAN FUND</NameOfStock>
+        <EOYBookValue>97470</EOYBookValue>
+        <EOYFMV>90931</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>FIDELITY EQUITY CLASS A</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>FIDELITY ADVISOR NEW INSIGHTS</NameOfStock>
+        <EOYBookValue>65000</EOYBookValue>
+        <EOYFMV>72154</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>LONGLEAF PARTNERS</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>FIDELITY ADVISOR SMALL CAP A</NameOfStock>
+        <EOYBookValue>25000</EOYBookValue>
+        <EOYFMV>25862</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>BARON GROWTH RETAIL</NameOfStock>
+        <EOYBookValue>25000</EOYBookValue>
+        <EOYFMV>26702</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>FEDERATED MID-CAP INDEX</NameOfStock>
+        <EOYBookValue>10000</EOYBookValue>
+        <EOYFMV>10701</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="RetDoc6">
+      <USGovtSecuritiesEOYBookValue>495000</USGovtSecuritiesEOYBookValue>
+      <USGovtSecuritiesEOYFMV>510793</USGovtSecuritiesEOYFMV>
+      <StateLocalSecuritiesEOYBookVal>49000</StateLocalSecuritiesEOYBookVal>
+      <StateLocalSecuritiesEOYFMV>47467</StateLocalSecuritiesEOYFMV>
+    </InvestmentsGovtObligationsSch>
+    <TaxesSchedule documentId="RetDoc7">
+      <Taxes>
+        <Category>FEDERAL INCOME TAX</Category>
+        <Amount>481</Amount>
+        <NetInvestmentIncome>481</NetInvestmentIncome>
+        <AdjustedNetIncome>481</AdjustedNetIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

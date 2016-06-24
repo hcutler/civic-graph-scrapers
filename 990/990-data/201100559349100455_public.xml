@@ -1,0 +1,357 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.7" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-24T18:16:00-08:00</Timestamp>
+    <TaxPeriodEndDate>2010-03-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Solomon Winnett &amp; Rosenfield CPAs Inc</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>11777 San Vicente Blvd 777</AddressLine1>
+        <City>Los Angeles</City>
+        <State>CA</State>
+        <ZIPCode>90049</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-04-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>954682181</EIN>
+      <Name>
+        <BusinessNameLine1>THE DONALD F KENNEDY YOUTH FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>DONA</NameControl>
+      <Phone>3108876400</Phone>
+      <USAddress>
+        <AddressLine1>9701 WILSHIRE BLVD</AddressLine1>
+        <City>BEVERLY HILLS</City>
+        <State>CA</State>
+        <ZIPCode>90212</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>THERESA ANODIDE</Name>
+      <Title>CFO</Title>
+      <DateSigned>2011-02-24</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>Timothy Thompson</Name>
+      <Phone>3108264343</Phone>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="2">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="09000047" softwareVersion="2009v1.7">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>11321</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>441</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>441</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>441</InterestOnSavingsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss>0</NetGainSaleAssetsRevAndExpnss>
+        <TotalRevenueAndExpenses>441</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>441</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>441</TotalAdjustedNetIncome>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">10</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>10</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>85000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>85000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>85010</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>85000</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-84569</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>441</NetInvestmentIncome>
+        <AdjustedNetIncome>441</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>95890</CashBOY>
+        <CashEOY>11321</CashEOY>
+        <CashEOYFMV>11321</CashEOYFMV>
+        <TotalAssetsBOY>95890</TotalAssetsBOY>
+        <TotalAssetsEOY>11321</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>11321</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>95890</RetainedEarningsBOY>
+        <RetainedEarningsEOY>11321</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>95890</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>11321</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>95890</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>11321</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>95890</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-84569</ExcessOfRevenueOverExpenses>
+        <Subtotal>11321</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>11321</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear2>10000</QualifyingDistributionsYear2>
+        <NetNoncharitableAssets>52796</NetNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>4</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>4</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>85000</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>4</InvestmentIncomeExciseTax>
+        <Subtotal>4</Subtotal>
+        <TaxBasedOnInvestmentIncome>4</TaxBasedOnInvestmentIncome>
+        <TaxDue>4</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>CA</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>KENNEDY WILSON</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>3108876400</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>9701 WILSHIRE BLVD 700</AddressLine1>
+          <City>BEVERLY HILLS</City>
+          <State>CA</State>
+          <ZIPCode>90212</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>THERESA ANODIDE</PersonName>
+          <USAddress>
+            <AddressLine1>9701 WILSHIRE BLVD 700</AddressLine1>
+            <City>BEVERLY HILLS</City>
+            <State>CA</State>
+            <ZIPCode>90212</ZIPCode>
+          </USAddress>
+          <Title>C.F.O.</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARTIN CLOUSER</PersonName>
+          <USAddress>
+            <AddressLine1>9701 WILSHIRE BLVD 700</AddressLine1>
+            <City>BEVERLY HILLS</City>
+            <State>CA</State>
+            <ZIPCode>90212</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>WILLIAM J McMORROW</PersonName>
+          <USAddress>
+            <AddressLine1>9701 WILSHIRE BLVD 700</AddressLine1>
+            <City>BEVELRY HILLS</City>
+            <State>CA</State>
+            <ZIPCode>90212</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>THE FOUNDATION MADE CONTRIBUTIONS TO EDUCATIONAL INSTITUTIONS AND MEDICAL RESEARCH FOUNDATIONS.</Description1>
+        <Expenses1>0</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>53600</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>53600</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>53600</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>804</CashDeemedCharitable>
+        <NetNoncharitableAssets>52796</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>2640</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>2640</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>4</TaxBasedOnInvestmentIncome>
+        <TotalTax>4</TotalTax>
+        <DistributableAmountBeforeAdj>2636</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>2636</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>2636</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>85000</ExpensesAndContributions>
+        <QualifyingDistributions>85000</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>4</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>84996</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>2636</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear2>10000</ExcessDistriCarryoverYear2>
+        <TotalExcessDistriCarryover>10000</TotalExcessDistriCarryover>
+        <QualifyingDistributions>85000</QualifyingDistributions>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>2636</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>82364</RemainingDistriFromCorpus>
+        <TotalCorpus>92364</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>92364</ExcessDistriCyovToNextYear>
+        <ExcessFromYear2>10000</ExcessFromYear2>
+        <ExcessFromCurrentYear>82364</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>UCLA FOUNDATION</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>808 WILSHIRE BLVD SUITE 220</AddressLine1>
+            <City>SANTA MONICA</City>
+            <State>CA</State>
+            <ZIPCode>90401</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NO RELATION</RecipientRelationship>
+          <PurposeOfGrantOrContribution>CHILDREN'S BENEFITS</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>UNIVERSITY OF SOUTHERN CALIFORNIA</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>650 CHILDS WAY RGL 331</AddressLine1>
+            <City>LOS ANGELES</City>
+            <State>CA</State>
+            <ZIPCode>90089</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NO RELATION</RecipientRelationship>
+          <PurposeOfGrantOrContribution>USC LUSK CENTER FOR REAL ESTATE DEVELOPMENT</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>ALFRED MANN FOUNDATION</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 905</AddressLine1>
+            <City>SANTA CLARITA</City>
+            <State>CA</State>
+            <ZIPCode>91380</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NO RELATION</RecipientRelationship>
+          <PurposeOfGrantOrContribution>SUPPORT ADVANCEMENT IN MEDICAL SCIENTIFIC RESEARCH</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>PS ARTS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>11965 VENICE BLVD SUITE 201</AddressLine1>
+            <City>LOS ANGELES</City>
+            <State>CA</State>
+            <ZIPCode>90066</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NO RELATION</RecipientRelationship>
+          <PurposeOfGrantOrContribution>SUPPORT ART PROGRAMS IN PUBLIC SCHOOLS</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SHANE'S INSPIRATION</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>15213 BURANK BLVD</AddressLine1>
+            <City>VAN NUYS</City>
+            <State>CA</State>
+            <ZIPCode>91411</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NO RELATION</RecipientRelationship>
+          <PurposeOfGrantOrContribution>SPONSORSHIP FOR WALK AND ROLL</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>LOYOLA HIGH SCHOOL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1901 VENICE BLVD</AddressLine1>
+            <City>LOS ANGELES</City>
+            <State>CA</State>
+            <ZIPCode>90006</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NO RELATION</RecipientRelationship>
+          <PurposeOfGrantOrContribution>GENERAL FUNDS AND SCHOLARSHIPS</PurposeOfGrantOrContribution>
+          <Amount>50000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>85000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>441</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>441</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>441</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="09000047" softwareVersion="2009v1.7">
+      <OtherExpenses>
+        <Description>FRANCHISE TAX BOARD</Description>
+        <RevenueAndExpensesPerBooks>10</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

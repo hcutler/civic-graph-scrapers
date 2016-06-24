@@ -1,0 +1,571 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-05-25T07:43:01-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-03-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>GREENE &amp; COMPANY LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>PO BOX 49159</AddressLine1>
+        <City>GREENWOOD</City>
+        <State>SC</State>
+        <ZIPCode>29649</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-04-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>562136364</EIN>
+      <Name>
+        <BusinessNameLine1>JULIA PORTER SCURRY FAMILY</BusinessNameLine1>
+        <BusinessNameLine2>FOUNDATION</BusinessNameLine2>
+      </Name>
+      <NameControl>JULI</NameControl>
+      <USAddress>
+        <AddressLine1>PO BOX 1547</AddressLine1>
+        <City>GREENWOOD</City>
+        <State>SC</State>
+        <ZIPCode>29648</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>JOHN C SCURRY JR</Name>
+      <Title>V-CHARIMAN</Title>
+      <DateSigned>2010-03-13</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>HENRY A DORN CPA</Name>
+      <Phone>8642296620</Phone>
+      <DatePrepared>2010-05-14</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>711206</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>20541</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>20541</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>20541</DividendsAdjNetIncm>
+        <TotalRevenueAndExpenses>20541</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>20541</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>20541</TotalAdjustedNetIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">4313</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>4313</AccountingFeesNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc5">247</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>247</TaxesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>4560</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>4560</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>35000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>35000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>39560</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>4560</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>35000</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-19019</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>15981</NetInvestmentIncome>
+        <AdjustedNetIncome>20541</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>12308</CashBOY>
+        <InvestmentsCorpStockBOY>805317</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc3">805317</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>711206</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>817625</TotalAssetsBOY>
+        <TotalAssetsEOY>805317</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>711206</TotalAssetsEOYFMV>
+        <OtherLiabilitiesEOY referenceDocumentId="RetDoc4">6711</OtherLiabilitiesEOY>
+        <TotalLiabilitiesEOY>6711</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>817625</RetainedEarningsBOY>
+        <RetainedEarningsEOY>798606</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>817625</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>798606</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>817625</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>805317</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>817625</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-19019</ExcessOfRevenueOverExpenses>
+        <Subtotal>798606</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>798606</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>39848</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>561283</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.070994</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>36300</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>811066</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.044756</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>32425</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>728981</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.044480</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>32500</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>654353</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.049667</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>33000</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>663964</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.049701</DistributionRatioYear5>
+        <TotalDistributionRatio>0.259598</TotalDistributionRatio>
+        <AverageDistributionRatio>0.051920</AverageDistributionRatio>
+        <NetNoncharitableAssets>712350</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>36985</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>160</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>37145</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>35000</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>320</InvestmentIncomeExciseTax>
+        <Subtotal>320</Subtotal>
+        <TaxBasedOnInvestmentIncome>320</TaxBasedOnInvestmentIncome>
+        <TaxDue>320</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>SC</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>KENNETH W POSTON ATTORNEY</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>8642292511</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>PO BOX 1547</AddressLine1>
+          <City>GREENWOOD</City>
+          <State>SC</State>
+          <ZIPCode>29648</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOHN C SCURRY JR</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 1182</AddressLine1>
+            <City>GREENWOOD</City>
+            <State>SC</State>
+            <ZIPCode>29648</ZIPCode>
+          </USAddress>
+          <Title>V-CHAIRMAN</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JANE S KISER</PersonName>
+          <USAddress>
+            <AddressLine1>67 MYRTLE ISLAND RD</AddressLine1>
+            <City>BLUFFTON</City>
+            <State>SC</State>
+            <ZIPCode>29910</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>HARRIET S JOHNSON</PersonName>
+          <USAddress>
+            <AddressLine1>236 CAMILLE AVE</AddressLine1>
+            <City>GREENVILLE</City>
+            <State>SC</State>
+            <ZIPCode>29605</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>WILLIAM P SCURRY</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 12565</AddressLine1>
+            <City>HILTON HEAD</City>
+            <State>SC</State>
+            <ZIPCode>29925</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>711206</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>11992</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>723198</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>723198</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>10848</CashDeemedCharitable>
+        <NetNoncharitableAssets>712350</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>35618</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>35618</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>320</TaxBasedOnInvestmentIncome>
+        <TotalTax>320</TotalTax>
+        <DistributableAmountBeforeAdj>35298</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>35298</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>35298</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>35000</ExpensesAndContributions>
+        <QualifyingDistributions>35000</QualifyingDistributions>
+        <AdjQualifyingDistributions>35000</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>35298</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>27912</UndistributedIncomePriorYear>
+        <QualifyingDistributions>35000</QualifyingDistributions>
+        <AppliedToYear1>27912</AppliedToYear1>
+        <AppliedToCurrentYear>7088</AppliedToCurrentYear>
+        <UndistributedIncomeCY>28210</UndistributedIncomeCY>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <AppicationSubmissionInfo>
+          <RecipientName>KENNETH W POSTON</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1547</AddressLine1>
+            <City>GREENWOOD</City>
+            <State>SC</State>
+            <ZIPCode>29648</ZIPCode>
+          </RecipientUSAddress>
+          <FormAndInfoAndMaterials>DETAILED LETTER WITH RELEVANT ATTACHMENTS.</FormAndInfoAndMaterials>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HERITAGE PREP SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>6000 WEST COLONIAL DRIVE</AddressLine1>
+            <City>ORLANDO</City>
+            <State>FL</State>
+            <ZIPCode>32808</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>PUBLIC CHARITY</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO BENEFIT CHARITABLE CAUSES</PurposeOfGrantOrContribution>
+          <Amount>3500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SEA PINES MONTESSORI ACAD</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>9 FOX GRAPE ROAD</AddressLine1>
+            <City>HILTON HEAD</City>
+            <State>SC</State>
+            <ZIPCode>29928</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>PUBLIC CHARITY</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO BENEFIT CHARITABLE CAUSES</PurposeOfGrantOrContribution>
+          <Amount>14000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE GREENWOOD SOUP KITCHE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>123 BAILEY CIRCLE</AddressLine1>
+            <City>GREENWOOD</City>
+            <State>SC</State>
+            <ZIPCode>29646</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>PUBLIC CHARITY</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO BENEFIT CHARITABLE CAUSES</PurposeOfGrantOrContribution>
+          <Amount>700</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNITED WAY OF GREENWOOD C</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>110 PHOENIX STREET</AddressLine1>
+            <City>GREENWOOD</City>
+            <State>SC</State>
+            <ZIPCode>29649</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>PUBLIC CHARITY</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO BENEFIT CHARITABLE CAUSES</PurposeOfGrantOrContribution>
+          <Amount>1400</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CAMPERDOWN ACADEMY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>501 HOWELL ROAD</AddressLine1>
+            <City>GREENVILLE</City>
+            <State>SC</State>
+            <ZIPCode>29615</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>PUBLIC CHARITY</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO BENEFIT CHARITABLE CAUSES</PurposeOfGrantOrContribution>
+          <Amount>3500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MORRIS CHAPEL BAPTIST CHU</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>530 BAPTIST AVE</AddressLine1>
+            <City>GREENWOOD</City>
+            <State>SC</State>
+            <ZIPCode>29646</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>PUBLIC CHARITY</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO BENEFIT CHARITABLE CAUSES</PurposeOfGrantOrContribution>
+          <Amount>700</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BOWERS RODGERS HOME</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1252</AddressLine1>
+            <City>GREENWOOD</City>
+            <State>SC</State>
+            <ZIPCode>29648</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>PUBLIC CHARITY</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO BENEFIT CHARITABLE CAUSES</PurposeOfGrantOrContribution>
+          <Amount>2100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHURCH OF THE RESURRECTIO</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>700 SOUTH MAIN ST</AddressLine1>
+            <City>GREENWWOOD</City>
+            <State>SC</State>
+            <ZIPCode>29648</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>PUBLIC CHARITY</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO BENEFIT CHARITABLE CAUSES</PurposeOfGrantOrContribution>
+          <Amount>2100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DAUFUSKIE ISLAND COMMUNIT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>27 MARTINANGELE RD</AddressLine1>
+            <City>DAUFUSKIE ISLAND</City>
+            <State>SC</State>
+            <ZIPCode>29915</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>PUBLIC CHARITY</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO BENEFIT CHARITABLE CAUSES</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ST JUDE CHILDREN'S RESEA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>262 DANNY THOMAS PLACE</AddressLine1>
+            <City>MEMPHIS</City>
+            <State>TN</State>
+            <ZIPCode>38105</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>PUBLIC CHARITY</RecipientRelationship>
+          <PurposeOfGrantOrContribution>TO BENEFIT CHARITABLE CAUSES</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>35000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <RelatedOrExemptFunctionIncome>20541</RelatedOrExemptFunctionIncome>
+        </DividendsAndIntFromSecPartVII>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>20541</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>20541</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>4</LineNumber>
+          <RelationshipStatement>TO PROVIDE INCOME FOR EXEMPT PURPOSES.</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>8</LineNumber>
+          <RelationshipStatement>TO PROVIDE INCOME FOR EXEMPT PURPOSES.</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>INDIRECT ACCOUNTING FEES</Category>
+        <Amount>4313</Amount>
+        <NetInvestmentIncome>4313</NetInvestmentIncome>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc3">
+      <InvestmentsCorpStock>
+        <NameOfStock>ALG RESOURCES INC (300 SHS)</NameOfStock>
+        <EOYBookValue>10019</EOYBookValue>
+        <EOYFMV>11595</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ABBOTT (500 SH)</NameOfStock>
+        <EOYBookValue>17904</EOYBookValue>
+        <EOYFMV>26340</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>AMGEN (200 SH)</NameOfStock>
+        <EOYBookValue>9728</EOYBookValue>
+        <EOYFMV>11968</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>COCA COLA (8000 SH)</NameOfStock>
+        <EOYBookValue>542000</EOYBookValue>
+        <EOYFMV>440000</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CONAGRA (750 SH)</NameOfStock>
+        <EOYBookValue>18494</EOYBookValue>
+        <EOYFMV>18803</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>DUKE POWER (350, SPLIT 350)</NameOfStock>
+        <EOYBookValue>10632</EOYBookValue>
+        <EOYFMV>11424</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>DUKE ENERGY CORP COM (500SH)</NameOfStock>
+        <EOYBookValue>5874</EOYBookValue>
+        <EOYFMV>8160</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>EXXON (250SH, SPLIT 250SH)</NameOfStock>
+        <EOYBookValue>19661</EOYBookValue>
+        <EOYFMV>33490</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>FORD (400 SH, 299SH)</NameOfStock>
+        <EOYBookValue>19661</EOYBookValue>
+        <EOYFMV>8786</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>GOODYEAR (500 SH)</NameOfStock>
+        <EOYBookValue>18053</EOYBookValue>
+        <EOYFMV>6320</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>HOME DEPOT (375 SH)</NameOfStock>
+        <EOYBookValue>20240</EOYBookValue>
+        <EOYFMV>12131</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>INTEL (400 SH)</NameOfStock>
+        <EOYBookValue>15845</EOYBookValue>
+        <EOYFMV>8916</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>KIMBERLY CLARK CORP (300 SH)</NameOfStock>
+        <EOYBookValue>19990</EOYBookValue>
+        <EOYFMV>18864</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MCDONALDS CORP (400 SH)</NameOfStock>
+        <EOYBookValue>18854</EOYBookValue>
+        <EOYFMV>26688</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MICROSOFT CORP (300 SH)</NameOfStock>
+        <EOYBookValue>13683</EOYBookValue>
+        <EOYFMV>8786</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>SCHLUMBERGER LTD (300 SH)</NameOfStock>
+        <EOYBookValue>17494</EOYBookValue>
+        <EOYFMV>38076</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>TEXAS INSTRUMENTS (300 SH)</NameOfStock>
+        <EOYBookValue>15286</EOYBookValue>
+        <EOYFMV>7341</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>SPECTRA ENERGY (600 SH)</NameOfStock>
+        <EOYBookValue>11899</EOYBookValue>
+        <EOYFMV>13518</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherLiabilitiesSchedule documentId="RetDoc4">
+      <OtherLiabilities>
+        <Description>CASH OVERDRAFT</Description>
+        <EOYBookValue>6711</EOYBookValue>
+      </OtherLiabilities>
+    </OtherLiabilitiesSchedule>
+    <TaxesSchedule documentId="RetDoc5">
+      <Taxes>
+        <Category>INDIRECT TAXES/LICENSES</Category>
+        <Amount>247</Amount>
+        <NetInvestmentIncome>247</NetInvestmentIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

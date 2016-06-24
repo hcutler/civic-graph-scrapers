@@ -1,0 +1,773 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-04T11:58:05-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-09-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>DAUBY O'CONNOR &amp; ZALESKI LLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>501 CONGRESSIONAL BLVD STE 300</AddressLine1>
+        <City>CARMEL</City>
+        <State>IN</State>
+        <ZIPCode>46032</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-10-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>330217490</EIN>
+      <Name>
+        <BusinessNameLine1>STORM LAKE RHF HOUSING INC</BusinessNameLine1>
+      </Name>
+      <NameControl>STOR</NameControl>
+      <Phone>5622575100</Phone>
+      <USAddress>
+        <AddressLine1>911 N STUDEBAKER ROAD</AddressLine1>
+        <City>LONG BEACH</City>
+        <State>CA</State>
+        <ZIPCode>90815</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Deborah Stouff</Name>
+      <Title>Corporate Secretary</Title>
+      <Phone>5622575100</Phone>
+      <DateSigned>2011-02-04</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>STEVEN R HISE</Name>
+      <Phone>3178485700</Phone>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="11">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>465945</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>161455</ContriReceivedRevAndExpnss>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc2001500001">71042</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>209</OtherIncomeNetInvstIncm>
+        <OtherIncomeAdjNetIncm>70833</OtherIncomeAdjNetIncm>
+        <TotalRevenueAndExpenses>232497</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>209</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>70833</TotalAdjustedNetIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstAdjNetIncm>0</CompOfcrDirTrstAdjNetIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">4760</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>4</AccountingFeesNetInvstIncm>
+        <AccountingFeesAdjNetIncm>1111</AccountingFeesAdjNetIncm>
+        <AccountingFeesDsbrsChrtblPrps>3645</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc2002300001">13872</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>12</OtherProfFeesNetInvstIncm>
+        <OtherProfFeesAdjNetIncm>3238</OtherProfFeesAdjNetIncm>
+        <OtherProfFeesDsbrsChrtblPrps>10622</OtherProfFeesDsbrsChrtblPrps>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId="RetDoc2203000001">18134</DeprecAndDepletionRevAndExpnss>
+        <DeprecAndDepletionNetInvstIncm>16</DeprecAndDepletionNetInvstIncm>
+        <DeprecAndDepletionAdjNetIncm>18118</DeprecAndDepletionAdjNetIncm>
+        <OccupancyRevAndExpnss>133504</OccupancyRevAndExpnss>
+        <OccupancyNetInvstIncm>114</OccupancyNetInvstIncm>
+        <OccupancyAdjNetIncm>31163</OccupancyAdjNetIncm>
+        <OccupancyDsbrsChrtblPrps>102227</OccupancyDsbrsChrtblPrps>
+        <TravConfMeetingRevAndExpnss>749</TravConfMeetingRevAndExpnss>
+        <TravConfMeetingNetInvstIncm>1</TravConfMeetingNetInvstIncm>
+        <TravConfMeetingAdjNetIncm>176</TravConfMeetingAdjNetIncm>
+        <TravConfMeetingDsbrsChrtblPrps>572</TravConfMeetingDsbrsChrtblPrps>
+        <PrintingAndPubRevAndExpnss>1383</PrintingAndPubRevAndExpnss>
+        <PrintingAndPubNetInvstIncm>1</PrintingAndPubNetInvstIncm>
+        <PrintingAndPubAdjNetIncm>323</PrintingAndPubAdjNetIncm>
+        <PrintingAndPubDsbrsChrtblPrps>1059</PrintingAndPubDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">71566</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>61</OtherExpensesNetInvstIncm>
+        <OtherExpensesAdjNetIncm>16704</OtherExpensesAdjNetIncm>
+        <OtherExpensesDsbrsChrtblPrps>54801</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>243968</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>209</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>70833</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>172926</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>0</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>243968</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>209</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>70833</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>172926</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-11471</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>100</CashBOY>
+        <CashEOY>101</CashEOY>
+        <CashEOYFMV>101</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>249</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>455</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>455</SavingsAndTempCashInvstEOYFMV>
+        <AccountsReceivable>2821</AccountsReceivable>
+        <AccountsReceivableBOY>704</AccountsReceivableBOY>
+        <AccountsReceivableEOY>2821</AccountsReceivableEOY>
+        <AccountsReceivableEOYFMV>2821</AccountsReceivableEOYFMV>
+        <PrepaidExpensesBOY>47</PrepaidExpensesBOY>
+        <InvestmentsOtherBOY>77135</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc2018100001">74033</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>74033</InvestmentsOtherEOYFMV>
+        <LandBuildingAndEquipmentBasis>782578</LandBuildingAndEquipmentBasis>
+        <AccumDeprecLandBldgAndEquip>399300</AccumDeprecLandBldgAndEquip>
+        <LandBuildingAndEquipmentBOY>397199</LandBuildingAndEquipmentBOY>
+        <LandBuildingAndEquipmentEOY referenceDocumentId="RetDoc2059000001">383278</LandBuildingAndEquipmentEOY>
+        <LandBuildingAndEquipmentEOYFMV>383278</LandBuildingAndEquipmentEOYFMV>
+        <OtherAssetsBOY referenceDocumentId="RetDoc2046600001">5535</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId="RetDoc2046600001">5257</OtherAssetsEOY>
+        <OtherAssetsEOYFMV referenceDocumentId="RetDoc2046600001">5257</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>480969</TotalAssetsBOY>
+        <TotalAssetsEOY>465945</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>465945</TotalAssetsEOYFMV>
+        <AccountsPayableBOY>70121</AccountsPayableBOY>
+        <AccountsPayableEOY>79572</AccountsPayableEOY>
+        <DeferredRevenueBOY>4</DeferredRevenueBOY>
+        <DeferredRevenueEOY>7</DeferredRevenueEOY>
+        <MortgagesAndNotesPayableBOY>643993</MortgagesAndNotesPayableBOY>
+        <MortgagesAndNotesPayableEOY>631264</MortgagesAndNotesPayableEOY>
+        <OtherLiabilitiesBOY referenceDocumentId="RetDoc2065700001">62347</OtherLiabilitiesBOY>
+        <OtherLiabilitiesEOY referenceDocumentId="RetDoc2065700001">62069</OtherLiabilitiesEOY>
+        <TotalLiabilitiesBOY>776465</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>772912</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>-295496</UnrestrictedBOY>
+        <UnrestrictedEOY>-306967</UnrestrictedEOY>
+        <TotalNetAssetsBOY>-295496</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>-306967</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>480969</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>465945</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>-295496</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-11471</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>-306967</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>-306967</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>127302</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>72168</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>1.763967</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>0</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>0</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.0</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>0</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>0</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.0</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>0</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>0</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.0</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>0</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>0</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.0</DistributionRatioYear5>
+        <TotalDistributionRatio>1.763967</TotalDistributionRatio>
+        <AverageDistributionRatio>0.352793</AverageDistributionRatio>
+        <NetNoncharitableAssets>74549</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>26300</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>0</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>26300</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>172926</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>0</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>0</TaxBasedOnInvestmentIncome>
+        <TotalCreditsAndPayments>0</TotalCreditsAndPayments>
+        <TaxDue>0</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>IA</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>chris purcell</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>5622575100</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>911 N STUDEBAKER ROAD</AddressLine1>
+          <City>LONG BEACH</City>
+          <State>CA</State>
+          <ZIPCode>90815</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Jean Dremstedt</PersonName>
+          <USAddress>
+            <AddressLine1>C/O RHF 911 N STUDEBAKER ROAD</AddressLine1>
+            <City>LONG BEACH</City>
+            <State>CA</State>
+            <ZIPCode>90815</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.20</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Raymond East</PersonName>
+          <USAddress>
+            <AddressLine1>C/O RHF 911 N STUDEBAKER ROAD</AddressLine1>
+            <City>LONG BEACH</City>
+            <State>CA</State>
+            <ZIPCode>90815</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.20</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Christina Potter</PersonName>
+          <USAddress>
+            <AddressLine1>C/O RHF 911 N STUDEBAKER ROAD</AddressLine1>
+            <City>LONG BEACH</City>
+            <State>CA</State>
+            <ZIPCode>90815</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.20</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Stewart M Simington</PersonName>
+          <USAddress>
+            <AddressLine1>C/O RHF 911 N STUDEBAKER ROAD</AddressLine1>
+            <City>LONG BEACH</City>
+            <State>CA</State>
+            <ZIPCode>90815</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.20</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Rev Dr John E Trnka</PersonName>
+          <USAddress>
+            <AddressLine1>C/O RHF 911 N STUDEBAKER ROAD</AddressLine1>
+            <City>LONG BEACH</City>
+            <State>CA</State>
+            <ZIPCode>90815</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.20</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Deborah Stouff</PersonName>
+          <USAddress>
+            <AddressLine1>C/O RHF 911 N STUDEBAKER ROAD</AddressLine1>
+            <City>LONG BEACH</City>
+            <State>CA</State>
+            <ZIPCode>90815</ZIPCode>
+          </USAddress>
+          <Title>Corporate Secretary</Title>
+          <AvgHoursPerWkDevotedToPosition>0.20</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Tom S Masuda</PersonName>
+          <USAddress>
+            <AddressLine1>C/O RHF 911 N STUDEBAKER ROAD</AddressLine1>
+            <City>LONG BEACH</City>
+            <State>CA</State>
+            <ZIPCode>90815</ZIPCode>
+          </USAddress>
+          <Title>Treasurer</Title>
+          <AvgHoursPerWkDevotedToPosition>0.20</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Donald W King</PersonName>
+          <USAddress>
+            <AddressLine1>C/O RHF 911 N STUDEBAKER ROAD</AddressLine1>
+            <City>LONG BEACH</City>
+            <State>CA</State>
+            <ZIPCode>90815</ZIPCode>
+          </USAddress>
+          <Title>Vice President</Title>
+          <AvgHoursPerWkDevotedToPosition>0.20</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Laverne R Joseph</PersonName>
+          <USAddress>
+            <AddressLine1>C/O RHF 911 N STUDEBAKER ROAD</AddressLine1>
+            <City>LONG BEACH</City>
+            <State>CA</State>
+            <ZIPCode>90815</ZIPCode>
+          </USAddress>
+          <Title>President</Title>
+          <AvgHoursPerWkDevotedToPosition>0.20</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>STORM LAKE RHF HOUSING, INC IS A NOT-FOR-PROFIT CORPORATION FORMED IN ACCORDANCE WITH THE NOT-FOR-PROFIT STATUTES OF THE STATE OF IOWA. THE CORPORATION WAS FORMED FOR THE PURPOSE OF OPERATING A 25 UNIT COMMUNITY KNOWN AS LAKEVIEW MANOR LOCATED IN STORM LAKE, IOWA, WHICH PROVIDES HOUSING FOR LOW INCOME ELDERLY PERSONS. THE CORPORATION RECEIVES HOUSING ASSISTANCE PAYMENTS FROM THE U.S. DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT PURSUANT TO SECTION 202 OF THE NATIONAL HOUSING ACT, AS AMENDED.</Description1>
+        <Expenses1>243968</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>75684</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>75684</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>75684</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>1135</CashDeemedCharitable>
+        <NetNoncharitableAssets>74549</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>3727</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>3727</MinimumInvestmentReturn>
+        <TotalTax>0</TotalTax>
+        <DistributableAmountBeforeAdj>3727</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>3727</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>3727</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>172926</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>172926</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>172926</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>3727</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear1>123694</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>123694</TotalExcessDistriCarryover>
+        <QualifyingDistributions>172926</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>3727</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>169199</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>292893</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>292893</ExcessDistriCyovToNextYear>
+        <ExcessFromYear1>123694</ExcessFromYear1>
+        <ExcessFromCurrentYear>169199</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <TotGrantOrContriPaidDuringYear>0</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <ProgramServiceRevenuePartVII>
+          <Description>LOW INCOME RENTS</Description>
+          <RelatedOrExemptFunctionIncome>68117</RelatedOrExemptFunctionIncome>
+        </ProgramServiceRevenuePartVII>
+        <OtherInvestmentIncomePartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>209</ExclusionAmount>
+        </OtherInvestmentIncomePartVII>
+        <OtherRevenueDescribed>
+          <Description>LAUNDRY &amp; VENDING</Description>
+          <ExclusionCode>03</ExclusionCode>
+          <ExclusionAmount>1969</ExclusionAmount>
+        </OtherRevenueDescribed>
+        <OtherRevenueDescribed>
+          <Description>TENANT CHARGES</Description>
+          <ExclusionCode>03</ExclusionCode>
+          <ExclusionAmount>747</ExclusionAmount>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>2925</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>68117</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>71042</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>1A</LineNumber>
+          <RelationshipStatement>STORM LAKE RHF HOUSING, INC. IS A NOT-FOR-PROFIT CORPORATION FORMED IN ACCORDANCE WITH THE NOT-FOR-PROFIT STATUTES OF THE STATE OF IOWA. THE CORPORATION WAS FORMED FOR THE PURPOSE OF OPERATING A 25 UNIT COMMUNITY KNOWN AS LAKEVIEW MANOR LOCATED IN STORM LAKE, IOWA, WHICH PROVIDES HOUSING FOR LOW INCOME ELDERLY PERSONS. THE CORPORATION RECEIVES HOUSING ASSISTANCE PAYMENTS FROM THE U.S. DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT PURSUANT TO SECTION 202 OF THE NATIONAL HOUSING ACT, AS AMENDED.</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>US DEPT OF HOUSING &amp; URBAN DEVELOPMENT</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>451 7TH STREET SW</AddressLine1>
+          <City>WASHINGTON</City>
+          <State>DC</State>
+          <ZIPCode>20410</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>161455</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>Accounting Fees</Category>
+        <Amount>4760</Amount>
+        <NetInvestmentIncome>4</NetInvestmentIncome>
+        <AdjustedNetIncome>1111</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>3645</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="RetDoc2203000001">
+      <Depreciation>
+        <DescriptionOfProperty>LAND</DescriptionOfProperty>
+        <DateAcquired>1988-10-01</DateAcquired>
+        <CostOrOtherBasis>39640</CostOrOtherBasis>
+        <ComputationMethod>L</ComputationMethod>
+        <Rate>0.000000000000</Rate>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>BUILDINGS</DescriptionOfProperty>
+        <DateAcquired>1988-10-01</DateAcquired>
+        <CostOrOtherBasis>723805</CostOrOtherBasis>
+        <PriorYearsDepreciation>369579</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>40.000000000000</Life>
+        <CurrentYearExpense>18095</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>18095</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>DOOR CLOSURES</DescriptionOfProperty>
+        <DateAcquired>1998-02-01</DateAcquired>
+        <CostOrOtherBasis>1090</CostOrOtherBasis>
+        <PriorYearsDepreciation>1072</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>10.000000000000</Life>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>CANOPY &amp; PEASE DOOR</DescriptionOfProperty>
+        <DateAcquired>1998-10-01</DateAcquired>
+        <CostOrOtherBasis>2963</CostOrOtherBasis>
+        <PriorYearsDepreciation>2961</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>10.000000000000</Life>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>FURNITURE</DescriptionOfProperty>
+        <DateAcquired>1989-12-01</DateAcquired>
+        <CostOrOtherBasis>5847</CostOrOtherBasis>
+        <PriorYearsDepreciation>5847</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>10.000000000000</Life>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>COMPUTER &amp; PRINTER</DescriptionOfProperty>
+        <DateAcquired>2002-08-01</DateAcquired>
+        <CostOrOtherBasis>1591</CostOrOtherBasis>
+        <PriorYearsDepreciation>1590</PriorYearsDepreciation>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>5.000000000000</Life>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>CONCRETE REPLACEMENT CAP</DescriptionOfProperty>
+        <DateAcquired>2005-10-01</DateAcquired>
+        <CostOrOtherBasis>1184</CostOrOtherBasis>
+        <PriorYearsDepreciation>117</PriorYearsDepreciation>
+        <ComputationMethod>ADS</ComputationMethod>
+        <Life>40.000000000000</Life>
+        <CurrentYearExpense>30</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>30</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>BUILDING IMPROVEMENTS</DescriptionOfProperty>
+        <DateAcquired>2006-03-03</DateAcquired>
+        <CostOrOtherBasis>2246</CostOrOtherBasis>
+        <ComputationMethod>NC</ComputationMethod>
+        <Rate>0.000000000000</Rate>
+        <CurrentYearExpense>0</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>LIGHTNING PROTECTION SYSTEM</DescriptionOfProperty>
+        <DateAcquired>2010-09-09</DateAcquired>
+        <CostOrOtherBasis>4212</CostOrOtherBasis>
+        <ComputationMethod>SL</ComputationMethod>
+        <Life>40.000000000000</Life>
+        <CurrentYearExpense>9</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>9</AdjustedNetIncome>
+      </Depreciation>
+    </DepreciationSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOther>
+        <CategoryOrItem>RESTRICTED CASH</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>74033</BookValue>
+        <EOYFMV>74033</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <LandEtcSchedule2 documentId="RetDoc2059000001">
+      <LandEtc>
+        <CategoryOrItem>LAND</CategoryOrItem>
+        <CostOrOtherBasis>39640</CostOrOtherBasis>
+        <AccumulatedDepreciation>0</AccumulatedDepreciation>
+        <BookValue>39640</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>BUILDINGS</CategoryOrItem>
+        <CostOrOtherBasis>723805</CostOrOtherBasis>
+        <AccumulatedDepreciation>387674</AccumulatedDepreciation>
+        <BookValue>336131</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>DOOR CLOSURES</CategoryOrItem>
+        <CostOrOtherBasis>1090</CostOrOtherBasis>
+        <AccumulatedDepreciation>1072</AccumulatedDepreciation>
+        <BookValue>18</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>CANOPY &amp; PEASE DOOR</CategoryOrItem>
+        <CostOrOtherBasis>2963</CostOrOtherBasis>
+        <AccumulatedDepreciation>2961</AccumulatedDepreciation>
+        <BookValue>2</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>FURNITURE</CategoryOrItem>
+        <CostOrOtherBasis>5847</CostOrOtherBasis>
+        <AccumulatedDepreciation>5847</AccumulatedDepreciation>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>COMPUTER &amp; PRINTER</CategoryOrItem>
+        <CostOrOtherBasis>1591</CostOrOtherBasis>
+        <AccumulatedDepreciation>1590</AccumulatedDepreciation>
+        <BookValue>1</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>CONCRETE REPLACEMENT CAP</CategoryOrItem>
+        <CostOrOtherBasis>1184</CostOrOtherBasis>
+        <AccumulatedDepreciation>147</AccumulatedDepreciation>
+        <BookValue>1037</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>BUILDING IMPROVEMENTS</CategoryOrItem>
+        <CostOrOtherBasis>2246</CostOrOtherBasis>
+        <AccumulatedDepreciation>0</AccumulatedDepreciation>
+        <BookValue>2246</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>LIGHTNING PROTECTION SYSTEM</CategoryOrItem>
+        <CostOrOtherBasis>4212</CostOrOtherBasis>
+        <AccumulatedDepreciation>9</AccumulatedDepreciation>
+        <BookValue>4203</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+    </LandEtcSchedule2>
+    <OtherAssetsSchedule documentId="RetDoc2046600001">
+      <OtherAssets>
+        <Description>TENANT SECURITY DEPOSIT</Description>
+        <BOYBookValue>5535</BOYBookValue>
+        <EOYBookValue>5257</EOYBookValue>
+        <EOYFMV>5257</EOYFMV>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>OFFICE EXPENSE</Description>
+        <RevenueAndExpensesPerBooks>10391</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>9</NetInvestmentIncome>
+        <AdjustedNetIncome>2425</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>7957</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Bad Debts</Description>
+        <RevenueAndExpensesPerBooks>789</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>1</NetInvestmentIncome>
+        <AdjustedNetIncome>184</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>604</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>SERVICE COORDINATOR</Description>
+        <RevenueAndExpensesPerBooks>22652</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>19</NetInvestmentIncome>
+        <AdjustedNetIncome>5287</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>17346</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MANAGEMENT COMPANY EMPLOYEE CHARGEBACK</Description>
+        <RevenueAndExpensesPerBooks>34180</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>29</NetInvestmentIncome>
+        <AdjustedNetIncome>7978</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>26173</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Insurance</Description>
+        <RevenueAndExpensesPerBooks>3554</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>3</NetInvestmentIncome>
+        <AdjustedNetIncome>830</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>2721</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc2001500001">
+      <OtherIncome>
+        <Description>Interest Income</Description>
+        <RevenueAndExpensesPerBooks>209</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>209</NetInvestmentIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>LOW INCOME RENTS</Description>
+        <RevenueAndExpensesPerBooks>68117</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>68117</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>LAUNDRY &amp; VENDING</Description>
+        <RevenueAndExpensesPerBooks>1969</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>1969</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>TENANT CHARGES</Description>
+        <RevenueAndExpensesPerBooks>747</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>747</AdjustedNetIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherLiabilitiesSchedule documentId="RetDoc2065700001">
+      <OtherLiabilities>
+        <Description>TENANT SECURITY DEPOSIT</Description>
+        <BOYBookValue>5535</BOYBookValue>
+        <EOYBookValue>5257</EOYBookValue>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>PAYABLE TO PROJECT SPONSOR</Description>
+        <BOYBookValue>56812</BOYBookValue>
+        <EOYBookValue>56812</EOYBookValue>
+      </OtherLiabilities>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFees>
+        <Category>Management Fees</Category>
+        <Amount>13872</Amount>
+        <NetInvestmentIncome>12</NetInvestmentIncome>
+        <AdjustedNetIncome>3238</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>10622</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+  </ReturnData>
+</Return>

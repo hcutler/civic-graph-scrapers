@@ -1,0 +1,554 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-17T11:15:06-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-08-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>TAX AND BUSINESS SERVICES</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>593 5TH ST W</AddressLine1>
+        <City>SONOMA</City>
+        <State>CA</State>
+        <ZIPCode>954766831</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-09-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>460428001</EIN>
+      <Name>
+        <BusinessNameLine1>MAYCLIN FOUNDATION CHARITABLE TRUST</BusinessNameLine1>
+      </Name>
+      <NameControl>MAYC</NameControl>
+      <Phone>7079969798</Phone>
+      <USAddress>
+        <AddressLine1>593 FIFTH ST W</AddressLine1>
+        <City>SONOMA</City>
+        <State>CA</State>
+        <ZIPCode>95476</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>TIM MAYCLIN</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>7079969798</Phone>
+      <DateSigned>2011-02-17</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>TIMOTHY J MAYCLIN CPA</Name>
+      <Phone>7079969798</Phone>
+      <DatePrepared>2011-02-17</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="3">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>8499</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>18</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>18</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>18</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="RetDoc2">-8</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>1000</GrossSalesPrice>
+        <TotalRevenueAndExpenses>10</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>18</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>18</TotalAdjustedNetIncome>
+        <TotOprExpensesRevAndExpnss>0</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>1000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>1000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>1000</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>1000</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-990</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>18</NetInvestmentIncome>
+        <AdjustedNetIncome>18</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <InvestmentsOtherBOY>8969</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc3">7979</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>8499</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>8969</TotalAssetsBOY>
+        <TotalAssetsEOY>7979</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>8499</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>8969</UnrestrictedBOY>
+        <UnrestrictedEOY>7979</UnrestrictedEOY>
+        <TotalNetAssetsBOY>8969</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>7979</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>8969</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>7979</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>8969</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-990</ExcessOfRevenueOverExpenses>
+        <Subtotal>7979</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>7979</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>995</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>8382</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.118707</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>985</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>11845</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.083157</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>990</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>12753</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.077629</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>800</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>11745</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.068114</DistributionRatioYear4>
+        <NoncharitableAssetsYear5>9718</NoncharitableAssetsYear5>
+        <TotalDistributionRatio>0.347607</TotalDistributionRatio>
+        <AverageDistributionRatio>0.086902</AverageDistributionRatio>
+        <NetNoncharitableAssets>9449</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>821</AdjustedNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>821</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>1000</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>TIMOTHY J MAYCLIN CPA</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>7079969798</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>593 FIFTH ST W</AddressLine1>
+          <City>SONOMA</City>
+          <State>CA</State>
+          <ZIPCode>95476</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JEANNE BERG</PersonName>
+          <USAddress>
+            <AddressLine1>1229 SHADOW RIDGE CROSSING</AddressLine1>
+            <City>FALLON</City>
+            <State>IL</State>
+            <ZIPCode>62269</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JERI CULBERTSON</PersonName>
+          <USAddress>
+            <AddressLine1>1702 E HWY 44 189</AddressLine1>
+            <City>RAPID CITY</City>
+            <State>SD</State>
+            <ZIPCode>57703</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ANNA MAYCLIN</PersonName>
+          <USAddress>
+            <AddressLine1>207 N LIESER RD APT W307</AddressLine1>
+            <City>VANCOUVER</City>
+            <State>WA</State>
+            <ZIPCode>98664</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DAN MAYCLIN</PersonName>
+          <USAddress>
+            <AddressLine1>101 MOSS LANE</AddressLine1>
+            <City>SANTA CRUZ</City>
+            <State>CA</State>
+            <ZIPCode>95060</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JAMES H MAYCLIN</PersonName>
+          <USAddress>
+            <AddressLine1>25248 US HIGHWAY 281</AddressLine1>
+            <City>PLANKINTON</City>
+            <State>SD</State>
+            <ZIPCode>57368</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOHN MAYCLIN</PersonName>
+          <USAddress>
+            <AddressLine1>25248 US HIGHWAY 281</AddressLine1>
+            <City>PLANKINTON</City>
+            <State>SD</State>
+            <ZIPCode>57368</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARK S MAYCLIN</PersonName>
+          <USAddress>
+            <AddressLine1>3312 NICKLAUS DR</AddressLine1>
+            <City>RAPID CITY</City>
+            <State>SD</State>
+            <ZIPCode>57702</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MELVA MAYCLIN</PersonName>
+          <USAddress>
+            <AddressLine1>13744 FENWICK CIRCLE</AddressLine1>
+            <City>EDEN PRAIRIE</City>
+            <State>MN</State>
+            <ZIPCode>55346</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MICHAEL V MAYCLIN</PersonName>
+          <USAddress>
+            <AddressLine1>702 E PENNINGTON</AddressLine1>
+            <City>PLANKINTON</City>
+            <State>SD</State>
+            <ZIPCode>57368</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MONICA MAYCLIN</PersonName>
+          <USAddress>
+            <AddressLine1>1037 CHATSWORTH ST</AddressLine1>
+            <City>N ST PAUL</City>
+            <State>MN</State>
+            <ZIPCode>55103</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>PATRICK L MAYCLIN</PersonName>
+          <USAddress>
+            <AddressLine1>126 RIPLEY</AddressLine1>
+            <City>SAN FRANCSICO</City>
+            <State>CA</State>
+            <ZIPCode>94110</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>PAUL MAYCLIN</PersonName>
+          <USAddress>
+            <AddressLine1>25250 US HIGHWAY 281</AddressLine1>
+            <City>PLANKINTON</City>
+            <State>SD</State>
+            <ZIPCode>57368</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>SHAWN MAYCLIN</PersonName>
+          <USAddress>
+            <AddressLine1>3312 NICKLAUS DR</AddressLine1>
+            <City>RAPID CITY</City>
+            <State>SD</State>
+            <ZIPCode>57702</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>TIM MAYCLIN</PersonName>
+          <USAddress>
+            <AddressLine1>1416 MATHIAS PL</AddressLine1>
+            <City>ROHNERT PARK</City>
+            <State>CA</State>
+            <ZIPCode>94928</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>TODD MAYCLIN</PersonName>
+          <USAddress>
+            <AddressLine1>8715 NORWOOD LANE</AddressLine1>
+            <City>MAPLE GROVE</City>
+            <State>MN</State>
+            <ZIPCode>55369</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MICHELLE PETERS</PersonName>
+          <USAddress>
+            <AddressLine1>1431 HIAWATHA</AddressLine1>
+            <City>BIG LAKE</City>
+            <State>MN</State>
+            <ZIPCode>55309</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ANGIE PIATT</PersonName>
+          <USAddress>
+            <AddressLine1>7201 WALKER ST 404</AddressLine1>
+            <City>ST LOUIS PARK</City>
+            <State>MN</State>
+            <ZIPCode>55426</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MELANIE QUALLEY</PersonName>
+          <USAddress>
+            <AddressLine1>10540 CAVELL AVE S</AddressLine1>
+            <City>BLOOMINGTON</City>
+            <State>MN</State>
+            <ZIPCode>55438</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DIANA SPINAR</PersonName>
+          <USAddress>
+            <AddressLine1>25258 US HIGHWAY 281</AddressLine1>
+            <City>PLANKINTON</City>
+            <State>SD</State>
+            <ZIPCode>57368</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>9593</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>9593</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>9593</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>144</CashDeemedCharitable>
+        <NetNoncharitableAssets>9449</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>472</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>472</MinimumInvestmentReturn>
+        <DistributableAmountBeforeAdj>472</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>472</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>472</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>1000</ExpensesAndContributions>
+        <QualifyingDistributions>1000</QualifyingDistributions>
+        <AdjQualifyingDistributions>1000</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>472</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear4>233</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>372</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>423</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>586</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>1614</TotalExcessDistriCarryover>
+        <QualifyingDistributions>1000</QualifyingDistributions>
+        <AppliedToCurrentYear>472</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>528</RemainingDistriFromCorpus>
+        <TotalCorpus>2142</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>2142</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>233</ExcessFromYear4>
+        <ExcessFromYear3>372</ExcessFromYear3>
+        <ExcessFromYear2>423</ExcessFromYear2>
+        <ExcessFromYear1>586</ExcessFromYear1>
+        <ExcessFromCurrentYear>528</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>IDA HOFFMAN</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>PLANKINTON HIGH SCHOOL</AddressLine1>
+            <City>PLANKINTON</City>
+            <State>SD</State>
+            <ZIPCode>57368</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>6059427743</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>FORMS AVAILABLE FROM PLANKINTON HIGH SCHOOL</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>APRIL 1</SubmissionDeadlines>
+          <RestrictionsOnAwards>GRADUATE OF PLANKINTON HIGH SCHOOL</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JENNA PRANGLEY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PLANKINTON</AddressLine1>
+            <City>PLANKINTON</City>
+            <State>SD</State>
+            <ZIPCode>57368</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>1000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <RelatedOrExemptFunctionIncome>18</RelatedOrExemptFunctionIncome>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>-8</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>10</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>10</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc2">
+      <GainLossSaleOtherAsset>
+        <Name>51.467 SH JMCVX</Name>
+        <DateAcquired>2005-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-07</DateSold>
+        <GrossSalesPrice>1000</GrossSalesPrice>
+        <Basis>1008</Basis>
+        <TotalNet>-8</TotalNet>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsOtherSchedule2 documentId="RetDoc3">
+      <InvestmentsOther>
+        <CategoryOrItem>MUTUAL FINDS</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>7979</BookValue>
+        <EOYFMV>8499</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+  </ReturnData>
+</Return>

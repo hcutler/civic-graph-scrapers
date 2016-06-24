@@ -1,0 +1,1766 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-09-02T11:36:58-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>HAROLD MC CORMICK CPA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>PO BOX 252</AddressLine1>
+        <City>ROBINSON</City>
+        <State>IL</State>
+        <ZIPCode>624540252</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>376311892</EIN>
+      <Name>
+        <BusinessNameLine1>WALTER F SCHMIDT TRUST TUW</BusinessNameLine1>
+        <BusinessNameLine2>FIRST FINANCIAL BANK NA</BusinessNameLine2>
+      </Name>
+      <NameControl>SCHM</NameControl>
+      <Phone>6185448666</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 540</AddressLine1>
+        <City>TERRE HAUTE</City>
+        <State>IN</State>
+        <ZIPCode>47808</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>ANGELA K FULLER</Name>
+      <Title>TRUST OFFICER</Title>
+      <Phone>6185448666</Phone>
+      <DateSigned>2010-08-06</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>HAROLD MCCORMICK</Name>
+      <Phone>6185448611</Phone>
+      <DatePrepared>2010-09-02</DatePrepared>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="13">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>2057188</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>71953</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>71953</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="RetDoc3">-43190</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>619158</GrossSalesPrice>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc11">787</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>43</OtherIncomeNetInvstIncm>
+        <TotalRevenueAndExpenses>29550</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>71996</TotalNetInvestmentIncome>
+        <LegalFeesRevAndExpnss referenceDocumentId="RetDoc8">760</LegalFeesRevAndExpnss>
+        <LegalFeesDsbrsChrtblPrps>760</LegalFeesDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">2200</AccountingFeesRevAndExpnss>
+        <AccountingFeesDsbrsChrtblPrps>2200</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc12">11278</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>6767</OtherProfFeesNetInvstIncm>
+        <OtherProfFeesDsbrsChrtblPrps>4511</OtherProfFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc13">679</TaxesRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc10">629</OtherExpensesRevAndExpnss>
+        <OtherExpensesDsbrsChrtblPrps>629</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>15546</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>6767</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>8100</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>65350</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>65350</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>80896</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>6767</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>73450</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-51346</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>65229</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>259868</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>257354</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>257354</SavingsAndTempCashInvstEOYFMV>
+        <PrepaidExpensesEOY>43</PrepaidExpensesEOY>
+        <PrepaidExpensesEOYFMV>43</PrepaidExpensesEOYFMV>
+        <InvestmentsGovtObligBOY>300480</InvestmentsGovtObligBOY>
+        <InvestmentsGovtObligEOY referenceDocumentId="RetDoc6">500200</InvestmentsGovtObligEOY>
+        <InvestmentsGovtObligEOYFMV>505252</InvestmentsGovtObligEOYFMV>
+        <InvestmentsCorpStockBOY>162689</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc5">165122</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>142288</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>702680</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="RetDoc4">632628</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>1152199</InvestmentsCorpBondsEOYFMV>
+        <InvestmentsOtherBOY>180976</InvestmentsOtherBOY>
+        <OtherAssetsBOY referenceDocumentId="RetDoc9">52</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId="RetDoc9">52</OtherAssetsEOY>
+        <OtherAssetsEOYFMV referenceDocumentId="RetDoc9">52</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>1606745</TotalAssetsBOY>
+        <TotalAssetsEOY>1555399</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>2057188</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>1606745</CapitalStockBOY>
+        <CapitalStockEOY>1555399</CapitalStockEOY>
+        <TotalNetAssetsBOY>1606745</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>1555399</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>1606745</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>1555399</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>1606745</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-51346</ExcessOfRevenueOverExpenses>
+        <Subtotal>1555399</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>1555399</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>86413</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>1473931</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.058628</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>87660</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>1625693</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.053922</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>80549</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>1632145</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.049352</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>90354</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>1620438</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.055759</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>80445</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>1646071</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.048871</DistributionRatioYear5>
+        <TotalDistributionRatio>0.266532</TotalDistributionRatio>
+        <AverageDistributionRatio>0.053306</AverageDistributionRatio>
+        <NetNoncharitableAssets>1540408</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>82113</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>652</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>82765</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>73450</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>1305</InvestmentIncomeExciseTax>
+        <Subtotal>1305</Subtotal>
+        <TaxBasedOnInvestmentIncome>1305</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>820</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>820</TotalCreditsAndPayments>
+        <TaxDue>485</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>IL</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>FIRST FINANCIAL BANK</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>6185448666</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>PO BOX 540</AddressLine1>
+          <City>TERRE HAUTE</City>
+          <State>IN</State>
+          <ZIPCode>47808</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ELIZABETH B SCHMIDT</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 8640</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </USAddress>
+          <Title>COMMITTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>WILLIAM TERRY SCHMIDT</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 8640</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </USAddress>
+          <Title>COMMITTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>SCHOLARSHIPS TO STUDENTS OF LINCOLN TRAIL COLLEGE,97 STUDENTS SERVED</Description1>
+        <Expenses1>65350</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>1387350</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>176516</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>1563866</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>1563866</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>23458</CashDeemedCharitable>
+        <NetNoncharitableAssets>1540408</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>77020</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>77020</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>1305</TaxBasedOnInvestmentIncome>
+        <TotalTax>1305</TotalTax>
+        <DistributableAmountBeforeAdj>75715</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>75715</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>75715</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>73450</ExpensesAndContributions>
+        <QualifyingDistributions>73450</QualifyingDistributions>
+        <AdjQualifyingDistributions>73450</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>75715</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>16141</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>11048</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>680</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>8285</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>14354</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>50508</TotalExcessDistriCarryover>
+        <QualifyingDistributions>73450</QualifyingDistributions>
+        <AppliedToCurrentYear>73450</AppliedToCurrentYear>
+        <ExcessDistriCyovAppCYCorpus>2265</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>2265</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>48243</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>13876</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>34367</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>11048</ExcessFromYear4>
+        <ExcessFromYear3>680</ExcessFromYear3>
+        <ExcessFromYear2>8285</ExcessFromYear2>
+        <ExcessFromYear1>14354</ExcessFromYear1>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>FIRST FINANCIAL BANK TRUST DEPT</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 540</AddressLine1>
+            <City>TERRE HAUTE</City>
+            <State>IN</State>
+            <ZIPCode>47808</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>6185448666</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>COPY OF APPLICATION ATTACHED</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>JULY 15TH</SubmissionDeadlines>
+          <RestrictionsOnAwards>STUDENT MUST BE A CRAWFORD COUNTY HIGH SCHOOL GRADUATE AND MUST BE ENROLLED FULL TIME AT LINCOLN TRAIL COLLEGE</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WILLIAM BENJAMIN ACKMAN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>13876 EAST WILLIS DRIVE</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>1152</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MADELYN MARIE BALDNER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1245 NORTH 1900TH ST</AddressLine1>
+            <City>FLAT ROCK</City>
+            <State>IL</State>
+            <ZIPCode>62427</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>517</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ETHAN J BLANKENBEKER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>206 SOUTH MAIN ST</AddressLine1>
+            <City>WEST UNION</City>
+            <State>IL</State>
+            <ZIPCode>62477</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>507</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NICHOLAS WAYNE BOLDREY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>8479 NORTH 2250TH ST</AddressLine1>
+            <City>OBLONG</City>
+            <State>IL</State>
+            <ZIPCode>62449</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>392</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ZACHARY EUGENE BOOKER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4753 EAST 900TH AVE</AddressLine1>
+            <City>OBLONG</City>
+            <State>IL</State>
+            <ZIPCode>62449</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>1494</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LEVI J BRUSH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>315 WEST BROADWAY</AddressLine1>
+            <City>WEST UNION</City>
+            <State>IL</State>
+            <ZIPCode>62477</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>1151</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KATHERINE BURBANK</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>14037 EAST 1425TH AVE</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>1395</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SAMANTHA BYRLEY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 102</AddressLine1>
+            <City>STOY</City>
+            <State>IL</State>
+            <ZIPCode>62464</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>470</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LAUREN MARIE CHAPMAN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>8313 NORTH 1000TH ST</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>543</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ROSS CHIASSON</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>10407 EAST 900TH AVE</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>419</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHELSEA JANE CONNELLY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1602 FAIRBANKS ST</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>549</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AMY MARIE COPELAND</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>302 NORTH GRANT ST</AddressLine1>
+            <City>OBLONG</City>
+            <State>IL</State>
+            <ZIPCode>62449</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>1428</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CODY JAMES CORNWELL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>903 NORTH FRANKLIN ST</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>641</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BRITTANY MAUDE COULTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>601 SOUTH RANGE</AddressLine1>
+            <City>OBLONG</City>
+            <State>IL</State>
+            <ZIPCode>62449</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>653</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WHITNEY NICOLE COWDREY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>14562 NORTH 800TH ST</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>421</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KILEY CREED</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>9729 NORTH 1710TH ST</AddressLine1>
+            <City>PALESTINE</City>
+            <State>IL</State>
+            <ZIPCode>62451</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>549</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MICHAEL ANTHONY CUMMINS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1011 SOUTH JONES ST</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>422</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LEVI DANE CUPP</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5031 EAST 375TH AVE</AddressLine1>
+            <City>OBLONG</City>
+            <State>IL</State>
+            <ZIPCode>62449</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>478</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KAITLIN MARIE DART</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4438 EST 1600TH AVE</AddressLine1>
+            <City>OBLONG</City>
+            <State>IL</State>
+            <ZIPCode>62449</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>477</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WILLIAM MATTHEW DICKEY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>400 EAST LAMOTTE ST</AddressLine1>
+            <City>PALESTINE</City>
+            <State>IL</State>
+            <ZIPCode>62451</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>527</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>RYAN VICTOR EUBANK</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1617 SOUTH CROSS ST</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>628</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JONATHON DAVID FRENDO</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1502 NORTH COUNTRYVIEW LA</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>1050</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHRISTOPHER RYAN FULLING</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>604 SOUTH FRANKLIN</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>414</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CORTNEY SUE GRAHAM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>10446 EAST 775TH AVE APT</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>137</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LOGAN MICHAEL GREEN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>108 EAST CHESTNUT ST</AddressLine1>
+            <City>FLAT ROCK</City>
+            <State>IL</State>
+            <ZIPCode>62427</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>631</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SHANE M GREEN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>108 EAST CHESTNUT ST</AddressLine1>
+            <City>FLAT ROCK</City>
+            <State>IL</State>
+            <ZIPCode>62427</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS</PurposeOfGrantOrContribution>
+          <Amount>155</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHRISTOPHER JOHN GRIMM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 8507</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>1303</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ERYN MALYN HASTY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>10406 NORTH SACRAMENTO DR</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>909</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KRISTA MICHELLE HATFIELD</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>9751 EAST 600TH AVE</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>480</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DANIELLE MARIE HATTEN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1703 NORTH LINCOLN ST</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>719</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JESSICA ANN HELDEBRANDT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>401 WEST MARKET ST</AddressLine1>
+            <City>PALESTINE</City>
+            <State>IL</State>
+            <ZIPCode>62451</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>606</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JESSICA JO HELEINE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4003 NORTH 1830TH ST</AddressLine1>
+            <City>WEST UNION</City>
+            <State>IL</State>
+            <ZIPCode>62477</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>1180</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ETHAN GRANT HOLSCHER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>19106 EAST 550TH AVE</AddressLine1>
+            <City>PALESTINE</City>
+            <State>IL</State>
+            <ZIPCode>62451</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>234</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GAGE ROBERT HOUSER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1504 SOUTH PARK ST</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>422</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LISA JACOBS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>505 WEST HOLLY ST</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>392</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KATIE BROOKE JONES</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>902 NORTH ARGUS ST</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>484</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KAYLA SUE KENT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>19526 EAST 175TH AVE</AddressLine1>
+            <City>FLAT ROCK</City>
+            <State>IL</State>
+            <ZIPCode>62427</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>135</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JESSICA MARIE KINTNER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1605 NORTH JOHNSON ST</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>869</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TRAVIS JORDAN KNOBLETT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1006 SOUTH JACKSON ST</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>654</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TUCKER Q KNOBLETT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>203 WEST UPDIKE ST</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>964</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHRISTOPHER MICHAEL KURTZ</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>403 FIRST STREET</AddressLine1>
+            <City>FLAT ROCK</City>
+            <State>IL</State>
+            <ZIPCode>62427</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>460</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ANGELA LYNN LAWHEAD</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>9342 EST 900TH AVE</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>612</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TRACY BROOKE LOUDERMILK</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>604 NORTH ROBB ST</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>721</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MICHELLE EILEEN LUM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>706 WEST DIANE COURT</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>973</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ASHLEY ANN MCCOY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>10923 EAST 300TH AVE</AddressLine1>
+            <City>FLAT ROCK</City>
+            <State>IL</State>
+            <ZIPCode>62427</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>286</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JARED S MCDANIEL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1606 NORTH TRUMAN ST</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>847</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DUNCAN EBERETT MCELROY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3812 NORTH 575TH STREET</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>479</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MOLLY MARIE MENDENHALL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>504 SOUTH HIGH STREET</AddressLine1>
+            <City>HUTSONVILLE</City>
+            <State>IL</State>
+            <ZIPCode>62433</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS</PurposeOfGrantOrContribution>
+          <Amount>1</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JACOB MIDGETT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>12875 EAST 375TH AVE</AddressLine1>
+            <City>FLAT ROCK</City>
+            <State>IL</State>
+            <ZIPCode>62427</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>496</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TINA NICOLE MIDGETT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>905 WEST MAGNOLIA ST</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>1034</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TONYA LEANN MIDGETT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>11754 NORTH 2200TH ST</AddressLine1>
+            <City>WILLOW HILL</City>
+            <State>IL</State>
+            <ZIPCode>62480</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>390</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KENZIE LEIGH MIKEWORTH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>7903 NORTH 1200TH ST</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>995</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DAVID ANTHONY MILAM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>205 EAST CHERRY</AddressLine1>
+            <City>HUTSONVILLE</City>
+            <State>IL</State>
+            <ZIPCode>62427</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>345</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BRENT A MILLER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1206 WEST CHERRY ST</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>1375</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BRANDT A MITCHELL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1406 NORTH JACKSON ST</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>442</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AMY LYNN MODEN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4187 EAST 1050TH AVE</AddressLine1>
+            <City>OBLONG</City>
+            <State>IL</State>
+            <ZIPCode>62449</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>577</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DENISE DIANE MONAN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>16997 NORTH 1550TH ST</AddressLine1>
+            <City>HUTSONVILLE</City>
+            <State>IL</State>
+            <ZIPCode>62433</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>621</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AMY N MURRAY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2839 NORTH 1150TH ST</AddressLine1>
+            <City>FLAT ROCK</City>
+            <State>IL</State>
+            <ZIPCode>62427</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>1288</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BROOKE ANNE MURRAY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>13891 EAST WILLIS DRIVE</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>525</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BROOKE ERIN MURRAY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>103 NORTH RUSH ST</AddressLine1>
+            <City>PALESTINE</City>
+            <State>IL</State>
+            <ZIPCode>62451</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>691</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SHELLY NICOLE MUSGRAVE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3500 EAST 1750TH AVE</AddressLine1>
+            <City>ANNAPOLIS</City>
+            <State>IL</State>
+            <ZIPCode>62413</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>647</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ERICA MARIE NETHERY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3632 EAST 1600TH AVE</AddressLine1>
+            <City>OBLONG</City>
+            <State>IL</State>
+            <ZIPCode>62449</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>338</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>REGAN JANE NICKLAUS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>301 EAST BALTIMORE ST</AddressLine1>
+            <City>FLAT ROCK</City>
+            <State>IL</State>
+            <ZIPCode>62427</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>534</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CALEB A NIDEY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>805 WEST HIGHLAND AVE</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>940</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>RONALD EDWARD O'DELL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>417 EAST 2000TH AVE</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>736</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JERAMIE DONALD PATTON</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>406 WEST LOCUST LANE</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>464</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KRISTI MICHELE PLEASANT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>7938 EAST 1616 AVE</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>708</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AMANDA LYNN PLUNKETT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>207 WEST ILLINOIS ST</AddressLine1>
+            <City>OBLONG</City>
+            <State>IL</State>
+            <ZIPCode>62449</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>242</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KAYCEE JEAN POORMAN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>18819 EAST 300TH RD</AddressLine1>
+            <City>WEST UNION</City>
+            <State>IL</State>
+            <ZIPCode>62477</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>458</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CASSANDRA R RAINS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>8207 EAST 1700TH AVE</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>793</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JOSHUA MARLIN RIGGS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>16562 NORTH STATE HIGHWAY</AddressLine1>
+            <City>HUTSONVILLE</City>
+            <State>IL</State>
+            <ZIPCode>62433</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>591</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JORDAN ALEXANDER ROBERTS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>406 NORTH LOYLAND DR</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>516</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BARBARA JOFONSINA SCHMIDT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 135</AddressLine1>
+            <City>ANNAPOLIS</City>
+            <State>IL</State>
+            <ZIPCode>62413</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>474</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CORY ROBERT SCHROEDER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>15688 NORTH 700TH ST</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>1295</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MARLENE ROSE SCOTT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>18437 EAST 425TH AVE</AddressLine1>
+            <City>PALESTINE</City>
+            <State>IL</State>
+            <ZIPCode>62451</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>522</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JERMEY RYAN SILER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3720 NORTH 1000TH ST</AddressLine1>
+            <City>FLAT ROCK</City>
+            <State>IL</State>
+            <ZIPCode>62427</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>1289</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHELSEA LYNNE SISIL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>6234 EAST 950TH AVE</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>451</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SAMANTHA ROSE SNYDER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>10824 EAST 900TH AVE</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>493</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KAYCEE ELLEN SPINNER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5235 NORTH 2150TH ST</AddressLine1>
+            <City>PALESTINE</City>
+            <State>IL</State>
+            <ZIPCode>62451</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>1047</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JENNIFER JAE STEPHENS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>11313 NORTH 725TH ST</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>1044</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DILLON MICHAEL STONE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>11857 EAST 625TH AVE</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>1103</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>RANDY L STROHM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>13375 EAST 1250TH AVE</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>622</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JESSE ALLEN STURM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>20501 NORTH 625TH ST</AddressLine1>
+            <City>ANNAPOLIS</City>
+            <State>IL</State>
+            <ZIPCode>62413</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>338</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>STEPHANIE LYNN TANNER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>409 NORTH RANGE ST</AddressLine1>
+            <City>OBLONG</City>
+            <State>IL</State>
+            <ZIPCode>62449</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>879</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KAILEY KATHLIN TRACY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>504 MISSION DRIVE</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>426</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JAMEE MARIE TUTTLE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2984 EAST 1800TH AVE</AddressLine1>
+            <City>ANNAPOLIS</City>
+            <State>IL</State>
+            <ZIPCode>62413</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>1183</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TIERRA ANN TUTTLE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>21219 NORTH 1125TH ST</AddressLine1>
+            <City>WEST YORK</City>
+            <State>IL</State>
+            <ZIPCode>62478</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>691</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BROOKE ERYNN WAGGONER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>10750 NORTH 800TH ST</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS</PurposeOfGrantOrContribution>
+          <Amount>146</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BRITTNEY MICHELLE WALTON</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1104 NORTH CROSS ST</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>1263</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MYKA M WAMPLER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1205 NORTH MADISON ST</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>1088</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ETHAN COLE WEBSTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>503 WEST PORTER ST</AddressLine1>
+            <City>PALESTINE</City>
+            <State>IL</State>
+            <ZIPCode>62451</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>375</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ASHLEY NICOLE WEGER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>400 WEST MARKET ST</AddressLine1>
+            <City>PALESTINE</City>
+            <State>IL</State>
+            <ZIPCode>62451</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>1002</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AIMEE DEANNE WESNER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>301 WEST 2ND ST</AddressLine1>
+            <City>FLAT ROCK</City>
+            <State>IL</State>
+            <ZIPCode>62427</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>534</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KATHERINE JO WILKIN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>503 EAST NEBRASKA ST</AddressLine1>
+            <City>OBLONG</City>
+            <State>IL</State>
+            <ZIPCode>62449</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>559</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DUSTIN M WISEMAN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>8580 NORTH 1100TH ST</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>1244</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>EVELYN MARIE WISEMAN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>902 EAST WILKIN ST</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>350</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MARSHA ASHLEY WRIGHT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>7848 EAST WILDWOOD LANE</AddressLine1>
+            <City>ROBINSON</City>
+            <State>IL</State>
+            <ZIPCode>62454</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>BOOKS, TUTITION, FEES</PurposeOfGrantOrContribution>
+          <Amount>256</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>65350</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>71953</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>-43190</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <OtherRevenueDescribed>
+          <Description>ROYALTY INCOME</Description>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>43</ExclusionAmount>
+        </OtherRevenueDescribed>
+        <OtherRevenueDescribed>
+          <Description>PRIOR SCHOLARSHIPS RETURNED</Description>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>744</ExclusionAmount>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>72740</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>-43190</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>29550</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>2200</Amount>
+        <DisbursementsCharitablePrps>2200</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc3">
+      <GainLossSaleOtherAsset>
+        <Name>FIRST FINANCIAL BANK CD 2.97</Name>
+        <DateAcquired>2009-01</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-08</DateSold>
+        <GrossSalesPrice>91338</GrossSalesPrice>
+        <Basis>91338</Basis>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>FED HOME MTG ASSN 5.80</Name>
+        <DateAcquired>2007-05</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-09</DateSold>
+        <GrossSalesPrice>100000</GrossSalesPrice>
+        <Basis>100450</Basis>
+        <TotalNet>-450</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>CIT GROUP INC 6.20</Name>
+        <DateAcquired>2003-02</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-10</DateSold>
+        <GrossSalesPrice>57200</GrossSalesPrice>
+        <Basis>100030</Basis>
+        <TotalNet>-42830</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>FIRST FINANCIAL BANK 2.48</Name>
+        <DateAcquired>2009-02</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-11</DateSold>
+        <GrossSalesPrice>50620</GrossSalesPrice>
+        <Basis>50620</Basis>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>FED NATL MTG ASSN 5.50</Name>
+        <DateAcquired>2004-01</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-05</DateSold>
+        <GrossSalesPrice>100000</GrossSalesPrice>
+        <Basis>100030</Basis>
+        <TotalNet>-30</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>FED HOM LOAN MTG CORP 4.125</Name>
+        <DateAcquired>2010-02</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-05</DateSold>
+        <GrossSalesPrice>80000</GrossSalesPrice>
+        <Basis>79880</Basis>
+        <TotalNet>120</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>FED HOME LOAN MTG CORP 4.0</Name>
+        <DateAcquired>2009-05</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-06</DateSold>
+        <GrossSalesPrice>100000</GrossSalesPrice>
+        <Basis>100000</Basis>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>FIRST FINANCIAL BANK CD 2.23</Name>
+        <DateAcquired>2009-05</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-06</DateSold>
+        <GrossSalesPrice>40000</GrossSalesPrice>
+        <Basis>40000</Basis>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc4">
+      <InvestmentsCorpBonds>
+        <NameOfBond>CORPORATE BONDS</NameOfBond>
+        <EOYBookValue>632628</EOYBookValue>
+        <EOYFMV>1152199</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc5">
+      <InvestmentsCorpStock>
+        <NameOfStock>MUTUAL FUNDS</NameOfStock>
+        <EOYBookValue>111943</EOYBookValue>
+        <EOYFMV>96125</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>COMMON STOCK</NameOfStock>
+        <EOYBookValue>8771</EOYBookValue>
+        <EOYFMV>4754</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>INTERNATIONAL EQUITY FUNDS</NameOfStock>
+        <EOYBookValue>44408</EOYBookValue>
+        <EOYFMV>41409</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="RetDoc6">
+      <USGovtSecuritiesEOYBookValue>500200</USGovtSecuritiesEOYBookValue>
+      <USGovtSecuritiesEOYFMV>505252</USGovtSecuritiesEOYFMV>
+    </InvestmentsGovtObligationsSch>
+    <InvestmentsOtherSchedule2 documentId="RetDoc7">
+      <InvestmentsOther>
+        <CategoryOrItem>BANK CERTIFICATE OF DEPOSIT</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <LegalFeesSchedule documentId="RetDoc8">
+      <LegalFees>
+        <Category>ATTORNEY FEES</Category>
+        <Amount>760</Amount>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="RetDoc9">
+      <OtherAssets>
+        <Description>MINERAL INTEREST</Description>
+        <BOYBookValue>52</BOYBookValue>
+        <EOYBookValue>52</EOYBookValue>
+        <EOYFMV>52</EOYFMV>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="RetDoc10">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>ADVERTISING</Description>
+        <RevenueAndExpensesPerBooks>614</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>614</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>ILLINOIS FILING FEE</Description>
+        <RevenueAndExpensesPerBooks>15</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>15</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc11">
+      <OtherIncome>
+        <Description>ROYALTY INCOME</Description>
+        <RevenueAndExpensesPerBooks>43</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>43</NetInvestmentIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>PRIOR SCHOLARSHIPS RETURNED</Description>
+        <RevenueAndExpensesPerBooks>744</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="RetDoc12">
+      <OtherProfessionalFees>
+        <Category>TRUSTEE FEES</Category>
+        <Amount>11278</Amount>
+        <NetInvestmentIncome>6767</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>4511</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc13">
+      <Taxes>
+        <Category>EXCISE TAX ON INVESTMENT INCOME</Category>
+        <Amount>679</Amount>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

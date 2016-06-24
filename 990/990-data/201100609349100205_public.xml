@@ -1,0 +1,776 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-03-01T13:37:42-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>CALER DONTEN LEVINE ET AL PA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>505 SOUTH FLAGLER DR 900</AddressLine1>
+        <City>WEST PALM BEACH</City>
+        <State>FL</State>
+        <ZIPCode>334015948</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>593481631</EIN>
+      <Name>
+        <BusinessNameLine1>STEVEN &amp;AMP KIKI ESRICK DREAM FOUNDATIONIN</BusinessNameLine1>
+      </Name>
+      <NameControl>STEV</NameControl>
+      <Phone>9706181117</Phone>
+      <USAddress>
+        <AddressLine1>756 HARBOUR ISLES COURT</AddressLine1>
+        <City>NORTH PALM BEACH</City>
+        <State>FL</State>
+        <ZIPCode>33410</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>STEVEN ESRICK</Name>
+      <Title>DIRECTOR</Title>
+      <Phone>9706181117</Phone>
+      <DateSigned>2011-02-25</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>JOEL H LEVINE</Name>
+      <Phone>5618329292</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="4">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>373361</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>1</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>1</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>13709</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>13709</DividendsNetInvstIncm>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>13710</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>13710</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">500</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>250</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>250</AccountingFeesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>500</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>250</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>250</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>98615</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>98615</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>99115</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>250</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>98865</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-85405</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>13460</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>95175</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>31770</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>31770</SavingsAndTempCashInvstEOYFMV>
+        <PrepaidExpensesBOY>35</PrepaidExpensesBOY>
+        <PrepaidExpensesEOY>35</PrepaidExpensesEOY>
+        <PrepaidExpensesEOYFMV>35</PrepaidExpensesEOYFMV>
+        <InvestmentsCorpStockBOY>349361</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2018900001">349361</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>341556</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>444571</TotalAssetsBOY>
+        <TotalAssetsEOY>381166</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>373361</TotalAssetsEOYFMV>
+        <OtherLiabilitiesBOY referenceDocumentId="RetDoc2065700001">0</OtherLiabilitiesBOY>
+        <OtherLiabilitiesEOY referenceDocumentId="RetDoc2065700001">22000</OtherLiabilitiesEOY>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>22000</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>444571</UnrestrictedBOY>
+        <UnrestrictedEOY>359166</UnrestrictedEOY>
+        <TotalNetAssetsBOY>444571</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>359166</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>444571</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>381166</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>444571</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-85405</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>359166</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>359166</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>45350</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>395802</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.114577</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>58279</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>480739</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.121228</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>162573</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>665193</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.244400</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>212011</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>642243</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.330110</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>145567</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>759399</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.191687</DistributionRatioYear5>
+        <TotalDistributionRatio>1.002002</TotalDistributionRatio>
+        <AverageDistributionRatio>0.200400</AverageDistributionRatio>
+        <NetNoncharitableAssets>357816</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>71706</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>135</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>71841</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>98865</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>135</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>135</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>135</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>431</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>431</TotalCreditsAndPayments>
+        <Overpayment>296</Overpayment>
+        <AmountCreditedToNextYear>296</AmountCreditedToNextYear>
+        <AmountToBeRefunded>0</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>CO</StatesFiledWith>
+        <StatesFiledWith>FL</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>THE FOUNDATION</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>9706181117</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>756 HARBOUR ISLES COURT</AddressLine1>
+          <City>NORTH PALM BEACH</City>
+          <State>FL</State>
+          <ZIPCode>33410</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>0</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>STEVEN M ESRICK</PersonName>
+          <USAddress>
+            <AddressLine1>756 HARBOUR ISLES COURT</AddressLine1>
+            <City>NORTH PALM BEACH</City>
+            <State>FL</State>
+            <ZIPCode>33410</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ANNA K ESRICK</PersonName>
+          <USAddress>
+            <AddressLine1>756 HARBOUR ISLES COURT</AddressLine1>
+            <City>NORTH PALM BEACH</City>
+            <State>FL</State>
+            <ZIPCode>33410</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOAN L ESRICK</PersonName>
+          <USAddress>
+            <AddressLine1>756 HARBOUR ISLES COURT</AddressLine1>
+            <City>NORTH PALM BEACH</City>
+            <State>FL</State>
+            <ZIPCode>33410</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>313350</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>49915</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>363265</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>363265</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>5449</CashDeemedCharitable>
+        <NetNoncharitableAssets>357816</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>17891</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>17891</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>135</TaxBasedOnInvestmentIncome>
+        <TotalTax>135</TotalTax>
+        <DistributableAmountBeforeAdj>17756</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>17756</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>17756</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>98865</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>98865</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>135</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>98730</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>17756</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear5>108331</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>180943</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>130335</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>34588</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>25818</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>480015</TotalExcessDistriCarryover>
+        <QualifyingDistributions>98865</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>17756</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>81109</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>561124</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>108331</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>452793</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>180943</ExcessFromYear4>
+        <ExcessFromYear3>130335</ExcessFromYear3>
+        <ExcessFromYear2>34588</ExcessFromYear2>
+        <ExcessFromYear1>25818</ExcessFromYear1>
+        <ExcessFromCurrentYear>81109</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>STEVEN M ESRICK</ContributingManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>ANNA K ESRICK</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>756 HARBOUR ISLES COURT</AddressLine1>
+            <City>NORTH PALM BEACH</City>
+            <State>FL</State>
+            <ZIPCode>33410</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>9706181117</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>WRITTEN FORM INCLUDING THE PURPOSE OF THE SCHOLARSHIP, GRANT, ECT.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>NONE</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ACCELERATED BRAIN CANCER CURE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1717 RHODE ISLAND AVENUE NW SUITE</AddressLine1>
+            <AddressLine2>700</AddressLine2>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20036</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR GENERAL PURPOSES</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ACH FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1 CHILDRENS WAY</AddressLine1>
+            <City>LITTLE ROCK</City>
+            <State>AR</State>
+            <ZIPCode>72202</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR GENERAL PURPOSES</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AMERICAN RED CROSS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 4002018</AddressLine1>
+            <City>DES MOINES</City>
+            <State>IA</State>
+            <ZIPCode>50340</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR GENERAL PURPOSES</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ASPEN CAMP OF THE DEAF</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4862 SNOWMASS CREEK ROAD</AddressLine1>
+            <City>SNOWMASS</City>
+            <State>CO</State>
+            <ZIPCode>81654</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR GENERAL PURPOSES</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ASPEN JUNIOR GOLF</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 3273</AddressLine1>
+            <City>ASPEN</City>
+            <State>CO</State>
+            <ZIPCode>81612</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR GENERAL PURPOSES</PurposeOfGrantOrContribution>
+          <Amount>8000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AVON OLD FARM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>500 OLD FARMS ROAD</AddressLine1>
+            <City>AVON</City>
+            <State>CT</State>
+            <ZIPCode>06001</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR GENERAL PURPOSES</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BB LIMBS FOR LIFE FND</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5929 N MAY SUITE 511</AddressLine1>
+            <City>OKLAHOMA</City>
+            <State>OK</State>
+            <ZIPCode>73112</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR GENERAL PURPOSES</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CLOTHES FOR KIDS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1059 N HERCULES AVENUE</AddressLine1>
+            <City>CLEARWATER</City>
+            <State>FL</State>
+            <ZIPCode>33765</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR GENERAL PURPOSES</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CROHNS &amp; COLITIS FND</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>21301 POWERLINE RD 301</AddressLine1>
+            <City>BOCA RATON</City>
+            <State>FL</State>
+            <ZIPCode>33433</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR GENERAL PURPOSES</PurposeOfGrantOrContribution>
+          <Amount>8635</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DAMON RUNYON CANCER RESEARCH FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>55 BROADWAY SUITE 302</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10006</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR GENERAL PURPOSES</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>EDUCATE TOMORROW INTERNATIONAL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1717 N BAYSHORE DRIVE 203</AddressLine1>
+            <City>MIAMI</City>
+            <State>FL</State>
+            <ZIPCode>33132</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR GENERAL PURPOSES</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FRIENDS OF THE ASPEN AN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 985</AddressLine1>
+            <City>ASPEN</City>
+            <State>CO</State>
+            <ZIPCode>81612</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR GENERAL PURPOSES</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FRIENDS FOR THE ASPEN SPORTS &amp; RECREATION COMPLEX</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1371</AddressLine1>
+            <City>ASPEN</City>
+            <State>CO</State>
+            <ZIPCode>81612</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR GENERAL PURPOSES</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GREATER MIAMI HILLEL FOUNDATION INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1100 STANFORD DRIVE</AddressLine1>
+            <City>MIAMI</City>
+            <State>FL</State>
+            <ZIPCode>33146</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR GENERAL PURPOSES</PurposeOfGrantOrContribution>
+          <Amount>4380</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GULLIVER SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1500 SAN REMO AVENUE SUITE 420</AddressLine1>
+            <City>CORAL GABLES</City>
+            <State>FL</State>
+            <ZIPCode>33146</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR GENERAL PURPOSES</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HEIDI SENFT HOCKEY SCHOLARSHIP FUND</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>6834 GREEN ISLAND TERRACE</AddressLine1>
+            <City>LAKE WORTH</City>
+            <State>FL</State>
+            <ZIPCode>33463</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR GENERAL PURPOSES</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MAKE A WISH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4742 N 24TH STREET SUITE 400</AddressLine1>
+            <City>PHOENIX</City>
+            <State>AZ</State>
+            <ZIPCode>85016</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR GENERAL PURPOSES</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MENORAH MANOR</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>255 59TH STREET NORTH</AddressLine1>
+            <City>ST PETERSBURG</City>
+            <State>FL</State>
+            <ZIPCode>33710</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR GENERAL PURPOSES</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NATIONAL MULTIPLE SCLEROSIS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3201 WEST COMMERCIAL BLVD 127</AddressLine1>
+            <City>FT LAUDERDALE</City>
+            <State>FL</State>
+            <ZIPCode>33309</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR GENERAL PURPOSES</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>OCEAN'S HEALING GROUP</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 4974</AddressLine1>
+            <City>ASPEN</City>
+            <State>CO</State>
+            <ZIPCode>81612</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR GENERAL PURPOSES</PurposeOfGrantOrContribution>
+          <Amount>4100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PATHFINDERS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4200 NORTH HOLTON STREET SUITE 400</AddressLine1>
+            <City>MILWAUKEE</City>
+            <State>WI</State>
+            <ZIPCode>53212</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR GENERAL PURPOSES</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ASPEN VALLEY MEDICAL FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1639</AddressLine1>
+            <City>ASPEN</City>
+            <State>CO</State>
+            <ZIPCode>81612</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR GENERAL PURPOSES</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SHINING STARS FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 730</AddressLine1>
+            <City>TABERNASH</City>
+            <State>CO</State>
+            <ZIPCode>80478</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR GENERAL PURPOSES</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SECOND CHANCE FOR STRAYS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 5032</AddressLine1>
+            <City>CLEARWATER</City>
+            <State>FL</State>
+            <ZIPCode>33758</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR GENERAL PURPOSES</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TEMPLE BETH EL ART FESTIVAL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>400 PASADENA AVENUE SOUTH</AddressLine1>
+            <City>ST PETERSBURG</City>
+            <State>FL</State>
+            <ZIPCode>33707</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR GENERAL PURPOSES</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE NATURE CONSERVANCY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4245 N FAIRFAX DRIVE SUITE 100</AddressLine1>
+            <City>ARLINGTON</City>
+            <State>VA</State>
+            <ZIPCode>22203</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOR GENERAL PURPOSES</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>98615</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>1</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>13709</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>13710</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>13710</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>500</Amount>
+        <NetInvestmentIncome>250</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>250</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorpStock>
+        <NameOfStock>PAYCHEX STOCK</NameOfStock>
+        <EOYBookValue>349361</EOYBookValue>
+        <EOYFMV>341556</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherLiabilitiesSchedule documentId="RetDoc2065700001">
+      <OtherLiabilities>
+        <Description>CREDIT CARD LIABILITY</Description>
+        <BOYBookValue>0</BOYBookValue>
+        <EOYBookValue>22000</EOYBookValue>
+      </OtherLiabilities>
+    </OtherLiabilitiesSchedule>
+  </ReturnData>
+</Return>

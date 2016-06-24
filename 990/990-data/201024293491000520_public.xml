@@ -1,0 +1,485 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-08-30T12:25:52-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-04-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>CHUCK RINKEY LTD</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>5775 WAYZATA BLVD SUITE 990</AddressLine1>
+        <City>MINNEAPOLIS</City>
+        <State>MN</State>
+        <ZIPCode>554161295</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-05-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>411907227</EIN>
+      <Name>
+        <BusinessNameLine1>RAPPAPORT FAMILY FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>RAPP</NameControl>
+      <Phone>9529312470</Phone>
+      <USAddress>
+        <AddressLine1>11115 EXCELSIOR BLVD</AddressLine1>
+        <City>HOPKINS</City>
+        <State>MN</State>
+        <ZIPCode>55343</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>JON RAPPAPORT</Name>
+      <Title>DIRECTOR</Title>
+      <Phone>9529312470</Phone>
+      <DateSigned>2010-08-24</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>CHUCK RINKEY</Name>
+      <Phone>9525461052</Phone>
+      <DatePrepared>2010-08-30</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="8">
+    <IRS990PF documentId="RetDoc2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>48315</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>25000</ContriReceivedRevAndExpnss>
+        <DividendsRevAndExpnss>809</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>809</DividendsNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc8">76</OtherIncomeRevAndExpnss>
+        <TotalRevenueAndExpenses>25885</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>809</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc3">1600</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>800</AccountingFeesNetInvstIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc7">3577</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>814</OtherExpensesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>5177</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>1614</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>43000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>43000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>48177</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>1614</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>43000</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-22292</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>1076</CashBOY>
+        <CashEOY>2438</CashEOY>
+        <CashEOYFMV>2438</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>13365</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>6440</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>6440</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>62280</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc5">45551</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>39437</InvestmentsCorpStockEOYFMV>
+        <LandBuildingAndEquipmentBasis>5418</LandBuildingAndEquipmentBasis>
+        <AccumDeprecLandBldgAndEquip>5418</AccumDeprecLandBldgAndEquip>
+        <TotalAssetsBOY>76721</TotalAssetsBOY>
+        <TotalAssetsEOY>54429</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>48315</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>76721</RetainedEarningsBOY>
+        <RetainedEarningsEOY>54429</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>76721</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>54429</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>76721</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>54429</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>76721</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-22292</ExcessOfRevenueOverExpenses>
+        <Subtotal>54429</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>54429</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>23480</QualifyingDistributionsYear1>
+        <QualifyingDistributionsYear2>20469</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>121334</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.168700</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>33703</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>140731</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.239485</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>17633</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>160422</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.109916</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>71796</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>191095</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.375708</DistributionRatioYear5>
+        <TotalDistributionRatio>0.893809</TotalDistributionRatio>
+        <AverageDistributionRatio>0.223452</AverageDistributionRatio>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>0</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>43000</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>JON RAPPAPORT</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>9529312470</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>11115 EXCELSIOR BLVD</AddressLine1>
+          <City>HOPKINS</City>
+          <State>MN</State>
+          <ZIPCode>55343</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JON RAPPAPORT</PersonName>
+          <USAddress>
+            <AddressLine1>11115 EXCELSIOR BLVD</AddressLine1>
+            <City>HOPKINS</City>
+            <State>MN</State>
+            <ZIPCode>55343</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DIANE RAPPAPORT</PersonName>
+          <USAddress>
+            <AddressLine1>11115 EXCELSIOR BLVD</AddressLine1>
+            <City>HOPKINS</City>
+            <State>MN</State>
+            <ZIPCode>55343</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>NAOMI RAPPAPORT</PersonName>
+          <USAddress>
+            <AddressLine1>11115 EXCELSIOR BLVD</AddressLine1>
+            <City>HOPKINS</City>
+            <State>MN</State>
+            <ZIPCode>55343</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>SHIRA RAPPAPORT</PersonName>
+          <USAddress>
+            <AddressLine1>11115 EXCELSIOR BLVD</AddressLine1>
+            <City>HOPKINS</City>
+            <State>MN</State>
+            <ZIPCode>55343</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>FRED RAPPAPORT</PersonName>
+          <USAddress>
+            <AddressLine1>11115 EXCELSIOR BLVD</AddressLine1>
+            <City>HOPKINS</City>
+            <State>MN</State>
+            <ZIPCode>55343</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>0</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>0</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>0</CashDeemedCharitable>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>0</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>43000</ExpensesAndContributions>
+        <QualifyingDistributions>43000</QualifyingDistributions>
+        <AdjQualifyingDistributions>43000</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>62289</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>9807</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>26740</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>14402</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>23480</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>136718</TotalExcessDistriCarryover>
+        <QualifyingDistributions>43000</QualifyingDistributions>
+        <RemainingDistriFromCorpus>43000</RemainingDistriFromCorpus>
+        <TotalCorpus>179718</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>62289</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>117429</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>9807</ExcessFromYear4>
+        <ExcessFromYear3>26740</ExcessFromYear3>
+        <ExcessFromYear2>14402</ExcessFromYear2>
+        <ExcessFromYear1>23480</ExcessFromYear1>
+        <ExcessFromCurrentYear>43000</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>JON RAPPAPORT</ContributingManager>
+        <ShareholderManager>NONE</ShareholderManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>JON RAPPAPORT</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>11115 EXCELSIOR BLVD</AddressLine1>
+            <City>HOPKINS</City>
+            <State>MN</State>
+            <ZIPCode>55343</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>9529312470</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>LETTER SETTING FORTH PURPOSE OF GRANT AND AMOUNT REQUESTED.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>ENTITY MUST BE A CHARITABLE, TAX-EXEMPT ORGANIZATION UNDER INTERNAL REVENUE CODE SECTION 501(C).</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>IFP MN FISCAL SPONSORSHIP</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2446 UNIVERSITY AVE W 100</AddressLine1>
+            <City>ST PAUL</City>
+            <State>MN</State>
+            <ZIPCode>55114</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CHARITABLE ACTIVITIES</PurposeOfGrantOrContribution>
+          <Amount>33000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JEWISH FAMILY &amp; CHILDREN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>13100 WAYZATA BLVD</AddressLine1>
+            <City>MINNETONKA</City>
+            <State>MN</State>
+            <ZIPCode>55305</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CHARITABLE ACTIVITIES</PurposeOfGrantOrContribution>
+          <Amount>4780</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>VARIOUS UNDER 200</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>11115 EXCELSIOR BLVD</AddressLine1>
+            <City>HOPKINS</City>
+            <State>MN</State>
+            <ZIPCode>55343</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CHARITABLE ACTIVITIES</PurposeOfGrantOrContribution>
+          <Amount>2220</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SHOLOM COMMUNITY ALLIANCE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3620 PHILLIPS PARKWAY S</AddressLine1>
+            <City>ST LOUIS PARK</City>
+            <State>MN</State>
+            <ZIPCode>55426</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CHARITABLE ACTIVITIES</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HADASSAH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>50 W 58TH STREET</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10019</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CHARITABLE ACTIVITIES</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>43000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>809</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <OtherRevenueDescribed>
+          <Description>OTHER REVENUE</Description>
+          <RelatedOrExemptFunctionIncome>76</RelatedOrExemptFunctionIncome>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>809</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>76</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>885</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>JON RAPPAPORT</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>11115 EXCELSIOR BLVD</AddressLine1>
+          <City>HOPKINS</City>
+          <State>MN</State>
+          <ZIPCode>55343</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>25000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc3">
+      <AccountingFees>
+        <Amount>1600</Amount>
+        <NetInvestmentIncome>800</NetInvestmentIncome>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="RetDoc4">
+      <Depreciation>
+        <DescriptionOfProperty>COMPUTER</DescriptionOfProperty>
+        <DateAcquired>1998-07-27</DateAcquired>
+        <CostOrOtherBasis>2709</CostOrOtherBasis>
+        <PriorYearsDepreciation>2709</PriorYearsDepreciation>
+        <ComputationMethod>200DB</ComputationMethod>
+        <Life>5.0000</Life>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>COMPUTER</DescriptionOfProperty>
+        <DateAcquired>1998-08-18</DateAcquired>
+        <CostOrOtherBasis>2709</CostOrOtherBasis>
+        <PriorYearsDepreciation>2709</PriorYearsDepreciation>
+        <ComputationMethod>200DB</ComputationMethod>
+        <Life>5.0000</Life>
+      </Depreciation>
+    </DepreciationSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc5">
+      <InvestmentsCorpStock>
+        <NameOfStock>STIFEL NICOLAUS BROKERAGE ACCOUNT</NameOfStock>
+        <EOYBookValue>45551</EOYBookValue>
+        <EOYFMV>39437</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <LandEtcSchedule2 documentId="RetDoc6">
+      <LandEtc>
+        <CostOrOtherBasis>5418</CostOrOtherBasis>
+        <AccumulatedDepreciation>5418</AccumulatedDepreciation>
+      </LandEtc>
+    </LandEtcSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc7">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK CHARGES</Description>
+        <RevenueAndExpensesPerBooks>88</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>44</NetInvestmentIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>DUES</Description>
+        <RevenueAndExpensesPerBooks>1925</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>INVESTMENT FEES</Description>
+        <RevenueAndExpensesPerBooks>1539</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>770</NetInvestmentIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MN FILING FEES</Description>
+        <RevenueAndExpensesPerBooks>25</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc8">
+      <OtherIncome>
+        <Description>OTHER REVENUE</Description>
+        <RevenueAndExpensesPerBooks>76</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+  </ReturnData>
+</Return>

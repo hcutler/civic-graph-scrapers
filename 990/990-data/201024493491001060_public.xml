@@ -1,0 +1,415 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-09-01T17:06:56-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>SH BERNSTEIN &amp; ASSOC CPA PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>85 W HAWTHORNE AVE</AddressLine1>
+        <City>VALLEY STREAM</City>
+        <State>NY</State>
+        <ZIPCode>115806107</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>112849212</EIN>
+      <Name>
+        <BusinessNameLine1>ISIDOR WIESBADER FOUNDATION INC</BusinessNameLine1>
+      </Name>
+      <NameControl>ISID</NameControl>
+      <USAddress>
+        <AddressLine1>P O BOX 154</AddressLine1>
+        <City>E ROCKAWAY</City>
+        <State>NY</State>
+        <ZIPCode>115180154</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>PETER DIAMOND</Name>
+      <Title>PRESIDENT</Title>
+      <DateSigned>2010-07-16</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>ROBERT BERKOWICZ</Name>
+      <Phone>5168255577</Phone>
+      <DatePrepared>2010-09-01</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>1694958</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>23504</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>23504</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>23504</InterestOnSavingsAdjNetIncm>
+        <DividendsRevAndExpnss>27519</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>27519</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>27519</DividendsAdjNetIncm>
+        <TotalRevenueAndExpenses>51023</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>51023</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>51023</TotalAdjustedNetIncome>
+        <CompOfcrDirTrstRevAndExpnss>7500</CompOfcrDirTrstRevAndExpnss>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">4000</AccountingFeesRevAndExpnss>
+        <AccountingFeesDsbrsChrtblPrps>4000</AccountingFeesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc5">358</OtherExpensesRevAndExpnss>
+        <OtherExpensesDsbrsChrtblPrps>358</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>11858</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>4358</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>73552</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>73552</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>85410</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>77910</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-34387</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>51023</NetInvestmentIncome>
+        <AdjustedNetIncome>51023</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>780988</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>748568</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>748568</SavingsAndTempCashInvstEOYFMV>
+        <PrepaidExpensesEOY>4100</PrepaidExpensesEOY>
+        <PrepaidExpensesEOYFMV>4100</PrepaidExpensesEOYFMV>
+        <InvestmentsGovtObligBOY>1788</InvestmentsGovtObligBOY>
+        <InvestmentsGovtObligEOY>1721</InvestmentsGovtObligEOY>
+        <InvestmentsGovtObligEOYFMV>490</InvestmentsGovtObligEOYFMV>
+        <InvestmentsCorpStockBOY>890878</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc4">890878</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>916383</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>20000</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="RetDoc3">20000</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>25417</InvestmentsCorpBondsEOYFMV>
+        <TotalAssetsBOY>1693654</TotalAssetsBOY>
+        <TotalAssetsEOY>1665267</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>1694958</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>1693654</UnrestrictedBOY>
+        <UnrestrictedEOY>1665267</UnrestrictedEOY>
+        <TotalNetAssetsBOY>1693654</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>1665267</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>1693654</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>1665267</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>1693654</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-34387</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="RetDoc6">6000</OtherIncreases>
+        <Subtotal>1665267</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>1665267</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>99655</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>1770123</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.056298</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>91855</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>2059391</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.044603</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>95051</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>2044614</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.046488</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>94486</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>1930330</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.048948</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>86296</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>1940916</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.044461</DistributionRatioYear5>
+        <TotalDistributionRatio>0.240798</TotalDistributionRatio>
+        <AverageDistributionRatio>0.048160</AverageDistributionRatio>
+        <NetNoncharitableAssets>1942399</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>93546</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>510</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>94056</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>77910</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>1020</InvestmentIncomeExciseTax>
+        <Subtotal>1020</Subtotal>
+        <TaxBasedOnInvestmentIncome>1020</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>1266</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>1266</TotalCreditsAndPayments>
+        <Overpayment>246</Overpayment>
+        <AmountCreditedToNextYear>246</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>NY</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>JONATHAN MAROSHICK</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>5168255577</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>85 W HAWTHORNE AVE</AddressLine1>
+          <City>VALLEY STREAM</City>
+          <State>NY</State>
+          <ZIPCode>11580</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ROBERTA DIAMOND</PersonName>
+          <USAddress>
+            <AddressLine1>16 MCCARTHY ROAD</AddressLine1>
+            <City>ISLAND PARK</City>
+            <State>NY</State>
+            <ZIPCode>11558</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>2500</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DEBRA LANGENDORFF</PersonName>
+          <USAddress>
+            <AddressLine1>33 NEWKIRK AVENUE</AddressLine1>
+            <City>EAST ROCKAWAY</City>
+            <State>NY</State>
+            <ZIPCode>11518</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY/VP</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>2500</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ANDREW DIAMOND</PersonName>
+          <USAddress>
+            <AddressLine1>C/O 16 MCCARTHY ROAD</AddressLine1>
+            <City>ISLAND PARK</City>
+            <State>NY</State>
+            <ZIPCode>11558</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MATTHEW DIAMOND</PersonName>
+          <USAddress>
+            <AddressLine1>C/O 16 MCCARTHY ROAD</AddressLine1>
+            <City>ISLAND PARK</City>
+            <State>NY</State>
+            <ZIPCode>11558</ZIPCode>
+          </USAddress>
+          <Title>VICE-PRES</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>2500</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>1171146</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>800833</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>1971979</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>1971979</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>29580</CashDeemedCharitable>
+        <NetNoncharitableAssets>1942399</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>97120</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>97120</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>1020</TaxBasedOnInvestmentIncome>
+        <TotalTax>1020</TotalTax>
+        <DistributableAmountBeforeAdj>96100</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>96100</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>96100</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>77910</ExpensesAndContributions>
+        <QualifyingDistributions>77910</QualifyingDistributions>
+        <AdjQualifyingDistributions>77910</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>96100</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>87901</UndistributedIncomePriorYear>
+        <QualifyingDistributions>77910</QualifyingDistributions>
+        <AppliedToYear1>77910</AppliedToYear1>
+        <TaxableAmount2>9991</TaxableAmount2>
+        <UndistributedIncomeCY>96100</UndistributedIncomeCY>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HADASSAH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>MAJOR GIFTS DEPT</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10019</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501 C 3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ELEEMOSYNARY</PurposeOfGrantOrContribution>
+          <Amount>25743</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ALBERT EINSTEIN COLLEGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>JACK AND PEARL RESNICK CA</AddressLine1>
+            <City>BRONX</City>
+            <State>NY</State>
+            <ZIPCode>10461</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501 C 3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ELEEMOSYNARY</PurposeOfGrantOrContribution>
+          <Amount>25743</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AMERICAN RED CROSS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 37243</AddressLine1>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20013</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501 C 3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ELEEMOSYNARY</PurposeOfGrantOrContribution>
+          <Amount>11033</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BNAI ZION FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>136 EAST 39TH STREET</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10016</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501 C 3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ELEEMOSYNARY</PurposeOfGrantOrContribution>
+          <Amount>11033</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>73552</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <RelatedOrExemptFunctionIncome>23504</RelatedOrExemptFunctionIncome>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <RelatedOrExemptFunctionIncome>27519</RelatedOrExemptFunctionIncome>
+        </DividendsAndIntFromSecPartVII>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>51023</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>51023</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>4</LineNumber>
+          <RelationshipStatement>INTEREST AND DIVIDENDS PROVIDE INCOME FOR CHARITABLE</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>4000</Amount>
+        <DisbursementsCharitablePrps>4000</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc3">
+      <InvestmentsCorpBonds>
+        <NameOfBond>CORPORATE BONDS</NameOfBond>
+        <EOYBookValue>20000</EOYBookValue>
+        <EOYFMV>25417</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc4">
+      <InvestmentsCorpStock>
+        <NameOfStock>CORPORATE STOCK</NameOfStock>
+        <EOYBookValue>890878</EOYBookValue>
+        <EOYFMV>916383</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="RetDoc5">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>SUNDRY EXPENSES</Description>
+        <RevenueAndExpensesPerBooks>358</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>358</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="RetDoc6">
+      <OtherIncreases>
+        <Description>REFUND OF FEDERAL TAXES</Description>
+        <Amount>6000</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+  </ReturnData>
+</Return>

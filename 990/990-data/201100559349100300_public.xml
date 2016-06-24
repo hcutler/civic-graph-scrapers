@@ -1,0 +1,665 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-24T08:56:18-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-11-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>START &amp; BUSCH LLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>3720 DECKER DRIVE</AddressLine1>
+        <City>BAYTOWN</City>
+        <State>TX</State>
+        <ZIPCode>775201644</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-12-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>760294299</EIN>
+      <Name>
+        <BusinessNameLine1>SHELTON FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>SHEL</NameControl>
+      <USAddress>
+        <AddressLine1>P O BOX 79092</AddressLine1>
+        <City>HOUSTON</City>
+        <State>TX</State>
+        <ZIPCode>77024</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>JOHN T SHELTON JR</Name>
+      <Title>TTE</Title>
+      <DateSigned>2011-02-02</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>DEBBIE BUSCH</Name>
+      <Phone>2814241000</Phone>
+      <DatePrepared>2011-02-02</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>297180</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>74</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>74</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>5722</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>5722</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>20010</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>183995</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>20010</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>25806</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>25806</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>3000</CompOfcrDirTrstRevAndExpnss>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">900</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>450</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>450</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc5">7234</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>7234</OtherProfFeesNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc6">97</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>97</TaxesNetInvstIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc4">40</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>40</OtherExpensesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>11271</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>7821</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>450</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>27250</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>27250</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>38521</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>7821</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>27700</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-12715</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>17985</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>27116</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>20798</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>20796</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>260744</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc3">254347</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>276384</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>287860</TotalAssetsBOY>
+        <TotalAssetsEOY>275145</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>297180</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>287860</RetainedEarningsBOY>
+        <RetainedEarningsEOY>275145</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>287860</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>275145</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>287860</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>275145</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>287860</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-12715</ExcessOfRevenueOverExpenses>
+        <Subtotal>275145</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>275145</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>NOVEMBER MERRILL LYNCH LT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>17873</GrossSalesPrice>
+          <CostOrOtherBasis>13438</CostOrOtherBasis>
+          <GainOrLoss>4435</GainOrLoss>
+          <GainsMinusExcessOrLosses>4435</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>AUGUST MERRILL LYNCH ST</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>5</GrossSalesPrice>
+          <CostOrOtherBasis>5</CostOrOtherBasis>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>NOVEMBER MERRILL LYNCH ST</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>5006</GrossSalesPrice>
+          <CostOrOtherBasis>5038</CostOrOtherBasis>
+          <GainOrLoss>-32</GainOrLoss>
+          <GainsMinusExcessOrLosses>-32</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>SEPTEMBER MERRILL LYNCH LT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>8798</GrossSalesPrice>
+          <CostOrOtherBasis>10521</CostOrOtherBasis>
+          <GainOrLoss>-1723</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1723</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>DECEMBER 09 MERRILL LYNCH LT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>14614</GrossSalesPrice>
+          <CostOrOtherBasis>12283</CostOrOtherBasis>
+          <GainOrLoss>2331</GainOrLoss>
+          <GainsMinusExcessOrLosses>2331</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>SEPTEMBER MERRILL LYNCH ST</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>4182</GrossSalesPrice>
+          <CostOrOtherBasis>4395</CostOrOtherBasis>
+          <GainOrLoss>-213</GainOrLoss>
+          <GainsMinusExcessOrLosses>-213</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>DECEMBER 09 MERRILL LYNCH ST</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>815</GrossSalesPrice>
+          <CostOrOtherBasis>730</CostOrOtherBasis>
+          <GainOrLoss>85</GainOrLoss>
+          <GainsMinusExcessOrLosses>85</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>OCTOBER MERRILL LYNCH LT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>16586</GrossSalesPrice>
+          <CostOrOtherBasis>15067</CostOrOtherBasis>
+          <GainOrLoss>1519</GainOrLoss>
+          <GainsMinusExcessOrLosses>1519</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>147 SH CONTINENTAL AIRLINES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-05-01</DateAcquired>
+          <DateSold>2010-01-21</DateSold>
+          <GrossSalesPrice>2957</GrossSalesPrice>
+          <CostOrOtherBasis>1634</CostOrOtherBasis>
+          <GainOrLoss>1323</GainOrLoss>
+          <GainsMinusExcessOrLosses>1323</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>OCTOBER MERRILL LYNCH ST</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>8598</GrossSalesPrice>
+          <CostOrOtherBasis>4308</CostOrOtherBasis>
+          <GainOrLoss>4290</GainOrLoss>
+          <GainsMinusExcessOrLosses>4290</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>FEBRUARY MERRILL LYNCH ST</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>9061</GrossSalesPrice>
+          <CostOrOtherBasis>6454</CostOrOtherBasis>
+          <GainOrLoss>2607</GainOrLoss>
+          <GainsMinusExcessOrLosses>2607</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>MARCH MERRILL LYNCH ST</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>10357</GrossSalesPrice>
+          <CostOrOtherBasis>7911</CostOrOtherBasis>
+          <GainOrLoss>2446</GainOrLoss>
+          <GainsMinusExcessOrLosses>2446</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>APRIL MERRILL LYNCH LT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>9232</GrossSalesPrice>
+          <CostOrOtherBasis>11547</CostOrOtherBasis>
+          <GainOrLoss>-2315</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2315</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>APRIL MERRILL LYNCH ST</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>27342</GrossSalesPrice>
+          <CostOrOtherBasis>21121</CostOrOtherBasis>
+          <GainOrLoss>6221</GainOrLoss>
+          <GainsMinusExcessOrLosses>6221</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>MAY MERRILL LYNCH LT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>7563</GrossSalesPrice>
+          <CostOrOtherBasis>10484</CostOrOtherBasis>
+          <GainOrLoss>-2921</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2921</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>MAY MERRILL LYNCH ST</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>13027</GrossSalesPrice>
+          <CostOrOtherBasis>12342</CostOrOtherBasis>
+          <GainOrLoss>685</GainOrLoss>
+          <GainsMinusExcessOrLosses>685</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>48 SH HERSHEY COMPANY</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-06-05</DateAcquired>
+          <DateSold>2010-06-15</DateSold>
+          <GrossSalesPrice>2407</GrossSalesPrice>
+          <CostOrOtherBasis>1673</CostOrOtherBasis>
+          <GainOrLoss>734</GainOrLoss>
+          <GainsMinusExcessOrLosses>734</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>JULY MERRILL LYNCH LT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>2305</GrossSalesPrice>
+          <CostOrOtherBasis>2307</CostOrOtherBasis>
+          <GainOrLoss>-2</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>JULY MERRILL LYNCH ST</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>21093</GrossSalesPrice>
+          <CostOrOtherBasis>21425</CostOrOtherBasis>
+          <GainOrLoss>-332</GainOrLoss>
+          <GainsMinusExcessOrLosses>-332</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>AUGUST MERRILL LYNCH LT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>2174</GrossSalesPrice>
+          <CostOrOtherBasis>1302</CostOrOtherBasis>
+          <GainOrLoss>872</GainOrLoss>
+          <GainsMinusExcessOrLosses>872</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>20010</CapitalGainNetIncome>
+        <NetShortTermCapitalGainOrLoss>17080</NetShortTermCapitalGainOrLoss>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>24525</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>271617</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.090293</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>39825</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>439584</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.090597</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>35617</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>544320</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.065434</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>72120</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>498431</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.144694</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>84619</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>522111</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.162071</DistributionRatioYear5>
+        <TotalDistributionRatio>0.553089</TotalDistributionRatio>
+        <AverageDistributionRatio>0.110618</AverageDistributionRatio>
+        <NetNoncharitableAssets>262707</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>29060</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>180</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>29240</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>27700</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>360</InvestmentIncomeExciseTax>
+        <Subtotal>360</Subtotal>
+        <TaxBasedOnInvestmentIncome>360</TaxBasedOnInvestmentIncome>
+        <TaxDue>360</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>TX</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>JOHN SHELTON</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>7134638469</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>PO BOX 79092</AddressLine1>
+          <City>HOUSTON</City>
+          <State>TX</State>
+          <ZIPCode>77024</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>true</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ROSE ANN SHELTON</PersonName>
+          <USAddress>
+            <AddressLine1>3 INWOOD OAKS</AddressLine1>
+            <City>HOUSTON</City>
+            <State>TX</State>
+            <ZIPCode>77024</ZIPCode>
+          </USAddress>
+          <Title>PRES/TTE</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>SHARON SHELTON</PersonName>
+          <USAddress>
+            <AddressLine1>3 INWOOD OAKS</AddressLine1>
+            <City>HOUSTON</City>
+            <State>TX</State>
+            <ZIPCode>77024</ZIPCode>
+          </USAddress>
+          <Title>VP/TTE</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>1000</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>SHIRLEY MERIDETH</PersonName>
+          <USAddress>
+            <AddressLine1>3 INWOOD OAKS</AddressLine1>
+            <City>HOUSTON</City>
+            <State>TX</State>
+            <ZIPCode>77024</ZIPCode>
+          </USAddress>
+          <Title>SEC/TTE</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>1000</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOHN T SHELTON III</PersonName>
+          <USAddress>
+            <AddressLine1>3 INWOOD OAKS</AddressLine1>
+            <City>HOUSTON</City>
+            <State>TX</State>
+            <ZIPCode>77024</ZIPCode>
+          </USAddress>
+          <Title>TREAS/TTE</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>1000</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOHN T SHELTON JR</PersonName>
+          <USAddress>
+            <AddressLine1>3 INWOOD OAKS</AddressLine1>
+            <City>HOUSTON</City>
+            <State>TX</State>
+            <ZIPCode>77024</ZIPCode>
+          </USAddress>
+          <Title>TTE</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>246170</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>20538</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>266708</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>266708</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>4001</CashDeemedCharitable>
+        <NetNoncharitableAssets>262707</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>13135</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>13135</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>360</TaxBasedOnInvestmentIncome>
+        <TotalTax>360</TotalTax>
+        <DistributableAmountBeforeAdj>12775</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>12775</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>12775</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>27700</ExpensesAndContributions>
+        <QualifyingDistributions>27700</QualifyingDistributions>
+        <AdjQualifyingDistributions>27700</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>12775</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>58987</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>47644</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>8401</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>17846</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>10944</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>143822</TotalExcessDistriCarryover>
+        <QualifyingDistributions>27700</QualifyingDistributions>
+        <AppliedToCurrentYear>12775</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>14925</RemainingDistriFromCorpus>
+        <TotalCorpus>158747</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>58987</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>99760</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>47644</ExcessFromYear4>
+        <ExcessFromYear3>8401</ExcessFromYear3>
+        <ExcessFromYear2>17846</ExcessFromYear2>
+        <ExcessFromYear1>10944</ExcessFromYear1>
+        <ExcessFromCurrentYear>14925</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>JOHN SHELTON</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>P O BOX 79092</AddressLine1>
+            <City>HOUSTON</City>
+            <State>TX</State>
+            <ZIPCode>770247909</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>7134638469</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>LETTERS</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>NONE</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TIGER ATHLETIC FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 711</AddressLine1>
+            <City>BATON ROUGE</City>
+            <State>LA</State>
+            <ZIPCode>70821</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>PROVIDES SCHOLARSHIPS TO QUAL IND</PurposeOfGrantOrContribution>
+          <Amount>6200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LSU ALUMNI ASSOCIATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3838 WEST LAKESHORE DR</AddressLine1>
+            <City>BATON ROUGE</City>
+            <State>LA</State>
+            <ZIPCode>70808</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>PROVIDES SCHOLARSHIPS TO QUAL IND</PurposeOfGrantOrContribution>
+          <Amount>11100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LSU FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3838 WEST LAKESHORE DR</AddressLine1>
+            <City>BATON ROUGE</City>
+            <State>LA</State>
+            <ZIPCode>70808</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>PROVIDES SCHOLARSHIPS TO QUAL IND</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHAPELWOOD UMC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>11140 GREENBAY ST</AddressLine1>
+            <City>HOUSTON</City>
+            <State>TX</State>
+            <ZIPCode>77024</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CHURCH</PurposeOfGrantOrContribution>
+          <Amount>7350</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MD ANDERSON CANCER CENT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 301439</AddressLine1>
+            <City>HOUSTON</City>
+            <State>TX</State>
+            <ZIPCode>77024</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>PROVIDES PATIENT CARE &amp; RESEARCH</PurposeOfGrantOrContribution>
+          <Amount>200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UCLA BRAIN MAPPING MED RE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>660 CHARLES YOUNG DR S</AddressLine1>
+            <City>LOS ANGELES</City>
+            <State>CA</State>
+            <ZIPCode>90095</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>MEDICAL RESEARCH</PurposeOfGrantOrContribution>
+          <Amount>200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE MISSION NORTHEAST</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>22098 LOOP 494</AddressLine1>
+            <City>NEW CANEY</City>
+            <State>TX</State>
+            <ZIPCode>77357</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>PROVIDES ASSISTANCE TO THE NEEDY</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>VALLEY PRESBYTERIAN HOSP</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>15107 VANOWEN ST</AddressLine1>
+            <City>VAN NUYS</City>
+            <State>CA</State>
+            <ZIPCode>91405</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>IMPROVE QUALITY OF HEALTHCARE</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>27250</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>74</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>5722</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>20010</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>25806</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>25806</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>START &amp; BUSCH LLC</Category>
+        <Amount>900</Amount>
+        <NetInvestmentIncome>450</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>450</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc3">
+      <InvestmentsCorpStock>
+        <NameOfStock>INVESTMENTS-PAINE WEBBER</NameOfStock>
+        <EOYBookValue>254347</EOYBookValue>
+        <EOYFMV>276384</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="RetDoc4">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>P O BOX RENTAL</Description>
+        <RevenueAndExpensesPerBooks>40</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>40</NetInvestmentIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc5">
+      <OtherProfessionalFees>
+        <Category>MERRILL LYNCH</Category>
+        <Amount>7234</Amount>
+        <NetInvestmentIncome>7234</NetInvestmentIncome>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc6">
+      <Taxes>
+        <Category>FOREIGN TAXES</Category>
+        <Amount>97</Amount>
+        <NetInvestmentIncome>97</NetInvestmentIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

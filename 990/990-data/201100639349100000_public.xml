@@ -1,0 +1,560 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-03-04T07:10:45-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>WALTER &amp; SHUFFAIN PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>101 HUNTINGTON AVENUE 8TH FLOOR</AddressLine1>
+        <City>BOSTON</City>
+        <State>MA</State>
+        <ZIPCode>02199</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>266711434</EIN>
+      <Name>
+        <BusinessNameLine1>THE REBECCA AND NATHAN MILIKOWSKY FAMILY</BusinessNameLine1>
+        <BusinessNameLine2>FOUNDATION NATHAN MILIKOWSKY TRUSTEE</BusinessNameLine2>
+      </Name>
+      <NameControl>REBE</NameControl>
+      <Phone>6172789797</Phone>
+      <USAddress>
+        <AddressLine1>822 BOYLSTON STREET No 106</AddressLine1>
+        <City>CHESTNUT HILL</City>
+        <State>MA</State>
+        <ZIPCode>02467</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>NATHAN MILIKOWSKY</Name>
+      <Title>trustee</Title>
+      <Phone>6172789797</Phone>
+      <DateSigned>2011-02-17</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>JON YORKS</Name>
+      <Phone>6174472700</Phone>
+      <DatePrepared>2011-02-17</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>2120628</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>686534</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>3338</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>3338</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>5085</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>5085</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>7813</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>381175</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>7813</CapitalGainNetIncmNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc2001500001">80137</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>80137</OtherIncomeNetInvstIncm>
+        <OtherIncomeAdjNetIncm>0</OtherIncomeAdjNetIncm>
+        <TotalRevenueAndExpenses>782907</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>96373</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>0</TotalAdjustedNetIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstAdjNetIncm>0</CompOfcrDirTrstAdjNetIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">250</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>0</TaxesNetInvstIncm>
+        <TaxesAdjNetIncm>0</TaxesAdjNetIncm>
+        <TaxesDsbrsChrtblPrps>0</TaxesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">93617</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>93423</OtherExpensesNetInvstIncm>
+        <OtherExpensesAdjNetIncm>0</OtherExpensesAdjNetIncm>
+        <OtherExpensesDsbrsChrtblPrps>26</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>93867</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>93423</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>0</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>26</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>77500</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>77500</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>171367</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>93423</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>0</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>77526</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>611540</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>2950</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>48917</CashBOY>
+        <CashEOY>90064</CashEOY>
+        <CashEOYFMV>90064</CashEOYFMV>
+        <InvestmentsOtherBOY>1496250</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc2018100001">2066643</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>2030564</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>1545167</TotalAssetsBOY>
+        <TotalAssetsEOY>2156707</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>2120628</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>0</CapitalStockBOY>
+        <CapitalStockEOY>0</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>1545167</RetainedEarningsBOY>
+        <RetainedEarningsEOY>2156707</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>1545167</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>2156707</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>1545167</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>2156707</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>1545167</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>611540</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>2156707</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>2156707</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Teck Resources</DescriptionOfAsset>
+          <DateAcquired>2009-12-18</DateAcquired>
+          <DateSold>2010-01-31</DateSold>
+          <GrossSalesPrice>376630</GrossSalesPrice>
+          <CostOrOtherBasis>371200</CostOrOtherBasis>
+          <GainOrLoss>5430</GainOrLoss>
+          <GainsMinusExcessOrLosses>5430</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>option britol myers squib</DescriptionOfAsset>
+          <DateAcquired>2010-03-31</DateAcquired>
+          <DateSold>2010-06-30</DateSold>
+          <GrossSalesPrice>4545</GrossSalesPrice>
+          <CostOrOtherBasis>2162</CostOrOtherBasis>
+          <GainOrLoss>2383</GainOrLoss>
+          <GainsMinusExcessOrLosses>2383</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>7813</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>40000</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>1562128</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.025606</DistributionRatioYear1>
+        <TotalDistributionRatio>0.025606</TotalDistributionRatio>
+        <AverageDistributionRatio>0.025606</AverageDistributionRatio>
+        <NetNoncharitableAssets>1794194</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>45942</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>30</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>45972</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>77526</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>30</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>30</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>30</TaxBasedOnInvestmentIncome>
+        <TotalCreditsAndPayments>0</TotalCreditsAndPayments>
+        <TaxDue>30</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>MA</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>THE REBECCA AND NATHAN MILIKOWSKY F</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>6172789797</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>822 BOYLSTON STREET SUITE 106</AddressLine1>
+          <City>CHESTNUT HILL</City>
+          <State>MA</State>
+          <ZIPCode>02467</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>NATHAN MILIKOWSKY</PersonName>
+          <USAddress>
+            <AddressLine1>117 LYMAN ROAD</AddressLine1>
+            <City>CHESTNUT HILL</City>
+            <State>MA</State>
+            <ZIPCode>02467</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>1724583</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>96934</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>1821517</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>1821517</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>27323</CashDeemedCharitable>
+        <NetNoncharitableAssets>1794194</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>89710</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>89710</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>30</TaxBasedOnInvestmentIncome>
+        <TotalTax>30</TotalTax>
+        <DistributableAmountBeforeAdj>89680</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>89680</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>89680</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>77526</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>77526</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>30</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>77496</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>89680</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear1>627</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>627</TotalExcessDistriCarryover>
+        <QualifyingDistributions>77526</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>77526</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>627</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>627</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>0</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>11527</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>0</ExcessDistriCyovToNextYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>Nathan Milikowsky</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>822 Boylston St</AddressLine1>
+            <City>Chestnut Hill</City>
+            <State>MA</State>
+            <ZIPCode>02467</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>6172789797</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>NO SPECIFIC APPLICATION FORM IS NECESSARY. COMPLETE INFORMATION ON THE CHARITABLE PURPOSE IF THE REQUEST IS REQUIRED.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>None.</SubmissionDeadlines>
+          <RestrictionsOnAwards>NO RESTRICTIONS EXCEPT THAT IT MUST BE A TAX-EXEMPT CHARITABLE ORGANIZATION.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AMERICAN REPERTORY THEATER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>64 BRATTLE STREET</AddressLine1>
+            <City>CAMBRIDGE</City>
+            <State>MA</State>
+            <ZIPCode>02138</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>charitable Contribution</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Hopkins School</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>986 FOREST ROAD</AddressLine1>
+            <City>NEW HAVEN</City>
+            <State>CT</State>
+            <ZIPCode>06515</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Charitable Contribution</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MEDIA MATTERS FOR AMERICA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>455 MASSACHUSETTS AVENUE NW SUITE</AddressLine1>
+            <AddressLine2>600</AddressLine2>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20001</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>charitable Contribution</PurposeOfGrantOrContribution>
+          <Amount>50000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AMERICAN FRIENDS OF ISRAEL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>122 EAST 42ND STREET SUITE 4507</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10168</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Charitable Contribution</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TEMPLE EMANUEL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>385 WARD STREET</AddressLine1>
+            <City>NEWTON</City>
+            <State>MA</State>
+            <ZIPCode>02459</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Charitable Contribution</PurposeOfGrantOrContribution>
+          <Amount>7500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>77500</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <RelatedOrExemptFunctionIncome>3338</RelatedOrExemptFunctionIncome>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <RelatedOrExemptFunctionIncome>5085</RelatedOrExemptFunctionIncome>
+        </DividendsAndIntFromSecPartVII>
+        <OtherInvestmentIncomePartVII>
+          <RelatedOrExemptFunctionIncome>80137</RelatedOrExemptFunctionIncome>
+        </OtherInvestmentIncomePartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>7813</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>0</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>96373</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>96373</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>12</LineNumber>
+          <RelationshipStatement>these funds are being earned to provide for the possibility that the contributing sources will not contribute in the future.</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>NATHAN MILIKOWSKY</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>117 LYMAN ROAD</AddressLine1>
+          <City>CHESTNUT HILL</City>
+          <State>MA</State>
+          <ZIPCode>02467</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>371200</AggregateContributions>
+        <NoncashContributionType>X</NoncashContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>2</ContributorNumber>
+        <ContributorNameIndividual>NATHAN MILIKOWSKY</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>117 LYMAN ROAD</AddressLine1>
+          <City>cHESTNUT HILL</City>
+          <State>MA</State>
+          <ZIPCode>02467</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>315334</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <NoncashProperty>
+        <ContributorNumberFromPartI>1</ContributorNumberFromPartI>
+        <NoncashPropertyDescription>10,000 shares of Teck Resources stock.</NoncashPropertyDescription>
+        <FairMarketValue>371200</FairMarketValue>
+        <DateReceived>2009-12-30</DateReceived>
+      </NoncashProperty>
+    </IRS990ScheduleB>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOther>
+        <CategoryOrItem>INVESTMENT IN C/G ELECTRODES LLC</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>1420636</BookValue>
+        <EOYFMV>1420636</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>bristol myers squib</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>118260</BookValue>
+        <EOYFMV>119950</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>entergy corp</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>117500</BookValue>
+        <EOYFMV>107430</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>general growth partners</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>48362</BookValue>
+        <EOYFMV>39780</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>general moly inc</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>74607</BookValue>
+        <EOYFMV>61600</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>seadrill ltd</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>26767</BookValue>
+        <EOYFMV>18280</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>hsbc holdings PLC</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>100000</BookValue>
+        <EOYFMV>100000</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>ford motor credit llc</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>99506</BookValue>
+        <EOYFMV>102257</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>ford motor credit co</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>61005</BookValue>
+        <EOYFMV>60631</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>bank fees</Description>
+        <RevenueAndExpensesPerBooks>26</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>26</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>miscellaneous</Description>
+        <RevenueAndExpensesPerBooks>168</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>k-1 deductions</Description>
+        <RevenueAndExpensesPerBooks>93423</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>93423</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc2001500001">
+      <OtherIncome>
+        <Description>C/G ELECTRODES K-1</Description>
+        <RevenueAndExpensesPerBooks>80137</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>80137</NetInvestmentIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>Commonwealth of MA</Category>
+        <Amount>250</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

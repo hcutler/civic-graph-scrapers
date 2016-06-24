@@ -1,0 +1,399 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-03-04T08:46:24-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Buchanan &amp; Company PLLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>1616 N Fort Myer Dr 1400</AddressLine1>
+        <City>Rosslyn</City>
+        <State>VA</State>
+        <ZIPCode>22209</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>521703600</EIN>
+      <Name>
+        <BusinessNameLine1>S Robert and Joy W Cohen Charitable</BusinessNameLine1>
+        <BusinessNameLine2>Foundation</BusinessNameLine2>
+      </Name>
+      <NameControl>SROB</NameControl>
+      <USAddress>
+        <AddressLine1>5610 Wisconsin Avenue</AddressLine1>
+        <AddressLine2>c/o Shelton M Binstock</AddressLine2>
+        <City>Chevy Chase</City>
+        <State>MD</State>
+        <ZIPCode>20815</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>S Robert Cohen</Name>
+      <Title>Director</Title>
+      <DateSigned>2011-03-02</DateSigned>
+      <AuthorizeThirdParty>true</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Patricia M Tinkelman</Name>
+      <Phone>7033516600</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="8">
+    <IRS990PF documentId="IRS990PF">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>136411</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>0</ContriReceivedRevAndExpnss>
+        <DividendsRevAndExpnss>2778</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>2778</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>6019</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>7043</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>6019</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>8797</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>8797</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="AccountingFeesSch">900</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>0</AccountingFeesNetInvstIncm>
+        <AccountingFeesAdjNetIncm>0</AccountingFeesAdjNetIncm>
+        <AccountingFeesDsbrsChrtblPrps>0</AccountingFeesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSch">150</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>150</OtherExpensesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>1050</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>150</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>0</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>5000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>5000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>6050</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>150</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>0</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>5000</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>2747</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>8647</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>13149</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>16895</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>16895</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>12287</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="InvestCorpStockSch">11263</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>84194</InvestmentsCorpStockEOYFMV>
+        <OtherAssetsBOY referenceDocumentId="OtherAssetsSch">49105</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId="OtherAssetsSch">49105</OtherAssetsEOY>
+        <OtherAssetsEOYFMV referenceDocumentId="OtherAssetsSch">35322</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>74541</TotalAssetsBOY>
+        <TotalAssetsEOY>77263</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>136411</TotalAssetsEOYFMV>
+        <AccountsPayableBOY>0</AccountsPayableBOY>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>0</CapitalStockBOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <RetainedEarningsBOY>74541</RetainedEarningsBOY>
+        <RetainedEarningsEOY>77263</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>74541</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>77263</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>74541</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>77263</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>74541</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>2747</ExcessOfRevenueOverExpenses>
+        <Subtotal>77288</Subtotal>
+        <OtherDecreases referenceDocumentId="OtherDecreasesSch">25</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>77263</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>100 SHS HESS STOCK</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-11-08</DateSold>
+          <GrossSalesPrice>6918</GrossSalesPrice>
+          <CostOrOtherBasis>1024</CostOrOtherBasis>
+          <GainOrLoss>5894</GainOrLoss>
+          <GainsMinusExcessOrLosses>5894</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CAPITAL GAIN DIVIDENDS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GainOrLoss>125</GainOrLoss>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>6019</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>10000</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>111204</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.089925</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>2287</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>164786</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.013879</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>11350</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>166563</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.068142</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>8250</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>136674</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.060363</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>500</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>100870</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.004957</DistributionRatioYear5>
+        <TotalDistributionRatio>0.237266</TotalDistributionRatio>
+        <AverageDistributionRatio>0.047453</AverageDistributionRatio>
+        <NetNoncharitableAssets>125787</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>5969</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>86</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>6055</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>5000</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>173</InvestmentIncomeExciseTax>
+        <Subtotal>173</Subtotal>
+        <TaxBasedOnInvestmentIncome>173</TaxBasedOnInvestmentIncome>
+        <TotalCreditsAndPayments>0</TotalCreditsAndPayments>
+        <TaxDue>173</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>MD</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>FOUNDATION</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>5610 WISCONSIN AVE 507</AddressLine1>
+          <City>CHEVY CHASE</City>
+          <State>MD</State>
+          <ZIPCode>208154431</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BARRY D COHEN</PersonName>
+          <USAddress>
+            <AddressLine1>13702 LAMBERTINA PLACE</AddressLine1>
+            <City>ROCKVILLE</City>
+            <State>MD</State>
+            <ZIPCode>20850</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JEFFREY N COHEN</PersonName>
+          <USAddress>
+            <AddressLine1>6733 FAIRFAX ROAD</AddressLine1>
+            <City>CHEVY CHASE</City>
+            <State>MD</State>
+            <ZIPCode>20815</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy />
+      <SumOfProgramRelatedInvestments />
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>112681</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>15022</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>127703</TotalFMVOfUnusedAssets>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>127703</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>1916</CashDeemedCharitable>
+        <NetNoncharitableAssets>125787</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>6289</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>6289</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>173</TaxBasedOnInvestmentIncome>
+        <TotalTax>173</TotalTax>
+        <DistributableAmountBeforeAdj>6116</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>6116</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>6116</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>5000</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <AmountsPaidAcqCharitableAssets>0</AmountsPaidAcqCharitableAssets>
+        <AmountsSetAsideSuitabilityTest>0</AmountsSetAsideSuitabilityTest>
+        <AmountsSetAsideCashDistriTest>0</AmountsSetAsideCashDistriTest>
+        <QualifyingDistributions>5000</QualifyingDistributions>
+        <AdjQualifyingDistributions>5000</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>6116</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <PriorYear1>2008</PriorYear1>
+        <PriorYear2>2007</PriorYear2>
+        <PriorYear3>2006</PriorYear3>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear5>0</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>1501</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>3158</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear1>4465</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>9124</TotalExcessDistriCarryover>
+        <QualifyingDistributions>5000</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToCurrentYear>5000</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>1116</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>1116</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>8008</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>8008</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>385</ExcessFromYear4>
+        <ExcessFromYear3>3158</ExcessFromYear3>
+        <ExcessFromYear1>4465</ExcessFromYear1>
+      </UndistributedIncome>
+      <PrivateOperatingFoundations />
+      <SupplementaryInformation>
+        <ContributingManager>S ROBERT COHEN</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JEWISH FOUNDATION FOR GROUP HOMES</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1500 EAST JEFFERSON STREET</AddressLine1>
+            <City>ROCKVILLE</City>
+            <State>MD</State>
+            <ZIPCode>20852</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GENERAL USE</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>5000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <FeesContractsFromGovtAgencies />
+        <MembershipDuesAndAssessments />
+        <IntOnSavingsAndTempCashInvst />
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>2778</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <NetRentalIncmReDebtFincdProp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncmPersonalProperty />
+        <OtherInvestmentIncomePartVII />
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>6019</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <NetIncomeLossFromSpecialEvents />
+        <GrossProfitLossSalesOfInvntry />
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>8797</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>8797</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSch">
+      <AccountingFees>
+        <Category>TAX PREPARATION</Category>
+        <Amount>900</Amount>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <InvestmentsCorpStockSchedule documentId="InvestCorpStockSch">
+      <InvestmentsCorpStock>
+        <NameOfStock>AMERADA HESS</NameOfStock>
+        <EOYBookValue>11263</EOYBookValue>
+        <EOYFMV>84194</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <LandEtcSchedule2 documentId="LandEtcSch2" />
+    <OtherAssetsSchedule documentId="OtherAssetsSch">
+      <OtherAssets>
+        <Description>CALAMOS CONV OPP</Description>
+        <BOYBookValue>11070</BOYBookValue>
+        <EOYBookValue>11070</EOYBookValue>
+        <EOYFMV>8760</EOYFMV>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>BLACKROCK GL ENERGY &amp; RES</Description>
+        <BOYBookValue>19024</BOYBookValue>
+        <EOYBookValue>19024</EOYBookValue>
+        <EOYFMV>14657</EOYFMV>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>COHEN &amp; STEERS SELECT</Description>
+        <BOYBookValue>19011</BOYBookValue>
+        <EOYBookValue>19011</EOYBookValue>
+        <EOYFMV>11905</EOYFMV>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherDecreasesSchedule documentId="OtherDecreasesSch">
+      <OtherDecreases>
+        <Description>990 PF TAX FOR 2009</Description>
+        <Amount>25</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpenses>
+        <Description>INVESTMENT FEES</Description>
+        <RevenueAndExpensesPerBooks>150</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>150</NetInvestmentIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,2356 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-10T14:49:04-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-11-30</TaxPeriodEndDate>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-12-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>566355985</EIN>
+      <Name>
+        <BusinessNameLine1>HORNE ELIZABETH D</BusinessNameLine1>
+      </Name>
+      <NameControl>HORN</NameControl>
+      <Phone>9109149108</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 2907 - TRUST TAX DEPT</AddressLine1>
+        <City>WILSON</City>
+        <State>NC</State>
+        <ZIPCode>278942907</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>BRANCH BANKING TRUST CO TRUSTEE</Name>
+      <Title>Vice President</Title>
+      <Phone>9109149108</Phone>
+      <DateSigned>2011-02-10</DateSigned>
+    </Officer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="8">
+    <IRS990PF documentId="IRS990PF">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>3893426</FMVAssetsEOY>
+      <AnalysisOfRevenueAndExpenses>
+        <InterestOnSavingsRevAndExpnss>10000</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>10000</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>95933</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>95933</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>123055</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>1136964</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>123055</CapitalGainNetIncmNetInvstIncm>
+        <NetSTCGAdjNetIncm>0</NetSTCGAdjNetIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="OtherIncomeSchedule2">930</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>930</OtherIncomeNetInvstIncm>
+        <TotalRevenueAndExpenses>229918</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>229918</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>46282</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>46282</CompOfcrDirTrstNetInvstIncm>
+        <OthEmplSlrsWgsNetInvstIncm>0</OthEmplSlrsWgsNetInvstIncm>
+        <OthEmplSlrsWgsAdjNetIncm>0</OthEmplSlrsWgsAdjNetIncm>
+        <OthEmplSlrsWgsDsbrsChrtblPrps>0</OthEmplSlrsWgsDsbrsChrtblPrps>
+        <PensionEmplBnftNetInvstIncm>0</PensionEmplBnftNetInvstIncm>
+        <PensionEmplBnftAdjNetIncm>0</PensionEmplBnftAdjNetIncm>
+        <LegalFeesDsbrsChrtblPrps>0</LegalFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="OtherProfessionalFeesSchedule">1156</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>1156</OtherProfFeesNetInvstIncm>
+        <OtherProfFeesDsbrsChrtblPrps>0</OtherProfFeesDsbrsChrtblPrps>
+        <InterestDsbrsChrtblPrps>0</InterestDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="TaxesSchedule">6163</TaxesRevAndExpnss>
+        <TaxesDsbrsChrtblPrps>0</TaxesDsbrsChrtblPrps>
+        <DeprecAndDepletionRevAndExpnss>0</DeprecAndDepletionRevAndExpnss>
+        <DeprecAndDepletionNetInvstIncm>0</DeprecAndDepletionNetInvstIncm>
+        <TravConfMeetingNetInvstIncm>0</TravConfMeetingNetInvstIncm>
+        <TravConfMeetingAdjNetIncm>0</TravConfMeetingAdjNetIncm>
+        <PrintingAndPubNetInvstIncm>0</PrintingAndPubNetInvstIncm>
+        <PrintingAndPubAdjNetIncm>0</PrintingAndPubAdjNetIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule">231</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>231</OtherExpensesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>53832</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>47669</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>0</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>113896</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>113896</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>167728</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>47669</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>0</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>113896</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>62190</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>182249</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>47561</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>52019</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>52019</SavingsAndTempCashInvstEOYFMV>
+        <AccountsReceivableEOY>0</AccountsReceivableEOY>
+        <AccountsReceivableEOYFMV>0</AccountsReceivableEOYFMV>
+        <AllwncForDbtflAcctOtherRcvbl>0</AllwncForDbtflAcctOtherRcvbl>
+        <InvestmentsOtherBOY>3359137</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="InvestmentsOtherSchedule2">3415078</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>3841407</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>3406698</TotalAssetsBOY>
+        <TotalAssetsEOY>3467097</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>3893426</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>3406698</CapitalStockBOY>
+        <CapitalStockEOY>3467097</CapitalStockEOY>
+        <TotalNetAssetsBOY>3406698</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>3467097</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>3406698</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>3467097</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>3406698</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>62190</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="OtherIncreasesSchedule">96</OtherIncreases>
+        <Subtotal>3468984</Subtotal>
+        <OtherDecreases referenceDocumentId="OtherDecreasesSchedule">1887</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>3467097</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>40. ABB LTD SPONSORED ADR</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2009-12-16</DateSold>
+          <GrossSalesPrice>731</GrossSalesPrice>
+          <CostOrOtherBasis>736</CostOrOtherBasis>
+          <GainOrLoss>-5</GainOrLoss>
+          <GainsMinusExcessOrLosses>-5</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>240. ABB LTD SPONSORED ADR</DescriptionOfAsset>
+          <DateAcquired>2009-01-05</DateAcquired>
+          <DateSold>2010-04-07</DateSold>
+          <GrossSalesPrice>5290</GrossSalesPrice>
+          <CostOrOtherBasis>3602</CostOrOtherBasis>
+          <GainOrLoss>1688</GainOrLoss>
+          <GainsMinusExcessOrLosses>1688</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>70. AGCO CORPORATION COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-06-29</DateSold>
+          <GrossSalesPrice>1893</GrossSalesPrice>
+          <CostOrOtherBasis>2256</CostOrOtherBasis>
+          <GainOrLoss>-363</GainOrLoss>
+          <GainsMinusExcessOrLosses>-363</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>80. AGCO CORPORATION COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>3321</GrossSalesPrice>
+          <CostOrOtherBasis>2578</CostOrOtherBasis>
+          <GainOrLoss>743</GainOrLoss>
+          <GainsMinusExcessOrLosses>743</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>170. AT&amp;T INC</DescriptionOfAsset>
+          <DateAcquired>2008-09-24</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>4780</GrossSalesPrice>
+          <CostOrOtherBasis>4923</CostOrOtherBasis>
+          <GainOrLoss>-143</GainOrLoss>
+          <GainsMinusExcessOrLosses>-143</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>140. ACERGY SA SPON ADR</DescriptionOfAsset>
+          <DateAcquired>2009-12-16</DateAcquired>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>2334</GrossSalesPrice>
+          <CostOrOtherBasis>2150</CostOrOtherBasis>
+          <GainOrLoss>184</GainOrLoss>
+          <GainsMinusExcessOrLosses>184</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>70. ADIDAS AG</DescriptionOfAsset>
+          <DateAcquired>2009-12-16</DateAcquired>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>1772</GrossSalesPrice>
+          <CostOrOtherBasis>1955</CostOrOtherBasis>
+          <GainOrLoss>-183</GainOrLoss>
+          <GainsMinusExcessOrLosses>-183</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>90. ADIDAS AG</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>2882</GrossSalesPrice>
+          <CostOrOtherBasis>2028</CostOrOtherBasis>
+          <GainOrLoss>854</GainOrLoss>
+          <GainsMinusExcessOrLosses>854</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>180. ALLEGHENY ENERGY INC</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>4203</GrossSalesPrice>
+          <CostOrOtherBasis>4491</CostOrOtherBasis>
+          <GainOrLoss>-288</GainOrLoss>
+          <GainsMinusExcessOrLosses>-288</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>90. ALLEGHENY ENERGY INC</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-08-17</DateSold>
+          <GrossSalesPrice>2061</GrossSalesPrice>
+          <CostOrOtherBasis>2245</CostOrOtherBasis>
+          <GainOrLoss>-184</GainOrLoss>
+          <GainsMinusExcessOrLosses>-184</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>40. ALLEGHENY TECHNOLOGIES INC</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-04-07</DateSold>
+          <GrossSalesPrice>2213</GrossSalesPrice>
+          <CostOrOtherBasis>1175</CostOrOtherBasis>
+          <GainOrLoss>1038</GainOrLoss>
+          <GainsMinusExcessOrLosses>1038</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>170. ALLIANCEBERNSTEIN HOLDING LP COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2009-12-16</DateSold>
+          <GrossSalesPrice>4598</GrossSalesPrice>
+          <CostOrOtherBasis>3596</CostOrOtherBasis>
+          <GainOrLoss>1002</GainOrLoss>
+          <GainsMinusExcessOrLosses>1002</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>110. ALLSCRIPTS HEALTHCARE SOLUTIONS</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>2098</GrossSalesPrice>
+          <CostOrOtherBasis>1608</CostOrOtherBasis>
+          <GainOrLoss>490</GainOrLoss>
+          <GainsMinusExcessOrLosses>490</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>70. ALUMINUM CORP OF CHINA-ADR</DescriptionOfAsset>
+          <DateAcquired>2009-12-16</DateAcquired>
+          <DateSold>2010-06-29</DateSold>
+          <GrossSalesPrice>1333</GrossSalesPrice>
+          <CostOrOtherBasis>1980</CostOrOtherBasis>
+          <GainOrLoss>-647</GainOrLoss>
+          <GainsMinusExcessOrLosses>-647</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>290. AMERICAN EAGLE OUTFITTERS COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2009-12-16</DateSold>
+          <GrossSalesPrice>4799</GrossSalesPrice>
+          <CostOrOtherBasis>4430</CostOrOtherBasis>
+          <GainOrLoss>369</GainOrLoss>
+          <GainsMinusExcessOrLosses>369</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>80. AMERISOURCEBERGEN CORP. COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>2635</GrossSalesPrice>
+          <CostOrOtherBasis>1640</CostOrOtherBasis>
+          <GainOrLoss>995</GainOrLoss>
+          <GainsMinusExcessOrLosses>995</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>35. AMGEN INCORPORATED</DescriptionOfAsset>
+          <DateAcquired>2009-04-03</DateAcquired>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>2017</GrossSalesPrice>
+          <CostOrOtherBasis>1622</CostOrOtherBasis>
+          <GainOrLoss>395</GainOrLoss>
+          <GainsMinusExcessOrLosses>395</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>90. AMGEN INCORPORATED</DescriptionOfAsset>
+          <DateAcquired>2008-01-29</DateAcquired>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>5188</GrossSalesPrice>
+          <CostOrOtherBasis>4324</CostOrOtherBasis>
+          <GainOrLoss>864</GainOrLoss>
+          <GainsMinusExcessOrLosses>864</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>50. ANADARKO PETE CORP.</DescriptionOfAsset>
+          <DateAcquired>2003-10-31</DateAcquired>
+          <DateSold>2009-12-16</DateSold>
+          <GrossSalesPrice>3147</GrossSalesPrice>
+          <CostOrOtherBasis>1081</CostOrOtherBasis>
+          <GainOrLoss>2066</GainOrLoss>
+          <GainsMinusExcessOrLosses>2066</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>60. ANADARKO PETE CORP.</DescriptionOfAsset>
+          <DateAcquired>2003-10-31</DateAcquired>
+          <DateSold>2010-04-07</DateSold>
+          <GrossSalesPrice>4377</GrossSalesPrice>
+          <CostOrOtherBasis>1297</CostOrOtherBasis>
+          <GainOrLoss>3080</GainOrLoss>
+          <GainsMinusExcessOrLosses>3080</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>110. ANADARKO PETE CORP.</DescriptionOfAsset>
+          <DateAcquired>2003-10-31</DateAcquired>
+          <DateSold>2010-08-17</DateSold>
+          <GrossSalesPrice>5841</GrossSalesPrice>
+          <CostOrOtherBasis>2377</CostOrOtherBasis>
+          <GainOrLoss>3464</GainOrLoss>
+          <GainsMinusExcessOrLosses>3464</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>360. ANNALY CAPITAL MANAGEMENT COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-06-29</DateSold>
+          <GrossSalesPrice>6234</GrossSalesPrice>
+          <CostOrOtherBasis>6019</CostOrOtherBasis>
+          <GainOrLoss>215</GainOrLoss>
+          <GainsMinusExcessOrLosses>215</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>200. ANNTAYLOR STORES CORP COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-12-16</DateAcquired>
+          <DateSold>2010-04-07</DateSold>
+          <GrossSalesPrice>4394</GrossSalesPrice>
+          <CostOrOtherBasis>3196</CostOrOtherBasis>
+          <GainOrLoss>1198</GainOrLoss>
+          <GainsMinusExcessOrLosses>1198</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>230. ANNTAYLOR STORES CORP COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-12-16</DateAcquired>
+          <DateSold>2010-06-29</DateSold>
+          <GrossSalesPrice>3788</GrossSalesPrice>
+          <CostOrOtherBasis>3675</CostOrOtherBasis>
+          <GainOrLoss>113</GainOrLoss>
+          <GainsMinusExcessOrLosses>113</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>130. ANNTAYLOR STORES CORP COMMON</DescriptionOfAsset>
+          <DateAcquired>2010-02-19</DateAcquired>
+          <DateSold>2010-08-17</DateSold>
+          <GrossSalesPrice>1953</GrossSalesPrice>
+          <CostOrOtherBasis>2041</CostOrOtherBasis>
+          <GainOrLoss>-88</GainOrLoss>
+          <GainsMinusExcessOrLosses>-88</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>110. APACHE CORPORATION COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-05-06</DateAcquired>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>11540</GrossSalesPrice>
+          <CostOrOtherBasis>9054</CostOrOtherBasis>
+          <GainOrLoss>2486</GainOrLoss>
+          <GainsMinusExcessOrLosses>2486</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>230. APPLIED MATERIALS</DescriptionOfAsset>
+          <DateAcquired>2008-09-24</DateAcquired>
+          <DateSold>2009-12-16</DateSold>
+          <GrossSalesPrice>3139</GrossSalesPrice>
+          <CostOrOtherBasis>3657</CostOrOtherBasis>
+          <GainOrLoss>-518</GainOrLoss>
+          <GainsMinusExcessOrLosses>-518</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>740. APPLIED MATERIALS</DescriptionOfAsset>
+          <DateSold>2010-06-29</DateSold>
+          <GrossSalesPrice>9163</GrossSalesPrice>
+          <CostOrOtherBasis>9094</CostOrOtherBasis>
+          <GainOrLoss>69</GainOrLoss>
+          <GainsMinusExcessOrLosses>69</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>125. APPLIED MATERIALS</DescriptionOfAsset>
+          <DateAcquired>2009-01-22</DateAcquired>
+          <DateSold>2010-08-17</DateSold>
+          <GrossSalesPrice>1422</GrossSalesPrice>
+          <CostOrOtherBasis>1133</CostOrOtherBasis>
+          <GainOrLoss>289</GainOrLoss>
+          <GainsMinusExcessOrLosses>289</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>230. ARM HOLDINGS PLC -SPONS ADR</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>3958</GrossSalesPrice>
+          <CostOrOtherBasis>1447</CostOrOtherBasis>
+          <GainOrLoss>2511</GainOrLoss>
+          <GainsMinusExcessOrLosses>2511</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>120.482 ARTISAN INTERNATIONAL SMALL CAP FUND # 1</DescriptionOfAsset>
+          <DateAcquired>2010-02-19</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>2288</GrossSalesPrice>
+          <CostOrOtherBasis>2000</CostOrOtherBasis>
+          <GainOrLoss>288</GainOrLoss>
+          <GainsMinusExcessOrLosses>288</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>125. AVERY DENNISON CORP. COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-01-22</DateAcquired>
+          <DateSold>2010-08-17</DateSold>
+          <GrossSalesPrice>4365</GrossSalesPrice>
+          <CostOrOtherBasis>3598</CostOrOtherBasis>
+          <GainOrLoss>767</GainOrLoss>
+          <GainsMinusExcessOrLosses>767</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>300. ADR AXA-UAP F/K/A AXA SA SPONSORED ADR</DescriptionOfAsset>
+          <DateSold>2009-12-04</DateSold>
+          <GrossSalesPrice>180</GrossSalesPrice>
+          <GainOrLoss>180</GainOrLoss>
+          <GainsMinusExcessOrLosses>180</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>230. ADR AXA-UAP F/K/A AXA SA SPONSORED ADR</DescriptionOfAsset>
+          <DateAcquired>2009-12-16</DateAcquired>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>4800</GrossSalesPrice>
+          <CostOrOtherBasis>5446</CostOrOtherBasis>
+          <GainOrLoss>-646</GainOrLoss>
+          <GainsMinusExcessOrLosses>-646</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>100. ADR AXA-UAP F/K/A AXA SA SPONSORED ADR</DescriptionOfAsset>
+          <DateAcquired>2009-12-16</DateAcquired>
+          <DateSold>2010-08-17</DateSold>
+          <GrossSalesPrice>1724</GrossSalesPrice>
+          <CostOrOtherBasis>2368</CostOrOtherBasis>
+          <GainOrLoss>-644</GainOrLoss>
+          <GainsMinusExcessOrLosses>-644</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>160. ADR AXA-UAP F/K/A AXA SA SPONSORED ADR</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>2885</GrossSalesPrice>
+          <CostOrOtherBasis>3667</CostOrOtherBasis>
+          <GainOrLoss>-782</GainOrLoss>
+          <GainsMinusExcessOrLosses>-782</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>45. BABCOCK &amp; WILCOX CO COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-12-16</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>1042</GrossSalesPrice>
+          <CostOrOtherBasis>1026</CostOrOtherBasis>
+          <GainOrLoss>16</GainOrLoss>
+          <GainsMinusExcessOrLosses>16</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>90. BABCOCK &amp; WILCOX CO COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>2083</GrossSalesPrice>
+          <CostOrOtherBasis>1981</CostOrOtherBasis>
+          <GainOrLoss>102</GainOrLoss>
+          <GainsMinusExcessOrLosses>102</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>200. BAKER HUGHES INCORPORATED</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2009-12-16</DateSold>
+          <GrossSalesPrice>8236</GrossSalesPrice>
+          <CostOrOtherBasis>7390</CostOrOtherBasis>
+          <GainOrLoss>846</GainOrLoss>
+          <GainsMinusExcessOrLosses>846</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>.1 BANCO BRADESCO S A</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-08-13</DateSold>
+          <GrossSalesPrice>2</GrossSalesPrice>
+          <CostOrOtherBasis>1</CostOrOtherBasis>
+          <GainOrLoss>1</GainOrLoss>
+          <GainsMinusExcessOrLosses>1</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>121. BANCO BRADESCO S A</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>2536</GrossSalesPrice>
+          <CostOrOtherBasis>1654</CostOrOtherBasis>
+          <GainOrLoss>882</GainOrLoss>
+          <GainsMinusExcessOrLosses>882</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>200. BANK OF AMER CORP COMMON</DescriptionOfAsset>
+          <DateAcquired>2010-06-29</DateAcquired>
+          <DateSold>2010-08-17</DateSold>
+          <GrossSalesPrice>2649</GrossSalesPrice>
+          <CostOrOtherBasis>2926</CostOrOtherBasis>
+          <GainOrLoss>-277</GainOrLoss>
+          <GainsMinusExcessOrLosses>-277</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>220. BARRICK GOLD CORP. EFF. 1-18-95</DescriptionOfAsset>
+          <DateAcquired>2010-02-19</DateAcquired>
+          <DateSold>2010-06-29</DateSold>
+          <GrossSalesPrice>9913</GrossSalesPrice>
+          <CostOrOtherBasis>8740</CostOrOtherBasis>
+          <GainOrLoss>1173</GainOrLoss>
+          <GainsMinusExcessOrLosses>1173</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>50. BAXTER INTERNATIONAL INCORPORATED</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-04-07</DateSold>
+          <GrossSalesPrice>2889</GrossSalesPrice>
+          <CostOrOtherBasis>2772</CostOrOtherBasis>
+          <GainOrLoss>117</GainOrLoss>
+          <GainsMinusExcessOrLosses>117</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>60. BAXTER INTERNATIONAL INCORPORATED</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>3023</GrossSalesPrice>
+          <CostOrOtherBasis>3327</CostOrOtherBasis>
+          <GainOrLoss>-304</GainOrLoss>
+          <GainsMinusExcessOrLosses>-304</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>90. BERKSHIRE HATHAWAY INC DEL CL B COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>7058</GrossSalesPrice>
+          <CostOrOtherBasis>6035</CostOrOtherBasis>
+          <GainOrLoss>1023</GainOrLoss>
+          <GainsMinusExcessOrLosses>1023</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>100. BERKSHIRE HATHAWAY INC DEL CL B COMMON</DescriptionOfAsset>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>7842</GrossSalesPrice>
+          <CostOrOtherBasis>7086</CostOrOtherBasis>
+          <GainOrLoss>756</GainOrLoss>
+          <GainsMinusExcessOrLosses>756</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>30. BERKSHIRE HATHAWAY INC DEL CL B COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-04-07</DateSold>
+          <GrossSalesPrice>2410</GrossSalesPrice>
+          <CostOrOtherBasis>2012</CostOrOtherBasis>
+          <GainOrLoss>398</GainOrLoss>
+          <GainsMinusExcessOrLosses>398</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>80. BERKSHIRE HATHAWAY INC DEL CL B COMMON</DescriptionOfAsset>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>6441</GrossSalesPrice>
+          <CostOrOtherBasis>5359</CostOrOtherBasis>
+          <GainOrLoss>1082</GainOrLoss>
+          <GainsMinusExcessOrLosses>1082</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>50. BLACKBOARD INC COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2009-12-16</DateSold>
+          <GrossSalesPrice>2133</GrossSalesPrice>
+          <CostOrOtherBasis>1780</CostOrOtherBasis>
+          <GainOrLoss>353</GainOrLoss>
+          <GainsMinusExcessOrLosses>353</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>50. BLACKBOARD INC COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>2043</GrossSalesPrice>
+          <CostOrOtherBasis>1780</CostOrOtherBasis>
+          <GainOrLoss>263</GainOrLoss>
+          <GainsMinusExcessOrLosses>263</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>30. BUCYRUS INTERNATIONAL INC. COMMON</DescriptionOfAsset>
+          <DateAcquired>2010-06-29</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>1973</GrossSalesPrice>
+          <CostOrOtherBasis>1434</CostOrOtherBasis>
+          <GainOrLoss>539</GainOrLoss>
+          <GainsMinusExcessOrLosses>539</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>80. CVS CORP COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-04-03</DateAcquired>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>2741</GrossSalesPrice>
+          <CostOrOtherBasis>2284</CostOrOtherBasis>
+          <GainOrLoss>457</GainOrLoss>
+          <GainsMinusExcessOrLosses>457</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>100. CVS CORP COMMON</DescriptionOfAsset>
+          <DateAcquired>2008-12-09</DateAcquired>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>3426</GrossSalesPrice>
+          <CostOrOtherBasis>2917</CostOrOtherBasis>
+          <GainOrLoss>509</GainOrLoss>
+          <GainsMinusExcessOrLosses>509</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>70. CAMECO CORP</DescriptionOfAsset>
+          <DateAcquired>2009-12-16</DateAcquired>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>2061</GrossSalesPrice>
+          <CostOrOtherBasis>2195</CostOrOtherBasis>
+          <GainOrLoss>-134</GainOrLoss>
+          <GainsMinusExcessOrLosses>-134</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>380. CAMPBELL SOUP COMPANY</DescriptionOfAsset>
+          <DateAcquired>2009-10-16</DateAcquired>
+          <DateSold>2010-06-29</DateSold>
+          <GrossSalesPrice>13651</GrossSalesPrice>
+          <CostOrOtherBasis>12437</CostOrOtherBasis>
+          <GainOrLoss>1214</GainOrLoss>
+          <GainsMinusExcessOrLosses>1214</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>60. CAMPBELL SOUP COMPANY</DescriptionOfAsset>
+          <DateAcquired>2009-10-16</DateAcquired>
+          <DateSold>2010-08-17</DateSold>
+          <GrossSalesPrice>2219</GrossSalesPrice>
+          <CostOrOtherBasis>1964</CostOrOtherBasis>
+          <GainOrLoss>255</GainOrLoss>
+          <GainsMinusExcessOrLosses>255</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>320. CARMAX INC. COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2009-12-16</DateSold>
+          <GrossSalesPrice>6931</GrossSalesPrice>
+          <CostOrOtherBasis>5512</CostOrOtherBasis>
+          <GainOrLoss>1419</GainOrLoss>
+          <GainsMinusExcessOrLosses>1419</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>150. CASEY'S GENERAL STORES, INC. COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-06-29</DateSold>
+          <GrossSalesPrice>5343</GrossSalesPrice>
+          <CostOrOtherBasis>4108</CostOrOtherBasis>
+          <GainOrLoss>1235</GainOrLoss>
+          <GainsMinusExcessOrLosses>1235</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>60. CASEY'S GENERAL STORES, INC. COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>2464</GrossSalesPrice>
+          <CostOrOtherBasis>1643</CostOrOtherBasis>
+          <GainOrLoss>821</GainOrLoss>
+          <GainsMinusExcessOrLosses>821</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>110. CHARLES RIV LABORATORIES INTL INC</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2009-12-16</DateSold>
+          <GrossSalesPrice>3513</GrossSalesPrice>
+          <CostOrOtherBasis>3708</CostOrOtherBasis>
+          <GainOrLoss>-195</GainOrLoss>
+          <GainsMinusExcessOrLosses>-195</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>70. CHEVRON TEXACO CORP COMMON</DescriptionOfAsset>
+          <DateAcquired>2008-08-04</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>5853</GrossSalesPrice>
+          <CostOrOtherBasis>5772</CostOrOtherBasis>
+          <GainOrLoss>81</GainOrLoss>
+          <GainsMinusExcessOrLosses>81</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1070. CHIMERA INVESTMENT CORPORATION COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-06-29</DateSold>
+          <GrossSalesPrice>3895</GrossSalesPrice>
+          <CostOrOtherBasis>3959</CostOrOtherBasis>
+          <GainOrLoss>-64</GainOrLoss>
+          <GainsMinusExcessOrLosses>-64</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>60. CISCO SYSTEMS</DescriptionOfAsset>
+          <DateAcquired>2005-06-01</DateAcquired>
+          <DateSold>2009-12-16</DateSold>
+          <GrossSalesPrice>1406</GrossSalesPrice>
+          <CostOrOtherBasis>1176</CostOrOtherBasis>
+          <GainOrLoss>230</GainOrLoss>
+          <GainsMinusExcessOrLosses>230</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>270. COMCAST CORP NEW CL A</DescriptionOfAsset>
+          <DateAcquired>2008-09-24</DateAcquired>
+          <DateSold>2010-08-17</DateSold>
+          <GrossSalesPrice>4813</GrossSalesPrice>
+          <CostOrOtherBasis>5225</CostOrOtherBasis>
+          <GainOrLoss>-412</GainOrLoss>
+          <GainsMinusExcessOrLosses>-412</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>75. CONOCOPHILLIPS COM</DescriptionOfAsset>
+          <DateAcquired>2009-01-12</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>4492</GrossSalesPrice>
+          <CostOrOtherBasis>3810</CostOrOtherBasis>
+          <GainOrLoss>682</GainOrLoss>
+          <GainsMinusExcessOrLosses>682</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>150. CORNING INCORPORATED</DescriptionOfAsset>
+          <DateAcquired>2008-09-24</DateAcquired>
+          <DateSold>2009-12-16</DateSold>
+          <GrossSalesPrice>2814</GrossSalesPrice>
+          <CostOrOtherBasis>2513</CostOrOtherBasis>
+          <GainOrLoss>301</GainOrLoss>
+          <GainsMinusExcessOrLosses>301</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>355. CORNING INCORPORATED</DescriptionOfAsset>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>6447</GrossSalesPrice>
+          <CostOrOtherBasis>4895</CostOrOtherBasis>
+          <GainOrLoss>1552</GainOrLoss>
+          <GainsMinusExcessOrLosses>1552</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>250. CORRECTIONS CORP AMER NEW COM NEW</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>5147</GrossSalesPrice>
+          <CostOrOtherBasis>5165</CostOrOtherBasis>
+          <GainOrLoss>-18</GainOrLoss>
+          <GainsMinusExcessOrLosses>-18</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>220. COVANTA HOLDING CORP COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2009-12-16</DateSold>
+          <GrossSalesPrice>3850</GrossSalesPrice>
+          <CostOrOtherBasis>3751</CostOrOtherBasis>
+          <GainOrLoss>99</GainOrLoss>
+          <GainsMinusExcessOrLosses>99</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>60. CTRIP.COM INTERNATIONAL LTD</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2009-12-16</DateSold>
+          <GrossSalesPrice>4648</GrossSalesPrice>
+          <CostOrOtherBasis>3107</CostOrOtherBasis>
+          <GainOrLoss>1541</GainOrLoss>
+          <GainsMinusExcessOrLosses>1541</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>60. CTRIP.COM INTERNATIONAL LTD</DescriptionOfAsset>
+          <DateAcquired>2010-02-19</DateAcquired>
+          <DateSold>2010-08-17</DateSold>
+          <GrossSalesPrice>2492</GrossSalesPrice>
+          <CostOrOtherBasis>2127</CostOrOtherBasis>
+          <GainOrLoss>365</GainOrLoss>
+          <GainsMinusExcessOrLosses>365</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>50. CTRIP.COM INTERNATIONAL LTD</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-08-17</DateSold>
+          <GrossSalesPrice>2077</GrossSalesPrice>
+          <CostOrOtherBasis>1295</CostOrOtherBasis>
+          <GainOrLoss>782</GainOrLoss>
+          <GainsMinusExcessOrLosses>782</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>50. CTRIP.COM INTERNATIONAL LTD</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>2491</GrossSalesPrice>
+          <CostOrOtherBasis>1295</CostOrOtherBasis>
+          <GainOrLoss>1196</GainOrLoss>
+          <GainsMinusExcessOrLosses>1196</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>50. DIAMOND OFFSHORE DRILLING INC COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2009-12-16</DateSold>
+          <GrossSalesPrice>4990</GrossSalesPrice>
+          <CostOrOtherBasis>4409</CostOrOtherBasis>
+          <GainOrLoss>581</GainOrLoss>
+          <GainsMinusExcessOrLosses>581</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>260. DIGITAL RIV INC</DescriptionOfAsset>
+          <DateSold>2009-12-16</DateSold>
+          <GrossSalesPrice>6840</GrossSalesPrice>
+          <CostOrOtherBasis>8037</CostOrOtherBasis>
+          <GainOrLoss>-1197</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1197</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>50. DISNEY WALT COMPANY</DescriptionOfAsset>
+          <DateAcquired>2009-01-12</DateAcquired>
+          <DateSold>2009-12-16</DateSold>
+          <GrossSalesPrice>1624</GrossSalesPrice>
+          <CostOrOtherBasis>1103</CostOrOtherBasis>
+          <GainOrLoss>521</GainOrLoss>
+          <GainsMinusExcessOrLosses>521</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>65. DISNEY WALT COMPANY</DescriptionOfAsset>
+          <DateAcquired>2008-12-09</DateAcquired>
+          <DateSold>2009-12-16</DateSold>
+          <GrossSalesPrice>2111</GrossSalesPrice>
+          <CostOrOtherBasis>1614</CostOrOtherBasis>
+          <GainOrLoss>497</GainOrLoss>
+          <GainsMinusExcessOrLosses>497</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>210. DISNEY WALT COMPANY</DescriptionOfAsset>
+          <DateAcquired>2002-11-25</DateAcquired>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>6594</GrossSalesPrice>
+          <CostOrOtherBasis>4165</CostOrOtherBasis>
+          <GainOrLoss>2429</GainOrLoss>
+          <GainsMinusExcessOrLosses>2429</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>360. DU PONT E I DE NEMOURS &amp; COMPANY</DescriptionOfAsset>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>12240</GrossSalesPrice>
+          <CostOrOtherBasis>13172</CostOrOtherBasis>
+          <GainOrLoss>-932</GainOrLoss>
+          <GainsMinusExcessOrLosses>-932</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>190. EBAY INC</DescriptionOfAsset>
+          <DateAcquired>2010-02-19</DateAcquired>
+          <DateSold>2010-06-29</DateSold>
+          <GrossSalesPrice>3783</GrossSalesPrice>
+          <CostOrOtherBasis>4428</CostOrOtherBasis>
+          <GainOrLoss>-645</GainOrLoss>
+          <GainsMinusExcessOrLosses>-645</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>110. EBAY INC</DescriptionOfAsset>
+          <DateAcquired>2010-02-19</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>3187</GrossSalesPrice>
+          <CostOrOtherBasis>2564</CostOrOtherBasis>
+          <GainOrLoss>623</GainOrLoss>
+          <GainsMinusExcessOrLosses>623</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>260. EDISON INTERNATIONAL</DescriptionOfAsset>
+          <DateAcquired>2009-03-02</DateAcquired>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>8892</GrossSalesPrice>
+          <CostOrOtherBasis>6698</CostOrOtherBasis>
+          <GainOrLoss>2194</GainOrLoss>
+          <GainsMinusExcessOrLosses>2194</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>60. EDISON INTERNATIONAL</DescriptionOfAsset>
+          <DateAcquired>2009-03-02</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>2136</GrossSalesPrice>
+          <CostOrOtherBasis>1546</CostOrOtherBasis>
+          <GainOrLoss>590</GainOrLoss>
+          <GainsMinusExcessOrLosses>590</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>70. EMCOR GROUP INC</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>1815</GrossSalesPrice>
+          <CostOrOtherBasis>1762</CostOrOtherBasis>
+          <GainOrLoss>53</GainOrLoss>
+          <GainsMinusExcessOrLosses>53</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>85. EMERSON ELECTRIC COMPANY</DescriptionOfAsset>
+          <DateAcquired>2009-04-20</DateAcquired>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>4085</GrossSalesPrice>
+          <CostOrOtherBasis>2717</CostOrOtherBasis>
+          <GainOrLoss>1368</GainOrLoss>
+          <GainsMinusExcessOrLosses>1368</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>280. EMERSON ELECTRIC COMPANY</DescriptionOfAsset>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>13455</GrossSalesPrice>
+          <CostOrOtherBasis>11491</CostOrOtherBasis>
+          <GainOrLoss>1964</GainOrLoss>
+          <GainsMinusExcessOrLosses>1964</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>.447 ESPRIT HOLDINGS LIMITED SPONS ADR</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-02-17</DateSold>
+          <GrossSalesPrice>7</GrossSalesPrice>
+          <CostOrOtherBasis>6</CostOrOtherBasis>
+          <GainOrLoss>1</GainOrLoss>
+          <GainsMinusExcessOrLosses>1</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>145. EXELON CORPORATEION</DescriptionOfAsset>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>6529</GrossSalesPrice>
+          <CostOrOtherBasis>7030</CostOrOtherBasis>
+          <GainOrLoss>-501</GainOrLoss>
+          <GainsMinusExcessOrLosses>-501</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>70. FAMILY DOLLAR STORES INCORPORATED</DescriptionOfAsset>
+          <DateAcquired>2009-12-16</DateAcquired>
+          <DateSold>2010-04-07</DateSold>
+          <GrossSalesPrice>2748</GrossSalesPrice>
+          <CostOrOtherBasis>1974</CostOrOtherBasis>
+          <GainOrLoss>774</GainOrLoss>
+          <GainsMinusExcessOrLosses>774</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>160. FAMILY DOLLAR STORES INCORPORATED</DescriptionOfAsset>
+          <DateAcquired>2009-12-16</DateAcquired>
+          <DateSold>2010-06-29</DateSold>
+          <GrossSalesPrice>6089</GrossSalesPrice>
+          <CostOrOtherBasis>4512</CostOrOtherBasis>
+          <GainOrLoss>1577</GainOrLoss>
+          <GainsMinusExcessOrLosses>1577</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>230. FIDELITY NATIONAL INFORMATION SERVICES I</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-08-17</DateSold>
+          <GrossSalesPrice>6166</GrossSalesPrice>
+          <CostOrOtherBasis>5674</CostOrOtherBasis>
+          <GainOrLoss>492</GainOrLoss>
+          <GainsMinusExcessOrLosses>492</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>60. FOMENTO ECONOMICO MEXICANO S.A. DE C.V.</DescriptionOfAsset>
+          <DateAcquired>2009-10-16</DateAcquired>
+          <DateSold>2009-12-16</DateSold>
+          <GrossSalesPrice>2866</GrossSalesPrice>
+          <CostOrOtherBasis>2689</CostOrOtherBasis>
+          <GainOrLoss>177</GainOrLoss>
+          <GainsMinusExcessOrLosses>177</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>80. FRANCE TELECOM SPONS ADR COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-12-16</DateAcquired>
+          <DateSold>2010-08-17</DateSold>
+          <GrossSalesPrice>1709</GrossSalesPrice>
+          <CostOrOtherBasis>2034</CostOrOtherBasis>
+          <GainOrLoss>-325</GainOrLoss>
+          <GainsMinusExcessOrLosses>-325</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>130. GENUINE PARTS COMPANY</DescriptionOfAsset>
+          <DateAcquired>2009-10-16</DateAcquired>
+          <DateSold>2010-04-07</DateSold>
+          <GrossSalesPrice>5581</GrossSalesPrice>
+          <CostOrOtherBasis>4983</CostOrOtherBasis>
+          <GainOrLoss>598</GainOrLoss>
+          <GainsMinusExcessOrLosses>598</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>70. GENUINE PARTS COMPANY</DescriptionOfAsset>
+          <DateAcquired>2009-10-16</DateAcquired>
+          <DateSold>2010-06-29</DateSold>
+          <GrossSalesPrice>2789</GrossSalesPrice>
+          <CostOrOtherBasis>2683</CostOrOtherBasis>
+          <GainOrLoss>106</GainOrLoss>
+          <GainsMinusExcessOrLosses>106</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>120. GENUINE PARTS COMPANY</DescriptionOfAsset>
+          <DateAcquired>2009-10-16</DateAcquired>
+          <DateSold>2010-08-17</DateSold>
+          <GrossSalesPrice>5194</GrossSalesPrice>
+          <CostOrOtherBasis>4600</CostOrOtherBasis>
+          <GainOrLoss>594</GainOrLoss>
+          <GainsMinusExcessOrLosses>594</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>4. GOOGLE INC CL A</DescriptionOfAsset>
+          <DateAcquired>2009-03-23</DateAcquired>
+          <DateSold>2009-12-16</DateSold>
+          <GrossSalesPrice>2394</GrossSalesPrice>
+          <CostOrOtherBasis>1339</CostOrOtherBasis>
+          <GainOrLoss>1055</GainOrLoss>
+          <GainsMinusExcessOrLosses>1055</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>20. HDFC BANK LTD ADR</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>3363</GrossSalesPrice>
+          <CostOrOtherBasis>1922</CostOrOtherBasis>
+          <GainOrLoss>1441</GainOrLoss>
+          <GainsMinusExcessOrLosses>1441</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>140. HANG LUNG PROPERTIES LIMITED SP ADR</DescriptionOfAsset>
+          <DateAcquired>2009-10-16</DateAcquired>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>2579</GrossSalesPrice>
+          <CostOrOtherBasis>2594</CostOrOtherBasis>
+          <GainOrLoss>-15</GainOrLoss>
+          <GainsMinusExcessOrLosses>-15</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>40. HENKEL KGAA</DescriptionOfAsset>
+          <DateAcquired>2009-12-16</DateAcquired>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>1989</GrossSalesPrice>
+          <CostOrOtherBasis>2141</CostOrOtherBasis>
+          <GainOrLoss>-152</GainOrLoss>
+          <GainsMinusExcessOrLosses>-152</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>130. HEWLETT PACKARD COMPANY</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>6609</GrossSalesPrice>
+          <CostOrOtherBasis>5741</CostOrOtherBasis>
+          <GainOrLoss>868</GainOrLoss>
+          <GainsMinusExcessOrLosses>868</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>70. HEWLETT PACKARD COMPANY</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-04-07</DateSold>
+          <GrossSalesPrice>3749</GrossSalesPrice>
+          <CostOrOtherBasis>3091</CostOrOtherBasis>
+          <GainOrLoss>658</GainOrLoss>
+          <GainsMinusExcessOrLosses>658</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>130. HIBBETT SPORTS INC COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-10-16</DateAcquired>
+          <DateSold>2009-12-16</DateSold>
+          <GrossSalesPrice>2654</GrossSalesPrice>
+          <CostOrOtherBasis>2717</CostOrOtherBasis>
+          <GainOrLoss>-63</GainOrLoss>
+          <GainsMinusExcessOrLosses>-63</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>140. HUANENG PWR INT'L ADR</DescriptionOfAsset>
+          <DateAcquired>2009-12-16</DateAcquired>
+          <DateSold>2010-04-07</DateSold>
+          <GrossSalesPrice>3253</GrossSalesPrice>
+          <CostOrOtherBasis>3216</CostOrOtherBasis>
+          <GainOrLoss>37</GainOrLoss>
+          <GainsMinusExcessOrLosses>37</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>190. ICAP PLC</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-08-17</DateSold>
+          <GrossSalesPrice>2381</GrossSalesPrice>
+          <CostOrOtherBasis>2728</CostOrOtherBasis>
+          <GainOrLoss>-347</GainOrLoss>
+          <GainsMinusExcessOrLosses>-347</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>90. INFOSYS TECHNOLOGIES SP ADR ISIN #US4567881085</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>5042</GrossSalesPrice>
+          <CostOrOtherBasis>3884</CostOrOtherBasis>
+          <GainOrLoss>1158</GainOrLoss>
+          <GainsMinusExcessOrLosses>1158</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>90. INFOSYS TECHNOLOGIES SP ADR ISIN #US4567881085</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-04-07</DateSold>
+          <GrossSalesPrice>5410</GrossSalesPrice>
+          <CostOrOtherBasis>3884</CostOrOtherBasis>
+          <GainOrLoss>1526</GainOrLoss>
+          <GainsMinusExcessOrLosses>1526</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>400. INTEL CORPORATION</DescriptionOfAsset>
+          <DateAcquired>2002-11-25</DateAcquired>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>8352</GrossSalesPrice>
+          <CostOrOtherBasis>8228</CostOrOtherBasis>
+          <GainOrLoss>124</GainOrLoss>
+          <GainsMinusExcessOrLosses>124</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>110. ISHARES LEHMAN 1-3 YR TREASURY BOND FUND</DescriptionOfAsset>
+          <DateAcquired>2010-04-07</DateAcquired>
+          <DateSold>2010-06-29</DateSold>
+          <GrossSalesPrice>9251</GrossSalesPrice>
+          <CostOrOtherBasis>9151</CostOrOtherBasis>
+          <GainOrLoss>100</GainOrLoss>
+          <GainsMinusExcessOrLosses>100</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>110. ISHARES LEHMAN MBS FIXED-RATE BOND FUND</DescriptionOfAsset>
+          <DateAcquired>2007-11-15</DateAcquired>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>11743</GrossSalesPrice>
+          <CostOrOtherBasis>11132</CostOrOtherBasis>
+          <GainOrLoss>611</GainOrLoss>
+          <GainsMinusExcessOrLosses>611</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>360. ISHARES LEHMAN MBS FIXED-RATE BOND FUND</DescriptionOfAsset>
+          <DateAcquired>2007-11-15</DateAcquired>
+          <DateSold>2010-06-29</DateSold>
+          <GrossSalesPrice>39442</GrossSalesPrice>
+          <CostOrOtherBasis>36432</CostOrOtherBasis>
+          <GainOrLoss>3010</GainOrLoss>
+          <GainsMinusExcessOrLosses>3010</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>200. ISHARES LEHMAN INTERMEDIATE</DescriptionOfAsset>
+          <DateAcquired>2007-12-19</DateAcquired>
+          <DateSold>2009-12-16</DateSold>
+          <GrossSalesPrice>20722</GrossSalesPrice>
+          <CostOrOtherBasis>20155</CostOrOtherBasis>
+          <GainOrLoss>567</GainOrLoss>
+          <GainsMinusExcessOrLosses>567</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>500. ISHARES LEHMAN INTERMEDIATE</DescriptionOfAsset>
+          <DateSold>2010-08-17</DateSold>
+          <GrossSalesPrice>53734</GrossSalesPrice>
+          <CostOrOtherBasis>49809</CostOrOtherBasis>
+          <GainOrLoss>3925</GainOrLoss>
+          <GainsMinusExcessOrLosses>3925</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>550. ISHARES SILVER TRUST</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>8871</GrossSalesPrice>
+          <CostOrOtherBasis>7871</CostOrOtherBasis>
+          <GainOrLoss>1000</GainOrLoss>
+          <GainsMinusExcessOrLosses>1000</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>650. ISHARES SILVER TRUST</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-04-07</DateSold>
+          <GrossSalesPrice>11531</GrossSalesPrice>
+          <CostOrOtherBasis>9302</CostOrOtherBasis>
+          <GainOrLoss>2229</GainOrLoss>
+          <GainsMinusExcessOrLosses>2229</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>150. MINING AND METALLURGICAL CO NORILSK NICK</DescriptionOfAsset>
+          <DateAcquired>2009-12-16</DateAcquired>
+          <DateSold>2010-08-17</DateSold>
+          <GrossSalesPrice>2545</GrossSalesPrice>
+          <CostOrOtherBasis>2150</CostOrOtherBasis>
+          <GainOrLoss>395</GainOrLoss>
+          <GainsMinusExcessOrLosses>395</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>50. JO-ANN STORES INC COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>2072</GrossSalesPrice>
+          <CostOrOtherBasis>1227</CostOrOtherBasis>
+          <GainOrLoss>845</GainOrLoss>
+          <GainsMinusExcessOrLosses>845</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>260. JUNIPER NETWORKS INC</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-08-17</DateSold>
+          <GrossSalesPrice>6839</GrossSalesPrice>
+          <CostOrOtherBasis>6612</CostOrOtherBasis>
+          <GainOrLoss>227</GainOrLoss>
+          <GainsMinusExcessOrLosses>227</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>40. JUPITER TELECOMMUNICATIONS CO LTD ADR</DescriptionOfAsset>
+          <DateAcquired>2009-10-16</DateAcquired>
+          <DateSold>2010-06-29</DateSold>
+          <GrossSalesPrice>2445</GrossSalesPrice>
+          <CostOrOtherBasis>2385</CostOrOtherBasis>
+          <GainOrLoss>60</GainOrLoss>
+          <GainsMinusExcessOrLosses>60</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>720. KROGER COMPANY COMMON</DescriptionOfAsset>
+          <DateAcquired>2010-02-19</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>15653</GrossSalesPrice>
+          <CostOrOtherBasis>15942</CostOrOtherBasis>
+          <GainOrLoss>-289</GainOrLoss>
+          <GainsMinusExcessOrLosses>-289</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>30. L 3 COMMUNICATIONS HOLDINGS INC COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2009-12-16</DateSold>
+          <GrossSalesPrice>2565</GrossSalesPrice>
+          <CostOrOtherBasis>2257</CostOrOtherBasis>
+          <GainOrLoss>308</GainOrLoss>
+          <GainsMinusExcessOrLosses>308</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>50. LAM RESH CORP</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-04-07</DateSold>
+          <GrossSalesPrice>1892</GrossSalesPrice>
+          <CostOrOtherBasis>1473</CostOrOtherBasis>
+          <GainOrLoss>419</GainOrLoss>
+          <GainsMinusExcessOrLosses>419</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>30. LAYNE CHRISTENSEN COMPANY</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-04-07</DateSold>
+          <GrossSalesPrice>785</GrossSalesPrice>
+          <CostOrOtherBasis>726</CostOrOtherBasis>
+          <GainOrLoss>59</GainOrLoss>
+          <GainsMinusExcessOrLosses>59</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>190. LOWES COMPANIES INCORPORATED</DescriptionOfAsset>
+          <DateAcquired>2010-02-19</DateAcquired>
+          <DateSold>2010-06-29</DateSold>
+          <GrossSalesPrice>3937</GrossSalesPrice>
+          <CostOrOtherBasis>4380</CostOrOtherBasis>
+          <GainOrLoss>-443</GainOrLoss>
+          <GainsMinusExcessOrLosses>-443</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>130. LOWES COMPANIES INCORPORATED</DescriptionOfAsset>
+          <DateAcquired>2010-02-19</DateAcquired>
+          <DateSold>2010-08-17</DateSold>
+          <GrossSalesPrice>2621</GrossSalesPrice>
+          <CostOrOtherBasis>2997</CostOrOtherBasis>
+          <GainOrLoss>-376</GainOrLoss>
+          <GainsMinusExcessOrLosses>-376</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>210. MERCK &amp; CO INC</DescriptionOfAsset>
+          <DateAcquired>2008-05-01</DateAcquired>
+          <DateSold>2009-12-16</DateSold>
+          <GrossSalesPrice>7944</GrossSalesPrice>
+          <CostOrOtherBasis>8159</CostOrOtherBasis>
+          <GainOrLoss>-215</GainOrLoss>
+          <GainsMinusExcessOrLosses>-215</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>70. MERCK &amp; CO INC</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-04-07</DateSold>
+          <GrossSalesPrice>2593</GrossSalesPrice>
+          <CostOrOtherBasis>2152</CostOrOtherBasis>
+          <GainOrLoss>441</GainOrLoss>
+          <GainsMinusExcessOrLosses>441</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>90. MERCK &amp; CO INC</DescriptionOfAsset>
+          <DateAcquired>2008-05-01</DateAcquired>
+          <DateSold>2010-04-07</DateSold>
+          <GrossSalesPrice>3334</GrossSalesPrice>
+          <CostOrOtherBasis>3497</CostOrOtherBasis>
+          <GainOrLoss>-163</GainOrLoss>
+          <GainsMinusExcessOrLosses>-163</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>60. MICRO SYSTEMS, INC. COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-06-29</DateSold>
+          <GrossSalesPrice>1939</GrossSalesPrice>
+          <CostOrOtherBasis>1725</CostOrOtherBasis>
+          <GainOrLoss>214</GainOrLoss>
+          <GainsMinusExcessOrLosses>214</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>60. MICRO SYSTEMS, INC. COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>2657</GrossSalesPrice>
+          <CostOrOtherBasis>1725</CostOrOtherBasis>
+          <GainOrLoss>932</GainOrLoss>
+          <GainsMinusExcessOrLosses>932</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>260. MICROSOFT CORPORATION</DescriptionOfAsset>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>7488</GrossSalesPrice>
+          <CostOrOtherBasis>5406</CostOrOtherBasis>
+          <GainOrLoss>2082</GainOrLoss>
+          <GainsMinusExcessOrLosses>2082</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>850. MITSUBISHI UJF FINANCIAL GROUP INC</DescriptionOfAsset>
+          <DateSold>2010-04-07</DateSold>
+          <GrossSalesPrice>4536</GrossSalesPrice>
+          <CostOrOtherBasis>5019</CostOrOtherBasis>
+          <GainOrLoss>-483</GainOrLoss>
+          <GainsMinusExcessOrLosses>-483</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>40. MOHAWK IND INC COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>2269</GrossSalesPrice>
+          <CostOrOtherBasis>2012</CostOrOtherBasis>
+          <GainOrLoss>257</GainOrLoss>
+          <GainsMinusExcessOrLosses>257</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>155. MONSANTO CO COMMON</DescriptionOfAsset>
+          <DateAcquired>2008-10-28</DateAcquired>
+          <DateSold>2010-06-29</DateSold>
+          <GrossSalesPrice>7362</GrossSalesPrice>
+          <CostOrOtherBasis>12385</CostOrOtherBasis>
+          <GainOrLoss>-5023</GainOrLoss>
+          <GainsMinusExcessOrLosses>-5023</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>25. MONSANTO CO COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-01-22</DateAcquired>
+          <DateSold>2010-08-17</DateSold>
+          <GrossSalesPrice>1483</GrossSalesPrice>
+          <CostOrOtherBasis>1902</CostOrOtherBasis>
+          <GainOrLoss>-419</GainOrLoss>
+          <GainsMinusExcessOrLosses>-419</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>150. MTN GROUP LTD ADR</DescriptionOfAsset>
+          <DateAcquired>2009-10-16</DateAcquired>
+          <DateSold>2010-08-17</DateSold>
+          <GrossSalesPrice>2463</GrossSalesPrice>
+          <CostOrOtherBasis>2511</CostOrOtherBasis>
+          <GainOrLoss>-48</GainOrLoss>
+          <GainsMinusExcessOrLosses>-48</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>20. NAVIGATORS GROUP INC COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-04-07</DateSold>
+          <GrossSalesPrice>805</GrossSalesPrice>
+          <CostOrOtherBasis>1025</CostOrOtherBasis>
+          <GainOrLoss>-220</GainOrLoss>
+          <GainsMinusExcessOrLosses>-220</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>40. NIDEC CORPORATION</DescriptionOfAsset>
+          <DateAcquired>2010-02-19</DateAcquired>
+          <DateSold>2010-04-07</DateSold>
+          <GrossSalesPrice>1050</GrossSalesPrice>
+          <CostOrOtherBasis>968</CostOrOtherBasis>
+          <GainOrLoss>82</GainOrLoss>
+          <GainsMinusExcessOrLosses>82</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>400. NOKIA CORP</DescriptionOfAsset>
+          <DateAcquired>2010-02-19</DateAcquired>
+          <DateSold>2010-06-29</DateSold>
+          <GrossSalesPrice>3212</GrossSalesPrice>
+          <CostOrOtherBasis>5354</CostOrOtherBasis>
+          <GainOrLoss>-2142</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2142</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>280. NOMURA HOLDINGS INC.</DescriptionOfAsset>
+          <DateAcquired>2010-02-19</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>1459</GrossSalesPrice>
+          <CostOrOtherBasis>1996</CostOrOtherBasis>
+          <GainOrLoss>-537</GainOrLoss>
+          <GainsMinusExcessOrLosses>-537</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>390. NOMURA HOLDINGS INC.</DescriptionOfAsset>
+          <DateAcquired>2009-10-16</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>2032</GrossSalesPrice>
+          <CostOrOtherBasis>2679</CostOrOtherBasis>
+          <GainOrLoss>-647</GainOrLoss>
+          <GainsMinusExcessOrLosses>-647</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>50. NOVO-NORDISK A S ADR</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-04-07</DateSold>
+          <GrossSalesPrice>3983</GrossSalesPrice>
+          <CostOrOtherBasis>3004</CostOrOtherBasis>
+          <GainOrLoss>979</GainOrLoss>
+          <GainsMinusExcessOrLosses>979</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>140. NUCOR CORPORATION</DescriptionOfAsset>
+          <DateAcquired>2010-02-19</DateAcquired>
+          <DateSold>2010-06-29</DateSold>
+          <GrossSalesPrice>5398</GrossSalesPrice>
+          <CostOrOtherBasis>6226</CostOrOtherBasis>
+          <GainOrLoss>-828</GainOrLoss>
+          <GainsMinusExcessOrLosses>-828</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>100. OSI PHARMACEUTICALS INC</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-04-07</DateSold>
+          <GrossSalesPrice>5984</GrossSalesPrice>
+          <CostOrOtherBasis>3340</CostOrOtherBasis>
+          <GainOrLoss>2644</GainOrLoss>
+          <GainsMinusExcessOrLosses>2644</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>230. ORACLE SYSTEM CORPORATION</DescriptionOfAsset>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>5605</GrossSalesPrice>
+          <CostOrOtherBasis>4072</CostOrOtherBasis>
+          <GainOrLoss>1533</GainOrLoss>
+          <GainsMinusExcessOrLosses>1533</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>200. ORACLE SYSTEM CORPORATION</DescriptionOfAsset>
+          <DateAcquired>2008-12-09</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>5702</GrossSalesPrice>
+          <CostOrOtherBasis>3459</CostOrOtherBasis>
+          <GainOrLoss>2243</GainOrLoss>
+          <GainsMinusExcessOrLosses>2243</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>80. PALL CORPORATION COMMON</DescriptionOfAsset>
+          <DateAcquired>2008-12-09</DateAcquired>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>2974</GrossSalesPrice>
+          <CostOrOtherBasis>2231</CostOrOtherBasis>
+          <GainOrLoss>743</GainOrLoss>
+          <GainsMinusExcessOrLosses>743</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>80. PALL CORPORATION COMMON</DescriptionOfAsset>
+          <DateAcquired>2008-12-09</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>3406</GrossSalesPrice>
+          <CostOrOtherBasis>2231</CostOrOtherBasis>
+          <GainOrLoss>1175</GainOrLoss>
+          <GainsMinusExcessOrLosses>1175</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>260. PALM INC COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-04-07</DateSold>
+          <GrossSalesPrice>1063</GrossSalesPrice>
+          <CostOrOtherBasis>3539</CostOrOtherBasis>
+          <GainOrLoss>-2476</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2476</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>90. PAREXEL INTERNATIONAL COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-04-07</DateSold>
+          <GrossSalesPrice>2126</GrossSalesPrice>
+          <CostOrOtherBasis>1152</CostOrOtherBasis>
+          <GainOrLoss>974</GainOrLoss>
+          <GainsMinusExcessOrLosses>974</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>40. PARKER HANNIFIN CORP</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-08-17</DateSold>
+          <GrossSalesPrice>2628</GrossSalesPrice>
+          <CostOrOtherBasis>1975</CostOrOtherBasis>
+          <GainOrLoss>653</GainOrLoss>
+          <GainsMinusExcessOrLosses>653</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>60. PEPSICO INCORPORATED</DescriptionOfAsset>
+          <DateAcquired>2008-12-09</DateAcquired>
+          <DateSold>2009-12-16</DateSold>
+          <GrossSalesPrice>3651</GrossSalesPrice>
+          <CostOrOtherBasis>3196</CostOrOtherBasis>
+          <GainOrLoss>455</GainOrLoss>
+          <GainsMinusExcessOrLosses>455</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>250. PHARMACEUTICAL PRODUCT DEVELOPMENT COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2009-12-16</DateSold>
+          <GrossSalesPrice>5437</GrossSalesPrice>
+          <CostOrOtherBasis>5108</CostOrOtherBasis>
+          <GainOrLoss>329</GainOrLoss>
+          <GainsMinusExcessOrLosses>329</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1733.06 PIMCO FOREIGN BOND FD UNHEDGED FD 1853 C</DescriptionOfAsset>
+          <DateAcquired>2009-01-22</DateAcquired>
+          <DateSold>2010-06-29</DateSold>
+          <GrossSalesPrice>17435</GrossSalesPrice>
+          <CostOrOtherBasis>14627</CostOrOtherBasis>
+          <GainOrLoss>2808</GainOrLoss>
+          <GainsMinusExcessOrLosses>2808</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>270. PRESTIGE BRANDS HOLDINGS INC COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>2879</GrossSalesPrice>
+          <CostOrOtherBasis>2068</CostOrOtherBasis>
+          <GainOrLoss>811</GainOrLoss>
+          <GainsMinusExcessOrLosses>811</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>165. PROCTOR AND GAMBLE COMPANY</DescriptionOfAsset>
+          <DateAcquired>2004-11-02</DateAcquired>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>10482</GrossSalesPrice>
+          <CostOrOtherBasis>8438</CostOrOtherBasis>
+          <GainOrLoss>2044</GainOrLoss>
+          <GainsMinusExcessOrLosses>2044</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>60. PSYCHIATRIC SOLUTIONS INC COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-12-16</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>2008</GrossSalesPrice>
+          <CostOrOtherBasis>1316</CostOrOtherBasis>
+          <GainOrLoss>692</GainOrLoss>
+          <GainsMinusExcessOrLosses>692</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>80. PSYCHIATRIC SOLUTIONS INC COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-12-16</DateAcquired>
+          <DateSold>2010-11-16</DateSold>
+          <GrossSalesPrice>2700</GrossSalesPrice>
+          <CostOrOtherBasis>1754</CostOrOtherBasis>
+          <GainOrLoss>946</GainOrLoss>
+          <GainsMinusExcessOrLosses>946</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>20. QUALCOMM INC COMMON</DescriptionOfAsset>
+          <DateAcquired>2008-01-29</DateAcquired>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>795</GrossSalesPrice>
+          <CostOrOtherBasis>812</CostOrOtherBasis>
+          <GainOrLoss>-17</GainOrLoss>
+          <GainsMinusExcessOrLosses>-17</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>105. QUALCOMM INC COMMON</DescriptionOfAsset>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>4608</GrossSalesPrice>
+          <CostOrOtherBasis>3653</CostOrOtherBasis>
+          <GainOrLoss>955</GainOrLoss>
+          <GainsMinusExcessOrLosses>955</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>80. REGENERON PHARMACUETICALS INC COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-12-16</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>2145</GrossSalesPrice>
+          <CostOrOtherBasis>1662</CostOrOtherBasis>
+          <GainOrLoss>483</GainOrLoss>
+          <GainsMinusExcessOrLosses>483</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>30. SPDR GOLD TRUST</DescriptionOfAsset>
+          <DateAcquired>2008-09-24</DateAcquired>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>3308</GrossSalesPrice>
+          <CostOrOtherBasis>2614</CostOrOtherBasis>
+          <GainOrLoss>694</GainOrLoss>
+          <GainsMinusExcessOrLosses>694</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>85. SPDR GOLD TRUST</DescriptionOfAsset>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>10981</GrossSalesPrice>
+          <CostOrOtherBasis>6562</CostOrOtherBasis>
+          <GainOrLoss>4419</GainOrLoss>
+          <GainsMinusExcessOrLosses>4419</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>170. SALLY BEAUTY COMPANY INC COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>2088</GrossSalesPrice>
+          <CostOrOtherBasis>1282</CostOrOtherBasis>
+          <GainOrLoss>806</GainOrLoss>
+          <GainsMinusExcessOrLosses>806</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>70. SAP AKTIENGESELLSCHAFT</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-08-17</DateSold>
+          <GrossSalesPrice>3177</GrossSalesPrice>
+          <CostOrOtherBasis>3302</CostOrOtherBasis>
+          <GainOrLoss>-125</GainOrLoss>
+          <GainsMinusExcessOrLosses>-125</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1240. AMEX FINANCIAL SELECT SPDR</DescriptionOfAsset>
+          <DateSold>2009-12-16</DateSold>
+          <GrossSalesPrice>17781</GrossSalesPrice>
+          <CostOrOtherBasis>9004</CostOrOtherBasis>
+          <GainOrLoss>8777</GainOrLoss>
+          <GainsMinusExcessOrLosses>8777</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>80. SEMTECH CORP</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-04-07</DateSold>
+          <GrossSalesPrice>1429</GrossSalesPrice>
+          <CostOrOtherBasis>1401</CostOrOtherBasis>
+          <GainOrLoss>28</GainOrLoss>
+          <GainsMinusExcessOrLosses>28</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>80. SHAW GROUP INC COM</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>2865</GrossSalesPrice>
+          <CostOrOtherBasis>2490</CostOrOtherBasis>
+          <GainOrLoss>375</GainOrLoss>
+          <GainsMinusExcessOrLosses>375</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>80. SHERWIN WILLIAMS</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2009-12-16</DateSold>
+          <GrossSalesPrice>4927</GrossSalesPrice>
+          <CostOrOtherBasis>4938</CostOrOtherBasis>
+          <GainOrLoss>-11</GainOrLoss>
+          <GainsMinusExcessOrLosses>-11</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>50. SHIRE PHARMACEUTICALS GROUP PLC</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-04-07</DateSold>
+          <GrossSalesPrice>3312</GrossSalesPrice>
+          <CostOrOtherBasis>2510</CostOrOtherBasis>
+          <GainOrLoss>802</GainOrLoss>
+          <GainsMinusExcessOrLosses>802</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>90. SMITH &amp; NEPHEW PLC - SPON ADR</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-04-07</DateSold>
+          <GrossSalesPrice>4527</GrossSalesPrice>
+          <CostOrOtherBasis>3576</CostOrOtherBasis>
+          <GainOrLoss>951</GainOrLoss>
+          <GainsMinusExcessOrLosses>951</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>550. STAPLES INC COMMON</DescriptionOfAsset>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>14151</GrossSalesPrice>
+          <CostOrOtherBasis>12367</CostOrOtherBasis>
+          <GainOrLoss>1784</GainOrLoss>
+          <GainsMinusExcessOrLosses>1784</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>190. SUMITOMO CORPORATION</DescriptionOfAsset>
+          <DateAcquired>2010-02-19</DateAcquired>
+          <DateSold>2010-08-17</DateSold>
+          <GrossSalesPrice>2221</GrossSalesPrice>
+          <CostOrOtherBasis>2010</CostOrOtherBasis>
+          <GainOrLoss>211</GainOrLoss>
+          <GainsMinusExcessOrLosses>211</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>80. SUN HYDRAULICS CORPORATION COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2009-12-16</DateSold>
+          <GrossSalesPrice>2208</GrossSalesPrice>
+          <CostOrOtherBasis>1484</CostOrOtherBasis>
+          <GainOrLoss>724</GainOrLoss>
+          <GainsMinusExcessOrLosses>724</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>250. SUNCOR ENERGY, INC</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>7899</GrossSalesPrice>
+          <CostOrOtherBasis>8168</CostOrOtherBasis>
+          <GainOrLoss>-269</GainOrLoss>
+          <GainsMinusExcessOrLosses>-269</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>230. SYSCO CORPORATION</DescriptionOfAsset>
+          <DateAcquired>2008-01-29</DateAcquired>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>6693</GrossSalesPrice>
+          <CostOrOtherBasis>6514</CostOrOtherBasis>
+          <GainOrLoss>179</GainOrLoss>
+          <GainsMinusExcessOrLosses>179</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>330. SYSCO CORPORATION</DescriptionOfAsset>
+          <DateAcquired>2008-01-29</DateAcquired>
+          <DateSold>2010-04-07</DateSold>
+          <GrossSalesPrice>9812</GrossSalesPrice>
+          <CostOrOtherBasis>9347</CostOrOtherBasis>
+          <GainOrLoss>465</GainOrLoss>
+          <GainsMinusExcessOrLosses>465</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>40. TELEFONICA S A</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-06-29</DateSold>
+          <GrossSalesPrice>2216</GrossSalesPrice>
+          <CostOrOtherBasis>2972</CostOrOtherBasis>
+          <GainOrLoss>-756</GainOrLoss>
+          <GainsMinusExcessOrLosses>-756</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>30. TELEFONICA S A</DescriptionOfAsset>
+          <DateAcquired>2010-02-19</DateAcquired>
+          <DateSold>2010-08-17</DateSold>
+          <GrossSalesPrice>2034</GrossSalesPrice>
+          <CostOrOtherBasis>2130</CostOrOtherBasis>
+          <GainOrLoss>-96</GainOrLoss>
+          <GainsMinusExcessOrLosses>-96</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>50. TEVA PHARMACEUTICAL INDS LTD ADR</DescriptionOfAsset>
+          <DateAcquired>2010-02-19</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>2607</GrossSalesPrice>
+          <CostOrOtherBasis>2932</CostOrOtherBasis>
+          <GainOrLoss>-325</GainOrLoss>
+          <GainsMinusExcessOrLosses>-325</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>50. TEVA PHARMACEUTICAL INDS LTD ADR</DescriptionOfAsset>
+          <DateAcquired>2009-10-16</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>2607</GrossSalesPrice>
+          <CostOrOtherBasis>2516</CostOrOtherBasis>
+          <GainOrLoss>91</GainOrLoss>
+          <GainsMinusExcessOrLosses>91</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>410. 3COM CORP DEL PV $0.01</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2009-12-16</DateSold>
+          <GrossSalesPrice>3054</GrossSalesPrice>
+          <CostOrOtherBasis>1710</CostOrOtherBasis>
+          <GainOrLoss>1344</GainOrLoss>
+          <GainsMinusExcessOrLosses>1344</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>440. 3COM CORP DEL PV $0.01</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-04-12</DateSold>
+          <GrossSalesPrice>3476</GrossSalesPrice>
+          <CostOrOtherBasis>1835</CostOrOtherBasis>
+          <GainOrLoss>1641</GainOrLoss>
+          <GainsMinusExcessOrLosses>1641</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>50. TOYOTA MOTOR CORP ADR 2</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>3673</GrossSalesPrice>
+          <CostOrOtherBasis>4258</CostOrOtherBasis>
+          <GainOrLoss>-585</GainOrLoss>
+          <GainsMinusExcessOrLosses>-585</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>50. TRACTOR SUPPLY COMPANY COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>1928</GrossSalesPrice>
+          <CostOrOtherBasis>1194</CostOrOtherBasis>
+          <GainOrLoss>734</GainOrLoss>
+          <GainsMinusExcessOrLosses>734</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>110. THE TRAVELERS COMPANIES INC.</DescriptionOfAsset>
+          <DateAcquired>2004-06-18</DateAcquired>
+          <DateSold>2009-12-16</DateSold>
+          <GrossSalesPrice>5464</GrossSalesPrice>
+          <CostOrOtherBasis>4549</CostOrOtherBasis>
+          <GainOrLoss>915</GainOrLoss>
+          <GainsMinusExcessOrLosses>915</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>70. THE TRAVELERS COMPANIES INC.</DescriptionOfAsset>
+          <DateAcquired>2004-06-18</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>3795</GrossSalesPrice>
+          <CostOrOtherBasis>2895</CostOrOtherBasis>
+          <GainOrLoss>900</GainOrLoss>
+          <GainsMinusExcessOrLosses>900</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>110. US BANCORP</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2009-12-16</DateSold>
+          <GrossSalesPrice>2433</GrossSalesPrice>
+          <CostOrOtherBasis>2435</CostOrOtherBasis>
+          <GainOrLoss>-2</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>475. US BANCORP</DescriptionOfAsset>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>11476</GrossSalesPrice>
+          <CostOrOtherBasis>10016</CostOrOtherBasis>
+          <GainOrLoss>1460</GainOrLoss>
+          <GainsMinusExcessOrLosses>1460</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>75. US BANCORP</DescriptionOfAsset>
+          <DateAcquired>2009-01-12</DateAcquired>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>1812</GrossSalesPrice>
+          <CostOrOtherBasis>1651</CostOrOtherBasis>
+          <GainOrLoss>161</GainOrLoss>
+          <GainsMinusExcessOrLosses>161</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>130. UNILEVER PLC-SPONSORED ADR</DescriptionOfAsset>
+          <DateAcquired>2009-05-06</DateAcquired>
+          <DateSold>2009-12-16</DateSold>
+          <GrossSalesPrice>4074</GrossSalesPrice>
+          <CostOrOtherBasis>2599</CostOrOtherBasis>
+          <GainOrLoss>1475</GainOrLoss>
+          <GainsMinusExcessOrLosses>1475</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>40. UNITED NATURAL FOODS INC.</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-04-07</DateSold>
+          <GrossSalesPrice>1159</GrossSalesPrice>
+          <CostOrOtherBasis>1062</CostOrOtherBasis>
+          <GainOrLoss>97</GainOrLoss>
+          <GainsMinusExcessOrLosses>97</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>100000. US TREASURY NOTE DTD 2/15/05 3.5% 02/15/</DescriptionOfAsset>
+          <DateSold>2010-02-15</DateSold>
+          <GrossSalesPrice>100000</GrossSalesPrice>
+          <CostOrOtherBasis>100660</CostOrOtherBasis>
+          <GainOrLoss>-660</GainOrLoss>
+          <GainsMinusExcessOrLosses>-660</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>100. VERISIGN INC COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2009-12-16</DateSold>
+          <GrossSalesPrice>2247</GrossSalesPrice>
+          <CostOrOtherBasis>1969</CostOrOtherBasis>
+          <GainOrLoss>278</GainOrLoss>
+          <GainsMinusExcessOrLosses>278</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>80. VERISIGN INC COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-06-29</DateSold>
+          <GrossSalesPrice>2140</GrossSalesPrice>
+          <CostOrOtherBasis>1575</CostOrOtherBasis>
+          <GainOrLoss>565</GainOrLoss>
+          <GainsMinusExcessOrLosses>565</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>210. VERISIGN INC COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>6957</GrossSalesPrice>
+          <CostOrOtherBasis>4135</CostOrOtherBasis>
+          <GainOrLoss>2822</GainOrLoss>
+          <GainsMinusExcessOrLosses>2822</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>70. VERTEX PHARMACEUTICALS INC</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2009-12-16</DateSold>
+          <GrossSalesPrice>2931</GrossSalesPrice>
+          <CostOrOtherBasis>2395</CostOrOtherBasis>
+          <GainOrLoss>536</GainOrLoss>
+          <GainsMinusExcessOrLosses>536</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>280. VODAFONE GROUP PLC NEW SP ADR</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-08-17</DateSold>
+          <GrossSalesPrice>6756</GrossSalesPrice>
+          <CostOrOtherBasis>6040</CostOrOtherBasis>
+          <GainOrLoss>716</GainOrLoss>
+          <GainsMinusExcessOrLosses>716</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>620. VODAFONE GROUP PLC NEW SP ADR</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>16331</GrossSalesPrice>
+          <CostOrOtherBasis>13373</CostOrOtherBasis>
+          <GainOrLoss>2958</GainOrLoss>
+          <GainsMinusExcessOrLosses>2958</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>60. WMS INDUSTRIES INC COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>2342</GrossSalesPrice>
+          <CostOrOtherBasis>2483</CostOrOtherBasis>
+          <GainOrLoss>-141</GainOrLoss>
+          <GainsMinusExcessOrLosses>-141</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>80. WELLPOINT INC</DescriptionOfAsset>
+          <DateAcquired>2003-10-31</DateAcquired>
+          <DateSold>2009-12-16</DateSold>
+          <GrossSalesPrice>4795</GrossSalesPrice>
+          <CostOrOtherBasis>2752</CostOrOtherBasis>
+          <GainOrLoss>2043</GainOrLoss>
+          <GainsMinusExcessOrLosses>2043</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>180. WELLPOINT INC</DescriptionOfAsset>
+          <DateAcquired>2003-10-31</DateAcquired>
+          <DateSold>2010-06-29</DateSold>
+          <GrossSalesPrice>8982</GrossSalesPrice>
+          <CostOrOtherBasis>6192</CostOrOtherBasis>
+          <GainOrLoss>2790</GainOrLoss>
+          <GainsMinusExcessOrLosses>2790</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>40. WELLPOINT INC</DescriptionOfAsset>
+          <DateAcquired>2003-10-31</DateAcquired>
+          <DateSold>2010-08-17</DateSold>
+          <GrossSalesPrice>2094</GrossSalesPrice>
+          <CostOrOtherBasis>1376</CostOrOtherBasis>
+          <GainOrLoss>718</GainOrLoss>
+          <GainsMinusExcessOrLosses>718</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>70. WELLS FARGO &amp; CO NEW</DescriptionOfAsset>
+          <DateAcquired>2003-02-20</DateAcquired>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>1916</GrossSalesPrice>
+          <CostOrOtherBasis>1622</CostOrOtherBasis>
+          <GainOrLoss>294</GainOrLoss>
+          <GainsMinusExcessOrLosses>294</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>220. XENOPORT INC COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>1595</GrossSalesPrice>
+          <CostOrOtherBasis>4407</CostOrOtherBasis>
+          <GainOrLoss>-2812</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2812</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>. HUGH MCRAE LAND TR</DescriptionOfAsset>
+          <DateSold>2009-12-31</DateSold>
+          <GainOrLoss>1883</GainOrLoss>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>110. ALLIED WORLD ASSURANCE HOLDINGS LTD</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>5051</GrossSalesPrice>
+          <CostOrOtherBasis>4874</CostOrOtherBasis>
+          <GainOrLoss>177</GainOrLoss>
+          <GainsMinusExcessOrLosses>177</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>50. ALLIED WORLD ASSURANCE HOLDINGS LTD</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-08-17</DateSold>
+          <GrossSalesPrice>2504</GrossSalesPrice>
+          <CostOrOtherBasis>2215</CostOrOtherBasis>
+          <GainOrLoss>289</GainOrLoss>
+          <GainsMinusExcessOrLosses>289</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>110. INVESCO LTD</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-04-07</DateSold>
+          <GrossSalesPrice>2467</GrossSalesPrice>
+          <CostOrOtherBasis>2266</CostOrOtherBasis>
+          <GainOrLoss>201</GainOrLoss>
+          <GainsMinusExcessOrLosses>201</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1150. WEATHERFORD INTL LTD</DescriptionOfAsset>
+          <DateAcquired>2010-06-29</DateAcquired>
+          <DateSold>2010-08-17</DateSold>
+          <GrossSalesPrice>18158</GrossSalesPrice>
+          <CostOrOtherBasis>15592</CostOrOtherBasis>
+          <GainOrLoss>2566</GainOrLoss>
+          <GainsMinusExcessOrLosses>2566</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>140. WEATHERFORD INTL LTD</DescriptionOfAsset>
+          <DateAcquired>2010-06-29</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>2374</GrossSalesPrice>
+          <CostOrOtherBasis>1898</CostOrOtherBasis>
+          <GainOrLoss>476</GainOrLoss>
+          <GainsMinusExcessOrLosses>476</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>20. TRANSOCEAN LTD</DescriptionOfAsset>
+          <DateAcquired>2008-08-04</DateAcquired>
+          <DateSold>2010-02-19</DateSold>
+          <GrossSalesPrice>1701</GrossSalesPrice>
+          <CostOrOtherBasis>2617</CostOrOtherBasis>
+          <GainOrLoss>-916</GainOrLoss>
+          <GainsMinusExcessOrLosses>-916</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>155. TRANSOCEAN LTD</DescriptionOfAsset>
+          <DateSold>2010-06-29</DateSold>
+          <GrossSalesPrice>7550</GrossSalesPrice>
+          <CostOrOtherBasis>10983</CostOrOtherBasis>
+          <GainOrLoss>-3433</GainOrLoss>
+          <GainsMinusExcessOrLosses>-3433</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>60. CHECKPOINT SOFTWARE TECHNOLOGY COMMON</DescriptionOfAsset>
+          <DateAcquired>2009-08-12</DateAcquired>
+          <DateSold>2010-04-07</DateSold>
+          <GrossSalesPrice>2170</GrossSalesPrice>
+          <CostOrOtherBasis>1640</CostOrOtherBasis>
+          <GainOrLoss>530</GainOrLoss>
+          <GainsMinusExcessOrLosses>530</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CAPITAL GAIN DIVIDENDS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GainOrLoss>22</GainOrLoss>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>123055</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>134310</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>3324555</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.040399</DistributionRatioYear1>
+        <TotalDistributionRatio>0.040399</TotalDistributionRatio>
+        <AverageDistributionRatio>0.040399</AverageDistributionRatio>
+        <NetNoncharitableAssets>3697124</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>149362</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>1822</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>151184</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>113896</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>3645</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>3645</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>3645</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>2440</EstTaxPaymentsAndOverpayment>
+        <TaxPaidWithExtension>0</TaxPaidWithExtension>
+        <TotalCreditsAndPayments>2440</TotalCreditsAndPayments>
+        <PenaltyForUnderpayment>0</PenaltyForUnderpayment>
+        <TaxDue>1205</TaxDue>
+        <AmountToBeRefunded>0</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>NC</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>BRANCH BANKING AND TRUST</BusinessNameLine1>
+          <BusinessNameLine2>C/O WEALTH MANAGMENT</BusinessNameLine2>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>9109149108</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>130 APPLECROSS RD</AddressLine1>
+          <City>PINEHURST</City>
+          <State>NC</State>
+          <ZIPCode>28374</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>true</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>true</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BRANCH BANKING AND TRUST COMPANY</PersonName>
+          <USAddress>
+            <AddressLine1>130 APPLECROSS RD</AddressLine1>
+            <City>PINEHURST</City>
+            <State>NC</State>
+            <ZIPCode>28374</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>20</AvgHoursPerWkDevotedToPosition>
+          <Compensation>46282</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy />
+      <SumOfProgramRelatedInvestments />
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>3693231</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>52335</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>7859</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>3753425</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>3753425</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>56301</CashDeemedCharitable>
+        <NetNoncharitableAssets>3697124</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>184856</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>184856</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>3645</TaxBasedOnInvestmentIncome>
+        <TotalTax>3645</TotalTax>
+        <DistributableAmountBeforeAdj>181211</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>181211</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>181211</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>113896</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <AmountsPaidAcqCharitableAssets>0</AmountsPaidAcqCharitableAssets>
+        <AmountsSetAsideSuitabilityTest>0</AmountsSetAsideSuitabilityTest>
+        <AmountsSetAsideCashDistriTest>0</AmountsSetAsideCashDistriTest>
+        <QualifyingDistributions>113896</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>113896</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>181211</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>29478</UndistributedIncomePriorYear>
+        <PriorYear1>2007</PriorYear1>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear5>0</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>0</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>0</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>0</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>0</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>0</TotalExcessDistriCarryover>
+        <QualifyingDistributions>113896</QualifyingDistributions>
+        <AppliedToYear1>29478</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>84418</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>0</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>96793</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>0</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>0</ExcessFromYear4>
+        <ExcessFromYear3>0</ExcessFromYear3>
+        <ExcessFromYear2>0</ExcessFromYear2>
+        <ExcessFromYear1>0</ExcessFromYear1>
+        <ExcessFromCurrentYear>0</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CATHOLIC DIOCESE OF RALEIGH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>715 NAZARETH STREET</AddressLine1>
+            <City>RALEIGH</City>
+            <State>NC</State>
+            <ZIPCode>276062187</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>CHARITY</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUNDS</PurposeOfGrantOrContribution>
+          <Amount>53198</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PARISH COUNCIL OF THE SACRED</BusinessNameLine1>
+            <BusinessNameLine2>HEART CHURCH</BusinessNameLine2>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1208</AddressLine1>
+            <City>HAMLET</City>
+            <State>NC</State>
+            <ZIPCode>28345</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>CHARITY</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUNDS</PurposeOfGrantOrContribution>
+          <Amount>7500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CATHOLIC DIOCESE OF CHARLOTTE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>P O BOX 36776</AddressLine1>
+            <City>CHARLOTTE</City>
+            <State>NC</State>
+            <ZIPCode>28203</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>CHARITY</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL FUNDS</PurposeOfGrantOrContribution>
+          <Amount>53198</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>113896</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <FeesContractsFromGovtAgencies />
+        <MembershipDuesAndAssessments />
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>10000</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>95933</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <NetRentalIncmReDebtFincdProp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncmPersonalProperty />
+        <OtherInvestmentIncomePartVII />
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>123055</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <NetIncomeLossFromSpecialEvents />
+        <GrossProfitLossSalesOfInvntry />
+        <OtherRevenueDescribed>
+          <Description>LITIGATION PROCEED</Description>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>930</ExclusionAmount>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>229918</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>229918</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps />
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <InvestmentsOtherSchedule2 documentId="InvestmentsOtherSchedule2" />
+    <OtherDecreasesSchedule documentId="OtherDecreasesSchedule">
+      <OtherDecreases>
+        <Description>HUGH MCRAE LAND TRUST K-1 INFO REPORTED</Description>
+        <Amount>1887</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule">
+      <OtherExpenses>
+        <Description>OTHER ALLOCABLE EXPENSES - 2%</Description>
+        <RevenueAndExpensesPerBooks>231</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>231</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2">
+      <OtherIncome>
+        <Description>HUGH MCRAE LAND TR</Description>
+        <RevenueAndExpensesPerBooks>4</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>4</NetInvestmentIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="OtherIncreasesSchedule">
+      <OtherIncreases>
+        <Description>ROUNDING</Description>
+        <Amount>3</Amount>
+      </OtherIncreases>
+      <OtherIncreases>
+        <Description>MUTUAL FUND REPORTED VS RECEIVED</Description>
+        <Amount>93</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule">
+      <OtherProfessionalFees>
+        <Category>OTHER NON-ALLOCABLE EXPENSE -</Category>
+        <Amount>1150</Amount>
+        <NetInvestmentIncome>1150</NetInvestmentIncome>
+      </OtherProfessionalFees>
+      <OtherProfessionalFees>
+        <Category>OTHER NON-ALLOCABLE EXPENSE -</Category>
+        <Amount>6</Amount>
+        <NetInvestmentIncome>6</NetInvestmentIncome>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <Taxes>
+        <Category>FOREIGN TAXES</Category>
+        <Amount>1283</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>FEDERAL TAX PAYMENT - PRIOR YE</Category>
+        <Amount>2440</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>FEDERAL ESTIMATES - PRINCIPAL</Category>
+        <Amount>2440</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

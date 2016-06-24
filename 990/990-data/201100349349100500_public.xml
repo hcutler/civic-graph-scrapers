@@ -1,0 +1,763 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-03T13:02:15-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-09-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>BROCKMAN COATS GEDELIAN &amp; CO</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>1735 MERRIMAN ROAD</AddressLine1>
+        <City>AKRON</City>
+        <State>OH</State>
+        <ZIPCode>443139007</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-10-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>206095755</EIN>
+      <Name>
+        <BusinessNameLine1>DOROTHY P O'DONNELL ARTICLE 322D</BusinessNameLine1>
+        <BusinessNameLine2>IRREV 14559-00</BusinessNameLine2>
+      </Name>
+      <NameControl>DORO</NameControl>
+      <Phone>3303847302</Phone>
+      <USAddress>
+        <AddressLine1>FIRSTMERIT BANK 106 S MAIN ST 16TH</AddressLine1>
+        <AddressLine2>FL</AddressLine2>
+        <City>AKRON</City>
+        <State>OH</State>
+        <ZIPCode>44308</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>TOBY BLOSSOM</Name>
+      <Title>TRUST ADVISOR</Title>
+      <Phone>3303847302</Phone>
+      <DateSigned>2011-01-31</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Laura B Culp</Name>
+      <Phone>3308646661</Phone>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>329833</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>6451</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>6451</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>-9888</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>81558</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>-3437</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>6451</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>4915</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>3686</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>1229</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">910</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>683</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>227</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">58</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>58</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>0</TaxesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">100</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>0</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>100</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>5983</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>4427</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>1556</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>12000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>12000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>17983</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>4427</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>13556</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-21420</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>2024</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>6368</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>13760</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>13760</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsGovtObligBOY>44218</InvestmentsGovtObligBOY>
+        <InvestmentsGovtObligEOY referenceDocumentId="RetDoc2210400001">47869</InvestmentsGovtObligEOY>
+        <InvestmentsGovtObligEOYFMV>51888</InvestmentsGovtObligEOYFMV>
+        <InvestmentsCorpStockBOY>206535</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2018900001">171833</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>187308</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>72369</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="RetDoc2044400001">74608</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>76877</InvestmentsCorpBondsEOYFMV>
+        <TotalAssetsBOY>329490</TotalAssetsBOY>
+        <TotalAssetsEOY>308070</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>329833</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>329490</CapitalStockBOY>
+        <CapitalStockEOY>308070</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>0</RetainedEarningsBOY>
+        <RetainedEarningsEOY>0</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>329490</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>308070</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>329490</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>308070</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>329490</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-21420</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>308070</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>308070</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>115.909 INVESCO DIVERSIFIED DIVIDEND-INV PROPERTY TYPE: SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-11-18</DateAcquired>
+          <DateSold>2010-07-13</DateSold>
+          <GrossSalesPrice>1278</GrossSalesPrice>
+          <CostOrOtherBasis>985</CostOrOtherBasis>
+          <GainOrLoss>293</GainOrLoss>
+          <GainsMinusExcessOrLosses>293</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>24.833 COLUMBIA ACORN FUND-Z PROPERTY TYPE: SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2006-02-22</DateAcquired>
+          <DateSold>2010-01-12</DateSold>
+          <GrossSalesPrice>622</GrossSalesPrice>
+          <CostOrOtherBasis>747</CostOrOtherBasis>
+          <GainOrLoss>-125</GainOrLoss>
+          <GainsMinusExcessOrLosses>-125</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>42.428 COLUMBIA ACORN FUND-Z PROPERTY TYPE: SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2006-02-22</DateAcquired>
+          <DateSold>2010-07-13</DateSold>
+          <GrossSalesPrice>1073</GrossSalesPrice>
+          <CostOrOtherBasis>1276</CostOrOtherBasis>
+          <GainOrLoss>-203</GainOrLoss>
+          <GainsMinusExcessOrLosses>-203</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>836.887 COLUMBIA MARSICO 21ST CENT-Z PROPERTY TYPE: SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-09-27</DateAcquired>
+          <DateSold>2010-02-11</DateSold>
+          <GrossSalesPrice>9658</GrossSalesPrice>
+          <CostOrOtherBasis>14093</CostOrOtherBasis>
+          <GainOrLoss>-4435</GainOrLoss>
+          <GainsMinusExcessOrLosses>-4435</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1985.113 COLUMBIA MARSICO 21ST CENT-Z PROPERTY TYPE: SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-03-23</DateSold>
+          <GrossSalesPrice>25052</GrossSalesPrice>
+          <CostOrOtherBasis>28687</CostOrOtherBasis>
+          <GainOrLoss>-3635</GainOrLoss>
+          <GainsMinusExcessOrLosses>-3635</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>123.925 DODGE &amp; COX INTERNATIONAL STOCK PROPERTY TYPE: SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-09-25</DateAcquired>
+          <DateSold>2010-02-11</DateSold>
+          <GrossSalesPrice>3749</GrossSalesPrice>
+          <CostOrOtherBasis>3873</CostOrOtherBasis>
+          <GainOrLoss>-124</GainOrLoss>
+          <GainsMinusExcessOrLosses>-124</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>9.248 DODGE &amp; COX INTERNATIONAL STOCK FD PROPERTY TYPE: SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-11</DateAcquired>
+          <DateSold>2010-02-11</DateSold>
+          <GrossSalesPrice>280</GrossSalesPrice>
+          <CostOrOtherBasis>358</CostOrOtherBasis>
+          <GainOrLoss>-78</GainOrLoss>
+          <GainsMinusExcessOrLosses>-78</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>59.101 DODGE &amp; COX INTERNATIONAL STOCK F PROPERTY TYPE: SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-09-25</DateAcquired>
+          <DateSold>2010-07-13</DateSold>
+          <GrossSalesPrice>1813</GrossSalesPrice>
+          <CostOrOtherBasis>1847</CostOrOtherBasis>
+          <GainOrLoss>-34</GainOrLoss>
+          <GainsMinusExcessOrLosses>-34</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>56.059 FEDERATED INTERCONTINENTAL FUND PROPERTY TYPE: SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-07-11</DateAcquired>
+          <DateSold>2010-07-13</DateSold>
+          <GrossSalesPrice>2311</GrossSalesPrice>
+          <CostOrOtherBasis>3158</CostOrOtherBasis>
+          <GainOrLoss>-847</GainOrLoss>
+          <GainsMinusExcessOrLosses>-847</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>82.402 FEDERATED TOTAL RTRN GOVT BD FD # PROPERTY TYPE: SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-01-13</DateAcquired>
+          <DateSold>2010-07-13</DateSold>
+          <GrossSalesPrice>944</GrossSalesPrice>
+          <CostOrOtherBasis>959</CostOrOtherBasis>
+          <GainOrLoss>-15</GainOrLoss>
+          <GainsMinusExcessOrLosses>-15</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>5.306 GABELLI SMALL CAP GROWTH I PROPERTY TYPE: SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-01-12</DateSold>
+          <GrossSalesPrice>145</GrossSalesPrice>
+          <CostOrOtherBasis>119</CostOrOtherBasis>
+          <GainOrLoss>26</GainOrLoss>
+          <GainsMinusExcessOrLosses>26</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>44.775 GABELLI SMALL CAP GROWTH I PROPERTY TYPE: SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-07-13</DateAcquired>
+          <DateSold>2010-07-13</DateSold>
+          <GrossSalesPrice>1243</GrossSalesPrice>
+          <CostOrOtherBasis>972</CostOrOtherBasis>
+          <GainOrLoss>271</GainOrLoss>
+          <GainsMinusExcessOrLosses>271</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>40.793 GABELLI SMALL CAP GROWTH I PROPERTY TYPE: SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-08-11</DateSold>
+          <GrossSalesPrice>1138</GrossSalesPrice>
+          <CostOrOtherBasis>874</CostOrOtherBasis>
+          <GainOrLoss>264</GainOrLoss>
+          <GainsMinusExcessOrLosses>264</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>189.722 AMERICAN GRW FD OF AMER-F PROPERTY TYPE: SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2006-08-28</DateAcquired>
+          <DateSold>2010-07-13</DateSold>
+          <GrossSalesPrice>5026</GrossSalesPrice>
+          <CostOrOtherBasis>5982</CostOrOtherBasis>
+          <GainOrLoss>-956</GainOrLoss>
+          <GainsMinusExcessOrLosses>-956</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>48.28 HOMESTEAD VALUE FUND PROPERTY TYPE: SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2006-08-28</DateAcquired>
+          <DateSold>2010-07-13</DateSold>
+          <GrossSalesPrice>1318</GrossSalesPrice>
+          <CostOrOtherBasis>1716</CostOrOtherBasis>
+          <GainOrLoss>-398</GainOrLoss>
+          <GainsMinusExcessOrLosses>-398</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>118.47 LOOMIS SAYLES BOND FUND PROPERTY TYPE: SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-07-13</DateSold>
+          <GrossSalesPrice>1622</GrossSalesPrice>
+          <CostOrOtherBasis>1677</CostOrOtherBasis>
+          <GainOrLoss>-55</GainOrLoss>
+          <GainsMinusExcessOrLosses>-55</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1034.74 FEDERATED PRIME OBLIGATIONS FD PROPERTY TYPE: SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-06-23</DateAcquired>
+          <DateSold>2009-10-01</DateSold>
+          <GrossSalesPrice>1035</GrossSalesPrice>
+          <CostOrOtherBasis>1035</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1064.79 FEDERATED PRIME OBLIGATIONS FD PROPERTY TYPE: SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-06-23</DateAcquired>
+          <DateSold>2010-01-04</DateSold>
+          <GrossSalesPrice>1065</GrossSalesPrice>
+          <CostOrOtherBasis>1065</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>109.66 FEDERATED PRIME OBLIGATIONS FD PROPERTY TYPE: SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-06-23</DateAcquired>
+          <DateSold>2010-01-13</DateSold>
+          <GrossSalesPrice>110</GrossSalesPrice>
+          <CostOrOtherBasis>110</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>100. FEDERATED PRIME OBLIGATIONS FD PROPERTY TYPE: SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-06-23</DateAcquired>
+          <DateSold>2010-02-12</DateSold>
+          <GrossSalesPrice>100</GrossSalesPrice>
+          <CostOrOtherBasis>100</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>910. FEDERATED PRIME OBLIGATIONS FD PROPERTY TYPE: SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-06-23</DateAcquired>
+          <DateSold>2010-02-25</DateSold>
+          <GrossSalesPrice>910</GrossSalesPrice>
+          <CostOrOtherBasis>910</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>13099.84 FEDERATED PRIME OBLIGATIONS FD PROPERTY TYPE: SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-04-01</DateSold>
+          <GrossSalesPrice>13100</GrossSalesPrice>
+          <CostOrOtherBasis>13100</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>358.62 FEDERATED PRIME OBLIGATIONS FD PROPERTY TYPE: SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-03-24</DateAcquired>
+          <DateSold>2010-05-03</DateSold>
+          <GrossSalesPrice>359</GrossSalesPrice>
+          <CostOrOtherBasis>359</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>340.17 FEDERATED PRIME OBLIGATIONS FD PROPERTY TYPE: SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-06-01</DateSold>
+          <GrossSalesPrice>340</GrossSalesPrice>
+          <CostOrOtherBasis>340</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>331.41 FEDERATED PRIME OBLIGATIONS FD PROPERTY TYPE: SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-07-01</DateSold>
+          <GrossSalesPrice>331</GrossSalesPrice>
+          <CostOrOtherBasis>331</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>346.78 FEDERATED PRIME OBLIGATIONS FD PROPERTY TYPE: SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-08-02</DateSold>
+          <GrossSalesPrice>347</GrossSalesPrice>
+          <CostOrOtherBasis>347</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>5279.8 FEDERATED PRIME OBLIGATIONS FD PROPERTY TYPE: SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateSold>2010-08-12</DateSold>
+          <GrossSalesPrice>5280</GrossSalesPrice>
+          <CostOrOtherBasis>5280</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>338.22 FEDERATED PRIME OBLIGATIONS FD PROPERTY TYPE: SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-07-14</DateAcquired>
+          <DateSold>2010-09-01</DateSold>
+          <GrossSalesPrice>338</GrossSalesPrice>
+          <CostOrOtherBasis>338</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>82.001 VANGUARD INTM TERM INV G-INV PROPERTY TYPE: SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-03-19</DateAcquired>
+          <DateSold>2010-07-13</DateSold>
+          <GrossSalesPrice>818</GrossSalesPrice>
+          <CostOrOtherBasis>808</CostOrOtherBasis>
+          <GainOrLoss>10</GainOrLoss>
+          <GainsMinusExcessOrLosses>10</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Capital Gains Dividends</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>153</GrossSalesPrice>
+          <GainOrLoss>153</GainOrLoss>
+          <GainsMinusExcessOrLosses>153</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>-9888</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>21222</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>279251</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.075996</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>34732</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>372587</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.093218</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>14756</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>414142</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.035630</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>4669</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>386144</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.012091</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>24461</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>375055</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.065220</DistributionRatioYear5>
+        <TotalDistributionRatio>0.282155</TotalDistributionRatio>
+        <AverageDistributionRatio>0.056431</AverageDistributionRatio>
+        <NetNoncharitableAssets>317068</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>17892</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>20</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>17912</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>13556</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>40</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>40</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>40</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>284</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>284</TotalCreditsAndPayments>
+        <Overpayment>244</Overpayment>
+        <AmountCreditedToNextYear>244</AmountCreditedToNextYear>
+        <AmountToBeRefunded>0</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>OH</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>FIRSTMERIT BANK NA</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>3303847302</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>106 S MAIN ST 16TH FL</AddressLine1>
+          <City>AKRON</City>
+          <State>OH</State>
+          <ZIPCode>44308</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>FIRSTMERIT BANK NA</PersonName>
+          <USAddress>
+            <AddressLine1>106 S MAIN ST 16TH FLOOR</AddressLine1>
+            <City>AKRON</City>
+            <State>OH</State>
+            <ZIPCode>44308</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>4915</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>313464</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>8432</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>321896</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>321896</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>4828</CashDeemedCharitable>
+        <NetNoncharitableAssets>317068</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>15853</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>15853</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>40</TaxBasedOnInvestmentIncome>
+        <TotalTax>40</TotalTax>
+        <DistributableAmountBeforeAdj>15813</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>15813</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>15813</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>13556</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>13556</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>13556</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>15813</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear1>1267</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>1267</TotalExcessDistriCarryover>
+        <QualifyingDistributions>13556</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>13556</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>1267</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>1267</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>0</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>990</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>0</ExcessDistriCyovToNextYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ST JOSEPH'S CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>215 FALLS AVE</AddressLine1>
+            <City>CUYAHOGA FALLS</City>
+            <State>OH</State>
+            <ZIPCode>44221</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SACRED HEART LEAGUE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 300</AddressLine1>
+            <City>WALLS</City>
+            <State>MS</State>
+            <ZIPCode>38680</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNIVERSITY OF NOTRE DAME</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1100 GRACE HALL</AddressLine1>
+            <City>NOTRE DAME</City>
+            <State>IN</State>
+            <ZIPCode>46556</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DOMINICAN FRIARS' GUILD</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>141 EAST 65TH STREET</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10021</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>12000</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>6451</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>-9888</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>-3437</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>-3437</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>TAX PREPARATION FEE</Category>
+        <Amount>910</Amount>
+        <NetInvestmentIncome>683</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>227</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc2044400001">
+      <InvestmentsCorpBonds>
+        <NameOfBond>FEDERATED SHORT TERM INC FUND #65</NameOfBond>
+        <EOYBookValue>43017</EOYBookValue>
+        <EOYFMV>44108</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>LOOMIS SAYLES BOND FUND</NameOfBond>
+        <EOYBookValue>12985</EOYBookValue>
+        <EOYFMV>13083</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>VANGUARD INTM TERM INV G-INV</NameOfBond>
+        <EOYBookValue>18606</EOYBookValue>
+        <EOYFMV>19686</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorpStock>
+        <NameOfStock>AMERICAN GRW FD OF AMER-F</NameOfStock>
+        <EOYBookValue>26927</EOYBookValue>
+        <EOYFMV>26671</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>COLUMBIA ACORN FUND-Z</NameOfStock>
+        <EOYBookValue>22587</EOYBookValue>
+        <EOYFMV>27416</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>GABELLI SMALL CAP GROWTH I</NameOfStock>
+        <EOYBookValue>18863</EOYBookValue>
+        <EOYFMV>26627</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>HOMESTEAD VALUE FUND</NameOfStock>
+        <EOYBookValue>31560</EOYBookValue>
+        <EOYFMV>26454</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>INVESCO DIVERSIFIED DIVIDEND-INV</NameOfStock>
+        <EOYBookValue>28493</EOYBookValue>
+        <EOYFMV>36071</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>T ROWE PRICE NEW AMERICA GROWTH FUND</NameOfStock>
+        <EOYBookValue>23567</EOYBookValue>
+        <EOYFMV>23079</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>DODGE &amp; COX INTERNATIONAL STOCK FD</NameOfStock>
+        <EOYBookValue>9511</EOYBookValue>
+        <EOYFMV>10519</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>FEDERATED INTERCONTINENTAL FUND</NameOfStock>
+        <EOYBookValue>10325</EOYBookValue>
+        <EOYFMV>10471</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="RetDoc2210400001">
+      <USGovtSecuritiesEOYBookValue>47869</USGovtSecuritiesEOYBookValue>
+      <USGovtSecuritiesEOYFMV>51888</USGovtSecuritiesEOYFMV>
+      <StateLocalSecuritiesEOYBookVal>0</StateLocalSecuritiesEOYBookVal>
+      <StateLocalSecuritiesEOYFMV>0</StateLocalSecuritiesEOYFMV>
+    </InvestmentsGovtObligationsSch>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>OHIO FILING FEE</Description>
+        <RevenueAndExpensesPerBooks>100</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>100</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>FOREIGN TAXES</Category>
+        <Amount>58</Amount>
+        <NetInvestmentIncome>58</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

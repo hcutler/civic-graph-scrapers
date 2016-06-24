@@ -1,0 +1,939 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return returnVersion="2009v1.3" xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-08-17T14:58:00Z</Timestamp>
+    <TaxPeriodEndDate>2010-05-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>TOM C KLEIN &amp; ASSOCIATES CPA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>450 SEVENTH AVENUE SUITE 1109</AddressLine1>
+        <City>NEW YORK</City>
+        <State>NY</State>
+        <ZIPCode>10123</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-06-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>133360876</EIN>
+      <Name>
+        <BusinessNameLine1>THE LAZARUS CHARITABLE TRUST</BusinessNameLine1>
+        <BusinessNameLine2>CO CHARLES LAZARUS - TOYS R US</BusinessNameLine2>
+      </Name>
+      <NameControl>LAZA</NameControl>
+      <Phone>9736174393</Phone>
+      <USAddress>
+        <AddressLine1>TRU L1N036 - ONE GEOFFREY WAY</AddressLine1>
+        <City>WAYNE</City>
+        <State>NJ</State>
+        <ZIPCode>07470</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>CHARLES LAZARUS</Name>
+      <Title>President</Title>
+      <DateSigned>2010-08-03</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>TOM C KLEIN</Name>
+      <Phone>2125943300</Phone>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation 8453SignatureDocument.1" softwareId="09000047" softwareVersion="2009v1.3">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>4035765</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>80467</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>80467</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>80467</InterestOnSavingsAdjNetIncm>
+        <DividendsRevAndExpnss>67168</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>67168</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>67168</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss>180842</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>1732240</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>180842</CapitalGainNetIncmNetInvstIncm>
+        <NetSTCGAdjNetIncm>86085</NetSTCGAdjNetIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId=" OtherIncomeSchedule2">10646</OtherIncomeRevAndExpnss>
+        <TotalRevenueAndExpenses>339123</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>328477</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>233720</TotalAdjustedNetIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId=" AccountingFeesSchedule">2750</AccountingFeesRevAndExpnss>
+        <TaxesRevAndExpnss referenceDocumentId=" TaxesSchedule">10331</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>1682</TaxesNetInvstIncm>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">27710</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>27460</OtherExpensesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>40791</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>29142</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>365480</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>365480</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>406271</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>29142</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>365480</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-67148</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>299335</NetInvestmentIncome>
+        <AdjustedNetIncome>233720</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>224480</CashBOY>
+        <CashEOY>23440</CashEOY>
+        <CashEOYFMV>23441</CashEOYFMV>
+        <InvestmentsOtherBOY>3421560</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY>3691948</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>4012324</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>3646040</TotalAssetsBOY>
+        <TotalAssetsEOY>3715388</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>4035765</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>1703425</CapitalStockBOY>
+        <CapitalStockEOY>1703425</CapitalStockEOY>
+        <RetainedEarningsBOY>1942615</RetainedEarningsBOY>
+        <RetainedEarningsEOY>2011963</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>3646040</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>3715388</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>3646040</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>3715388</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>3646040</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-67148</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId=" OtherIncreasesSchedule">136496</OtherIncreases>
+        <Subtotal>3715388</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>3715388</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>SCHEDULE</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2000-01-01</DateAcquired>
+          <DateSold>2010-05-31</DateSold>
+          <GrossSalesPrice>1732240</GrossSalesPrice>
+          <CostOrOtherBasis>1551398</CostOrOtherBasis>
+          <GainOrLoss>180842</GainOrLoss>
+          <GainsMinusExcessOrLosses>180842</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>180842</CapitalGainNetIncome>
+        <NetShortTermCapitalGainOrLoss>86085</NetShortTermCapitalGainOrLoss>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>121335</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>3681986</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.03295</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>490231</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>4311797</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.11370</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>452956</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>4450470</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.10178</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>325762</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>4410026</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.07387</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>354637</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>4018149</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.08826</DistributionRatioYear5>
+        <TotalDistributionRatio>0.41055</TotalDistributionRatio>
+        <AverageDistributionRatio>0.08211</AverageDistributionRatio>
+        <NetNoncharitableAssets>3858007</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>316785</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>2993</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>319778</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>365480</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>2993</InvestmentIncomeExciseTax>
+        <Subtotal>2993</Subtotal>
+        <TaxBasedOnInvestmentIncome>2993</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>5200</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>5200</TotalCreditsAndPayments>
+        <Overpayment>2207</Overpayment>
+        <AmountCreditedToNextYear>2207</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>NY</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>TOM C KLEIN &amp; ASSOCIATES</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>2125943300</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>450 SEVENTH AVENUE</AddressLine1>
+          <City>NEW YORK</City>
+          <State>NY</State>
+          <ZIPCode>10123</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CHARLES LAZARUS</PersonName>
+          <USAddress>
+            <AddressLine1>TRU L1N036 ONE GEOFFREY WAY</AddressLine1>
+            <City>WAYNE</City>
+            <State>NJ</State>
+            <ZIPCode>074702030</ZIPCode>
+          </USAddress>
+          <Title>President</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>3712065</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>204693</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>3916758</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>3916758</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>58751</CashDeemedCharitable>
+        <NetNoncharitableAssets>3858007</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>192900</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>192900</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>2993</TaxBasedOnInvestmentIncome>
+        <TotalTax>2993</TotalTax>
+        <DistributableAmountBeforeAdj>189907</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>189907</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>189907</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>365480</ExpensesAndContributions>
+        <QualifyingDistributions>365480</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>2993</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>362487</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>189907</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>166552</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>108944</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>234416</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>277667</ExcessDistriCarryoverYear2>
+        <TotalExcessDistriCarryover>787579</TotalExcessDistriCarryover>
+        <QualifyingDistributions>365480</QualifyingDistributions>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>189907</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>175573</RemainingDistriFromCorpus>
+        <TotalCorpus>963152</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>166552</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>796600</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>108944</ExcessFromYear4>
+        <ExcessFromYear3>234416</ExcessFromYear3>
+        <ExcessFromYear2>277667</ExcessFromYear2>
+        <ExcessFromCurrentYear>175573</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>NATL LAW ENFORCE FIREFIGHTERS CHILD</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1414 Avenue of the Americas</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10019</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CENTRAL SYNAGOGUE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>652 Lexington Avenue</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10022</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>2394</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>WESTHAMPTON PERFORMING ARTS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>76 Main Street</AddressLine1>
+            <City>Westhampton Beach</City>
+            <State>NY</State>
+            <ZIPCode>11978</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>UJA</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>130 East 59th Street</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10022</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>150</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>TOWN PALM BEACH UNITED WAY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>44 Cocoanut Row M201</AddressLine1>
+            <City>MIAMI</City>
+            <State>FL</State>
+            <ZIPCode>33480</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SIGMA ALPHA RHO FRATERNITY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>7 UNDERCLIFF COURT</AddressLine1>
+            <City>BALTIMORE</City>
+            <State>MD</State>
+            <ZIPCode>21208</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>RBKIDS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>445 W 45th St</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10036</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>PARTNERS IN HEALTH</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>888 Commonwealth Avenue 3rd Floor</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02215</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>50</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>NATIONAL ACADEMY OF DESIGN</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1083 5th Avenue</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10128</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>LEGAL AID SOCIETY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>199 Water Street 6th Floor</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10038</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>FRESH AIR FUND</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>633 Third Avenue 14th Floor</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10017</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CHILDREN'S BRAIN TUMOR FUND</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>274 Madison Avenue Suite 1004</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10016</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CAP</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>325 Waukegan Road</AddressLine1>
+            <City>NORTHFIELD</City>
+            <State>IL</State>
+            <ZIPCode>60093</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>BRIGHAM AND WOMEN'S HOSPITAL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>75 Francis Street</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02115</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>ASSOC ISRAEL DEC ARTS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>110 59TH STREET</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10022</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>ARTHRITIS FOUNDATION</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 7669</AddressLine1>
+            <City>ATLANTA</City>
+            <State>GA</State>
+            <ZIPCode>30357</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>AMERICAN FRIENDS OF ISRAEL MUSEUM</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>500 Fifth Avenue Suite 2540</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10110</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>US HOLOCAUST MUSEUM</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>100 Raoul Wallenberg Place SW</AddressLine1>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20024</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>OHR KODESH CONGREGATION</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>8300 MEADOWBROOK LANE</AddressLine1>
+            <City>CHEVY CHASE</City>
+            <State>MD</State>
+            <ZIPCode>20815</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CROQUET FOUNDATION</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>700 Florida Mango Road</AddressLine1>
+            <City>WEST PALM BEACH</City>
+            <State>FL</State>
+            <ZIPCode>33406</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CARON RENAISSANCE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 150</AddressLine1>
+            <City>WERNERSVILLE</City>
+            <State>PA</State>
+            <ZIPCode>19565</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ART TABLE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>116 John Street Suite 822</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10038</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>AMERICAN KIDNEY FOUND</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>6110 Executive Blvd Suite 1010</AddressLine1>
+            <City>ROCKVILLE</City>
+            <State>MD</State>
+            <ZIPCode>20852</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>211 PALM BEACH TREASURE COAST</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 3588</AddressLine1>
+            <City>Lantana</City>
+            <State>FL</State>
+            <ZIPCode>33465</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>1375</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>ROSIES GALA DREAMS FOR KIDS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>889 HARRISON AVE</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02118</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>750</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>NAT'L MUSEUM OF AMER-JEWISH hISTORY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>55 NORTH 5TH ST</AddressLine1>
+            <City>PHILADELPHIA</City>
+            <State>PA</State>
+            <ZIPCode>19106</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>THE GOOD DOG FOUNDATION</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>607 SIXTH STREET</AddressLine1>
+            <City>BROOKLYN</City>
+            <State>NY</State>
+            <ZIPCode>11215</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>2620</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>FLORIDA STAGE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>262 SOUTH OCEAN BLVD</AddressLine1>
+            <City>MANALAPAN</City>
+            <State>FL</State>
+            <ZIPCode>33462</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CITYMEALS-ON-WHEELS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>355 LEXINGTON AVENUE</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10017</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>800</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>NATL FND FACIAL RECONSRUCTION</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>317 EAST 34TH ST</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10016</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>6000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>FACING HISTORY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>225 W 34th Street Suite 141</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10122</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>6000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WOMEN IN NEED</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>115 WEST 31ST STREET</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10001</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WHITNEY MUSEUM OF AMERICAN ART</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>945 MADISON AVE</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10021</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>90</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THETA EPSILON</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4410 MASSACHUSETS AVE NW</AddressLine1>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20016</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>QUOGUE FIRE DEPARTMENT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>111 OLD MEEDING HOUSE RD</AddressLine1>
+            <City>QUOGUE</City>
+            <State>NY</State>
+            <ZIPCode>11978</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>QUOGUE ASSOCIATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>POB 926</AddressLine1>
+            <City>QUOGUE</City>
+            <State>NY</State>
+            <ZIPCode>11959</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>50</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NORTON MUSEUM OF ART</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1451 S OLIVE AVE</AddressLine1>
+            <City>WEST PALM BEACH</City>
+            <State>FL</State>
+            <ZIPCode>33401</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>16220</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NEW MUSEUM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>210 11TH AVE</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10001</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>266666</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MUSEUM OF MODERN ART</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>11 W 53RD STREET</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10019</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>150</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>METROPOLITAN MUSEUM OF ART</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1000 FIFTH AVE</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10028</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>190</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ISRAEL CANCER ASSOC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>525 S FLAGER DRIVE</AddressLine1>
+            <City>WEST PALM BEACH</City>
+            <State>FL</State>
+            <ZIPCode>33401</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GUGGENHEIM MUSEUM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1071 5TH AVE</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10128</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>125</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>365480</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>80467</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>67168</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>180842</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <OtherRevenueDescribed>
+          <Description>PARTNERSHIP INCOME</Description>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>10646</ExclusionAmount>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>339123</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>339123</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="09000047" softwareVersion="2009v1.3">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>2750</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="09000047" softwareVersion="2009v1.3">
+      <OtherExpenses>
+        <Description>INVESTMENT EXP</Description>
+        <RevenueAndExpensesPerBooks>27460</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>27460</NetInvestmentIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>FILING FEES</Description>
+        <RevenueAndExpensesPerBooks>250</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="09000047" softwareVersion="2009v1.3">
+      <OtherIncome>
+        <Description>PARTNERSHIP INCOME</Description>
+        <RevenueAndExpensesPerBooks>10646</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="OtherIncreasesSchedule" softwareId="09000047" softwareVersion="2009v1.3">
+      <OtherIncreases>
+        <Description>BOOK ADJUSTMENT TO BASIS</Description>
+        <Amount>136496</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="09000047" softwareVersion="2009v1.3">
+      <Taxes>
+        <Category>FOREIGN TAXES</Category>
+        <Amount>1682</Amount>
+        <NetInvestmentIncome>1682</NetInvestmentIncome>
+      </Taxes>
+      <Taxes>
+        <Category>FEDERAL TAX</Category>
+        <Amount>6049</Amount>
+      </Taxes>
+      <Taxes>
+        <Category>FEDERAL TAX</Category>
+        <Amount>2600</Amount>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

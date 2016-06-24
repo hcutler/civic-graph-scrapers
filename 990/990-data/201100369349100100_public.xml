@@ -1,0 +1,434 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-05T08:03:10-08:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>HUGHES AND ASSOCIATES INC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>2069 N MAIN ST SUITE 200</AddressLine1>
+        <City>CEDAR CITY</City>
+        <State>UT</State>
+        <ZIPCode>84721</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>870525302</EIN>
+      <Name>
+        <BusinessNameLine1>THE ZAPHIROPOULOS FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>ZAPH</NameControl>
+      <Phone>4355865922</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 1022</AddressLine1>
+        <City>CEDAR CITY</City>
+        <State>UT</State>
+        <ZIPCode>84721</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>MARIE ZAPHIROPOULOS</Name>
+      <Title>President</Title>
+      <DateSigned>2011-02-05</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>BRUCE S HUGHES CPA</Name>
+      <Phone>4358671111</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>0</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>50000</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>191</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>191</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>191</InterestOnSavingsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss>0</NetGainSaleAssetsRevAndExpnss>
+        <TotalRevenueAndExpenses>50191</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>191</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>191</TotalAdjustedNetIncome>
+        <LegalFeesRevAndExpnss referenceDocumentId=" LegalFeesSchedule">412</LegalFeesRevAndExpnss>
+        <AccountingFeesRevAndExpnss referenceDocumentId=" AccountingFeesSchedule">825</AccountingFeesRevAndExpnss>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">20</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>1257</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>13450</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>13450</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>14707</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>13450</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>35484</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>191</NetInvestmentIncome>
+        <AdjustedNetIncome>191</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>8435</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>43919</SavingsAndTempCashInvstEOY>
+        <TotalAssetsBOY>8435</TotalAssetsBOY>
+        <TotalAssetsEOY>43919</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>0</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>8435</UnrestrictedBOY>
+        <UnrestrictedEOY>43919</UnrestrictedEOY>
+        <TotalNetAssetsBOY>8435</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>43919</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>8435</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>43919</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>8435</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>35484</ExcessOfRevenueOverExpenses>
+        <Subtotal>43919</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>43919</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>7999</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>12795</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.62517</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>7499</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>12016</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.62409</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>10427</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>19874</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.52466</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>3593</QualifyingDistributionsYear4>
+        <QualifyingDistributionsYear5>8750</QualifyingDistributionsYear5>
+        <TotalDistributionRatio>1.77391</TotalDistributionRatio>
+        <AverageDistributionRatio>0.35478</AverageDistributionRatio>
+        <NetNoncharitableAssets>37302</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>13234</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>2</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>13236</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>13450</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>2</InvestmentIncomeExciseTax>
+        <Subtotal>2</Subtotal>
+        <TaxBasedOnInvestmentIncome>2</TaxBasedOnInvestmentIncome>
+        <TaxDue>2</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>false</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>UT</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors referenceDocumentId=" SubstantialContributorsSchedul">true</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>REE ZAPHIROPOULOS</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>4355865922</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>PO BOX 1022</AddressLine1>
+          <City>CEDAR CITY</City>
+          <State>UT</State>
+          <ZIPCode>84720</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARIE ZAPHIROPOULOS</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 1022</AddressLine1>
+            <City>CEDAR CITY</City>
+            <State>UT</State>
+            <ZIPCode>84721</ZIPCode>
+          </USAddress>
+          <Title>President</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>RENN ZAPHIROPOULOS</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 1022</AddressLine1>
+            <City>CEDAR CITY</City>
+            <State>UT</State>
+            <ZIPCode>84721</ZIPCode>
+          </USAddress>
+          <Title>Vice President</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>37870</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>37870</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>37870</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>568</CashDeemedCharitable>
+        <NetNoncharitableAssets>37302</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>1865</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>1865</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>2</TaxBasedOnInvestmentIncome>
+        <TotalTax>2</TotalTax>
+        <DistributableAmountBeforeAdj>1863</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>1863</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>1863</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>13450</ExpensesAndContributions>
+        <QualifyingDistributions>13450</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>2</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>13448</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>1863</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>7078</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>3600</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>9458</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>6900</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>7361</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>34397</TotalExcessDistriCarryover>
+        <QualifyingDistributions>13450</QualifyingDistributions>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>1863</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>11587</RemainingDistriFromCorpus>
+        <TotalCorpus>45984</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>7078</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>38906</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>3600</ExcessFromYear4>
+        <ExcessFromYear3>9458</ExcessFromYear3>
+        <ExcessFromYear2>6900</ExcessFromYear2>
+        <ExcessFromYear1>7361</ExcessFromYear1>
+        <ExcessFromCurrentYear>11587</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>RENN ZAPHIROPOULOS</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SO UTAH MUSEUM OF ART</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>351 W CENTER STREET</AddressLine1>
+            <City>CEDAR CITY</City>
+            <State>UT</State>
+            <ZIPCode>84720</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>DONATION</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CHILDRENS JUSTICE CENTER</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>545 S 225 EAST</AddressLine1>
+            <City>CEDAR CITY</City>
+            <State>UT</State>
+            <ZIPCode>84720</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>DONATION</PurposeOfGrantOrContribution>
+          <Amount>350</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CEDAR LIVESTOCK HERITAGE FESTIVAL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>585 N MAIN 5</AddressLine1>
+            <City>CEDAR CITY</City>
+            <State>UT</State>
+            <ZIPCode>84721</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>DONATION</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>UTAH SHAKESPEAREAN FESTIVAL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>351 W UNIVERSITY</AddressLine1>
+            <City>CEDAR CITY</City>
+            <State>UT</State>
+            <ZIPCode>84720</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>DONATION</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SW JR LIVESTOCK ASSOCIATION</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>WEST HIGHWAY 56</AddressLine1>
+            <City>CEDAR CITY</City>
+            <State>UT</State>
+            <ZIPCode>84720</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>DONATION</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CEDAR CITY MUSIC ARTS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 3371</AddressLine1>
+            <City>CEDAR CITY</City>
+            <State>UT</State>
+            <ZIPCode>84721</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>DONATION</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SUU BRAITHWAITE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>351 CENTER STREET</AddressLine1>
+            <City>CEDAR CITY</City>
+            <State>UT</State>
+            <ZIPCode>84720</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>DONATION</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>INTERMOUNTAIN HEALTH CARE FOUNDATIO</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1870 N MAIN STREET</AddressLine1>
+            <City>CEDAR CITY</City>
+            <State>UT</State>
+            <ZIPCode>84720</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>DONATION</PurposeOfGrantOrContribution>
+          <Amount>1100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>13450</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>191</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>191</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>191</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB" softwareId="10000105" softwareVersion="2010v3.2">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>ZAPHIROPOULOS FAMILY</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>PO BOX 1022</AddressLine1>
+          <City>CEDAR CITY</City>
+          <State>UT</State>
+          <ZIPCode>84721</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>50000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <AccountingFees>
+        <Category>ACCOUNTING &amp; TAX PREP</Category>
+        <Amount>825</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <LegalFeesSchedule documentId="LegalFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <LegalFees>
+        <Category>LEGAL FEES</Category>
+        <Amount>412</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherExpenses>
+        <Description>LICENSE &amp; FEES</Description>
+        <RevenueAndExpensesPerBooks>20</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <SubstantialContributorsSch documentId="SubstantialContributorsSchedul" softwareId="10000105" softwareVersion="2010v3.2">
+      <SubstantialContributor>
+        <PersonName>RENN REE ZAPHIROPOULOS FAMILY</PersonName>
+        <USAddress>
+          <AddressLine1>PO BOX 1022</AddressLine1>
+          <City>CEDAR CITY</City>
+          <State>UT</State>
+          <ZIPCode>84721</ZIPCode>
+        </USAddress>
+      </SubstantialContributor>
+    </SubstantialContributorsSch>
+  </ReturnData>
+</Return>

@@ -1,0 +1,484 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-05-24T08:03:42-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-01-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>MILLER BRUSSELL EBBEN &amp; GLAESKE LLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>PO BOX 585</AddressLine1>
+        <City>PORTAGE</City>
+        <State>WI</State>
+        <ZIPCode>539010585</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-02-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>391340893</EIN>
+      <Name>
+        <BusinessNameLine1>BIDWELL FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>BIDW</NameControl>
+      <Phone>6084293818</Phone>
+      <USAddress>
+        <AddressLine1>C/O DONALD WITT PO BOX 873</AddressLine1>
+        <City>PORTAGE</City>
+        <State>WI</State>
+        <ZIPCode>53901</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>DONALD WITT</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>6084293818</Phone>
+      <DateSigned>2010-05-13</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>DENNIS H LOCY</Name>
+      <Phone>6087422103</Phone>
+      <DatePrepared>2010-05-24</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="4">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>1066912</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>25569</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>25569</InterestOnSavingsNetInvstIncm>
+        <TotalRevenueAndExpenses>25569</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>25569</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>24000</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>24000</CompOfcrDirTrstNetInvstIncm>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">1230</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>1230</AccountingFeesNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc4">276</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>276</TaxesNetInvstIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc3">8234</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>8234</OtherExpensesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>33740</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>33740</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>58940</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>58940</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>92680</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>33740</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>58940</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-67111</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>11661</CashBOY>
+        <CashEOY>22313</CashEOY>
+        <CashEOYFMV>22313</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>1122362</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>1044599</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>1044599</SavingsAndTempCashInvstEOYFMV>
+        <TotalAssetsBOY>1134023</TotalAssetsBOY>
+        <TotalAssetsEOY>1066912</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>1066912</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>1134023</CapitalStockBOY>
+        <CapitalStockEOY>1066912</CapitalStockEOY>
+        <TotalNetAssetsBOY>1134023</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>1066912</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>1134023</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>1066912</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>1134023</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-67111</ExcessOfRevenueOverExpenses>
+        <Subtotal>1066912</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>1066912</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>72330</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>1145839</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.063124</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>16700</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>1171722</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.014253</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>69600</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>1197101</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.058140</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>120312</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>1279151</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.094056</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>260989</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>1456007</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.179250</DistributionRatioYear5>
+        <TotalDistributionRatio>0.408823</TotalDistributionRatio>
+        <AverageDistributionRatio>0.081765</AverageDistributionRatio>
+        <NetNoncharitableAssets>1083961</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>88630</AdjustedNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>88630</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>58940</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>WI</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>DONALD WITT</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>6084293818</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>W7334 SWAN COVE LN</AddressLine1>
+          <City>PARDEEVILLE</City>
+          <State>WI</State>
+          <ZIPCode>53954</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DONALD WITT</PersonName>
+          <USAddress>
+            <AddressLine1>W7334 SWAN COVE LN</AddressLine1>
+            <City>PARDEEVILLE</City>
+            <State>WI</State>
+            <ZIPCode>53954</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>8.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>8000</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ROBERT MILLER</PersonName>
+          <USAddress>
+            <AddressLine1>545 WINNEGAGO AVE</AddressLine1>
+            <City>PORTAGE</City>
+            <State>WI</State>
+            <ZIPCode>53901</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>8000</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>RICHARD REHM</PersonName>
+          <USAddress>
+            <AddressLine1>347 S CHARLES ST</AddressLine1>
+            <City>COLUMBUS</City>
+            <State>WI</State>
+            <ZIPCode>53925</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>8000</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>1100468</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>1100468</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>1100468</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>16507</CashDeemedCharitable>
+        <NetNoncharitableAssets>1083961</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>54198</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>54198</MinimumInvestmentReturn>
+        <DistributableAmountBeforeAdj>54198</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>54198</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>54198</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>58940</ExpensesAndContributions>
+        <QualifyingDistributions>58940</QualifyingDistributions>
+        <AdjQualifyingDistributions>58940</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>54198</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>118353</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>56580</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>9987</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear1>15314</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>200234</TotalExcessDistriCarryover>
+        <QualifyingDistributions>58940</QualifyingDistributions>
+        <AppliedToCurrentYear>54198</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>4742</RemainingDistriFromCorpus>
+        <TotalCorpus>204976</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>118353</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>86623</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>56580</ExcessFromYear4>
+        <ExcessFromYear3>9987</ExcessFromYear3>
+        <ExcessFromYear1>15314</ExcessFromYear1>
+        <ExcessFromCurrentYear>4742</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>BIDWELL FOUNDATION CO DONALD WITT</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 873</AddressLine1>
+            <City>PORTAGE</City>
+            <State>WI</State>
+            <ZIPCode>53901</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>6084293818</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>NO SPECIFIC FORM</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>NONE</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SANTA'S WORKSHOP</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>GENERAL</AddressLine1>
+            <City>PORTAGE</City>
+            <State>WI</State>
+            <ZIPCode>53901</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PORTAGE COMMUNITY TRUST</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>P O BOX 75</AddressLine1>
+            <City>PORTAGE</City>
+            <State>WI</State>
+            <ZIPCode>53901</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING FUND</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PORTAGE PUBLIC LIBRARY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>253 W EDGEWATER ST</AddressLine1>
+            <City>PORTAGE</City>
+            <State>WI</State>
+            <ZIPCode>53901</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>BUILDING ADDITION</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AMERICAN RED CROSS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>311 E WISCONSIN ST</AddressLine1>
+            <City>PORTAGE</City>
+            <State>WI</State>
+            <ZIPCode>53901</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>4400</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PORTAGE VFW</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>215 W COLLINS ST</AddressLine1>
+            <City>PORTAGE</City>
+            <State>WI</State>
+            <ZIPCode>53901</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHAIRS</PurposeOfGrantOrContribution>
+          <Amount>3500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CITY OF PORTAGE - PATHS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>115 W PLEASANT ST</AddressLine1>
+            <City>PORTAGE</City>
+            <State>WI</State>
+            <ZIPCode>53901</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>WALKING TRAILS MAINT</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PORTAGE PUBLIC SCHOOLS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>904 DEWITT ST</AddressLine1>
+            <City>PORTAGE</City>
+            <State>WI</State>
+            <ZIPCode>53901</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>BAND UNIFORMS</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PORTAGE CHAMBER COMMERCE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>104 W COOK ST</AddressLine1>
+            <City>PORTAGE</City>
+            <State>WI</State>
+            <ZIPCode>53901</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>YOUTH FUND</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ST JOHNS LUTHERAN SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>430 W EMMETT ST</AddressLine1>
+            <City>PORTAGE</City>
+            <State>WI</State>
+            <ZIPCode>53901</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>COMPUTERS</PurposeOfGrantOrContribution>
+          <Amount>7500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>COLUMBIA CTY VIS BUREAU</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>400 DEWITT ST</AddressLine1>
+            <City>PORTAGE</City>
+            <State>WI</State>
+            <ZIPCode>53901</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CONCERTS IN THE PARK</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>COLUMBIA CTY H &amp; H SERVS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2652 MURPHY ROAD</AddressLine1>
+            <City>PORTAGE</City>
+            <State>WI</State>
+            <ZIPCode>53901</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ADVOCATE PROGRAM</PurposeOfGrantOrContribution>
+          <Amount>2540</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>58940</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>25569</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>25569</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>25569</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>MILLER BRUSSELL EBBEN &amp; GLAESKE</Category>
+        <Amount>1230</Amount>
+        <NetInvestmentIncome>1230</NetInvestmentIncome>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc3">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MISC OFFICE EXPENSES</Description>
+        <RevenueAndExpensesPerBooks>8234</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>8234</NetInvestmentIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="RetDoc4">
+      <Taxes>
+        <Category>2008 EXCISE TAX</Category>
+        <Amount>276</Amount>
+        <NetInvestmentIncome>276</NetInvestmentIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

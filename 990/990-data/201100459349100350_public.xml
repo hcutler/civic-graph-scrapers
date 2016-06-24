@@ -1,0 +1,719 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-14T12:54:22-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>BDO USA LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>99 MONROE AVENUE NW SUITE 800</AddressLine1>
+        <City>GRAND RAPIDS</City>
+        <State>MI</State>
+        <ZIPCode>495032654</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>383010714</EIN>
+      <Name>
+        <BusinessNameLine1>John E Fetzer Memorial Trust</BusinessNameLine1>
+        <BusinessNameLine2>Fund - Michael C Gergely Trustee</BusinessNameLine2>
+      </Name>
+      <NameControl>JOHN</NameControl>
+      <Phone>2696795334</Phone>
+      <USAddress>
+        <AddressLine1>PO Box 117</AddressLine1>
+        <City>Vicksburg</City>
+        <State>MI</State>
+        <ZIPCode>49097</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>BRUCE FETZER</Name>
+      <Title>EXECUTIVE VICE PRESIDENT</Title>
+      <Phone>2696795334</Phone>
+      <DateSigned>2011-01-25</DateSigned>
+      <AuthorizeThirdParty>true</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>CURT DALLY</Name>
+      <Phone>6167747000</Phone>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="14">
+    <IRS990PF documentId="IRS990PF">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>74776102</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>565920</ContriReceivedRevAndExpnss>
+        <DividendsRevAndExpnss>488886</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>489835</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>1525469</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>16808157</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>1525469</CapitalGainNetIncmNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="OtherIncomeSch2">2271582</OtherIncomeRevAndExpnss>
+        <TotalRevenueAndExpenses>4851857</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>2015304</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>395058</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>207916</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>187142</CompOfcrDirTrstDsbrsChrtblPrps>
+        <PensionEmplBnftRevAndExpnss>39646</PensionEmplBnftRevAndExpnss>
+        <PensionEmplBnftNetInvstIncm>29735</PensionEmplBnftNetInvstIncm>
+        <PensionEmplBnftDsbrsChrtblPrps>9912</PensionEmplBnftDsbrsChrtblPrps>
+        <LegalFeesRevAndExpnss referenceDocumentId="LegalFeesSch">36285</LegalFeesRevAndExpnss>
+        <LegalFeesNetInvstIncm>0</LegalFeesNetInvstIncm>
+        <LegalFeesAdjNetIncm>0</LegalFeesAdjNetIncm>
+        <LegalFeesDsbrsChrtblPrps>0</LegalFeesDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="AccountingFeesSch">9649</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>0</AccountingFeesNetInvstIncm>
+        <AccountingFeesAdjNetIncm>0</AccountingFeesAdjNetIncm>
+        <AccountingFeesDsbrsChrtblPrps>0</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="OthProfFeesSch">360226</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>90155</OtherProfFeesNetInvstIncm>
+        <OtherProfFeesDsbrsChrtblPrps>270071</OtherProfFeesDsbrsChrtblPrps>
+        <InterestRevAndExpnss>2670</InterestRevAndExpnss>
+        <InterestNetInvstIncm>2670</InterestNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId="TaxesSchedule">49820</TaxesRevAndExpnss>
+        <TravConfMeetingRevAndExpnss>116900</TravConfMeetingRevAndExpnss>
+        <TravConfMeetingDsbrsChrtblPrps>116900</TravConfMeetingDsbrsChrtblPrps>
+        <PrintingAndPubRevAndExpnss>5523</PrintingAndPubRevAndExpnss>
+        <PrintingAndPubDsbrsChrtblPrps>5523</PrintingAndPubDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSch">15690</OtherExpensesRevAndExpnss>
+        <OtherExpensesDsbrsChrtblPrps>15690</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>1031467</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>330476</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>0</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>605238</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>3427460</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>3427460</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>4458927</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>330476</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>0</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>4032698</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>392930</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>1684828</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>2068607</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>1180743</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>1180743</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>64816086</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="InvestCorpStockSch">73595357</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>73595357</InvestmentsCorpStockEOYFMV>
+        <OtherAssetsBOY referenceDocumentId="OtherAssetsSch">30459</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId="OtherAssetsSch">2</OtherAssetsEOY>
+        <OtherAssetsEOYFMV referenceDocumentId="OtherAssetsSch">2</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>66915152</TotalAssetsBOY>
+        <TotalAssetsEOY>74776102</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>74776102</TotalAssetsEOYFMV>
+        <AccountsPayableBOY>14383</AccountsPayableBOY>
+        <AccountsPayableEOY>97846</AccountsPayableEOY>
+        <TotalLiabilitiesBOY>14383</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>97846</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>66900769</UnrestrictedBOY>
+        <UnrestrictedEOY>74678256</UnrestrictedEOY>
+        <TotalNetAssetsBOY>66900769</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>74678256</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>66915152</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>74776102</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>66900769</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>392930</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="OtherIncreasesSch">7384557</OtherIncreases>
+        <Subtotal>74678256</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>74678256</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>LT CAPITAL GAIN DISTRIBUTION</DescriptionOfAsset>
+          <GrossSalesPrice>1102721</GrossSalesPrice>
+          <GainOrLoss>1102721</GainOrLoss>
+          <GainsMinusExcessOrLosses>1102721</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>MUTUAL FUND/PARTNERSHIPS</DescriptionOfAsset>
+          <GrossSalesPrice>14840440</GrossSalesPrice>
+          <CostOrOtherBasis>14376948</CostOrOtherBasis>
+          <GainOrLoss>463492</GainOrLoss>
+          <GainsMinusExcessOrLosses>463492</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>FISHMAN</DescriptionOfAsset>
+          <GrossSalesPrice>844131</GrossSalesPrice>
+          <CostOrOtherBasis>905740</CostOrOtherBasis>
+          <GainOrLoss>-61609</GainOrLoss>
+          <GainsMinusExcessOrLosses>-61609</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>ST CAPITAL GAIN DISTRIBUTION</DescriptionOfAsset>
+          <GrossSalesPrice>20865</GrossSalesPrice>
+          <GainOrLoss>20865</GainOrLoss>
+          <GainsMinusExcessOrLosses>20865</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>1525469</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>1113496</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>76810300</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.014497</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>6311183</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>95960343</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.065769</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>5055137</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>90899083</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.055613</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>4568976</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>81390550</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.056136</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>3390768</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>72569875</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.046724</DistributionRatioYear5>
+        <TotalDistributionRatio>0.238739</TotalDistributionRatio>
+        <AverageDistributionRatio>0.047748</AverageDistributionRatio>
+        <NetNoncharitableAssets>76810300</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>3667538</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>16848</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>3684386</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>4032698</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>16848</InvestmentIncomeExciseTax>
+        <Subtotal>16848</Subtotal>
+        <TaxBasedOnInvestmentIncome>16848</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>43455</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>43455</TotalCreditsAndPayments>
+        <Overpayment>26607</Overpayment>
+        <AmountCreditedToNextYear>26607</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities referenceDocumentId="BinaryAttach">false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws referenceDocumentId="BinaryAttach">true</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>true</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>true</Form990TFiled>
+        <TerminationEtc referenceDocumentId="BinaryAttach">false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>WWW.FETZERTRUST.ORG</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>BRUCE FETZER</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>2696795334</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>1240 WEST VW AVENUE</AddressLine1>
+          <City>VICKSBURG</City>
+          <State>MI</State>
+          <ZIPCode>49097</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>true</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>true</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ROBERT LEHMAN</PersonName>
+          <USAddress>
+            <AddressLine1>P0 BOX 117</AddressLine1>
+            <City>VICKSBURG</City>
+            <State>MI</State>
+            <ZIPCode>49097</ZIPCode>
+          </USAddress>
+          <Title>CHAIRMAN</Title>
+          <AvgHoursPerWkDevotedToPosition>3.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BRUCE FETZER</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 117</AddressLine1>
+            <City>VICKSBURG</City>
+            <State>MI</State>
+            <ZIPCode>49097</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>28.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>114971</Compensation>
+          <ContriToEmplBenefitPlansEtc>34229</ContriToEmplBenefitPlansEtc>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>THOMAS BEAVER</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 117</AddressLine1>
+            <City>VICKSBURG</City>
+            <State>MI</State>
+            <ZIPCode>49097</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>4.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>26500</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MICHAEL GERGELY</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 117</AddressLine1>
+            <City>VICKSBURG</City>
+            <State>MI</State>
+            <ZIPCode>49097</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>14.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>90500</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>LOUIS LEEBURG</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 117</AddressLine1>
+            <City>VICKSBURG</City>
+            <State>MI</State>
+            <ZIPCode>49097</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>20.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>158900</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompensationOfHghstPaidCntrct>
+          <BusinessName>
+            <BusinessNameLine1>PAUL GAILEY PHD</BusinessNameLine1>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1>PO BOX 117</AddressLine1>
+            <City>VICKSBURG</City>
+            <State>MI</State>
+            <ZIPCode>49097</ZIPCode>
+          </USAddress>
+          <TypeOfService>SCIENCE ADVISOR</TypeOfService>
+          <Compensation>103100</Compensation>
+        </CompensationOfHghstPaidCntrct>
+        <CompensationOfHghstPaidCntrct>
+          <BusinessName>
+            <BusinessNameLine1>JAN WALLECZEK PHD</BusinessNameLine1>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1>PO BOX 117</AddressLine1>
+            <City>VICKSBURG</City>
+            <State>MI</State>
+            <ZIPCode>49097</ZIPCode>
+          </USAddress>
+          <TypeOfService>SCIENCE ADVISOR</TypeOfService>
+          <Compensation>68000</Compensation>
+        </CompensationOfHghstPaidCntrct>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>FUNDING OF SCIENTIFIC STUDIES IN THE AREA OF CONSIOUSNESS, BIOLOGY, AND PHYSICS.</Description1>
+        <Expenses1>270071</Expenses1>
+        <Description2>GLOBAL GATHERING PLANNING IN SUPPORT OF JOHN E. FETZER INSTITUTE.</Description2>
+        <Expenses2>88876</Expenses2>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>NONE</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>77980000</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>77980000</TotalFMVOfUnusedAssets>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>77980000</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>1169700</CashDeemedCharitable>
+        <NetNoncharitableAssets>76810300</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>3840515</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>3840515</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>16848</TaxBasedOnInvestmentIncome>
+        <TotalTax>16848</TotalTax>
+        <DistributableAmountBeforeAdj>3823667</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>3823667</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>3823667</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>4032698</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <AmountsPaidAcqCharitableAssets>0</AmountsPaidAcqCharitableAssets>
+        <AmountsSetAsideSuitabilityTest>0</AmountsSetAsideSuitabilityTest>
+        <AmountsSetAsideCashDistriTest>0</AmountsSetAsideCashDistriTest>
+        <QualifyingDistributions>4032698</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>16848</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>4015850</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>3823667</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>1779669</UndistributedIncomePriorYear>
+        <PriorYear1>2007</PriorYear1>
+        <PriorYear2>2006</PriorYear2>
+        <PriorYear3>2005</PriorYear3>
+        <ExcessDistriCarryoverYear5>0</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>0</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>0</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>0</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>0</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>0</TotalExcessDistriCarryover>
+        <QualifyingDistributions>4032698</QualifyingDistributions>
+        <AppliedToYear1>1779669</AppliedToYear1>
+        <AppliedToCurrentYear>2253029</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>0</TotalCorpus>
+        <UndistributedIncomeCY>1570638</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>0</ExcessDistriCyovToNextYear>
+        <ExcessFromYear3>0</ExcessFromYear3>
+        <ExcessFromYear2>0</ExcessFromYear2>
+        <ExcessFromYear1>0</ExcessFromYear1>
+        <ExcessFromCurrentYear>0</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <PrivateOperatingFoundations />
+      <SupplementaryInformation>
+        <ContributingManager>NONE</ContributingManager>
+        <ShareholderManager>NONE</ShareholderManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JOHN E FETZER INSTITUTE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>9292 WEST KL AVE</AddressLine1>
+            <City>KALAMAZOO</City>
+            <State>MI</State>
+            <ZIPCode>490099398</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>INCOME BENEFICIARY</PurposeOfGrantOrContribution>
+          <Amount>2800000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AUBURN UNIVERSITY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>M WHITE SMITH HALL</AddressLine1>
+            <City>AUBURN</City>
+            <State>AL</State>
+            <ZIPCode>36849</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>MICROSCOPE DEVELOPMENT</PurposeOfGrantOrContribution>
+          <Amount>132830</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNIVERSITY ENTERPRISES INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>OFFICE OF RESEARCH ADMINISTRATION M</AddressLine1>
+            <AddressLine2>6000 J STREET</AddressLine2>
+            <City>SACRAMENTO</City>
+            <State>CA</State>
+            <ZIPCode>958196111</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCIENTIFIC STUDIES</PurposeOfGrantOrContribution>
+          <Amount>98800</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FRIENDS RESEARCH INSTITUTE INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>505 BALTIMORE AVENUE</AddressLine1>
+            <City>BALTIMORE</City>
+            <State>MD</State>
+            <ZIPCode>21204</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCIENTIFIC STUDIES</PurposeOfGrantOrContribution>
+          <Amount>72160</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TEL AVIV UNIVERSITY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1>RAMAT AVIV 69978</AddressLine1>
+            <City>TEL AVIV</City>
+            <ProvinceOrState>ISRAEL</ProvinceOrState>
+            <Country>IS</Country>
+          </RecipientForeignAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>NON-PROFIT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCIENTIFIC STUDIES</PurposeOfGrantOrContribution>
+          <Amount>69520</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KAREN SELZ PHD</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>486 SUNSET DRIVE</AddressLine1>
+            <City>ASHEVILLE</City>
+            <State>NC</State>
+            <ZIPCode>288043727</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>INDIVIDUAL</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCIENTIFIC STUDIES</PurposeOfGrantOrContribution>
+          <Amount>45200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>INSTITUTE OF NOETIC SCIENCE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>101 SAN ANTONIO ROAD</AddressLine1>
+            <City>PETALUMA</City>
+            <State>CA</State>
+            <ZIPCode>94952</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>NON-PROFIT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCIENTIFIC STUDIES</PurposeOfGrantOrContribution>
+          <Amount>40000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GITTE JENSEN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1437 ESPLANADE</AddressLine1>
+            <City>KLAMATH FALLS</City>
+            <State>OR</State>
+            <ZIPCode>97601</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>INDIVIDUAL</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCIENTIFIC STUDIES</PurposeOfGrantOrContribution>
+          <Amount>35074</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNIVERISTY OF NORTHAMPTON</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1>BOUGHTON GREEN ROAD</AddressLine1>
+            <City>NORTHAMPTON NN2 7AL</City>
+            <Country>UK</Country>
+          </RecipientForeignAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>NON-PROFIT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCIENTIFIC STUDIES</PurposeOfGrantOrContribution>
+          <Amount>30000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNIVERSITY OF SINGAPORE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientForeignAddress>
+            <AddressLine1>NUS BUKIT TIMAH CAMPUS 469A TOWER</AddressLine1>
+            <City>BLOCK #10-01 BUKIT TIMA ROAD</City>
+            <Country>SN</Country>
+            <PostalCode>25779</PostalCode>
+          </RecipientForeignAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>NON-PROFIT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCIENTIFIC STUDIES</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MISCELLANEOUS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 117</AddressLine1>
+            <City>VICKSBURG</City>
+            <State>MI</State>
+            <ZIPCode>49097</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>VARIOUS</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCIENTIFIC STUDIES</PurposeOfGrantOrContribution>
+          <Amount>88876</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>3427460</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <FeesContractsFromGovtAgencies />
+        <MembershipDuesAndAssessments />
+        <IntOnSavingsAndTempCashInvst />
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>488886</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <NetRentalIncmReDebtFincdProp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncmPersonalProperty />
+        <OtherInvestmentIncomePartVII />
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>1525469</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <NetIncomeLossFromSpecialEvents />
+        <GrossProfitLossSalesOfInvntry />
+        <OtherRevenueDescribed>
+          <Description>OTHER INCOME (LOSS) FROM PARTNERSHIPS</Description>
+          <ExclusionAmount>2271582</ExclusionAmount>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>4285937</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>4285937</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps />
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB">
+      <Organization501c typeOf501cOrganization="3">X</Organization501c>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>JOHN E FETZER REVOCABLE TRUST</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>PO BOX 117</AddressLine1>
+          <City>VICKSBURG</City>
+          <State>MI</State>
+          <ZIPCode>49097</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>565920</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSch">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>9649</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <InvestmentsCorpStockSchedule documentId="InvestCorpStockSch">
+      <InvestmentsCorpStock>
+        <NameOfStock>CORPORATE STOCKS</NameOfStock>
+        <EOYBookValue>73595357</EOYBookValue>
+        <EOYFMV>73595357</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsLandSchedule2 documentId="InvLandSch2" />
+    <LandEtcSchedule2 documentId="LandEtcSch2" />
+    <LegalFeesSchedule documentId="LegalFeesSch">
+      <LegalFees>
+        <Category>LEGAL FEES</Category>
+        <Amount>36285</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="OtherAssetsSch">
+      <OtherAssets>
+        <Description>MISCELLANEOUS</Description>
+        <BOYBookValue>30459</BOYBookValue>
+        <EOYBookValue>2</EOYBookValue>
+        <EOYFMV>2</EOYFMV>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpenses>
+        <Description>MISCELLANEOUS EXPENSES</Description>
+        <RevenueAndExpensesPerBooks>15690</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>15690</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSch2">
+      <OtherIncome>
+        <Description>OTHER INCOME (LOSS) FROM PARTNERSHIPS</Description>
+        <RevenueAndExpensesPerBooks>2271582</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="OtherIncreasesSch">
+      <OtherIncreases>
+        <Description>UNREALIZED GAIN ON INVESTMENTS</Description>
+        <Amount>7384557</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OthProfFeesSch">
+      <OtherProfessionalFees>
+        <Category>INVESTMENT MANAGEMENT</Category>
+        <Amount>90155</Amount>
+        <NetInvestmentIncome>90155</NetInvestmentIncome>
+      </OtherProfessionalFees>
+      <OtherProfessionalFees>
+        <Category>PROGRAM CONSULTING</Category>
+        <Amount>240559</Amount>
+        <DisbursementsCharitablePrps>240559</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+      <OtherProfessionalFees>
+        <Category>OTHER</Category>
+        <Amount>7412</Amount>
+        <DisbursementsCharitablePrps>7412</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+      <OtherProfessionalFees>
+        <Category>TRUST ADVISOR</Category>
+        <Amount>22100</Amount>
+        <DisbursementsCharitablePrps>22100</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <Taxes>
+        <Category>MICHIGAN ANNUAL REPORT</Category>
+        <Amount>20</Amount>
+      </Taxes>
+      <Taxes>
+        <Category>NET EXCISE TAX PAYMENTS</Category>
+        <Amount>49800</Amount>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

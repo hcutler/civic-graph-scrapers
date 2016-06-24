@@ -1,0 +1,592 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-09-14T13:44:27-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-05-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>HENRY &amp; HORNE LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>7098 E COCHISE ROAD SUITE 100</AddressLine1>
+        <City>SCOTTSDALE</City>
+        <State>AZ</State>
+        <ZIPCode>85253</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-06-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>866052886</EIN>
+      <Name>
+        <BusinessNameLine1>E BLOIS DU BOIS FOUNDATION INC</BusinessNameLine1>
+      </Name>
+      <NameControl>EBLO</NameControl>
+      <Phone>4808742226</Phone>
+      <USAddress>
+        <AddressLine1>3370 N HAYDEN RD 123-PMB319</AddressLine1>
+        <City>SCOTTSDALE</City>
+        <State>AZ</State>
+        <ZIPCode>85251</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Gail Horne</Name>
+      <Title>President</Title>
+      <Phone>4808742226</Phone>
+      <DateSigned>2010-08-21</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Kathy E Hostetler CPA</Name>
+      <Phone>4804831170</Phone>
+      <DatePrepared>2010-08-21</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>3756675</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>180</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>180</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>89884</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>89884</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>-51220</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>157339</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>38844</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>90064</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>60000</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>20400</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>39600</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">890</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>490</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>400</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">4709</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>1676</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>3033</TaxesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>65599</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>22566</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>43033</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>165000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>165000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>230599</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>22566</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>208033</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-191755</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>67498</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>31188</CashBOY>
+        <CashEOY>141541</CashEOY>
+        <CashEOYFMV>141541</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>1095301</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>404319</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>404319</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>622892</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2018900001">614267</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>1739147</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>405278</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="RetDoc2044400001">760755</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>696374</InvestmentsCorpBondsEOYFMV>
+        <InvestmentsMortgageLoansBOY>734551</InvestmentsMortgageLoansBOY>
+        <InvestmentsMortgageLoansEOY>773284</InvestmentsMortgageLoansEOY>
+        <InvestmentsMortgageLoansEOYFMV>773284</InvestmentsMortgageLoansEOYFMV>
+        <OtherAssetsBOY referenceDocumentId="RetDoc2046600001">2760</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId="RetDoc2046600001">2020</OtherAssetsEOY>
+        <OtherAssetsEOYFMV referenceDocumentId="RetDoc2046600001">2010</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>2891970</TotalAssetsBOY>
+        <TotalAssetsEOY>2696186</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>3756675</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>0</CapitalStockBOY>
+        <CapitalStockEOY>0</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>10976363</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>10976363</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>-8084393</RetainedEarningsBOY>
+        <RetainedEarningsEOY>-8280177</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>2891970</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>2696186</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>2891970</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>2696186</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>2891970</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-191755</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>2700215</Subtotal>
+        <OtherDecreases referenceDocumentId="RetDoc2049800001">4029</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>2696186</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>252 SH ALCATEL LUCENT SPD ADR</DescriptionOfAsset>
+          <DateAcquired>1982-06-24</DateAcquired>
+          <DateSold>2010-05-31</DateSold>
+          <GrossSalesPrice>812</GrossSalesPrice>
+          <CostOrOtherBasis>4169</CostOrOtherBasis>
+          <GainOrLoss>-3357</GainOrLoss>
+          <GainsMinusExcessOrLosses>-3357</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1500 SH COMCAST CORP NEW CL A</DescriptionOfAsset>
+          <DateAcquired>2002-11-22</DateAcquired>
+          <DateSold>2010-05-31</DateSold>
+          <GrossSalesPrice>22032</GrossSalesPrice>
+          <CostOrOtherBasis>34443</CostOrOtherBasis>
+          <GainOrLoss>-12411</GainOrLoss>
+          <GainsMinusExcessOrLosses>-12411</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>400 SH EASTMAN KODAK</DescriptionOfAsset>
+          <DateAcquired>1987-03-24</DateAcquired>
+          <DateSold>2010-05-31</DateSold>
+          <GrossSalesPrice>1718</GrossSalesPrice>
+          <CostOrOtherBasis>9638</CostOrOtherBasis>
+          <GainOrLoss>-7920</GainOrLoss>
+          <GainsMinusExcessOrLosses>-7920</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>19 SH FAIRPOINT COMMUNICATIONS</DescriptionOfAsset>
+          <DateAcquired>1984-06-24</DateAcquired>
+          <DateSold>2010-05-31</DateSold>
+          <GrossSalesPrice>8</GrossSalesPrice>
+          <CostOrOtherBasis>34</CostOrOtherBasis>
+          <GainOrLoss>-26</GainOrLoss>
+          <GainsMinusExcessOrLosses>-26</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>442 SH HEWLET PACKARD\COMPAQ COMP</DescriptionOfAsset>
+          <DateAcquired>1996-07-11</DateAcquired>
+          <DateSold>2010-05-31</DateSold>
+          <GrossSalesPrice>19307</GrossSalesPrice>
+          <CostOrOtherBasis>6108</CostOrOtherBasis>
+          <GainOrLoss>13199</GainOrLoss>
+          <GainsMinusExcessOrLosses>13199</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>50 SH IDEARC INC</DescriptionOfAsset>
+          <DateAcquired>1984-06-24</DateAcquired>
+          <DateSold>2010-05-31</DateSold>
+          <GrossSalesPrice>2</GrossSalesPrice>
+          <CostOrOtherBasis>283</CostOrOtherBasis>
+          <GainOrLoss>-281</GainOrLoss>
+          <GainsMinusExcessOrLosses>-281</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1800 SH MOTOROLA</DescriptionOfAsset>
+          <DateAcquired>1996-06-14</DateAcquired>
+          <DateSold>2010-05-31</DateSold>
+          <GrossSalesPrice>12689</GrossSalesPrice>
+          <CostOrOtherBasis>33004</CostOrOtherBasis>
+          <GainOrLoss>-20315</GainOrLoss>
+          <GainsMinusExcessOrLosses>-20315</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>124 SH NCR CORP NEW</DescriptionOfAsset>
+          <DateAcquired>1982-06-24</DateAcquired>
+          <DateSold>2010-05-31</DateSold>
+          <GrossSalesPrice>1667</GrossSalesPrice>
+          <CostOrOtherBasis>310</CostOrOtherBasis>
+          <GainOrLoss>1357</GainOrLoss>
+          <GainsMinusExcessOrLosses>1357</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>124 SH TERADATA CORP DEL</DescriptionOfAsset>
+          <DateAcquired>1982-06-24</DateAcquired>
+          <DateSold>2010-05-31</DateSold>
+          <GrossSalesPrice>3325</GrossSalesPrice>
+          <CostOrOtherBasis>352</CostOrOtherBasis>
+          <GainOrLoss>2973</GainOrLoss>
+          <GainsMinusExcessOrLosses>2973</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1845 BP PLC</DescriptionOfAsset>
+          <DateAcquired>2010-02-10</DateAcquired>
+          <DateSold>2010-05-31</DateSold>
+          <GrossSalesPrice>95779</GrossSalesPrice>
+          <CostOrOtherBasis>99965</CostOrOtherBasis>
+          <GainOrLoss>-4186</GainOrLoss>
+          <GainsMinusExcessOrLosses>-4186</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>982 SH ENRON CORP EXCH PORTLAND GEN</DescriptionOfAsset>
+          <DateAcquired>1994-05-11</DateAcquired>
+          <DateSold>2010-05-31</DateSold>
+          <CostOrOtherBasis>9312</CostOrOtherBasis>
+          <GainOrLoss>-9312</GainOrLoss>
+          <GainsMinusExcessOrLosses>-9312</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>418 SH ENRON CORP OREGON NPV</DescriptionOfAsset>
+          <DateAcquired>1998-10-15</DateAcquired>
+          <DateSold>2010-05-31</DateSold>
+          <CostOrOtherBasis>10941</CostOrOtherBasis>
+          <GainOrLoss>-10941</GainOrLoss>
+          <GainsMinusExcessOrLosses>-10941</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>-51220</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>893790</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>4115037</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.217201</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>196213</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>4902918</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.040020</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>262491</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>4816446</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.054499</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>109489</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>4615478</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.023722</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>133356</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>4132809</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.032268</DistributionRatioYear5>
+        <TotalDistributionRatio>0.367710</TotalDistributionRatio>
+        <AverageDistributionRatio>0.073542</AverageDistributionRatio>
+        <NetNoncharitableAssets>3708541</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>272734</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>675</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>273409</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>208033</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>1350</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>1350</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>1350</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>2020</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>2020</TotalCreditsAndPayments>
+        <Overpayment>670</Overpayment>
+        <AmountCreditedToNextYear>670</AmountCreditedToNextYear>
+        <AmountToBeRefunded>0</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>AZ</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>The Foundation</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>4808742226</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>3370 N HAYDEN RD 123-PMB319</AddressLine1>
+          <City>SCOTTSDALE</City>
+          <State>AZ</State>
+          <ZIPCode>85251</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>1</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>0</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ROBERT HORNE</PersonName>
+          <USAddress>
+            <AddressLine1>3370 N HAYDEN RD 123-PMB319</AddressLine1>
+            <City>sCOTTSDALE</City>
+            <State>AZ</State>
+            <ZIPCode>85251</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>GAIL HORNE</PersonName>
+          <USAddress>
+            <AddressLine1>3370 N HAYDEN RD 123-PMB319</AddressLine1>
+            <City>SCOTTSDALE</City>
+            <State>AZ</State>
+            <ZIPCode>85251</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>20.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>36000</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ROSLYN PINE</PersonName>
+          <USAddress>
+            <AddressLine1>3370 N HAYDEN RD 123-PMB319</AddressLine1>
+            <City>SCOTTSDALE</City>
+            <State>AZ</State>
+            <ZIPCode>85251</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>20.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>24000</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>2284477</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>716636</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>763903</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>3765016</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>3765016</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>56475</CashDeemedCharitable>
+        <NetNoncharitableAssets>3708541</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>185427</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>185427</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>1350</TaxBasedOnInvestmentIncome>
+        <TotalTax>1350</TotalTax>
+        <DistributableAmountBeforeAdj>184077</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>184077</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>184077</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>208033</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>208033</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>208033</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>184077</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear1>474818</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>474818</TotalExcessDistriCarryover>
+        <QualifyingDistributions>208033</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>184077</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>23956</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>498774</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>498774</ExcessDistriCyovToNextYear>
+        <ExcessFromYear1>474818</ExcessFromYear1>
+        <ExcessFromCurrentYear>23956</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>DIRECTOR OF FINANCIAL AID ASU U of</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>E BLOIS DU BOIS FOUNDATION INC</AddressLine1>
+            <City>SCOTTSDALE</City>
+            <State>AZ</State>
+            <ZIPCode>85251</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>4808742226</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>APPLICATION FORMS ARE AVAILABLE AT THE VARIOUS DIRECTOR'S OR FINANCIAL AID OFFICE.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>DEADLINES ARE ESTABLISHED BY THE VARIOUS INSTITUTIONS. THE FOUNDATION HAS NO SUBMISSION DEADLINES.</SubmissionDeadlines>
+          <RestrictionsOnAwards>AWARDS ARE RESTRICTED TO STUDENTS ATTENDING ARIZONA UNIVERSITIES AND ARIZONA COMMUNITY COLLEGES. ALL RECOMMENDED STUDENTS MUST BE INTERVIEWED AND APPROVED BY A FOUNDATION OFFICER. GRANTS ARE ALSO AVAILABLE FOR THE PREVENTION OF CRUELTY TO ANIMALS AND SUPPORT OF OTHER ARIZONA HUMANE PROJECTS, THE PHOENIX ZOO, AND THE ARIZONA BOYS AND GIRLS CLUBS.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ARIZONA STATE UNIVERSITY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1001 S MILL AVE</AddressLine1>
+            <City>TEMPE</City>
+            <State>AZ</State>
+            <ZIPCode>85281</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIPS</PurposeOfGrantOrContribution>
+          <Amount>50000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NORTHERN ARIZONA UNIVERSITY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>SOUTH SAN FRANCISCO ST</AddressLine1>
+            <City>FLAGSTAFF</City>
+            <State>AZ</State>
+            <ZIPCode>86011</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIPS</PurposeOfGrantOrContribution>
+          <Amount>62500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNIVERSITY OF ARIZONA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 210108</AddressLine1>
+            <City>TUCSON</City>
+            <State>AZ</State>
+            <ZIPCode>85721</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIPS</PurposeOfGrantOrContribution>
+          <Amount>52500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>165000</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>180</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>89884</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>-51220</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>38844</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>38844</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>all</LineNumber>
+          <RelationshipStatement>All activities relate to exempt purpose</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>LEGAL &amp; ACCOUNTING FEES</Category>
+        <Amount>890</Amount>
+        <NetInvestmentIncome>490</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>400</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc2044400001">
+      <InvestmentsCorpBonds>
+        <NameOfBond>CORPORATE BONDS</NameOfBond>
+        <EOYBookValue>760755</EOYBookValue>
+        <EOYFMV>696374</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorpStock>
+        <NameOfStock>CORPORATE STOCKS</NameOfStock>
+        <EOYBookValue>614267</EOYBookValue>
+        <EOYFMV>1739147</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherAssetsSchedule documentId="RetDoc2046600001">
+      <OtherAssets>
+        <Description>PREPAID EXCISE TAX</Description>
+        <BOYBookValue>2760</BOYBookValue>
+        <EOYBookValue>2020</EOYBookValue>
+        <EOYFMV>2010</EOYFMV>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc2049800001">
+      <OtherDecreases>
+        <Description>EXCISE TAX - 990PF</Description>
+        <Amount>4029</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>PAYROLL TAX</Category>
+        <Amount>4589</Amount>
+        <NetInvestmentIncome>1561</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>3028</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>ARIZONA CORPORATION COMMISSION</Category>
+        <Amount>10</Amount>
+        <NetInvestmentIncome>5</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>5</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>FOREIGN TAX</Category>
+        <Amount>110</Amount>
+        <NetInvestmentIncome>110</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,608 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-03T06:09:25-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-03-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>BAND ROSENBAUM &amp; MARTIN PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>26 BURLING LANE</AddressLine1>
+        <City>NEW ROCHELLE</City>
+        <State>NY</State>
+        <ZIPCode>10801</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-04-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>133945122</EIN>
+      <Name>
+        <BusinessNameLine1>MAUREEN &amp; MARK ROSSI CHARITABLE</BusinessNameLine1>
+        <BusinessNameLine2>FOUNDATION INC</BusinessNameLine2>
+      </Name>
+      <NameControl>MAUR</NameControl>
+      <USAddress>
+        <AddressLine1>13 KIRBY LANE</AddressLine1>
+        <City>RYE</City>
+        <State>NY</State>
+        <ZIPCode>10580</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>MARK ROSSI</Name>
+      <Title>TRUSTEE</Title>
+      <DateSigned>2011-02-02</DateSigned>
+      <AuthorizeThirdParty>true</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>SCOTT MARTIN</Name>
+      <Phone>9146367200</Phone>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="11">
+    <IRS990PF documentId="IRS990PF">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>100324</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>76691</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>37</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>37</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>948</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>948</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>-785</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>97135</GrossSalesPrice>
+        <TotalRevenueAndExpenses>76891</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>985</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="AccountingFeesSch">3500</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>3500</AccountingFeesNetInvstIncm>
+        <AccountingFeesAdjNetIncm>0</AccountingFeesAdjNetIncm>
+        <AccountingFeesDsbrsChrtblPrps>0</AccountingFeesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSch">200</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>200</OtherExpensesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>3700</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>3700</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>0</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>66500</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>66500</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>70200</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>3700</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>0</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>66500</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>6691</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>10949</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>38871</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>38871</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>93550</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="InvestCorpStockSch">72319</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>61453</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>104499</TotalAssetsBOY>
+        <TotalAssetsEOY>111190</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>100324</TotalAssetsEOYFMV>
+        <GrantsPayableBOY>0</GrantsPayableBOY>
+        <GrantsPayableEOY>0</GrantsPayableEOY>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>104499</CapitalStockBOY>
+        <CapitalStockEOY>111190</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>0</RetainedEarningsBOY>
+        <RetainedEarningsEOY>0</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>104499</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>111190</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>104499</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>111190</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>104499</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>6691</ExcessOfRevenueOverExpenses>
+        <Subtotal>111190</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>111190</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2500 HEALTH MANAGEMENT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>1995-10-26</DateAcquired>
+          <DateSold>2009-04-30</DateSold>
+          <GrossSalesPrice>9716</GrossSalesPrice>
+          <CostOrOtherBasis>15928</CostOrOtherBasis>
+          <GainOrLoss>-6212</GainOrLoss>
+          <GainsMinusExcessOrLosses>-6212</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2500 HEALTH MANAGEMENT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>1995-10-26</DateAcquired>
+          <DateSold>2009-08-04</DateSold>
+          <GrossSalesPrice>15425</GrossSalesPrice>
+          <CostOrOtherBasis>15200</CostOrOtherBasis>
+          <GainOrLoss>225</GainOrLoss>
+          <GainsMinusExcessOrLosses>225</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>500 NOKIA CORP</DescriptionOfAsset>
+          <HowAcquired>D</HowAcquired>
+          <DateAcquired>2009-10-15</DateAcquired>
+          <DateSold>2009-10-20</DateSold>
+          <GrossSalesPrice>6557</GrossSalesPrice>
+          <CostOrOtherBasis>6840</CostOrOtherBasis>
+          <GainOrLoss>-283</GainOrLoss>
+          <GainsMinusExcessOrLosses>-283</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>500 PNC FINANCIAL SERVICES</DescriptionOfAsset>
+          <HowAcquired>D</HowAcquired>
+          <DateAcquired>2009-10-15</DateAcquired>
+          <DateSold>2009-11-17</DateSold>
+          <GrossSalesPrice>27097</GrossSalesPrice>
+          <CostOrOtherBasis>22900</CostOrOtherBasis>
+          <GainOrLoss>4197</GainOrLoss>
+          <GainsMinusExcessOrLosses>4197</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1200 GE</DescriptionOfAsset>
+          <HowAcquired>D</HowAcquired>
+          <DateAcquired>2009-10-15</DateAcquired>
+          <DateSold>2010-01-12</DateSold>
+          <GrossSalesPrice>19586</GrossSalesPrice>
+          <CostOrOtherBasis>20148</CostOrOtherBasis>
+          <GainOrLoss>-562</GainOrLoss>
+          <GainsMinusExcessOrLosses>-562</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1447 HEALTH MANAGEMENT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-04-28</DateAcquired>
+          <DateSold>2010-01-13</DateSold>
+          <GrossSalesPrice>10954</GrossSalesPrice>
+          <CostOrOtherBasis>10824</CostOrOtherBasis>
+          <GainOrLoss>130</GainOrLoss>
+          <GainsMinusExcessOrLosses>130</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1000 HEALTH MANAGEMENT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>1995-10-26</DateAcquired>
+          <DateSold>2010-01-13</DateSold>
+          <GrossSalesPrice>7800</GrossSalesPrice>
+          <CostOrOtherBasis>6080</CostOrOtherBasis>
+          <GainOrLoss>1720</GainOrLoss>
+          <GainsMinusExcessOrLosses>1720</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>-785</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>69100</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>106863</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.646622</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>145548</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>106082</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>1.372033</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>98345</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>129242</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.760937</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>215457</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>280015</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.769448</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>160933</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>376421</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.427535</DistributionRatioYear5>
+        <TotalDistributionRatio>3.976575</TotalDistributionRatio>
+        <AverageDistributionRatio>0.795315</AverageDistributionRatio>
+        <NetNoncharitableAssets>85067</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>67655</AdjustedNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>67655</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>66500</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <Subtotal>0</Subtotal>
+        <TaxBasedOnInvestmentIncome>0</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>958</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>958</TotalCreditsAndPayments>
+        <Overpayment>958</Overpayment>
+        <AmountCreditedToNextYear>958</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>false</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>NY</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors referenceDocumentId="SubsContributorsSch">true</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>MARK AND MAUREEN ROSSI</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>13 KIRBY LANE</AddressLine1>
+          <City>RYE</City>
+          <State>NY</State>
+          <ZIPCode>10580</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MAUREEN ROSSI</PersonName>
+          <USAddress>
+            <AddressLine1>13 KIRBY LANE</AddressLine1>
+            <City>RYE</City>
+            <State>NY</State>
+            <ZIPCode>10580</ZIPCode>
+          </USAddress>
+          <Title>MANAGER</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARK ROSSI</PersonName>
+          <USAddress>
+            <AddressLine1>13 KIRBY LANE</AddressLine1>
+            <City>RYE</City>
+            <State>NY</State>
+            <ZIPCode>10580</ZIPCode>
+          </USAddress>
+          <Title>MANAGER</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>NONE</Description1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>NONE</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>69160</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>17202</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>86362</TotalFMVOfUnusedAssets>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>86362</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>1295</CashDeemedCharitable>
+        <NetNoncharitableAssets>85067</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>4253</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>4253</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>0</TaxBasedOnInvestmentIncome>
+        <TotalTax>0</TotalTax>
+        <DistributableAmountBeforeAdj>4253</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>4253</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>4253</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>66500</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <AmountsPaidAcqCharitableAssets>0</AmountsPaidAcqCharitableAssets>
+        <AmountsSetAsideSuitabilityTest>0</AmountsSetAsideSuitabilityTest>
+        <AmountsSetAsideCashDistriTest>0</AmountsSetAsideCashDistriTest>
+        <QualifyingDistributions>66500</QualifyingDistributions>
+        <AdjQualifyingDistributions>66500</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>4253</DistributableAmountAsAdjusted>
+        <PriorYear1>2007</PriorYear1>
+        <PriorYear2>2006</PriorYear2>
+        <PriorYear3>2005</PriorYear3>
+        <ExcessDistriCarryoverYear5>142246</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>201542</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>92193</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>140248</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>63757</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>639986</TotalExcessDistriCarryover>
+        <QualifyingDistributions>66500</QualifyingDistributions>
+        <AppliedToCurrentYear>4253</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>62247</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>702233</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>142246</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>559987</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>201542</ExcessFromYear4>
+        <ExcessFromYear3>92193</ExcessFromYear3>
+        <ExcessFromYear2>140248</ExcessFromYear2>
+        <ExcessFromYear1>63757</ExcessFromYear1>
+        <ExcessFromCurrentYear>62247</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <PrivateOperatingFoundations />
+      <SupplementaryInformation>
+        <ContributingManager>NA</ContributingManager>
+        <ShareholderManager>NA</ShareholderManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ST VINCENT COLLEGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>300 FRASER PURCHASE ROAD</AddressLine1>
+            <City>LATROBE</City>
+            <State>PA</State>
+            <ZIPCode>15650</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>56000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HORIZONS NATIONAL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>ONE PARK STREET</AddressLine1>
+            <City>NORWALK</City>
+            <State>CT</State>
+            <ZIPCode>06851</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BICENTENNIAL CAMPAIGN-ARCHDIOCESE OF NEW YORK</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1011 FIRST AVENUE 14TH FLOOR</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10022</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>PARISHES</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE URSULINE SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1354 NORTH AVENUE</AddressLine1>
+            <City>NEW ROCHELLE</City>
+            <State>NY</State>
+            <ZIPCode>10804</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CATHOLIC GUARDIAN SOCIETY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1011 FIRST AVENUE</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10022</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>PARISHES</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SUSQUEHANNA UNIVERSITY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>514 UNIVERSITY AVENUE</AddressLine1>
+            <City>SELINSGROVE</City>
+            <State>PA</State>
+            <ZIPCode>17870</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SAVE THE CHILDREN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>54 WILTON ROAD</AddressLine1>
+            <City>WESTPORT</City>
+            <State>CT</State>
+            <ZIPCode>06880</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>HOMELESS AND HOUSING</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>66500</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <ProgramServiceRevenuePartVII>
+          <Description>CONTRIBUTIONS GIFTS AND GRANTS</Description>
+          <RelatedOrExemptFunctionIncome>76691</RelatedOrExemptFunctionIncome>
+        </ProgramServiceRevenuePartVII>
+        <FeesContractsFromGovtAgencies />
+        <MembershipDuesAndAssessments />
+        <IntOnSavingsAndTempCashInvst>
+          <UnrelatedBusinessIncomeAmount>37</UnrelatedBusinessIncomeAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <UnrelatedBusinessIncomeAmount>948</UnrelatedBusinessIncomeAmount>
+        </DividendsAndIntFromSecPartVII>
+        <NetRentalIncmReDebtFincdProp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncmPersonalProperty />
+        <OtherInvestmentIncomePartVII />
+        <GainSalesAssetsOthThanInvntry />
+        <NetIncomeLossFromSpecialEvents />
+        <GrossProfitLossSalesOfInvntry>
+          <UnrelatedBusinessIncomeAmount>-785</UnrelatedBusinessIncomeAmount>
+        </GrossProfitLossSalesOfInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>200</UnrelatedBusinessIncomeAmount>
+          <RelatedOrExemptFunctionIncome>76691</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>76891</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps />
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>MAUREEN AND MARK ROSSI</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>13 KIRBY LANE</AddressLine1>
+          <City>RYE</City>
+          <State>NY</State>
+          <ZIPCode>105804307</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>76691</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+        <NoncashContributionType>X</NoncashContributionType>
+      </ContributorInfo>
+      <NoncashProperty>
+        <ContributorNumberFromPartI>1</ContributorNumberFromPartI>
+        <NoncashPropertyDescription>1100 CISCO SYSTEMS INC-$26,803 1200 GE-$20,148 500 NOKIA CORP-$6,840 500 PNC FINANCIAL SERVICES-$22,</NoncashPropertyDescription>
+        <FairMarketValue>76691</FairMarketValue>
+        <DateReceived>2009-10-15</DateReceived>
+      </NoncashProperty>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSch">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>3500</Amount>
+        <NetInvestmentIncome>3500</NetInvestmentIncome>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <AllOthProgRltdInvestmentsSch documentId="AllOthProgInvSch">
+      <AllOthProgRltdInvestments>
+        <Description>NONE</Description>
+      </AllOthProgRltdInvestments>
+    </AllOthProgRltdInvestmentsSch>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <InvestmentsCorpStockSchedule documentId="InvestCorpStockSch">
+      <InvestmentsCorpStock>
+        <NameOfStock>HEALTH MANAGEMENT</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>EASTMAN KODAK</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>AMER INTL GROUP</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>GENERAL ELECTRIC</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>HOME DEPOT</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>SCHERING PLOUGH</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>NOKIA</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>NORTEL</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ML INSTITUTIONAL TAX EXEMPT</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>PRUDENTIAL FINANCIAL INC</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>EXXON MOBIL CORP.</NameOfStock>
+        <EOYBookValue>45516</EOYBookValue>
+        <EOYFMV>32820</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CISCO SYSTEMS</NameOfStock>
+        <EOYBookValue>26803</EOYBookValue>
+        <EOYFMV>28633</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsLandSchedule2 documentId="InvLandSch2" />
+    <LandEtcSchedule2 documentId="LandEtcSch2" />
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpenses>
+        <Description>BANK CHARGES AND FEES</Description>
+        <RevenueAndExpensesPerBooks>150</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>150</NetInvestmentIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>FILING FEES</Description>
+        <RevenueAndExpensesPerBooks>50</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>50</NetInvestmentIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <SubstantialContributorsSch documentId="SubsContributorsSch">
+      <SubstantialContributor>
+        <PersonName>MAUREEN AND MARK ROSSI</PersonName>
+        <USAddress>
+          <AddressLine1>13 KIRBY LANE</AddressLine1>
+          <City>RYE</City>
+          <State>NY</State>
+          <ZIPCode>105804307</ZIPCode>
+        </USAddress>
+      </SubstantialContributor>
+    </SubstantialContributorsSch>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <Taxes>
+        <Category>FOREIGN TAXES</Category>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

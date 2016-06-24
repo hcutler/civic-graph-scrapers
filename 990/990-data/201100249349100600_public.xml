@@ -1,0 +1,559 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-01-24T15:29:46-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-11-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>SMYTH &amp; HAUCK PA CPAS</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>631 US HIGHWAY ONE SUITE 411</AddressLine1>
+        <City>NORTH PALM BEACH</City>
+        <State>FL</State>
+        <ZIPCode>334084621</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-12-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>237165961</EIN>
+      <Name>
+        <BusinessNameLine1>PEARLSTEIN FOUNDATION INC</BusinessNameLine1>
+      </Name>
+      <NameControl>PEAR</NameControl>
+      <Phone>5615884576</Phone>
+      <USAddress>
+        <AddressLine1>2500 S OCEAN BLVD BLDG 1</AddressLine1>
+        <AddressLine2>ROOM/SUITE 2A</AddressLine2>
+        <City>PALM BEACH</City>
+        <State>FL</State>
+        <ZIPCode>33480</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>AUDREY LEVINE</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>5615884576</Phone>
+      <DateSigned>2010-12-13</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>KRISTINE C POLO</Name>
+      <Phone>5618489300</Phone>
+      <DatePrepared>2011-01-24</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="9">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>655300</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>14131</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>14131</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>14131</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="RetDoc3">-429</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>16825</GrossSalesPrice>
+        <TotalRevenueAndExpenses>13702</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>14131</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>14131</TotalAdjustedNetIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">650</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>650</AccountingFeesNetInvstIncm>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc8">356</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>356</OtherProfFeesNetInvstIncm>
+        <InterestRevAndExpnss>110</InterestRevAndExpnss>
+        <InterestNetInvstIncm>110</InterestNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc9">25</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>25</TaxesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>1141</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>1141</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>38000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>38000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>39141</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>1141</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>38000</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-25439</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>12990</NetInvestmentIncome>
+        <AdjustedNetIncome>14131</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>7308</SavingsAndTempCashInvstBOY>
+        <InvestmentsCorpStockBOY>302043</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc4">302043</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>323887</InvestmentsCorpStockEOYFMV>
+        <InvestmentsOtherBOY>311314</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc5">294060</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>331413</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>620665</TotalAssetsBOY>
+        <TotalAssetsEOY>596103</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>655300</TotalAssetsEOYFMV>
+        <OtherLiabilitiesEOY referenceDocumentId="RetDoc7">1176</OtherLiabilitiesEOY>
+        <TotalLiabilitiesEOY>1176</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>620665</UnrestrictedBOY>
+        <UnrestrictedEOY>594927</UnrestrictedEOY>
+        <TotalNetAssetsBOY>620665</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>594927</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>620665</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>596103</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>620665</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-25439</ExcessOfRevenueOverExpenses>
+        <Subtotal>595226</Subtotal>
+        <OtherDecreases referenceDocumentId="RetDoc6">299</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>594927</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>29300</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>505258</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.057990</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>34951</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>609652</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.057329</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>43966</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>565185</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.077790</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>20800</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>422896</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.049185</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>29705</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>409622</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.072518</DistributionRatioYear5>
+        <TotalDistributionRatio>0.314812</TotalDistributionRatio>
+        <AverageDistributionRatio>0.062962</AverageDistributionRatio>
+        <NetNoncharitableAssets>608854</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>38335</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>130</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>38465</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>38000</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>260</InvestmentIncomeExciseTax>
+        <Subtotal>260</Subtotal>
+        <TaxBasedOnInvestmentIncome>260</TaxBasedOnInvestmentIncome>
+        <TaxDue>260</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>DE</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>AUDREY LEVINE</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>5615884576</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>2500 S OCEAN BLVD 2A</AddressLine1>
+          <City>PALM BEACH</City>
+          <State>FL</State>
+          <ZIPCode>33480</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>AUDREY LEVINE</PersonName>
+          <USAddress>
+            <AddressLine1>2500 S OCEAN BLVD 2A</AddressLine1>
+            <City>PALM BEACH</City>
+            <State>FL</State>
+            <ZIPCode>33480</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>617482</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>644</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>618126</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>618126</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>9272</CashDeemedCharitable>
+        <NetNoncharitableAssets>608854</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>30443</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>30443</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>260</TaxBasedOnInvestmentIncome>
+        <TotalTax>260</TotalTax>
+        <DistributableAmountBeforeAdj>30183</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>30183</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>30183</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>38000</ExpensesAndContributions>
+        <QualifyingDistributions>38000</QualifyingDistributions>
+        <AdjQualifyingDistributions>38000</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>30183</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear3>4897</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>4716</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>4336</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>13949</TotalExcessDistriCarryover>
+        <QualifyingDistributions>38000</QualifyingDistributions>
+        <AppliedToCurrentYear>30183</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>7817</RemainingDistriFromCorpus>
+        <TotalCorpus>21766</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>21766</ExcessDistriCyovToNextYear>
+        <ExcessFromYear3>4897</ExcessFromYear3>
+        <ExcessFromYear2>4716</ExcessFromYear2>
+        <ExcessFromYear1>4336</ExcessFromYear1>
+        <ExcessFromCurrentYear>7817</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>AUDREY LEVINE</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>2500 SOUTH OCEAN BLVD</AddressLine1>
+            <AddressLine2>BLDG 1 2A</AddressLine2>
+            <City>PALM BEACH</City>
+            <State>FL</State>
+            <ZIPCode>33480</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>5615884576</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>NONE</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>NONE</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AMERICAN UNIVERSITY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4400 MASSACHUSETTS AVE NW</AddressLine1>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20016</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AMERICAN HEART ASSOCIATIO</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>7272 GREENVILLE AVE</AddressLine1>
+            <City>DALLAS</City>
+            <State>TX</State>
+            <ZIPCode>75231</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHIZUK AMUNO CONGREGATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>8100 STEVENSON RD</AddressLine1>
+            <City>BALTIMORE</City>
+            <State>MD</State>
+            <ZIPCode>21208</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>4000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FREINDS OF ISRAEL DEFENSE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>350 5TH AVENUE</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10118</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FREINDS OF ST TIMOTHY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>8400 GREENSPRING AVE</AddressLine1>
+            <City>STEVENSON</City>
+            <State>MD</State>
+            <ZIPCode>21153</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FRIENDS OF GARRISON FORST</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>300 GARRISON FOREST RD</AddressLine1>
+            <City>OWING MILLS</City>
+            <State>MD</State>
+            <ZIPCode>21117</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HADASSAH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3723 OLD COURT RD</AddressLine1>
+            <City>BALTIMORE</City>
+            <State>MD</State>
+            <ZIPCode>21208</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NEW YORK LAW SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>185 WEST BROADWAY</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10013</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SINAI HOSPITAL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2401 WEST BELVEDERE AVE</AddressLine1>
+            <City>BALTIMORE</City>
+            <State>MD</State>
+            <ZIPCode>21215</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>6000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TEMPLE EMANUEL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>190 N COUNTY RD</AddressLine1>
+            <City>PALM BEACH</City>
+            <State>FL</State>
+            <ZIPCode>33480</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE ASSOCIATED</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>101 WEST MOUNT ROYAL AVE</AddressLine1>
+            <City>BALTIMORE</City>
+            <State>MD</State>
+            <ZIPCode>21201</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNIVERSITY OF MARYLAND</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>655 W BALTIMORE ST</AddressLine1>
+            <City>BALTIMORE</City>
+            <State>MD</State>
+            <ZIPCode>21201</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>38000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>14131</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>-429</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>13702</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>13702</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>SMYTH &amp; HAUCK</Category>
+        <Amount>650</Amount>
+        <NetInvestmentIncome>650</NetInvestmentIncome>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc3">
+      <GainLossSaleOtherAsset>
+        <Name>LEGG MASON WESTERN ASSET FUND</Name>
+        <DateAcquired>1991-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-03</DateSold>
+        <GrossSalesPrice>9000</GrossSalesPrice>
+        <Basis>9409</Basis>
+        <TotalNet>-409</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>LEGG MASON WESTERN ASSET FUND</Name>
+        <DateAcquired>1991-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-05</DateSold>
+        <GrossSalesPrice>825</GrossSalesPrice>
+        <Basis>856</Basis>
+        <TotalNet>-31</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>LEGG MASON WESTERN ASSET FUND</Name>
+        <DateAcquired>1991-12</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-10</DateSold>
+        <GrossSalesPrice>7000</GrossSalesPrice>
+        <Basis>6989</Basis>
+        <TotalNet>11</TotalNet>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpStockSchedule documentId="RetDoc4">
+      <InvestmentsCorpStock>
+        <NameOfStock>UNITED TECHNOLOGIES CORP</NameOfStock>
+        <EOYBookValue>302043</EOYBookValue>
+        <EOYFMV>323887</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc5">
+      <InvestmentsOther>
+        <CategoryOrItem>LEGG MASON CORE PLUS BOND FUND</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>83806</BookValue>
+        <EOYFMV>83160</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>SPDR DOW JONES IND AVG ETF</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>50138</BookValue>
+        <EOYFMV>49577</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>SPDR S&amp;P MIDCAP 400 ETF</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>49019</BookValue>
+        <EOYFMV>100744</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>POWERSHARES QQQ TR SER 1</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>43645</BookValue>
+        <EOYFMV>36460</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>SPDRS&amp;P 500ETF</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>47452</BookValue>
+        <EOYFMV>41472</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>EVERGREEN</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>20000</BookValue>
+        <EOYFMV>20000</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherDecreasesSchedule documentId="RetDoc6">
+      <OtherDecreases>
+        <Description>FEDERAL EXCISE TAX</Description>
+        <Amount>299</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherLiabilitiesSchedule documentId="RetDoc7">
+      <OtherLiabilities>
+        <Description>OVERDRAFT FROM SMITH BARNEY</Description>
+        <EOYBookValue>1176</EOYBookValue>
+      </OtherLiabilities>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc8">
+      <OtherProfessionalFees>
+        <Category>AGENT FEES</Category>
+        <Amount>356</Amount>
+        <NetInvestmentIncome>356</NetInvestmentIncome>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc9">
+      <Taxes>
+        <Category>STATE OF DELAWARE</Category>
+        <Amount>25</Amount>
+        <NetInvestmentIncome>25</NetInvestmentIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

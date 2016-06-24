@@ -1,0 +1,485 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-24T06:56:31-08:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>CARD PALMER SIBBISON &amp; CO</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>4545 HINCKLEY PARKWAY</AddressLine1>
+        <City>CLEVELAND</City>
+        <State>OH</State>
+        <ZIPCode>441096009</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>752889024</EIN>
+      <Name>
+        <BusinessNameLine1>Robert L &amp; Mary Frances Cattoi</BusinessNameLine1>
+        <BusinessNameLine2>Family Foundation</BusinessNameLine2>
+      </Name>
+      <NameControl>ROBE</NameControl>
+      <Phone>9722396541</Phone>
+      <USAddress>
+        <AddressLine1>7350 Paldao Drive</AddressLine1>
+        <City>Dallas</City>
+        <State>TX</State>
+        <ZIPCode>75240</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>ROBERT J CATTOI</Name>
+      <Title>Director</Title>
+      <DateSigned>2011-02-24</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>ARTHUR P WARD JR CPA MT</Name>
+      <Phone>2166216100</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>126372</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>50000</ContriReceivedRevAndExpnss>
+        <NetGainSaleAssetsRevAndExpnss>0</NetGainSaleAssetsRevAndExpnss>
+        <TotalRevenueAndExpenses>50000</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>0</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>6000</CompOfcrDirTrstRevAndExpnss>
+        <AccountingFeesRevAndExpnss referenceDocumentId=" AccountingFeesSchedule">500</AccountingFeesRevAndExpnss>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">41</DeprecAndDepletionRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">186</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>6727</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>31000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>31000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>37727</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>31000</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>12273</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>114058</CashBOY>
+        <CashEOY>126372</CashEOY>
+        <CashEOYFMV>126372</CashEOYFMV>
+        <LandBuildingAndEquipmentBasis>783</LandBuildingAndEquipmentBasis>
+        <AccumDeprecLandBldgAndEquip>783</AccumDeprecLandBldgAndEquip>
+        <LandBuildingAndEquipmentBOY>41</LandBuildingAndEquipmentBOY>
+        <TotalAssetsBOY>114099</TotalAssetsBOY>
+        <TotalAssetsEOY>126372</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>126372</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>114099</RetainedEarningsBOY>
+        <RetainedEarningsEOY>126372</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>114099</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>126372</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>114099</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>126372</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>114099</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>12273</ExcessOfRevenueOverExpenses>
+        <Subtotal>126372</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>126372</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>49673</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>96522</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.51463</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>49190</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>90495</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.54357</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>38043</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>86707</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.43875</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>22012</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>66038</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.33332</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>27073</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>42148</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.64233</DistributionRatioYear5>
+        <TotalDistributionRatio>2.47260</TotalDistributionRatio>
+        <AverageDistributionRatio>0.49452</AverageDistributionRatio>
+        <NetNoncharitableAssets>108456</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>53634</AdjustedNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>53634</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>31000</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>TX</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>ROBERT J CATTOI</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>8592695626</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>3656 WINDING WOOD LANE</AddressLine1>
+          <City>LEXINGTON</City>
+          <State>KY</State>
+          <ZIPCode>40515</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>true</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CAROL CATTOI-LANNING</PersonName>
+          <USAddress>
+            <AddressLine1>7350 PALDAO DRIVE</AddressLine1>
+            <City>DALLAS</City>
+            <State>TX</State>
+            <ZIPCode>75240</ZIPCode>
+          </USAddress>
+          <Title>Vice President</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>2000</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DAVID C CATTOI</PersonName>
+          <USAddress>
+            <AddressLine1>3357 TAYLOR AVENUE</AddressLine1>
+            <City>RACINE</City>
+            <State>WI</State>
+            <ZIPCode>53405</ZIPCode>
+          </USAddress>
+          <Title>Vice President</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>2000</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ROBERT J CATTOI</PersonName>
+          <USAddress>
+            <AddressLine1>3656 WINDING WOOD LANE</AddressLine1>
+            <City>LEXINGTON</City>
+            <State>KY</State>
+            <ZIPCode>40515</ZIPCode>
+          </USAddress>
+          <Title>VP, SEC &amp; TREAS</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>2000</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ROBERT L CATTOI</PersonName>
+          <USAddress>
+            <AddressLine1>7350 PALDAO DRIVE</AddressLine1>
+            <City>DALLAS</City>
+            <State>TX</State>
+            <ZIPCode>75240</ZIPCode>
+          </USAddress>
+          <Title>President</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>110108</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>110108</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>110108</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>1652</CashDeemedCharitable>
+        <NetNoncharitableAssets>108456</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>5423</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>5423</MinimumInvestmentReturn>
+        <DistributableAmountBeforeAdj>5423</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>5423</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>5423</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>31000</ExpensesAndContributions>
+        <QualifyingDistributions>31000</QualifyingDistributions>
+        <AdjQualifyingDistributions>31000</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>5423</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>24966</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>18710</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>33708</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>44665</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>44847</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>166896</TotalExcessDistriCarryover>
+        <QualifyingDistributions>31000</QualifyingDistributions>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>5423</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>25577</RemainingDistriFromCorpus>
+        <TotalCorpus>192473</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>24966</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>167507</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>18710</ExcessFromYear4>
+        <ExcessFromYear3>33708</ExcessFromYear3>
+        <ExcessFromYear2>44665</ExcessFromYear2>
+        <ExcessFromYear1>44847</ExcessFromYear1>
+        <ExcessFromCurrentYear>25577</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>ROBERT L CATTOI</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CHILDREN'S HOSPITAL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>2777 NORTH STEMMONS FWY SUITE 700</AddressLine1>
+            <City>DALLAS</City>
+            <State>TX</State>
+            <ZIPCode>75207</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>WELFARE OF CHILDREN</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>VANDERBILT UNIVERSITY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>2301 VANDERBILT PLACE</AddressLine1>
+            <City>NASHVILLE</City>
+            <State>TN</State>
+            <ZIPCode>37240</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIPS</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CHILD DEVELPMENT CENTERS OF THE BLU</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>465 SPRINGHILL DR</AddressLine1>
+            <City>LEXINGTON</City>
+            <State>KY</State>
+            <ZIPCode>40503</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHILD DEVELOPMENT</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>KAPPA KAPPA GAMMA SCHOLARSHIP</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>2416 KENSINGTON PLACE</AddressLine1>
+            <City>NASHVILLE</City>
+            <State>TN</State>
+            <ZIPCode>37212</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JESUIT COLLEGE PREP SCHOOL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>12345 INWOOD RD</AddressLine1>
+            <City>DALLAS</City>
+            <State>TX</State>
+            <ZIPCode>75244</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIPS</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>HURLEY EDUCATION FOUNDATION</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>5503 W RANGEVIEW DRIVE</AddressLine1>
+            <City>HURLEY</City>
+            <State>WI</State>
+            <ZIPCode>54534</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIPS</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>XAVIER FOUNDATION</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 10956</AddressLine1>
+            <City>CEDAR RAPIDS</City>
+            <State>IA</State>
+            <ZIPCode>52402</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIPS</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>MOUNT MERCY COLLEGE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1330 ELMHURST DRIVE NE</AddressLine1>
+            <City>CEDAR RAPIDS</City>
+            <State>IA</State>
+            <ZIPCode>52402</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIPS</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CHRIST THE KING SCHOOL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>412 COCHRAN ROAD</AddressLine1>
+            <City>LEXINGTON</City>
+            <State>KY</State>
+            <ZIPCode>40502</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIPS</PurposeOfGrantOrContribution>
+          <Amount>7000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SAYRE SCHOOL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>194 NORTH LIMESTOME STREET</AddressLine1>
+            <City>LEXINGTON</City>
+            <State>KY</State>
+            <ZIPCode>40507</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIPS</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>31000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB" softwareId="10000105" softwareVersion="2010v3.2">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>ROBERT L CATTOI</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>7350 PALDAO DRIVE</AddressLine1>
+          <City>DALLAS</City>
+          <State>TX</State>
+          <ZIPCode>75240</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>50000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <AccountingFees>
+        <Category>CARD PALMER</Category>
+        <Amount>500</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <Depreciation>
+        <DescriptionOfProperty>FILE CABINET</DescriptionOfProperty>
+        <DateAcquired>2000-06-14</DateAcquired>
+        <CostOrOtherBasis>253</CostOrOtherBasis>
+        <PriorYearsDepreciation>238</PriorYearsDepreciation>
+        <ComputationMethod>65</ComputationMethod>
+        <Rate>0.0500</Rate>
+        <CurrentYearExpense>15</CurrentYearExpense>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>COPIER</DescriptionOfProperty>
+        <DateAcquired>2000-06-10</DateAcquired>
+        <CostOrOtherBasis>530</CostOrOtherBasis>
+        <PriorYearsDepreciation>504</PriorYearsDepreciation>
+        <ComputationMethod>65</ComputationMethod>
+        <Rate>0.0500</Rate>
+        <CurrentYearExpense>26</CurrentYearExpense>
+      </Depreciation>
+    </DepreciationSchedule>
+    <LandEtcSchedule2 documentId="LandEtcSchedule2" softwareId="10000105" softwareVersion="2010v3.2">
+      <LandEtc>
+        <CategoryOrItem>Furniture and Fixtures</CategoryOrItem>
+        <CostOrOtherBasis>783</CostOrOtherBasis>
+        <AccumulatedDepreciation>783</AccumulatedDepreciation>
+      </LandEtc>
+    </LandEtcSchedule2>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherExpenses>
+        <Description>MISCELLANEOUS</Description>
+        <RevenueAndExpensesPerBooks>186</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

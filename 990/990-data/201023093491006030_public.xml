@@ -1,0 +1,618 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-08-18T11:53:55-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>BARNES AND COHEN CPA'S PA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>PO BOX 490</AddressLine1>
+        <City>CRYSTAL RIVER</City>
+        <State>FL</State>
+        <ZIPCode>344230490</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>541780341</EIN>
+      <Name>
+        <BusinessNameLine1>THE THOMAS &amp; ELSIE DEELEY</BusinessNameLine1>
+        <BusinessNameLine2>FOUNDATION</BusinessNameLine2>
+      </Name>
+      <NameControl>THOM</NameControl>
+      <Phone>4078510252</Phone>
+      <USAddress>
+        <AddressLine1>9580 SLOANE ST</AddressLine1>
+        <City>ORLANDO</City>
+        <State>FL</State>
+        <ZIPCode>32827</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>THOMAS E DEELEY JR</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>4078510252</Phone>
+      <DateSigned>2010-08-04</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>RONALD COHEN</Name>
+      <Phone>3525631300</Phone>
+      <DatePrepared>2010-08-18</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="10">
+    <IRS990PF documentId="RetDoc2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>928598</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>35000</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>23122</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>23122</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>6845</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>6032</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="RetDoc4">-1603</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>16370</GrossSalesPrice>
+        <TotalRevenueAndExpenses>63364</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>29154</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc3">1065</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>1065</AccountingFeesNetInvstIncm>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc9">765</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>765</OtherProfFeesNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc10">1577</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>1577</TaxesNetInvstIncm>
+        <TravConfMeetingRevAndExpnss>2200</TravConfMeetingRevAndExpnss>
+        <TravConfMeetingNetInvstIncm>2200</TravConfMeetingNetInvstIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc8">37</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>37</OtherExpensesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>5644</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>5644</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>39644</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>39644</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>45288</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>5644</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>39644</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>18076</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>23510</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>588379</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>314325</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>314325</SavingsAndTempCashInvstEOYFMV>
+        <PrepaidExpensesEOY>1550</PrepaidExpensesEOY>
+        <PrepaidExpensesEOYFMV>1550</PrepaidExpensesEOYFMV>
+        <InvestmentsGovtObligBOY>15047</InvestmentsGovtObligBOY>
+        <InvestmentsGovtObligEOY referenceDocumentId="RetDoc7">15047</InvestmentsGovtObligEOY>
+        <InvestmentsGovtObligEOYFMV>15906</InvestmentsGovtObligEOYFMV>
+        <InvestmentsCorpStockBOY>101280</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc6">112632</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>84181</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>300940</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="RetDoc5">580168</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>512636</InvestmentsCorpBondsEOYFMV>
+        <TotalAssetsBOY>1005646</TotalAssetsBOY>
+        <TotalAssetsEOY>1023722</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>928598</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>1005646</RetainedEarningsBOY>
+        <RetainedEarningsEOY>1023722</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>1005646</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>1023722</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>1005646</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>1023722</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>1005646</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>18076</ExcessOfRevenueOverExpenses>
+        <Subtotal>1023722</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>1023722</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>35377</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>872448</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.040549</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>38258</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>932336</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.041035</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>46146</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>904676</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.051008</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>57681</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>894764</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.064465</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>55657</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>901319</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.061751</DistributionRatioYear5>
+        <TotalDistributionRatio>0.258808</TotalDistributionRatio>
+        <AverageDistributionRatio>0.051762</AverageDistributionRatio>
+        <NetNoncharitableAssets>941950</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>48757</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>235</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>48992</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>39644</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>470</InvestmentIncomeExciseTax>
+        <Subtotal>470</Subtotal>
+        <TaxBasedOnInvestmentIncome>470</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>1550</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>1550</TotalCreditsAndPayments>
+        <Overpayment>1080</Overpayment>
+        <AmountCreditedToNextYear>1080</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>VA</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>THOMAS E DEELEY JR</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>4078510252</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>9580 SLOANE ST</AddressLine1>
+          <City>ORLANDO</City>
+          <State>FL</State>
+          <ZIPCode>32827</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>THOMAS E DEELY JR</PersonName>
+          <USAddress>
+            <AddressLine1>9580 SLOANE ST</AddressLine1>
+            <City>ORLANDO</City>
+            <State>FL</State>
+            <ZIPCode>32827</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>8.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>GAYLE K DEELEY</PersonName>
+          <USAddress>
+            <AddressLine1>9580 SLOANE ST</AddressLine1>
+            <City>ORLANDO</City>
+            <State>FL</State>
+            <ZIPCode>32827</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>452011</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>504283</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>956294</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>956294</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>14344</CashDeemedCharitable>
+        <NetNoncharitableAssets>941950</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>47098</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>47098</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>470</TaxBasedOnInvestmentIncome>
+        <TotalTax>470</TotalTax>
+        <DistributableAmountBeforeAdj>46628</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>46628</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>46628</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>39644</ExpensesAndContributions>
+        <QualifyingDistributions>39644</QualifyingDistributions>
+        <AdjQualifyingDistributions>39644</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>46628</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>4694</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>13743</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>1784</ExcessDistriCarryoverYear3>
+        <TotalExcessDistriCarryover>20221</TotalExcessDistriCarryover>
+        <QualifyingDistributions>39644</QualifyingDistributions>
+        <AppliedToCurrentYear>39644</AppliedToCurrentYear>
+        <ExcessDistriCyovAppCYCorpus>6984</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>6984</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>13237</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>13237</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>11453</ExcessFromYear4>
+        <ExcessFromYear3>1784</ExcessFromYear3>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>THOMAS E DEELEY JR</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>9580 SLOANE ST</AddressLine1>
+            <City>ORLANDO</City>
+            <State>FL</State>
+            <ZIPCode>32827</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>4078510252</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>WRITE OR TELEPHONE FOR APPLICATION</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>BY MARCH 1 OF THE GRADUATING YEAR, I.E. MARCH 1, 2010 FOR JUNE 2010 GRADUATING YEAR.</SubmissionDeadlines>
+          <RestrictionsOnAwards>ELIGIBLE INDIVIDUALS WILL BE LIMITED TO THE GRADUATING SENIORS OF SACRED HEART HIGH SCHOOL IN WATERBURY, CT.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNIV OF CONNECTICUT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>233 GLENBROOK RD</AddressLine1>
+            <City>STORRS</City>
+            <State>CT</State>
+            <ZIPCode>06269</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C) (3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>15264</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SO CONN STATE UNIV</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>501 CRESCENT ST</AddressLine1>
+            <City>NEW HAVEN</City>
+            <State>CT</State>
+            <ZIPCode>06515</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C) (3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>8336</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MASS MARITIME ACADEMY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>101 ACADEMY DRIVE</AddressLine1>
+            <City>BUZZARSD BAY</City>
+            <State>MA</State>
+            <ZIPCode>02532</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C) (3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>6000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNIV OF RHODE ISLAND</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>35 CAMPUS AVE</AddressLine1>
+            <City>KINGSTON</City>
+            <State>RI</State>
+            <ZIPCode>02881</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C) (3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CENTRAL CONN STATE UNIV</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1615 STANLEY ST</AddressLine1>
+            <City>NEW BRITAIN</City>
+            <State>CT</State>
+            <ZIPCode>06050</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501 (C) (3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>7044</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>39644</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>23122</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>6845</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>-1603</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>29967</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>-1603</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>28364</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>3</LineNumber>
+          <RelationshipStatement>INVESTMENT INCOME USED TO FUND SCHOLARSHIP AWARDS</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>4</LineNumber>
+          <RelationshipStatement>INVESTMENT INCOME USED TO FUND SCHOLARSHIP AWARDS</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>8</LineNumber>
+          <RelationshipStatement>INVESTMENT INCOME USED TO FUND SCHOLARSHIP AWARDS</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>THOMAS E DEELEY JR</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>9580 SLOANE ST</AddressLine1>
+          <City>ORLANDO</City>
+          <State>FL</State>
+          <ZIPCode>32827</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>35000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc3">
+      <AccountingFees>
+        <Category>ACCOUNTING</Category>
+        <Amount>1065</Amount>
+        <NetInvestmentIncome>1065</NetInvestmentIncome>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc4">
+      <GainLossSaleOtherAsset>
+        <Name>553 SH CIT GROUP INC</Name>
+        <DateAcquired>2009-06</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-12</DateSold>
+        <GrossSalesPrice>16370</GrossSalesPrice>
+        <Basis>17973</Basis>
+        <TotalNet>-1603</TotalNet>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc5">
+      <InvestmentsCorpBonds>
+        <NameOfBond>FORD MOTOR 7% DUE 6/1/16</NameOfBond>
+        <EOYBookValue>105519</EOYBookValue>
+        <EOYFMV>101966</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>GMAC 6.75% DUE 9/15/18</NameOfBond>
+        <EOYBookValue>2005</EOYBookValue>
+        <EOYFMV>1696</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>GMAC 6.75% DUE 5/1/28</NameOfBond>
+        <EOYBookValue>83199</EOYBookValue>
+        <EOYFMV>26975</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>GOLDMAN SACHS GROUP 6.25% DUE 9/1/17</NameOfBond>
+        <EOYBookValue>24744</EOYBookValue>
+        <EOYFMV>26461</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>CIT GROUP 4.125% 11/3/09</NameOfBond>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>BANK OF NEW YORK 6.25% DUE 7/2022</NameOfBond>
+        <EOYBookValue>4873</EOYBookValue>
+        <EOYFMV>5076</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>COUNTRYWIDE FINANCIAL 6,25% 5/2016</NameOfBond>
+        <EOYBookValue>3628</EOYBookValue>
+        <EOYFMV>4170</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>GE CAPITAL 6.35% DUE 5/2018</NameOfBond>
+        <EOYBookValue>29730</EOYBookValue>
+        <EOYFMV>30273</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>GMAC 6.625% DUE 5/2012</NameOfBond>
+        <EOYBookValue>1988</EOYBookValue>
+        <EOYFMV>1995</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>ROYAL BANK SCOTLAND 5% DUE 10/2014</NameOfBond>
+        <EOYBookValue>32410</EOYBookValue>
+        <EOYFMV>32839</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>WYNDHAM WORLDWIDE 6% DUE 12/2016</NameOfBond>
+        <EOYBookValue>22632</EOYBookValue>
+        <EOYFMV>22314</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>AMER INTL GROUP 5,.6% DUE 10/2016</NameOfBond>
+        <EOYBookValue>46500</EOYBookValue>
+        <EOYFMV>45650</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>FORD MOTOR CREDIT 6.3% DUE 5/2014</NameOfBond>
+        <EOYBookValue>10857</EOYBookValue>
+        <EOYFMV>9757</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>US STEEL CORP 6.05% DUE 6/2017</NameOfBond>
+        <EOYBookValue>19700</EOYBookValue>
+        <EOYFMV>19000</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>GOLDMAN SACHS 5% DUE 3/2019</NameOfBond>
+        <EOYBookValue>4763</EOYBookValue>
+        <EOYFMV>4698</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>HUNTINGTON BANK 6.6% DUE 6/2018</NameOfBond>
+        <EOYBookValue>11604</EOYBookValue>
+        <EOYFMV>12252</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>FORD MOTOR 6.05% DUE 2/2015</NameOfBond>
+        <EOYBookValue>9986</EOYBookValue>
+        <EOYFMV>10688</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>PHH CORP 7.125% DUE 5/2013</NameOfBond>
+        <EOYBookValue>49875</EOYBookValue>
+        <EOYFMV>48750</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>GMAC INC DEB 6% DUE 4/2011</NameOfBond>
+        <EOYBookValue>24775</EOYBookValue>
+        <EOYFMV>24934</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>STEEL DYNAMICS 6.75% DUE 4/2015</NameOfBond>
+        <EOYBookValue>23880</EOYBookValue>
+        <EOYFMV>24090</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>CIT GROUP 7% DUE 5/2013</NameOfBond>
+        <EOYBookValue>7100</EOYBookValue>
+        <EOYFMV>6155</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>CIT GROUP 7% DUE 5/2014</NameOfBond>
+        <EOYBookValue>10500</EOYBookValue>
+        <EOYFMV>9088</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>CIT GROUP 7% DUE 5/2015</NameOfBond>
+        <EOYBookValue>10200</EOYBookValue>
+        <EOYFMV>8895</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>CIT GROUP 7% DUE 5/2016</NameOfBond>
+        <EOYBookValue>16700</EOYBookValue>
+        <EOYFMV>14665</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>CIT GROUP 7% DUE 5/2017</NameOfBond>
+        <EOYBookValue>23000</EOYBookValue>
+        <EOYFMV>20249</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc6">
+      <InvestmentsCorpStock>
+        <NameOfStock>NORTHEASTERN UTILITIES</NameOfStock>
+        <EOYBookValue>10764</EOYBookValue>
+        <EOYFMV>19727</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>BP AMOCO</NameOfStock>
+        <EOYBookValue>96503</EOYBookValue>
+        <EOYFMV>61854</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1 CALL OPTION BP JAN 2012 50</NameOfStock>
+        <EOYBookValue>5365</EOYBookValue>
+        <EOYFMV>2600</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="RetDoc7">
+      <StateLocalSecuritiesEOYBookVal>15047</StateLocalSecuritiesEOYBookVal>
+      <StateLocalSecuritiesEOYFMV>15906</StateLocalSecuritiesEOYFMV>
+    </InvestmentsGovtObligationsSch>
+    <OtherExpensesSchedule documentId="RetDoc8">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>ANNUAL REPORT</Description>
+        <RevenueAndExpensesPerBooks>35</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>35</NetInvestmentIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK CHARGES</Description>
+        <RevenueAndExpensesPerBooks>2</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>2</NetInvestmentIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc9">
+      <OtherProfessionalFees>
+        <Category>TECHNICAL SUPPORT</Category>
+        <Amount>765</Amount>
+        <NetInvestmentIncome>765</NetInvestmentIncome>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc10">
+      <Taxes>
+        <Category>EXCISE TAXES</Category>
+        <Amount>1577</Amount>
+        <NetInvestmentIncome>1577</NetInvestmentIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

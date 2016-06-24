@@ -1,0 +1,330 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-06-17T10:34:01-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-02-28</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>BUCKLES TRAVIS VANMETER &amp; HART PLLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>PO BOX 4069</AddressLine1>
+        <City>LEITCHFIELD</City>
+        <State>KY</State>
+        <ZIPCode>427554069</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-03-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>611217885</EIN>
+      <Name>
+        <BusinessNameLine1>CLARKSON CLINIC FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>CLAR</NameControl>
+      <Phone>2702422311</Phone>
+      <USAddress>
+        <AddressLine1>P O BOX 158</AddressLine1>
+        <City>CLARKSON</City>
+        <State>KY</State>
+        <ZIPCode>42726</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>CAROLYN GRAYBEAL</Name>
+      <Title>PRESIDENT/TREASURER</Title>
+      <Phone>2702422311</Phone>
+      <DateSigned>2010-06-15</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>BRADLEY K TRAVIS</Name>
+      <Phone>2702595604</Phone>
+      <DatePrepared>2010-06-04</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>52639</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <TotalRevenueAndExpenses>0</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>0</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">580</AccountingFeesRevAndExpnss>
+        <AccountingFeesDsbrsChrtblPrps>580</AccountingFeesDsbrsChrtblPrps>
+        <PrintingAndPubRevAndExpnss>11</PrintingAndPubRevAndExpnss>
+        <PrintingAndPubDsbrsChrtblPrps>11</PrintingAndPubDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc6">5</OtherExpensesRevAndExpnss>
+        <OtherExpensesDsbrsChrtblPrps>5</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>596</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>596</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>0</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>596</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>596</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-596</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>641</CashBOY>
+        <CashEOY>45</CashEOY>
+        <CashEOYFMV>45</CashEOYFMV>
+        <InvestmentsOtherBOY>6363</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc4">6363</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>6363</InvestmentsOtherEOYFMV>
+        <LandBuildingAndEquipmentBasis>46231</LandBuildingAndEquipmentBasis>
+        <LandBuildingAndEquipmentBOY>46231</LandBuildingAndEquipmentBOY>
+        <LandBuildingAndEquipmentEOY referenceDocumentId="RetDoc5">46231</LandBuildingAndEquipmentEOY>
+        <LandBuildingAndEquipmentEOYFMV>46231</LandBuildingAndEquipmentEOYFMV>
+        <TotalAssetsBOY>53235</TotalAssetsBOY>
+        <TotalAssetsEOY>52639</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>52639</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>53235</RetainedEarningsBOY>
+        <RetainedEarningsEOY>52639</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>53235</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>52639</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>53235</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>52639</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>53235</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-596</ExcessOfRevenueOverExpenses>
+        <Subtotal>52639</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>52639</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>111401</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>820</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>135.85487</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>3569</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>795</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>4.489308</DistributionRatioYear2>
+        <TotalDistributionRatio>140.34418</TotalDistributionRatio>
+        <AverageDistributionRatio>70.172093</AverageDistributionRatio>
+        <NetNoncharitableAssets>238</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>16701</AdjustedNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>16701</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>596</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>false</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <Form990PFFiledWithAG referenceDocumentId="RetDoc3">false</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>true</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>CAROLYN GRAYBEAL</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>2702422311</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>PO BOX 158</AddressLine1>
+          <City>CLARKSON</City>
+          <State>KY</State>
+          <ZIPCode>42726</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CAROLYN GRAYBEAL</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 158</AddressLine1>
+            <City>CLARKSON</City>
+            <State>KY</State>
+            <ZIPCode>42726</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BETTY ASH</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 158</AddressLine1>
+            <City>CLARKSON</City>
+            <State>KY</State>
+            <ZIPCode>42726</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ROSE WEBB</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 158</AddressLine1>
+            <City>CLARKSON</City>
+            <State>KY</State>
+            <ZIPCode>42726</ZIPCode>
+          </USAddress>
+          <Title>VICE PRES</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>NO BENEFICIARIES SERVED DURING THE CURRENT YEAR, INSIGNIFICANT ADMINISTRATIVE EXPENSES DURING THE CURRENT YEAR.</Description1>
+        <Expenses1>596</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>242</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>242</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>242</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>4</CashDeemedCharitable>
+        <NetNoncharitableAssets>238</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>12</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <Sect4942j3j5FndtnAndFrgnOrg>X</Sect4942j3j5FndtnAndFrgnOrg>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>596</ExpensesAndContributions>
+        <QualifyingDistributions>596</QualifyingDistributions>
+        <AdjQualifyingDistributions>596</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <PrivateOperatingFoundations>
+        <Section4942j3>X</Section4942j3>
+        <LessorAdjNetIncmMinInvstReturn>
+          <CurrentYear>0</CurrentYear>
+          <Total>0</Total>
+        </LessorAdjNetIncmMinInvstReturn>
+        <QualifyingDistributions>
+          <CurrentYear>596</CurrentYear>
+          <Year1>111401</Year1>
+          <Year2>3569</Year2>
+          <Year3>3310</Year3>
+          <Total>118876</Total>
+        </QualifyingDistributions>
+        <QlfyDistriMadeDirectly>
+          <CurrentYear>596</CurrentYear>
+          <Year1>111401</Year1>
+          <Year2>3569</Year2>
+          <Year3>3310</Year3>
+          <Total>118876</Total>
+        </QlfyDistriMadeDirectly>
+        <TwoThirdsMinInvstReturn>
+          <CurrentYear>8</CurrentYear>
+          <Year1>27</Year1>
+          <Year2>27</Year2>
+          <Total>62</Total>
+        </TwoThirdsMinInvstReturn>
+      </PrivateOperatingFoundations>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+      </SupplementaryInformation>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>LEGAL AND ACCOUNTING</Category>
+        <Amount>580</Amount>
+        <DisbursementsCharitablePrps>580</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <ExplnOfNonFilingWithAGStmt documentId="RetDoc3">
+      <Statement>NOT REQUIRED</Statement>
+    </ExplnOfNonFilingWithAGStmt>
+    <InvestmentsOtherSchedule2 documentId="RetDoc4">
+      <InvestmentsOther>
+        <CategoryOrItem>INVESTMENTS - PUTNAM</CategoryOrItem>
+        <BookValue>6363</BookValue>
+        <EOYFMV>6363</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <LandEtcSchedule2 documentId="RetDoc5">
+      <LandEtc>
+        <CategoryOrItem>EQUIPMENT &amp; OTHER ASSETS</CategoryOrItem>
+        <CostOrOtherBasis>28231</CostOrOtherBasis>
+        <BookValue>28231</BookValue>
+        <EOYFMV>28231</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>LAND-CONTRIBUTED BY J STINSON 11/200</CategoryOrItem>
+        <CostOrOtherBasis>17000</CostOrOtherBasis>
+        <BookValue>17000</BookValue>
+        <EOYFMV>17000</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>LAND-CONTRIBUTED BY GEORGE MARTIN JR</CategoryOrItem>
+        <CostOrOtherBasis>1000</CostOrOtherBasis>
+        <BookValue>1000</BookValue>
+        <EOYFMV>1000</EOYFMV>
+      </LandEtc>
+    </LandEtcSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc6">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MISCELLANEOUS</Description>
+        <RevenueAndExpensesPerBooks>5</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>5</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

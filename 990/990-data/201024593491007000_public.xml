@@ -1,0 +1,837 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-09-02T14:48:02-00:00</Timestamp>
+    <TaxPeriodEndDate>2010-07-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>McCabe Tax Consulting</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>26 Swan Rd</AddressLine1>
+        <City>Winchester</City>
+        <State>MA</State>
+        <ZIPCode>01890</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-08-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>046897800</EIN>
+      <Name>
+        <BusinessNameLine1>THE WINDOVER FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>WIND</NameControl>
+      <Phone>6172613100</Phone>
+      <USAddress>
+        <AddressLine1>KL GATES ONE LINCOLN ST</AddressLine1>
+        <City>BOSTON</City>
+        <State>MA</State>
+        <ZIPCode>021112950</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>DAVID W LEWIS JR</Name>
+      <Title>TRUSTEE</Title>
+      <DateSigned>2010-08-11</DateSigned>
+      <AuthorizeThirdParty>true</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Joanne McCabe</Name>
+      <Phone>7813691670</Phone>
+      <DatePrepared>2010-08-11</DatePrepared>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="10">
+    <IRS990PF documentId="990PF" softwareId="09000123" softwareVersion="2009.0.12">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>256222</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <DividendsRevAndExpnss>5121</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>5121</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="990PF:103">7922</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>99635</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>7823</CapitalGainNetIncmNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="990PF:105">22</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>22</OtherIncomeNetInvstIncm>
+        <TotalRevenueAndExpenses>13065</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>12966</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>1304</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>652</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>652</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="990PF:107">1600</AccountingFeesRevAndExpnss>
+        <AccountingFeesDsbrsChrtblPrps>1600</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="990PF:108">2620</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>2620</OtherProfFeesNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId="990PF:109">15</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>15</TaxesNetInvstIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="990PF:110">35</OtherExpensesRevAndExpnss>
+        <OtherExpensesDsbrsChrtblPrps>35</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>5574</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>3287</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>2287</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>9999</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>9999</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>15573</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>3287</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>12286</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-2508</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>9679</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>336</CashBOY>
+        <CashEOY>338</CashEOY>
+        <CashEOYFMV>338</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>88422</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>47190</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>47190</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsGovtObligBOY>25010</InvestmentsGovtObligBOY>
+        <InvestmentsGovtObligEOY referenceDocumentId="990PF:119">25010</InvestmentsGovtObligEOY>
+        <InvestmentsGovtObligEOYFMV>25906</InvestmentsGovtObligEOYFMV>
+        <InvestmentsCorpStockBOY>118545</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="990PF:120">157122</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>177958</InvestmentsCorpStockEOYFMV>
+        <InvestmentsOtherBOY>5224</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="990PF:209">5224</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>4830</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>237537</TotalAssetsBOY>
+        <TotalAssetsEOY>234884</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>256222</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>237537</RetainedEarningsBOY>
+        <RetainedEarningsEOY>234884</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>237537</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>234884</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>237537</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>234884</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>237537</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-2508</ExcessOfRevenueOverExpenses>
+        <Subtotal>235029</Subtotal>
+        <OtherDecreases referenceDocumentId="990PF:213">145</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>234884</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>125 AFLAC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2003-03-05</DateAcquired>
+          <DateSold>2009-09-28</DateSold>
+          <GrossSalesPrice>5274</GrossSalesPrice>
+          <CostOrOtherBasis>3896</CostOrOtherBasis>
+          <GainOrLoss>1378</GainOrLoss>
+          <GainsMinusExcessOrLosses>1378</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>150 ABBOTT LABS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2004-07-16</DateAcquired>
+          <DateSold>2009-09-28</DateSold>
+          <GrossSalesPrice>7249</GrossSalesPrice>
+          <CostOrOtherBasis>5923</CostOrOtherBasis>
+          <GainOrLoss>1326</GainOrLoss>
+          <GainsMinusExcessOrLosses>1326</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>200 BP AMOCO</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2001-06-01</DateAcquired>
+          <DateSold>2009-09-28</DateSold>
+          <GrossSalesPrice>10664</GrossSalesPrice>
+          <CostOrOtherBasis>10921</CostOrOtherBasis>
+          <GainOrLoss>-257</GainOrLoss>
+          <GainsMinusExcessOrLosses>-257</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>200 EXXON MOBIL</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2001-01-01</DateAcquired>
+          <DateSold>2009-09-28</DateSold>
+          <GrossSalesPrice>13914</GrossSalesPrice>
+          <CostOrOtherBasis>7670</CostOrOtherBasis>
+          <GainOrLoss>6244</GainOrLoss>
+          <GainsMinusExcessOrLosses>6244</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>350 GENERAL ELECTRIC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2001-01-01</DateAcquired>
+          <DateSold>2009-09-28</DateSold>
+          <GrossSalesPrice>5848</GrossSalesPrice>
+          <CostOrOtherBasis>9091</CostOrOtherBasis>
+          <GainOrLoss>-3243</GainOrLoss>
+          <GainsMinusExcessOrLosses>-3243</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>250 MICROSOFT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2005-05-13</DateAcquired>
+          <DateSold>2009-09-28</DateSold>
+          <GrossSalesPrice>6425</GrossSalesPrice>
+          <CostOrOtherBasis>6317</CostOrOtherBasis>
+          <GainOrLoss>108</GainOrLoss>
+          <GainsMinusExcessOrLosses>108</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>250 NORTHWEST NATURAL GAS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2006-03-23</DateAcquired>
+          <DateSold>2009-09-28</DateSold>
+          <GrossSalesPrice>10498</GrossSalesPrice>
+          <CostOrOtherBasis>8552</CostOrOtherBasis>
+          <GainOrLoss>1946</GainOrLoss>
+          <GainsMinusExcessOrLosses>1946</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>25 PEPSICO</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2006-05-26</DateAcquired>
+          <DateSold>2009-09-28</DateSold>
+          <GrossSalesPrice>1477</GrossSalesPrice>
+          <CostOrOtherBasis>1530</CostOrOtherBasis>
+          <GainOrLoss>-53</GainOrLoss>
+          <GainsMinusExcessOrLosses>-53</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>300 PROGRESS ENERGY</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2001-01-01</DateAcquired>
+          <DateSold>2009-09-28</DateSold>
+          <GrossSalesPrice>11845</GrossSalesPrice>
+          <CostOrOtherBasis>12972</CostOrOtherBasis>
+          <GainOrLoss>-1127</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1127</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>150 SYSCO</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2004-07-16</DateAcquired>
+          <DateSold>2009-09-28</DateSold>
+          <GrossSalesPrice>3728</GrossSalesPrice>
+          <CostOrOtherBasis>5435</CostOrOtherBasis>
+          <GainOrLoss>-1707</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1707</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>150 3M</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2005-10-25</DateAcquired>
+          <DateSold>2009-09-28</DateSold>
+          <GrossSalesPrice>11212</GrossSalesPrice>
+          <CostOrOtherBasis>11342</CostOrOtherBasis>
+          <GainOrLoss>-130</GainOrLoss>
+          <GainsMinusExcessOrLosses>-130</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>400 WELLS FARGO</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2001-01-01</DateAcquired>
+          <DateSold>2009-09-28</DateSold>
+          <GrossSalesPrice>11401</GrossSalesPrice>
+          <CostOrOtherBasis>8063</CostOrOtherBasis>
+          <GainOrLoss>3338</GainOrLoss>
+          <GainsMinusExcessOrLosses>3338</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>7823</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>14106</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>253659</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>000.055610</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>14817</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>297506</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>000.049804</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>12762</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>290621</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>000.043913</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>16270</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>280392</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>000.058026</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>9278</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>260097</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>000.035671</DistributionRatioYear5>
+        <TotalDistributionRatio>000.243024</TotalDistributionRatio>
+        <AverageDistributionRatio>000.048605</AverageDistributionRatio>
+        <NetNoncharitableAssets>256329</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>12459</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>97</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>12556</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>12286</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>194</InvestmentIncomeExciseTax>
+        <Subtotal>194</Subtotal>
+        <TaxBasedOnInvestmentIncome>194</TaxBasedOnInvestmentIncome>
+        <TaxDue>194</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>MA</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <BooksInCareOfPersonName>DAVID W LEWIS JR</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>6172613100</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>KL GATES ONE LINCOLN ST</AddressLine1>
+          <City>BOSTON</City>
+          <State>MA</State>
+          <ZIPCode>021112950</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DAVID W LEWIS JR</PersonName>
+          <USAddress>
+            <AddressLine1>KL GATES ONE LINCOLN ST</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>021112950</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>001.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>1304</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>NONE</Description1>
+        <Expenses1>0</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>200152</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>60080</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>260232</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>260232</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable referenceDocumentId="990PF:293">3903</CashDeemedCharitable>
+        <NetNoncharitableAssets>256329</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>12816</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>12816</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>194</TaxBasedOnInvestmentIncome>
+        <TotalTax>194</TotalTax>
+        <DistributableAmountBeforeAdj>12622</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>12622</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>12622</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions referenceDocumentId="990PF:294">12286</ExpensesAndContributions>
+        <QualifyingDistributions>12286</QualifyingDistributions>
+        <AdjQualifyingDistributions>12286</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>12622</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>9349</UndistributedIncomePriorYear>
+        <QualifyingDistributions>12286</QualifyingDistributions>
+        <AppliedToYear1>9349</AppliedToYear1>
+        <AppliedToCurrentYear>2937</AppliedToCurrentYear>
+        <UndistributedIncomeCY>9685</UndistributedIncomeCY>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>NONE</ContributingManager>
+        <ShareholderManager>NONE</ShareholderManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>DAVID W LEWIS JR</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>KL GATES ONE LINCOLN ST</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>021112950</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>6172613100</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>NO FORMAL APPLICATION</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE ADOPTED</SubmissionDeadlines>
+          <RestrictionsOnAwards>NONE</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>OPERA A LA CARTE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 39606</AddressLine1>
+            <City>LOS ANGELES</City>
+            <State>CA</State>
+            <ZIPCode>90039</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>3333</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TRANSFIGURATION HERMITAGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>205 WINDSOR NECK RD</AddressLine1>
+            <City>WINDSOR NECK</City>
+            <State>ME</State>
+            <ZIPCode>04363</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>3333</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>US NAVY MEMORIAL FDN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>701 PENNSYLVANIA AVE</AddressLine1>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20004</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>333</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHARLES RIVER SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>6 OLD MEADOW RD</AddressLine1>
+            <City>DOVER</City>
+            <State>MA</State>
+            <ZIPCode>02030</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MILTON ADACEMY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>170 CENTRE ST</AddressLine1>
+            <City>MILTON</City>
+            <State>MA</State>
+            <ZIPCode>02186</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNIVERSITY OF PENNSYLVANIA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3451 WALNUT ST</AddressLine1>
+            <City>PHILADELPHIA</City>
+            <State>PA</State>
+            <ZIPCode>19104</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>9999</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <UnrelatedBusinessIncomeAmount>5121</UnrelatedBusinessIncomeAmount>
+          <ExclusionCode>14</ExclusionCode>
+        </DividendsAndIntFromSecPartVII>
+        <OtherInvestmentIncomePartVII>
+          <UnrelatedBusinessIncomeAmount>22</UnrelatedBusinessIncomeAmount>
+          <ExclusionCode>14</ExclusionCode>
+        </OtherInvestmentIncomePartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <UnrelatedBusinessIncomeAmount>7922</UnrelatedBusinessIncomeAmount>
+          <ExclusionCode>18</ExclusionCode>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>13065</UnrelatedBusinessIncomeAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>13065</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="990PF:107" softwareId="09000123" softwareVersion="2009.0.12">
+      <AccountingFees>
+        <Category>MCCABE TAX CONSULTING</Category>
+        <Amount>1200</Amount>
+        <DisbursementsCharitablePrps>1200</DisbursementsCharitablePrps>
+      </AccountingFees>
+      <AccountingFees>
+        <Category>WELCH FORBES</Category>
+        <Amount>400</Amount>
+        <DisbursementsCharitablePrps>400</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="990PF:120" softwareId="09000123" softwareVersion="2009.0.12">
+      <InvestmentsCorpStock>
+        <NameOfStock>200 shares of EXXON MOBIL</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>200 shares of JOHNSON JOHNSON</NameOfStock>
+        <EOYBookValue>7074</EOYBookValue>
+        <EOYFMV>8714</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>150 shares of WELLS FARGO</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>200 shares of BP PLB</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>200 shares of UNITED TECHNOLOGIES</NameOfStock>
+        <EOYBookValue>5663</EOYBookValue>
+        <EOYFMV>14220</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>100 shares of IBM</NameOfStock>
+        <EOYBookValue>7165</EOYBookValue>
+        <EOYFMV>12840</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>75 shares of AFLAC</NameOfStock>
+        <EOYBookValue>2338</EOYBookValue>
+        <EOYFMV>3689</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>350 shares of GENERAL ELECTRIC</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>150 shares of ABBOTT LABS</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>150 shares of SYSCO</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>300 shares of PROGRESS ENERGY</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>250 shares of MICROSOFT</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>75 shares of PEPSICO</NameOfStock>
+        <EOYBookValue>4591</EOYBookValue>
+        <EOYFMV>4868</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>250 shares of NORTHWEST NATURAL GAS</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>150 shares of 3M</NameOfStock>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>150 shares of JOHNSON CONTROLS</NameOfStock>
+        <EOYBookValue>3908</EOYBookValue>
+        <EOYFMV>4322</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>50 shares of MCDONALDS</NameOfStock>
+        <EOYBookValue>2870</EOYBookValue>
+        <EOYFMV>3486</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>150 shares of STAPLES</NameOfStock>
+        <EOYBookValue>3530</EOYBookValue>
+        <EOYFMV>3049</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>100 shares of CVS CAREMARK</NameOfStock>
+        <EOYBookValue>3540</EOYBookValue>
+        <EOYFMV>3069</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>50 shares of COCA COLA</NameOfStock>
+        <EOYBookValue>2662</EOYBookValue>
+        <EOYFMV>2756</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>50 shares of COSTCO WHOLESALE</NameOfStock>
+        <EOYBookValue>2827</EOYBookValue>
+        <EOYFMV>2835</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>50 shares of PROCTER GAMBLE</NameOfStock>
+        <EOYBookValue>2933</EOYBookValue>
+        <EOYFMV>3058</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>25 shares of APACHE</NameOfStock>
+        <EOYBookValue>2314</EOYBookValue>
+        <EOYFMV>2390</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>50 shares of CENOVUS ENERGY</NameOfStock>
+        <EOYBookValue>1371</EOYBookValue>
+        <EOYFMV>1410</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>50 shares of CONOCOPHILLIPS</NameOfStock>
+        <EOYBookValue>2292</EOYBookValue>
+        <EOYFMV>2761</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>50 shares of ENCANA</NameOfStock>
+        <EOYBookValue>1456</EOYBookValue>
+        <EOYFMV>1526</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>75 shares of PETROLEO BRASILIRO</NameOfStock>
+        <EOYBookValue>2968</EOYBookValue>
+        <EOYFMV>2389</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>50 shares of SCHLUMBERGER</NameOfStock>
+        <EOYBookValue>3023</EOYBookValue>
+        <EOYFMV>2983</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>75 shares of SUNCOR ENERGY</NameOfStock>
+        <EOYBookValue>2614</EOYBookValue>
+        <EOYFMV>2471</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>25 shares of TRANSOCEAN</NameOfStock>
+        <EOYBookValue>2110</EOYBookValue>
+        <EOYFMV>1155</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>100 shares of AMERIPRISE FINANCIAL</NameOfStock>
+        <EOYBookValue>3289</EOYBookValue>
+        <EOYFMV>4239</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>75 shares of JPMORGAN CHASE</NameOfStock>
+        <EOYBookValue>3325</EOYBookValue>
+        <EOYFMV>3021</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>75 shares of STATE STREET</NameOfStock>
+        <EOYBookValue>3933</EOYBookValue>
+        <EOYFMV>2919</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>75 shares of TORONTO DOMINION BANK ONTARIO</NameOfStock>
+        <EOYBookValue>4743</EOYBookValue>
+        <EOYFMV>5339</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>125 shares of US BANCORP</NameOfStock>
+        <EOYBookValue>2809</EOYBookValue>
+        <EOYFMV>2987</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>100 shares of BRISTOL-MYERS SQUIBB</NameOfStock>
+        <EOYBookValue>2330</EOYBookValue>
+        <EOYFMV>2492</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>50 shares of GENZYME</NameOfStock>
+        <EOYBookValue>2886</EOYBookValue>
+        <EOYFMV>3478</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>50 shares of GILEAD SCIENCES</NameOfStock>
+        <EOYBookValue>2368</EOYBookValue>
+        <EOYFMV>1666</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>125 shares of ICON PLC</NameOfStock>
+        <EOYBookValue>3060</EOYBookValue>
+        <EOYFMV>2950</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>75 shares of RESMED</NameOfStock>
+        <EOYBookValue>3359</EOYBookValue>
+        <EOYFMV>4927</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>75 shares of STRYKER</NameOfStock>
+        <EOYBookValue>3453</EOYBookValue>
+        <EOYFMV>3493</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>75 shares of TEVA PHARMACEUTICAL INDUSTRIES</NameOfStock>
+        <EOYBookValue>3879</EOYBookValue>
+        <EOYFMV>3664</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>100 shares of DANAHER</NameOfStock>
+        <EOYBookValue>3355</EOYBookValue>
+        <EOYFMV>3841</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>75 shares of EMERSON ELECTRIC</NameOfStock>
+        <EOYBookValue>2981</EOYBookValue>
+        <EOYFMV>3716</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>100 shares of EXPEDITORS INTL WASHINGTON</NameOfStock>
+        <EOYBookValue>3565</EOYBookValue>
+        <EOYFMV>4264</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>100 shares of IRON MOUNTAIN</NameOfStock>
+        <EOYBookValue>2738</EOYBookValue>
+        <EOYFMV>2367</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>50 shares of STERICYCLE</NameOfStock>
+        <EOYBookValue>2447</EOYBookValue>
+        <EOYFMV>3150</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>125 shares of ANSYS</NameOfStock>
+        <EOYBookValue>4761</EOYBookValue>
+        <EOYFMV>5619</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>175 shares of CISCO</NameOfStock>
+        <EOYBookValue>4197</EOYBookValue>
+        <EOYFMV>4037</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>125 shares of CONSTANT CONTACT</NameOfStock>
+        <EOYBookValue>2535</EOYBookValue>
+        <EOYFMV>2436</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>75 shares of HEWLETT PACKARD</NameOfStock>
+        <EOYBookValue>3597</EOYBookValue>
+        <EOYFMV>3453</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>225 shares of INTEL</NameOfStock>
+        <EOYBookValue>4466</EOYBookValue>
+        <EOYFMV>4635</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>75 shares of QUALCOMM</NameOfStock>
+        <EOYBookValue>3468</EOYBookValue>
+        <EOYFMV>2856</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>75 shares of ECOLAB</NameOfStock>
+        <EOYBookValue>3474</EOYBookValue>
+        <EOYFMV>3668</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>50 shares of PRAXAIR</NameOfStock>
+        <EOYBookValue>4021</EOYBookValue>
+        <EOYFMV>4341</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>18 shares of FRONTIER COMMUNICATIONS</NameOfStock>
+        <EOYBookValue>146</EOYBookValue>
+        <EOYFMV>138</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>75 shares of VERIZON COMMUNICATIONS</NameOfStock>
+        <EOYBookValue>2161</EOYBookValue>
+        <EOYFMV>2179</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>50 shares of EXELON</NameOfStock>
+        <EOYBookValue>2527</EOYBookValue>
+        <EOYFMV>2092</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="990PF:119" softwareId="09000123" softwareVersion="2009.0.12"></InvestmentsGovtObligationsSch>
+    <InvestmentsOtherSchedule2 documentId="990PF:209" softwareId="09000123" softwareVersion="2009.0.12">
+      <InvestmentsOther>
+        <CategoryOrItem>PENN VIRGINIA RESOURCES</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>5224</BookValue>
+        <EOYFMV>4830</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherDecreasesSchedule documentId="990PF:213" softwareId="09000123" softwareVersion="2009.0.12">
+      <OtherDecreases>
+        <Description>FISCAL 7/31/09 FEDERAL TAX DUE</Description>
+        <Amount>145</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="990PF:110" softwareId="09000123" softwareVersion="2009.0.12">
+      <OtherExpenses>
+        <Description>MASSACHUSETTS EXCISE TAX</Description>
+        <RevenueAndExpensesPerBooks>35</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>35</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="990PF:105" softwareId="09000123" softwareVersion="2009.0.12">
+      <OtherIncome>
+        <Description>AOL TIME WARNER SETTLEMENT</Description>
+        <RevenueAndExpensesPerBooks>22</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>22</NetInvestmentIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="990PF:108" softwareId="09000123" softwareVersion="2009.0.12">
+      <OtherProfessionalFees>
+        <Category>WELCH FORBES</Category>
+        <Amount>2620</Amount>
+        <NetInvestmentIncome>2620</NetInvestmentIncome>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="990PF:109" softwareId="09000123" softwareVersion="2009.0.12">
+      <Taxes>
+        <Category>FOREIGN TAXES WH</Category>
+        <Amount>15</Amount>
+        <NetInvestmentIncome>15</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

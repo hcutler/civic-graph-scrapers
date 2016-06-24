@@ -1,0 +1,724 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-06-17T11:57:49-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-04-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>PITTARD PERRY &amp; CRONE INC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>P O BOX 10588</AddressLine1>
+        <City>GOLDSBORO</City>
+        <State>NC</State>
+        <ZIPCode>275320588</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-05-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>561888088</EIN>
+      <Name>
+        <BusinessNameLine1>MOUNT OLIVE PICKLE COMPANY</BusinessNameLine1>
+        <BusinessNameLine2>FOUNDATION</BusinessNameLine2>
+      </Name>
+      <NameControl>MOUN</NameControl>
+      <Phone>9196582535</Phone>
+      <USAddress>
+        <AddressLine1>812 N CHESTNUT STREET</AddressLine1>
+        <City>MOUNT OLIVE</City>
+        <State>NC</State>
+        <ZIPCode>28365</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>WILLIAM H BRYAN</Name>
+      <Title>SECRETARY</Title>
+      <Phone>9196582535</Phone>
+      <DateSigned>2010-06-15</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>ASA H CRAWFORD</Name>
+      <Phone>9197518297</Phone>
+      <DatePrepared>2010-06-17</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="9">
+    <IRS990PF documentId="RetDoc2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>1789875</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>500650</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>108</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>108</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>32531</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>32531</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="RetDoc4">550</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>384251</GrossSalesPrice>
+        <TotalRevenueAndExpenses>533839</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>32639</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc3">650</AccountingFeesRevAndExpnss>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc9">10</TaxesRevAndExpnss>
+        <TaxesDsbrsChrtblPrps>10</TaxesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>660</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>10</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>60850</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>60850</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>61510</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>60860</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>472329</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>32639</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>17160</CashBOY>
+        <CashEOY>11300</CashEOY>
+        <CashEOYFMV>11300</CashEOYFMV>
+        <InvestmentsOtherBOY>1293876</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc5">1772931</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>1778316</InvestmentsOtherEOYFMV>
+        <OtherAssetsBOY referenceDocumentId="RetDoc6">300</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId="RetDoc6">259</OtherAssetsEOY>
+        <OtherAssetsEOYFMV referenceDocumentId="RetDoc6">259</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>1311336</TotalAssetsBOY>
+        <TotalAssetsEOY>1784490</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>1789875</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>1311336</RetainedEarningsBOY>
+        <RetainedEarningsEOY>1784490</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>1311336</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>1784490</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>1311336</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>1784490</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>1311336</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>472329</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="RetDoc8">866</OtherIncreases>
+        <Subtotal>1784531</Subtotal>
+        <OtherDecreases referenceDocumentId="RetDoc7">41</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>1784490</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>63823</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>1162687</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.054893</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>59828</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>1329300</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.045007</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>53512</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>1292242</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.041410</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>48552</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>1130963</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.042930</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>48455</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>1001477</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.048384</DistributionRatioYear5>
+        <TotalDistributionRatio>0.232624</TotalDistributionRatio>
+        <AverageDistributionRatio>0.046525</AverageDistributionRatio>
+        <NetNoncharitableAssets>1529274</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>71149</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>326</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>71475</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>60860</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>653</InvestmentIncomeExciseTax>
+        <Subtotal>653</Subtotal>
+        <TaxBasedOnInvestmentIncome>653</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>773</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>773</TotalCreditsAndPayments>
+        <Overpayment>120</Overpayment>
+        <AmountCreditedToNextYear>120</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>NC</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>DAN BOWEN</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>9196582535</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>812 N CHESTNUT STREET</AddressLine1>
+          <City>MOUNT OLIVE</City>
+          <State>NC</State>
+          <ZIPCode>28365</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MALCOLM T MURRAY JR</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 609</AddressLine1>
+            <City>MOUNT OLIVE</City>
+            <State>NC</State>
+            <ZIPCode>28365</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>WILLIAM H BRYAN</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 609</AddressLine1>
+            <City>MOUNT OLIVE</City>
+            <State>NC</State>
+            <ZIPCode>28365</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>EMMETT JUDSON POPE III</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 609</AddressLine1>
+            <City>MOUNT OLIVE</City>
+            <State>NC</State>
+            <ZIPCode>28365</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARGARET ANN P PARVIN</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 609</AddressLine1>
+            <City>MOUNT OLIVE</City>
+            <State>NC</State>
+            <ZIPCode>28365</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>1538074</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>14230</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>258</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>1552562</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>1552562</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>23288</CashDeemedCharitable>
+        <NetNoncharitableAssets>1529274</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>76464</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>76464</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>653</TaxBasedOnInvestmentIncome>
+        <TotalTax>653</TotalTax>
+        <DistributableAmountBeforeAdj>75811</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>75811</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>75811</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>60860</ExpensesAndContributions>
+        <QualifyingDistributions>60860</QualifyingDistributions>
+        <AdjQualifyingDistributions>60860</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>75811</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>57673</UndistributedIncomePriorYear>
+        <QualifyingDistributions>60860</QualifyingDistributions>
+        <AppliedToYear1>57673</AppliedToYear1>
+        <AppliedToCurrentYear>3187</AppliedToCurrentYear>
+        <UndistributedIncomeCY>72624</UndistributedIncomeCY>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNC-CHAPEL HILL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 309</AddressLine1>
+            <City>CHAPEL HILL</City>
+            <State>NC</State>
+            <ZIPCode>27514</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MOUNT OLIVE COLLEGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>634 HENDERSON STREET</AddressLine1>
+            <City>MOUNT OLIVE</City>
+            <State>NC</State>
+            <ZIPCode>28365</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WAYNE COUNTRY DAY SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>480 COUNTRY DAY ROAD</AddressLine1>
+            <City>GOLDSBORO</City>
+            <State>NC</State>
+            <ZIPCode>27530</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNITED WAY OF GASTON CTY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 2597</AddressLine1>
+            <City>GASTONIA</City>
+            <State>NC</State>
+            <ZIPCode>28053</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DAVIDSON COLLEGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>BOX 7173</AddressLine1>
+            <City>DAVIDSON</City>
+            <State>NC</State>
+            <ZIPCode>28035</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FRIENDS OF LIBRARY-UNC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>CB 3900 239 DAVIS LIBRAR</AddressLine1>
+            <City>CHAPEL HILL</City>
+            <State>NC</State>
+            <ZIPCode>27514</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WAYNE CTY DEVEL ALLIANCE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1280</AddressLine1>
+            <City>GOLDSBORO</City>
+            <State>NC</State>
+            <ZIPCode>27533</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>4000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TUSCARORA COUNCIL OF BSA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1436</AddressLine1>
+            <City>GOLDSBORO</City>
+            <State>NC</State>
+            <ZIPCode>27533</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>850</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>OUR TOWNS HABITAT FOR HUM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>20310 NORTH MAIN STREET</AddressLine1>
+            <City>CORNELIUS</City>
+            <State>NC</State>
+            <ZIPCode>28031</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WAYNE PUBLIC LIBRARY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1001 E ASH STREET</AddressLine1>
+            <City>GOLDSBORO</City>
+            <State>NC</State>
+            <ZIPCode>27530</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PEACE COLLEGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>15 EAST PEACE STREET</AddressLine1>
+            <City>RALEIGH</City>
+            <State>NC</State>
+            <ZIPCode>27604</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CNTR FOR INT'L UNDERSTAND</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>100 EAST SIX FORKS ROAD</AddressLine1>
+            <City>RALEIGH</City>
+            <State>NC</State>
+            <ZIPCode>27609</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MT OLIVE AREA HIST SOC'Y</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 802</AddressLine1>
+            <City>MOUNT OLIVE</City>
+            <State>NC</State>
+            <ZIPCode>28365</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>INST FOR ARTS &amp; HUMANITIE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>CAMPUS BOX 3322</AddressLine1>
+            <City>CHAPEL HILL</City>
+            <State>NC</State>
+            <ZIPCode>27599</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ECU COLL FINE ARTSCOMM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>107 ERWIN BUILDING</AddressLine1>
+            <City>GREENVILLE</City>
+            <State>NC</State>
+            <ZIPCode>27858</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>3HC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2402 WAYNE MEMORIAL DRIVE</AddressLine1>
+            <City>GOLDSBORO</City>
+            <State>NC</State>
+            <ZIPCode>27534</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WAYLIN AREA FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>123 N CENTER STREET</AddressLine1>
+            <City>MOUNT OLIVE</City>
+            <State>NC</State>
+            <ZIPCode>28365</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>EXEMPT</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>12500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>60850</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>108</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>32531</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>550</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>33189</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>33189</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>MT OLIVE PICKLE COMPANY INC</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>PO BOX 609</AddressLine1>
+          <City>MT OLIVE</City>
+          <State>NC</State>
+          <ZIPCode>28365</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>500650</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc3">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>650</Amount>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc4">
+      <GainLossSaleOtherAsset>
+        <Name>6,132.032 UNITS AM CENTURY SMALL CAP</Name>
+        <DateAcquired>2008-01</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-10</DateSold>
+        <GrossSalesPrice>44457</GrossSalesPrice>
+        <Basis>53169</Basis>
+        <TotalNet>-8712</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>1,130.319 UNITS AM CENTURY SMALL CAP</Name>
+        <DateAcquired>2008-01</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-01</DateSold>
+        <GrossSalesPrice>8500</GrossSalesPrice>
+        <Basis>8139</Basis>
+        <TotalNet>361</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>391.686 UNITS COLUMBIA ACORN</Name>
+        <DateAcquired>2008-01</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-01</DateSold>
+        <GrossSalesPrice>9800</GrossSalesPrice>
+        <Basis>10152</Basis>
+        <TotalNet>-352</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>806.626 UNITS AM GROWTH FUND</Name>
+        <DateAcquired>2008-01</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-01</DateSold>
+        <GrossSalesPrice>22400</GrossSalesPrice>
+        <Basis>21620</Basis>
+        <TotalNet>780</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>9,075.938 UNITS AM GROWTH FUND</Name>
+        <DateAcquired>2008-01</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2009-10</DateSold>
+        <GrossSalesPrice>240694</GrossSalesPrice>
+        <Basis>228095</Basis>
+        <TotalNet>12599</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>702.754 T ROWE PRICE MID-CAP</Name>
+        <DateAcquired>2008-01</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-01</DateSold>
+        <GrossSalesPrice>14800</GrossSalesPrice>
+        <Basis>14448</Basis>
+        <TotalNet>352</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>437.063 UNITS ROYCE VALUE PLUS</Name>
+        <DateAcquired>2008-01</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-01</DateSold>
+        <GrossSalesPrice>5000</GrossSalesPrice>
+        <Basis>5741</Basis>
+        <TotalNet>-741</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>1,212.993 UNITS VANGUARD WINDSOR II</Name>
+        <DateAcquired>2008-01</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-01</DateSold>
+        <GrossSalesPrice>29500</GrossSalesPrice>
+        <Basis>32382</Basis>
+        <TotalNet>-2882</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>312.286 UNITS ARTTIO INT'L</Name>
+        <DateAcquired>2008-01</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-01</DateSold>
+        <GrossSalesPrice>9100</GrossSalesPrice>
+        <Basis>9955</Basis>
+        <TotalNet>-855</TotalNet>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsOtherSchedule2 documentId="RetDoc5">
+      <InvestmentsOther>
+        <CategoryOrItem>EVERGREEN MONEY MARKET FUND</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>31625</BookValue>
+        <EOYFMV>31625</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>MUTUAL FUNDS - FIXED TAXABLE</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>726281</BookValue>
+        <EOYFMV>732091</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>MUTUAL FUNDS - EQUITY</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>1015025</BookValue>
+        <EOYFMV>1014600</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherAssetsSchedule documentId="RetDoc6">
+      <OtherAssets>
+        <Description>ACCRUED INCOME</Description>
+        <BOYBookValue>300</BOYBookValue>
+        <EOYBookValue>259</EOYBookValue>
+        <EOYFMV>259</EOYFMV>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc7">
+      <OtherDecreases>
+        <Description>CHANGE IN ACCRUED INCOME</Description>
+        <Amount>41</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherIncreasesSchedule documentId="RetDoc8">
+      <OtherIncreases>
+        <Description>TO ADJUST SAVINGS &amp; TEMP CASH INVEST - BEGINNING</Description>
+        <Amount>866</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <TaxesSchedule documentId="RetDoc9">
+      <Taxes>
+        <Category>NC. SECRETARY OF STATE</Category>
+        <Amount>10</Amount>
+        <DisbursementsCharitablePrps>10</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

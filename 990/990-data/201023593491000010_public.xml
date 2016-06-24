@@ -1,0 +1,881 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-08-23T11:37:07-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>FINANCIAL ACCOUNTING &amp; ADVISORY SVC'S</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>PO BOX 805</AddressLine1>
+        <City>ATHENS</City>
+        <State>OH</State>
+        <ZIPCode>45701</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>310792046</EIN>
+      <Name>
+        <BusinessNameLine1>KACHELMACHER MEMORIAL INC</BusinessNameLine1>
+      </Name>
+      <NameControl>KACH</NameControl>
+      <Phone>7403853139</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 348 755 STATE ROUTE 664 N</AddressLine1>
+        <City>LOGAN</City>
+        <State>OH</State>
+        <ZIPCode>43138</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>WILLIAM KEYNES</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>7403853139</Phone>
+      <DateSigned>2010-08-20</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>PAT SMITH CPA</Name>
+      <Phone>7405943227</Phone>
+      <DatePrepared>2010-08-23</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="15">
+    <IRS990PF documentId="RetDoc2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>5362353</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>2685</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>70484</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>70484</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>70484</InterestOnSavingsAdjNetIncm>
+        <DividendsRevAndExpnss>121948</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>121948</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>121948</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss>232720</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>2264384</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>232720</CapitalGainNetIncmNetInvstIncm>
+        <NetSTCGAdjNetIncm>232054</NetSTCGAdjNetIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc13">68766</OtherIncomeRevAndExpnss>
+        <OtherIncomeAdjNetIncm>68766</OtherIncomeAdjNetIncm>
+        <TotalRevenueAndExpenses>496603</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>425152</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>493252</TotalAdjustedNetIncome>
+        <CompOfcrDirTrstRevAndExpnss>30000</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>30000</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstAdjNetIncm>30000</CompOfcrDirTrstAdjNetIncm>
+        <OthEmplSlrsWgsRevAndExpnss>91211</OthEmplSlrsWgsRevAndExpnss>
+        <OthEmplSlrsWgsNetInvstIncm>11709</OthEmplSlrsWgsNetInvstIncm>
+        <OthEmplSlrsWgsAdjNetIncm>11709</OthEmplSlrsWgsAdjNetIncm>
+        <OthEmplSlrsWgsDsbrsChrtblPrps>79502</OthEmplSlrsWgsDsbrsChrtblPrps>
+        <PensionEmplBnftRevAndExpnss>9040</PensionEmplBnftRevAndExpnss>
+        <PensionEmplBnftNetInvstIncm>1378</PensionEmplBnftNetInvstIncm>
+        <PensionEmplBnftAdjNetIncm>1378</PensionEmplBnftAdjNetIncm>
+        <PensionEmplBnftDsbrsChrtblPrps>7662</PensionEmplBnftDsbrsChrtblPrps>
+        <LegalFeesRevAndExpnss referenceDocumentId="RetDoc9">469</LegalFeesRevAndExpnss>
+        <LegalFeesNetInvstIncm>469</LegalFeesNetInvstIncm>
+        <LegalFeesAdjNetIncm>469</LegalFeesAdjNetIncm>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc3">13815</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>13815</AccountingFeesNetInvstIncm>
+        <AccountingFeesAdjNetIncm>13815</AccountingFeesAdjNetIncm>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc15">150000</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesDsbrsChrtblPrps>150000</OtherProfFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc16">8804</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>4853</TaxesNetInvstIncm>
+        <TaxesAdjNetIncm>4853</TaxesAdjNetIncm>
+        <TaxesDsbrsChrtblPrps>3951</TaxesDsbrsChrtblPrps>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId="RetDoc4">4861</DeprecAndDepletionRevAndExpnss>
+        <DeprecAndDepletionNetInvstIncm>4861</DeprecAndDepletionNetInvstIncm>
+        <DeprecAndDepletionAdjNetIncm>4861</DeprecAndDepletionAdjNetIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc11">80535</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>29145</OtherExpensesNetInvstIncm>
+        <OtherExpensesAdjNetIncm>29145</OtherExpensesAdjNetIncm>
+        <OtherExpensesDsbrsChrtblPrps>51390</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>388735</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>96230</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>96230</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>292505</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>0</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>388735</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>96230</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>96230</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>292505</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>107868</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>328922</NetInvestmentIncome>
+        <AdjustedNetIncome>397022</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>130</CashBOY>
+        <CashEOY>120</CashEOY>
+        <CashEOYFMV>120</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>202955</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>161730</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>161730</SavingsAndTempCashInvstEOYFMV>
+        <InventoriesForSaleOrUseBOY>12571</InventoriesForSaleOrUseBOY>
+        <InventoriesForSaleOrUseEOY>14384</InventoriesForSaleOrUseEOY>
+        <InventoriesForSaleOrUseEOYFMV>14384</InventoriesForSaleOrUseEOYFMV>
+        <PrepaidExpensesBOY>5005</PrepaidExpensesBOY>
+        <InvestmentsGovtObligBOY>365278</InvestmentsGovtObligBOY>
+        <InvestmentsGovtObligEOY>703574</InvestmentsGovtObligEOY>
+        <InvestmentsGovtObligEOYFMV>703574</InvestmentsGovtObligEOYFMV>
+        <InvestmentsCorpStockBOY>2630660</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc6">3023783</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>3023783</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>32375</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="RetDoc5">39125</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>39125</InvestmentsCorpBondsEOYFMV>
+        <InvestmentsOtherBOY>1838353</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc7">1315606</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>1315606</InvestmentsOtherEOYFMV>
+        <LandBuildingAndEquipmentBasis>206924</LandBuildingAndEquipmentBasis>
+        <AccumDeprecLandBldgAndEquip>120218</AccumDeprecLandBldgAndEquip>
+        <LandBuildingAndEquipmentBOY>91068</LandBuildingAndEquipmentBOY>
+        <LandBuildingAndEquipmentEOY referenceDocumentId="RetDoc8">86706</LandBuildingAndEquipmentEOY>
+        <LandBuildingAndEquipmentEOYFMV>86706</LandBuildingAndEquipmentEOYFMV>
+        <OtherAssetsBOY referenceDocumentId="RetDoc10">25779</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId="RetDoc10">17325</OtherAssetsEOY>
+        <OtherAssetsEOYFMV referenceDocumentId="RetDoc10">17325</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>5204174</TotalAssetsBOY>
+        <TotalAssetsEOY>5362353</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>5362353</TotalAssetsEOYFMV>
+        <AccountsPayableBOY>30575</AccountsPayableBOY>
+        <AccountsPayableEOY>27748</AccountsPayableEOY>
+        <OtherLiabilitiesEOY referenceDocumentId="RetDoc14">1931</OtherLiabilitiesEOY>
+        <TotalLiabilitiesBOY>30575</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>29679</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>5173599</UnrestrictedBOY>
+        <UnrestrictedEOY>5332674</UnrestrictedEOY>
+        <TotalNetAssetsBOY>5173599</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>5332674</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>5204174</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>5362353</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>5173599</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>107868</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="RetDoc12">51207</OtherIncreases>
+        <Subtotal>5332674</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>5332674</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>VARIOUS SECURITIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>2263718</GrossSalesPrice>
+          <CostOrOtherBasis>2031664</CostOrOtherBasis>
+          <GainOrLoss>232054</GainOrLoss>
+          <GainsMinusExcessOrLosses>232054</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>232720</CapitalGainNetIncome>
+        <NetShortTermCapitalGainOrLoss>232054</NetShortTermCapitalGainOrLoss>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>290135</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>5079765</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.057116</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>280226</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>6465905</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.043339</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>266589</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>6311970</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.042235</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>208998</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>5734964</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.036443</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>214064</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>5431207</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.039414</DistributionRatioYear5>
+        <TotalDistributionRatio>0.218547</TotalDistributionRatio>
+        <AverageDistributionRatio>0.043709</AverageDistributionRatio>
+        <NetNoncharitableAssets>5205535</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>227529</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>3289</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>230818</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>292505</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>3289</InvestmentIncomeExciseTax>
+        <Subtotal>3289</Subtotal>
+        <TaxBasedOnInvestmentIncome>3289</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>1360</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>1360</TotalCreditsAndPayments>
+        <TaxDue>1929</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>OH</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>true</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>WILLIAM KEYNES</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>7403853139</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>755 SR 664 N</AddressLine1>
+          <City>LOGAN</City>
+          <State>OH</State>
+          <ZIPCode>43138</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>WILLIAM W KEYNES</PersonName>
+          <USAddress>
+            <AddressLine1>1 WEST FRONT ST</AddressLine1>
+            <City>LOGAN</City>
+            <State>OH</State>
+            <ZIPCode>43138</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>6000</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>EARL D LATER</PersonName>
+          <USAddress>
+            <AddressLine1>26800 DARL ROAD</AddressLine1>
+            <City>ROCKBRIDGE</City>
+            <State>OH</State>
+            <ZIPCode>43149</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>6000</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CHARLES H KEYNES</PersonName>
+          <USAddress>
+            <AddressLine1>1 WEST FRONT ST</AddressLine1>
+            <City>LOGAN</City>
+            <State>OH</State>
+            <ZIPCode>43138</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>6000</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>J W HENNIGER</PersonName>
+          <USAddress>
+            <AddressLine1>13480 SR 664 S</AddressLine1>
+            <City>LOGAN</City>
+            <State>OH</State>
+            <ZIPCode>43138</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>6000</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>SCOTT KING</PersonName>
+          <USAddress>
+            <AddressLine1>67 E FRONT ST</AddressLine1>
+            <City>LOGAN</City>
+            <State>OH</State>
+            <ZIPCode>43138</ZIPCode>
+          </USAddress>
+          <Title>VICE-PRES</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>6000</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompensationOfHghstPaidCntrct>
+          <PersonName>KENNETH S LUTTER MD</PersonName>
+          <USAddress>
+            <AddressLine1>941 CHATHAM LANE</AddressLine1>
+            <City>COLUMBUS</City>
+            <State>OH</State>
+            <ZIPCode>43221</ZIPCode>
+          </USAddress>
+          <TypeOfService>PHYSICIAN</TypeOfService>
+          <Compensation>150000</Compensation>
+        </CompensationOfHghstPaidCntrct>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>2,290 PATIENTS WERE TREATED FOR THE CURE, PREVENTION AND RELIEF OF VARICOSE VEINS DURING THE FISCAL YEAR ENDED 6/30/10.</Description1>
+        <Expenses1>292505</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>4974376</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>182468</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>127963</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>5284807</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>5284807</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>79272</CashDeemedCharitable>
+        <NetNoncharitableAssets>5205535</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>260277</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <Sect4942j3j5FndtnAndFrgnOrg>X</Sect4942j3j5FndtnAndFrgnOrg>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>292505</ExpensesAndContributions>
+        <QualifyingDistributions>292505</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>3289</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>289216</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <PrivateOperatingFoundations>
+        <Section4942j3>X</Section4942j3>
+        <LessorAdjNetIncmMinInvstReturn>
+          <CurrentYear>260277</CurrentYear>
+          <Year1>213481</Year1>
+          <Year2>261628</Year2>
+          <Year3>263109</Year3>
+          <Total>998495</Total>
+        </LessorAdjNetIncmMinInvstReturn>
+        <Percent85OfLessor>
+          <CurrentYear>221235</CurrentYear>
+          <Year1>181459</Year1>
+          <Year2>222384</Year2>
+          <Year3>223643</Year3>
+          <Total>848721</Total>
+        </Percent85OfLessor>
+        <QualifyingDistributions>
+          <CurrentYear>292505</CurrentYear>
+          <Year1>291490</Year1>
+          <Year2>286556</Year2>
+          <Year3>270464</Year3>
+          <Total>1141015</Total>
+        </QualifyingDistributions>
+        <QlfyDistriMadeDirectly>
+          <CurrentYear>292505</CurrentYear>
+          <Year1>291490</Year1>
+          <Year2>286556</Year2>
+          <Year3>270464</Year3>
+          <Total>1141015</Total>
+        </QlfyDistriMadeDirectly>
+        <TwoThirdsMinInvstReturn>
+          <CurrentYear>173518</CurrentYear>
+          <Year1>169325</Year1>
+          <Year2>215530</Year2>
+          <Year3>210399</Year3>
+          <Total>768772</Total>
+        </TwoThirdsMinInvstReturn>
+      </PrivateOperatingFoundations>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <ProgramServiceRevenuePartVII>
+          <Description>CLINIC INCOME</Description>
+          <RelatedOrExemptFunctionIncome>68766</RelatedOrExemptFunctionIncome>
+        </ProgramServiceRevenuePartVII>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>70484</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>121948</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>35</ExclusionCode>
+          <ExclusionAmount>232054</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>666</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <OtherRevenueDescribed>
+          <Description>OTHER INCOME</Description>
+          <ExclusionCode>1</ExclusionCode>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>424486</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>69432</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>493918</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>1A</LineNumber>
+          <RelationshipStatement>INCOME GENERATED THROUGH THE TREATMENT OF VARICOSE VEINS</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc3">
+      <AccountingFees>
+        <Category>INDIRECT ACCOUNTING FEES</Category>
+        <Amount>13815</Amount>
+        <NetInvestmentIncome>13815</NetInvestmentIncome>
+        <AdjustedNetIncome>13815</AdjustedNetIncome>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="RetDoc4">
+      <Depreciation>
+        <DescriptionOfProperty>CLINIC BUILDING</DescriptionOfProperty>
+        <DateAcquired>1978-08-01</DateAcquired>
+        <CostOrOtherBasis>94907</CostOrOtherBasis>
+        <PriorYearsDepreciation>73546</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>40.0000</Life>
+        <CurrentYearExpense>2373</CurrentYearExpense>
+        <NetInvestmentIncome>4861</NetInvestmentIncome>
+        <AdjustedNetIncome>4861</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>HOSPITAL BED</DescriptionOfProperty>
+        <DateAcquired>1980-11-25</DateAcquired>
+        <CostOrOtherBasis>451</CostOrOtherBasis>
+        <PriorYearsDepreciation>451</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>5.0000</Life>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>TREATMENT TABLES</DescriptionOfProperty>
+        <DateAcquired>1978-06-30</DateAcquired>
+        <CostOrOtherBasis>800</CostOrOtherBasis>
+        <PriorYearsDepreciation>800</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>5.0000</Life>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>POWER EXAM TABLE</DescriptionOfProperty>
+        <DateAcquired>1978-06-30</DateAcquired>
+        <CostOrOtherBasis>1865</CostOrOtherBasis>
+        <PriorYearsDepreciation>1865</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>5.0000</Life>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>EQUIPMENT</DescriptionOfProperty>
+        <DateAcquired>1978-06-30</DateAcquired>
+        <CostOrOtherBasis>1820</CostOrOtherBasis>
+        <PriorYearsDepreciation>1820</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>5.0000</Life>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>AUTOCLAVE STERILYZER</DescriptionOfProperty>
+        <DateAcquired>1985-02-12</DateAcquired>
+        <CostOrOtherBasis>815</CostOrOtherBasis>
+        <PriorYearsDepreciation>815</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>5.0000</Life>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>ULTRASOUND MACHINE</DescriptionOfProperty>
+        <DateAcquired>1983-11-14</DateAcquired>
+        <CostOrOtherBasis>494</CostOrOtherBasis>
+        <PriorYearsDepreciation>494</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>5.0000</Life>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>2 RITTER BROWN TABLES</DescriptionOfProperty>
+        <DateAcquired>1988-09-09</DateAcquired>
+        <CostOrOtherBasis>990</CostOrOtherBasis>
+        <PriorYearsDepreciation>990</PriorYearsDepreciation>
+        <ComputationMethod>200DB</ComputationMethod>
+        <Life>5.0000</Life>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>LAND</DescriptionOfProperty>
+        <DateAcquired>1978-06-30</DateAcquired>
+        <CostOrOtherBasis>52431</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>LAND</DescriptionOfProperty>
+        <DateAcquired>1979-06-30</DateAcquired>
+        <CostOrOtherBasis>5153</CostOrOtherBasis>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>FURNITURE</DescriptionOfProperty>
+        <DateAcquired>1989-01-18</DateAcquired>
+        <CostOrOtherBasis>22243</CostOrOtherBasis>
+        <PriorYearsDepreciation>22243</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>10.0000</Life>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>THREE AIR CONDITIONERS</DescriptionOfProperty>
+        <DateAcquired>1999-05-18</DateAcquired>
+        <CostOrOtherBasis>11660</CostOrOtherBasis>
+        <PriorYearsDepreciation>7837</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>15.0000</Life>
+        <CurrentYearExpense>777</CurrentYearExpense>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>POSTAGE METER</DescriptionOfProperty>
+        <DateAcquired>2000-11-17</DateAcquired>
+        <CostOrOtherBasis>519</CostOrOtherBasis>
+        <PriorYearsDepreciation>519</PriorYearsDepreciation>
+        <ComputationMethod>200DB</ComputationMethod>
+        <Life>5.0000</Life>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>COMPUTER</DescriptionOfProperty>
+        <DateAcquired>2001-09-21</DateAcquired>
+        <CostOrOtherBasis>1430</CostOrOtherBasis>
+        <PriorYearsDepreciation>1430</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>5.0000</Life>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>'FRIDGE'- C HURST</DescriptionOfProperty>
+        <DateAcquired>2001-07-24</DateAcquired>
+        <CostOrOtherBasis>199</CostOrOtherBasis>
+        <PriorYearsDepreciation>199</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>5.0000</Life>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>ALUMINUM PICNIC TABLE</DescriptionOfProperty>
+        <DateAcquired>2002-03-15</DateAcquired>
+        <CostOrOtherBasis>453</CostOrOtherBasis>
+        <PriorYearsDepreciation>453</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>7.0000</Life>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>TWO COMPUTERS</DescriptionOfProperty>
+        <DateAcquired>2008-05-15</DateAcquired>
+        <CostOrOtherBasis>4881</CostOrOtherBasis>
+        <PriorYearsDepreciation>1139</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>5.0000</Life>
+        <CurrentYearExpense>976</CurrentYearExpense>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>SOFTWARE &amp; COMPUTER EQUIPMENT</DescriptionOfProperty>
+        <DateAcquired>2008-05-22</DateAcquired>
+        <CostOrOtherBasis>2768</CostOrOtherBasis>
+        <PriorYearsDepreciation>600</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>5.0000</Life>
+        <CurrentYearExpense>553</CurrentYearExpense>
+      </Depreciation>
+      <Depreciation>
+        <PriorYearsDepreciation>50348152832</PriorYearsDepreciation>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>SIDEWALKS</DescriptionOfProperty>
+        <DateAcquired>2008-07-31</DateAcquired>
+        <CostOrOtherBasis>2545</CostOrOtherBasis>
+        <PriorYearsDepreciation>156</PriorYearsDepreciation>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>15.0000</Life>
+        <CurrentYearExpense>169</CurrentYearExpense>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>SIGN</DescriptionOfProperty>
+        <DateAcquired>2010-03-31</DateAcquired>
+        <CostOrOtherBasis>500</CostOrOtherBasis>
+        <ComputationMethod>S/L</ComputationMethod>
+        <Life>10.0000</Life>
+        <CurrentYearExpense>13</CurrentYearExpense>
+      </Depreciation>
+    </DepreciationSchedule>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc5">
+      <InvestmentsCorpBonds>
+        <NameOfBond>CORPORATE BONDS</NameOfBond>
+        <EOYBookValue>39125</EOYBookValue>
+        <EOYFMV>39125</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc6">
+      <InvestmentsCorpStock>
+        <NameOfStock>COMMON STOCKS</NameOfStock>
+        <EOYBookValue>3023655</EOYBookValue>
+        <EOYFMV>3023655</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>PREFERRED STOCKS</NameOfStock>
+        <EOYBookValue>128</EOYBookValue>
+        <EOYFMV>128</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc7">
+      <InvestmentsOther>
+        <CategoryOrItem>MUTUAL FUNDS</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>423661</BookValue>
+        <EOYFMV>423661</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>CDS</CategoryOrItem>
+        <ListedAtCostOrFMV>FMV</ListedAtCostOrFMV>
+        <BookValue>891945</BookValue>
+        <EOYFMV>891945</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <LandEtcSchedule2 documentId="RetDoc8">
+      <LandEtc>
+        <CategoryOrItem>LAND</CategoryOrItem>
+        <CostOrOtherBasis>149340</CostOrOtherBasis>
+        <AccumulatedDepreciation>120218</AccumulatedDepreciation>
+        <BookValue>29122</BookValue>
+        <EOYFMV>86706</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>MEDICAL BUILDING</CategoryOrItem>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>MEDICAL EQUIPMENT</CategoryOrItem>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>OFFICE EQUIPMENT</CategoryOrItem>
+      </LandEtc>
+      <LandEtc>
+        <CostOrOtherBasis>57584</CostOrOtherBasis>
+        <BookValue>57584</BookValue>
+      </LandEtc>
+    </LandEtcSchedule2>
+    <LegalFeesSchedule documentId="RetDoc9">
+      <LegalFees>
+        <Category>INDIRECT LEGAL FEES</Category>
+        <Amount>469</Amount>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="RetDoc10">
+      <OtherAssets>
+        <Description>BWC DEPOSIT</Description>
+        <BOYBookValue>105</BOYBookValue>
+        <EOYBookValue>105</EOYBookValue>
+        <EOYFMV>105</EOYFMV>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>INTEREST RECEIVABLE</Description>
+        <BOYBookValue>25674</BOYBookValue>
+        <EOYBookValue>17220</EOYBookValue>
+        <EOYFMV>17220</EOYFMV>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>ROUNDING</Description>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="RetDoc11">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK CHARGES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BOX RENTAL</Description>
+        <RevenueAndExpensesPerBooks>110</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>110</NetInvestmentIncome>
+        <AdjustedNetIncome>110</AdjustedNetIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>CONTRACT LABOR</Description>
+        <RevenueAndExpensesPerBooks>1539</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>1539</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>EQUIPMENT</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>INSURANCE</Description>
+        <RevenueAndExpensesPerBooks>2018</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>202</NetInvestmentIncome>
+        <AdjustedNetIncome>202</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>1816</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>INTERNET</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>INVESTMENT FEES</Description>
+        <RevenueAndExpensesPerBooks>21656</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>21656</NetInvestmentIncome>
+        <AdjustedNetIncome>21656</AdjustedNetIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>LAWN SERVICE</Description>
+        <RevenueAndExpensesPerBooks>12128</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>1213</NetInvestmentIncome>
+        <AdjustedNetIncome>1213</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>10915</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MEDICAL SUPPLIES</Description>
+        <RevenueAndExpensesPerBooks>19898</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>19898</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MEMBERSHIP &amp; DUES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MISC</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OFFICE CLEANING AND MAINTENAN</Description>
+        <RevenueAndExpensesPerBooks>3578</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>358</NetInvestmentIncome>
+        <AdjustedNetIncome>358</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>3220</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OFFICE EXPENSE</Description>
+        <RevenueAndExpensesPerBooks>4097</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>2048</NetInvestmentIncome>
+        <AdjustedNetIncome>2048</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>2049</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OHIO REGISTRATION FEES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PERIODICALS</Description>
+        <RevenueAndExpensesPerBooks>154</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>154</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>POSTAGE METER RENTAL</Description>
+        <RevenueAndExpensesPerBooks>940</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>470</NetInvestmentIncome>
+        <AdjustedNetIncome>470</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>470</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>REPAIRS AND MAINTENANCE</Description>
+        <RevenueAndExpensesPerBooks>5400</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>540</NetInvestmentIncome>
+        <AdjustedNetIncome>540</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>4860</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>ROUNDING</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>SNOW REMOVAL</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>TELEPHONE</Description>
+        <RevenueAndExpensesPerBooks>4277</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>2139</NetInvestmentIncome>
+        <AdjustedNetIncome>2139</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>2138</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>UNIFORMS &amp; LAUNDRY</Description>
+        <RevenueAndExpensesPerBooks>650</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>650</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>UTILITIES</Description>
+        <RevenueAndExpensesPerBooks>4090</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>409</NetInvestmentIncome>
+        <AdjustedNetIncome>409</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>3681</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc13">
+      <OtherIncome>
+        <Description>CLINIC INCOME</Description>
+        <RevenueAndExpensesPerBooks>68766</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>68766</AdjustedNetIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="RetDoc12">
+      <OtherIncreases>
+        <Description>UNREALIZED APPRECIATION OF INVESTMENTS</Description>
+        <Amount>51207</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <OtherLiabilitiesSchedule documentId="RetDoc14">
+      <OtherLiabilities>
+        <Description>ACCRUED FEDERAL EXCISE TAX</Description>
+        <EOYBookValue>1931</EOYBookValue>
+      </OtherLiabilities>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc15">
+      <OtherProfessionalFees>
+        <Category>DOCTOR FEES</Category>
+        <Amount>150000</Amount>
+        <DisbursementsCharitablePrps>150000</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc16">
+      <Taxes>
+        <Category>REAL ESTATE TAX</Category>
+        <Amount>4315</Amount>
+        <NetInvestmentIncome>432</NetInvestmentIncome>
+        <AdjustedNetIncome>432</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>3883</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>EXCISE TAX</Category>
+        <Amount>3291</Amount>
+        <NetInvestmentIncome>3291</NetInvestmentIncome>
+        <AdjustedNetIncome>3291</AdjustedNetIncome>
+      </Taxes>
+      <Taxes>
+        <Category>FOREIGN TAX</Category>
+        <Amount>1130</Amount>
+        <NetInvestmentIncome>1130</NetInvestmentIncome>
+        <AdjustedNetIncome>1130</AdjustedNetIncome>
+      </Taxes>
+      <Taxes>
+        <Category>LICENSES</Category>
+        <Amount>68</Amount>
+        <DisbursementsCharitablePrps>68</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

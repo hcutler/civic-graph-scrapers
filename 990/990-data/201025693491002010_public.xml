@@ -1,0 +1,652 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.3">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2010-09-13T09:37:24-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-05-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>DETRING &amp; NELSON PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>12 W 1ST ST</AddressLine1>
+        <City>FARMINGTON</City>
+        <State>MO</State>
+        <ZIPCode>636400152</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-06-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>431621952</EIN>
+      <Name>
+        <BusinessNameLine1>COMMUNITY FOUNDATION FOR MEDICAL</BusinessNameLine1>
+        <BusinessNameLine2>CARE INC</BusinessNameLine2>
+      </Name>
+      <NameControl>COMM</NameControl>
+      <Phone>5737566451</Phone>
+      <USAddress>
+        <AddressLine1>1101 WEST LIBERTY</AddressLine1>
+        <City>FARMINGTON</City>
+        <State>MO</State>
+        <ZIPCode>63640</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>THOMAS P KARL</Name>
+      <Title>TREASURER</Title>
+      <Phone>5737566451</Phone>
+      <DateSigned>2010-06-28</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>DAVID A OLIVER</Name>
+      <Phone>5737566427</Phone>
+      <DatePrepared>2010-08-02</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="9">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>1113284</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>4895</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>4895</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>4895</InterestOnSavingsAdjNetIncm>
+        <DividendsRevAndExpnss>26051</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>26051</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>26051</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="RetDoc3">44505</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>284576</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>148</CapitalGainNetIncmNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc7">336</OtherIncomeRevAndExpnss>
+        <OtherIncomeAdjNetIncm>336</OtherIncomeAdjNetIncm>
+        <TotalRevenueAndExpenses>75787</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>31094</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>31282</TotalAdjustedNetIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">380</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>380</AccountingFeesNetInvstIncm>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc8">9262</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>9262</OtherProfFeesNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc9">606</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>606</TaxesNetInvstIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc6">216</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>216</OtherExpensesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>10464</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>10464</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>16660</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>16660</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>27124</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>10464</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>16660</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>48663</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>20630</NetInvestmentIncome>
+        <AdjustedNetIncome>31282</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>40509</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>23495</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>23495</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsGovtObligBOY>386729</InvestmentsGovtObligBOY>
+        <InvestmentsGovtObligEOY referenceDocumentId="RetDoc5">413488</InvestmentsGovtObligEOY>
+        <InvestmentsGovtObligEOYFMV>422021</InvestmentsGovtObligEOYFMV>
+        <InvestmentsCorpStockBOY>513808</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc4">552726</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>667768</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>941046</TotalAssetsBOY>
+        <TotalAssetsEOY>989709</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>1113284</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>941046</UnrestrictedBOY>
+        <UnrestrictedEOY>989709</UnrestrictedEOY>
+        <TotalNetAssetsBOY>941046</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>989709</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>941046</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>989709</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>941046</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>48663</ExcessOfRevenueOverExpenses>
+        <Subtotal>989709</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>989709</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainNetIncome>148</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>45140</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>1016778</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.044395</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>68661</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>1346488</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.050993</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>75000</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>1394017</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.053801</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>55000</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>1281332</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.042924</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>54000</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>1204092</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.044847</DistributionRatioYear5>
+        <TotalDistributionRatio>0.236960</TotalDistributionRatio>
+        <AverageDistributionRatio>0.047392</AverageDistributionRatio>
+        <NetNoncharitableAssets>1074407</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>50918</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>206</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>51124</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>16660</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>413</InvestmentIncomeExciseTax>
+        <Subtotal>413</Subtotal>
+        <TaxBasedOnInvestmentIncome>413</TaxBasedOnInvestmentIncome>
+        <TaxDue>413</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>MO</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>THOMAS P KARL</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>5737566451</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>1101 WEST LIBERTY ST</AddressLine1>
+          <City>FARMINGTON</City>
+          <State>MO</State>
+          <ZIPCode>63640</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>true</UndistributedIncomePriorYears>
+        <UndistributedIncomePriorYear1>2008</UndistributedIncomePriorYear1>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>WILLIAN D BLAIR</PersonName>
+          <USAddress>
+            <AddressLine1>538 SEQUOIA CT</AddressLine1>
+            <City>FARMINGTON</City>
+            <State>MO</State>
+            <ZIPCode>63640</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>D PAUL BROCKMILLER</PersonName>
+          <USAddress>
+            <AddressLine1>826 CIMARON CIRCLE</AddressLine1>
+            <City>FARMINGTON</City>
+            <State>MO</State>
+            <ZIPCode>63640</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DAVID L COLSON</PersonName>
+          <USAddress>
+            <AddressLine1>321 W COLUMBIA</AddressLine1>
+            <City>FARMINGTON</City>
+            <State>MO</State>
+            <ZIPCode>63640</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>WILLIAM B GIESSING</PersonName>
+          <USAddress>
+            <AddressLine1>317 N JEFFERSON</AddressLine1>
+            <City>FARMINGTON</City>
+            <State>MO</State>
+            <ZIPCode>63640</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>THOMAS P KARL</PersonName>
+          <USAddress>
+            <AddressLine1>501 SMITH ST</AddressLine1>
+            <City>FARMINGTON</City>
+            <State>MO</State>
+            <ZIPCode>63640</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>STUART LANDRUM JR</PersonName>
+          <USAddress>
+            <AddressLine1>701 GRAND CANYON DR</AddressLine1>
+            <City>FARMINGTON</City>
+            <State>MO</State>
+            <ZIPCode>63640</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DAVID A OLIVER</PersonName>
+          <USAddress>
+            <AddressLine1>1018 STONE CREEK RD</AddressLine1>
+            <City>FARMINGTON</City>
+            <State>MO</State>
+            <ZIPCode>63640</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>GEORGE A OLIVER</PersonName>
+          <USAddress>
+            <AddressLine1>305 BUZZRD ROCK RD</AddressLine1>
+            <City>FARMINGTON</City>
+            <State>MO</State>
+            <ZIPCode>63640</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>RONALD STEVENS</PersonName>
+          <USAddress>
+            <AddressLine1>520 SUNVALLEY</AddressLine1>
+            <City>FARMINGTON</City>
+            <State>MO</State>
+            <ZIPCode>63640</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>RICK CONKLIN</PersonName>
+          <USAddress>
+            <AddressLine1>4753 QUAIL RUN RD</AddressLine1>
+            <City>FARMINGTON</City>
+            <State>MO</State>
+            <ZIPCode>63640</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>1052499</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>38270</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>1090769</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>1090769</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>16362</CashDeemedCharitable>
+        <NetNoncharitableAssets>1074407</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>53720</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>53720</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>413</TaxBasedOnInvestmentIncome>
+        <TotalTax>413</TotalTax>
+        <DistributableAmountBeforeAdj>53307</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>53307</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>53307</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>16660</ExpensesAndContributions>
+        <QualifyingDistributions>16660</QualifyingDistributions>
+        <AdjQualifyingDistributions>16660</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>53307</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>21466</UndistributedIncomePriorYear>
+        <QualifyingDistributions>16660</QualifyingDistributions>
+        <AppliedToYear1>16660</AppliedToYear1>
+        <TaxableAmount2>4806</TaxableAmount2>
+        <UndistributedIncomeCY>53307</UndistributedIncomeCY>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>COMMUNITY FOUNDATION FOR MEDICAL CA</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>1101 W LIBERTY ST</AddressLine1>
+            <City>FARMINGTON</City>
+            <State>MO</State>
+            <ZIPCode>63640</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>5737566451</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>LETTER FORM AND FOR WHAT PURPOSE.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>NONE</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PARKLAND MEALS ON WHEELS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1101 W LIBERTY</AddressLine1>
+            <City>FARMINGTON</City>
+            <State>MO</State>
+            <ZIPCode>63640</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>MEALS TO ELDERLY &amp; DISABLED</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MINERAL AREA COLLEGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>MAC CAMPUS</AddressLine1>
+            <City>PARK HILLS</City>
+            <State>MO</State>
+            <ZIPCode>63601</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>NURSING SCHOLARSHIPS</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FARMINGTON SENIOR CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>607 WALLACE ROAD</AddressLine1>
+            <City>FARMINGTON</City>
+            <State>MO</State>
+            <ZIPCode>63640</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>LIFECLINIC BLOOD PREASSURE COMPUTER</PurposeOfGrantOrContribution>
+          <Amount>5245</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MINERAL AREA COLLEGE FOUN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>MAC CAMPUS</AddressLine1>
+            <City>PARK HILLS</City>
+            <State>MO</State>
+            <ZIPCode>63601</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>SIM-MAN MANIKIN - NURSING DEPT</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FARMINGTON FIRE DEPARTMEN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>110 W COLUMBIA</AddressLine1>
+            <City>FARMINGTON</City>
+            <State>MO</State>
+            <ZIPCode>63640</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>RESCUE ANNE TRAINING MANIKIN</PurposeOfGrantOrContribution>
+          <Amount>1415</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>16660</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <RelatedOrExemptFunctionIncome>4895</RelatedOrExemptFunctionIncome>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <RelatedOrExemptFunctionIncome>26051</RelatedOrExemptFunctionIncome>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>44505</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <OtherRevenueDescribed>
+          <Description>SEC LITIGATION PROCEEDS</Description>
+          <RelatedOrExemptFunctionIncome>336</RelatedOrExemptFunctionIncome>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>75787</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>75787</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>3</LineNumber>
+          <RelationshipStatement>INVESTMENT INCOME IS USED FOR VARIOUS MEDICAL CHARITIES,</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>4</LineNumber>
+          <RelationshipStatement>SAME</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>8</LineNumber>
+          <RelationshipStatement>SAME</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>11B</LineNumber>
+          <RelationshipStatement>SAME</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>INDIRECT ACCOUNTING FEES</Category>
+        <Amount>380</Amount>
+        <NetInvestmentIncome>380</NetInvestmentIncome>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc3">
+      <GainLossSaleOtherAsset>
+        <Name>75 SHS MCDONALDS</Name>
+        <DateAcquired>2009-04</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-04</DateSold>
+        <GrossSalesPrice>5140</GrossSalesPrice>
+        <Basis>4025</Basis>
+        <TotalNet>1115</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>200SHS PIONEER NAT RES CO</Name>
+        <DateAcquired>2009-04</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-04</DateSold>
+        <GrossSalesPrice>11910</GrossSalesPrice>
+        <Basis>4630</Basis>
+        <TotalNet>7280</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>FIRST AMERICAN CORE BOND</Name>
+        <DateAcquired>1998-03</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-04</DateSold>
+        <GrossSalesPrice>150000</GrossSalesPrice>
+        <Basis>149710</Basis>
+        <TotalNet>290</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>300SHS ALLERGAN INC</Name>
+        <DateAcquired>1998-03</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-04</DateSold>
+        <GrossSalesPrice>18934</GrossSalesPrice>
+        <Basis>2701</Basis>
+        <TotalNet>16233</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>200SHS PEPSICO INC</Name>
+        <DateAcquired>1996-09</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-04</DateSold>
+        <GrossSalesPrice>13130</GrossSalesPrice>
+        <Basis>5278</Basis>
+        <TotalNet>7852</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>287SHS PROCTOR &amp; GAMBLE</Name>
+        <DateAcquired>2000-02</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-04</DateSold>
+        <GrossSalesPrice>17920</GrossSalesPrice>
+        <Basis>14074</Basis>
+        <TotalNet>3846</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>1400SHS ROYCE PREMIER FUND</Name>
+        <DateAcquired>1999-06</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-04</DateSold>
+        <GrossSalesPrice>25000</GrossSalesPrice>
+        <Basis>12052</Basis>
+        <TotalNet>12948</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>1965SHS T ROWE PRICE INTL GROWTH</Name>
+        <DateAcquired>2005-10</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-04</DateSold>
+        <GrossSalesPrice>25000</GrossSalesPrice>
+        <Basis>26512</Basis>
+        <TotalNet>-1512</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>750SHS TECH SELECT SEC SPDR</Name>
+        <DateAcquired>2007-11</DateAcquired>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <DateSold>2010-04</DateSold>
+        <GrossSalesPrice>17394</GrossSalesPrice>
+        <Basis>21089</Basis>
+        <TotalNet>-3695</TotalNet>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpStockSchedule documentId="RetDoc4">
+      <InvestmentsCorpStock>
+        <NameOfStock>VARIOUS CORPORATE STOCKS</NameOfStock>
+        <EOYBookValue>552726</EOYBookValue>
+        <EOYFMV>667768</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="RetDoc5">
+      <USGovtSecuritiesEOYBookValue>413488</USGovtSecuritiesEOYBookValue>
+      <USGovtSecuritiesEOYFMV>422021</USGovtSecuritiesEOYFMV>
+    </InvestmentsGovtObligationsSch>
+    <OtherExpensesSchedule documentId="RetDoc6">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PUBLIC NOTICE PUBLISHING FEE</Description>
+        <RevenueAndExpensesPerBooks>31</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>31</NetInvestmentIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>INSURANCE</Description>
+        <RevenueAndExpensesPerBooks>170</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>170</NetInvestmentIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>STATE ANNUAL REGISTRATION</Description>
+        <RevenueAndExpensesPerBooks>15</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>15</NetInvestmentIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc7">
+      <OtherIncome>
+        <Description>SEC LITIGATION PROCEEDS</Description>
+        <RevenueAndExpensesPerBooks>336</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>336</AdjustedNetIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="RetDoc8">
+      <OtherProfessionalFees>
+        <Category>INVESTMENT MANAGER/BROKER</Category>
+        <Amount>9262</Amount>
+        <NetInvestmentIncome>9262</NetInvestmentIncome>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc9">
+      <Taxes>
+        <Category>FEDERAL EXCISE TAX</Category>
+        <Amount>606</Amount>
+        <NetInvestmentIncome>606</NetInvestmentIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>
